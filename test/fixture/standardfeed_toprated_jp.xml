@@ -1,0 +1,1989 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:gml="http://www.opengis.net/gml" xmlns:yt="http://gdata.youtube.com/schemas/2007" xmlns:georss="http://www.georss.org/georss" gd:etag="W/&quot;Dk4HRH47eCp7ImA9WxFVFkk.&quot;">
+  <id>tag:youtube.com,2008:standardfeed:jp:top_rated</id>
+  <updated>2010-06-15T16:35:35.000-07:00</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+  <title>Top Rated</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com/browse?s=tr"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated?v=2"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/batch?v=2"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated?start-index=1&amp;max-results=25&amp;v=2"/>
+  <link rel="service" type="application/atomsvc+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated?alt=atom-service&amp;v=2"/>
+  <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated?start-index=26&amp;max-results=25&amp;v=2"/>
+  <author>
+    <name>YouTube</name>
+    <uri>http://www.youtube.com/</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>97</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <entry gd:etag="W/&quot;CE8CSH47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:QAue4hnH8-A</id>
+    <published>2010-06-09T00:43:16.000Z</published>
+    <updated>2010-06-16T21:14:29.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Games" label="Gaming"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="stopmotion"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="game"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mario"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="SuperMario"/>
+    <title>【Mario】paper stop motion  / 【マリオ】付箋でストップモーション</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/QAue4hnH8-A?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=QAue4hnH8-A&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/QAue4hnH8-A/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/QAue4hnH8-A/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=QAue4hnH8-A"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/QAue4hnH8-A?v=2"/>
+    <author>
+      <name>takotuboooo</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/takotuboooo</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/QAue4hnH8-A/comments?v=2" countHint="672"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Gaming" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Games</media:category>
+      <media:content url="http://www.youtube.com/v/QAue4hnH8-A?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="85" yt:format="5"/>
+      <media:content url="rtsp://v6.cache8.c.youtube.com/CiQLENy73wIaGwng88cZ4p4LQBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="85" yt:format="1"/>
+      <media:content url="rtsp://v4.cache4.c.youtube.com/CiQLENy73wIaGwng88cZ4p4LQBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="85" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">takotuboooo</media:credit>
+      <media:description type="plain">ニコニコ動画から転載
+from NICONICO  Douga
+http://www.nicovideo.jp/watch/sm10997800</media:description>
+      <media:keywords>stopmotion, game, Mario, SuperMario</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=QAue4hnH8-A&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/QAue4hnH8-A/default.jpg" height="90" width="120" time="00:00:42.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/QAue4hnH8-A/2.jpg" height="90" width="120" time="00:00:42.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/QAue4hnH8-A/1.jpg" height="90" width="120" time="00:00:21.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/QAue4hnH8-A/3.jpg" height="90" width="120" time="00:01:03.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/QAue4hnH8-A/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">【Mario】paper stop motion  / 【マリオ】付箋でストップモーション</media:title>
+      <yt:duration seconds="85"/>
+      <yt:uploaded>2010-06-09T00:43:16.000Z</yt:uploaded>
+      <yt:videoid>QAue4hnH8-A</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9752755" max="5" min="1" numRaters="5622" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="7085" viewCount="830236"/>
+    <yt:rating numDislikes="35" numLikes="5587"/>
+  </entry>
+  <entry gd:etag="W/&quot;AkYHRX47eCp7ImA9WxFVF00.&quot;">
+    <id>tag:youtube.com,2008:video:BQ9YtJC-Kd8</id>
+    <published>2009-12-07T14:01:16.000Z</published>
+    <updated>2010-06-16T17:08:54.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Film" label="Film &amp; Animation"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="the"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="TV"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="show"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="椙本晃佑"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sugimotokousuke"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="すぎもとこうすけ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="テレビ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="CGアニメ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="DigiCon"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="自主制作アニメ"/>
+    <title>[HD]自主制作アニメーション『the TV show』</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/BQ9YtJC-Kd8?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=BQ9YtJC-Kd8&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/BQ9YtJC-Kd8/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/BQ9YtJC-Kd8/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=BQ9YtJC-Kd8"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/BQ9YtJC-Kd8?v=2"/>
+    <author>
+      <name>SugimotoKousuke</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/sugimotokousuke</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/BQ9YtJC-Kd8/comments?v=2" countHint="1296"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Film &amp; Animation" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Film</media:category>
+      <media:content url="http://www.youtube.com/v/BQ9YtJC-Kd8?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="208" yt:format="5"/>
+      <media:content url="rtsp://v1.cache6.c.youtube.com/CiQLENy73wIaGwnfKb6QtFgPBRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="208" yt:format="1"/>
+      <media:content url="rtsp://v2.cache8.c.youtube.com/CiQLENy73wIaGwnfKb6QtFgPBRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="208" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">SugimotoKousuke</media:credit>
+      <media:description type="plain">[映像] 椙本晃佑 [音楽] マナベタカユキ 2009年に自主制作したアニメーション・ミュージックビデオです。 [Director] SUGIMOTO Kousuke [Music] MANABE Takayuki This is an animation music video that produced independently in 2009.</media:description>
+      <media:keywords>the, TV, show, 椙本晃佑, sugimotokousuke, すぎもとこうすけ, テレビ, CGアニメ, DigiCon, 自主制作アニメ</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=BQ9YtJC-Kd8&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/BQ9YtJC-Kd8/default.jpg" height="90" width="120" time="00:01:44"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/BQ9YtJC-Kd8/2.jpg" height="90" width="120" time="00:01:44"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/BQ9YtJC-Kd8/1.jpg" height="90" width="120" time="00:00:52"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/BQ9YtJC-Kd8/3.jpg" height="90" width="120" time="00:02:36"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/BQ9YtJC-Kd8/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">[HD]自主制作アニメーション『the TV show』</media:title>
+      <yt:duration seconds="208"/>
+      <yt:uploaded>2009-12-07T14:01:16.000Z</yt:uploaded>
+      <yt:videoid>BQ9YtJC-Kd8</yt:videoid>
+    </media:group>
+    <gd:rating average="4.960854" max="5" min="1" numRaters="7025" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="19986" viewCount="680824"/>
+    <yt:rating numDislikes="69" numLikes="6956"/>
+  </entry>
+  <entry gd:etag="W/&quot;AkMFSX47eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:d81qFaoe010</id>
+    <published>2008-10-17T05:20:14.000Z</published>
+    <updated>2010-06-16T20:00:18.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Animals" label="Pets &amp; Animals"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cockatiel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="FF"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Final"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Fantasy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bird"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="chocobo"/>
+    <title>Cockatiel sings Theme of Chocobo(Final Fantasy)</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/d81qFaoe010?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=d81qFaoe010&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/d81qFaoe010/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/d81qFaoe010/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=d81qFaoe010"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/d81qFaoe010?v=2"/>
+    <author>
+      <name>blackwhite810</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/blackwhite810</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/d81qFaoe010/comments?v=2" countHint="4468"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Pets &amp; Animals" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Animals</media:category>
+      <media:content url="http://www.youtube.com/v/d81qFaoe010?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="223" yt:format="5"/>
+      <media:content url="rtsp://v8.cache8.c.youtube.com/CiQLENy73wIaGwld0x6qFWrNdxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="223" yt:format="1"/>
+      <media:content url="rtsp://v3.cache8.c.youtube.com/CiQLENy73wIaGwld0x6qFWrNdxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="223" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">blackwhite810</media:credit>
+      <media:description type="plain">My cockatiel named Kame-chan sings theme of Chocobo</media:description>
+      <media:keywords>cockatiel, FF, Final, Fantasy, bird, chocobo</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=d81qFaoe010&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/d81qFaoe010/default.jpg" height="90" width="120" time="00:01:51.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/d81qFaoe010/2.jpg" height="90" width="120" time="00:01:51.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/d81qFaoe010/1.jpg" height="90" width="120" time="00:00:55.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/d81qFaoe010/3.jpg" height="90" width="120" time="00:02:47.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/d81qFaoe010/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Cockatiel sings Theme of Chocobo(Final Fantasy)</media:title>
+      <yt:duration seconds="223"/>
+      <yt:uploaded>2008-10-17T05:20:14.000Z</yt:uploaded>
+      <yt:videoid>d81qFaoe010</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9588137" max="5" min="1" numRaters="9372" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="15357" viewCount="1093052"/>
+    <yt:rating numDislikes="96" numLikes="9276"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEEGR347eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:Zt2h09TrN3A</id>
+    <published>2010-05-25T10:39:37.000Z</published>
+    <updated>2010-06-16T21:10:26.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yugioh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="abridged"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="series"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="littlekuriboh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spoof"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anime"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="season"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="three"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="parody"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="noah"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kaiba"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kirbopher"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="teamfourstar"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="4kids"/>
+    <title>Episode 47 - Beyond The Fourth Wall</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/Zt2h09TrN3A?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Zt2h09TrN3A&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Zt2h09TrN3A/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Zt2h09TrN3A/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=Zt2h09TrN3A"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/Zt2h09TrN3A?v=2"/>
+    <author>
+      <name>CardGamesFTW</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cardgamesftw</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Zt2h09TrN3A/comments?v=2" countHint="5287"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/Zt2h09TrN3A?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="599" yt:format="5"/>
+      <media:content url="rtsp://v3.cache8.c.youtube.com/CiQLENy73wIaGwlwN-vU06HdZhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="599" yt:format="1"/>
+      <media:content url="rtsp://v5.cache2.c.youtube.com/CiQLENy73wIaGwlwN-vU06HdZhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="599" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">CardGamesFTW</media:credit>
+      <media:description type="plain">In memory of Maddie Blaustein.
+
+Also Starring:
+
+Kirbopher as Noah
+MasakoX as Nesbitt
+KaiserNeko as Johnson
+Lanipator as Lector
+Takahata101 as Crump
+HBI2K as Gansley
+ShadyVox as Jaden</media:description>
+      <media:keywords>yugioh, abridged, series, littlekuriboh, dub, spoof, anime, season, three, parody, noah, kaiba, kirbopher, teamfourstar, 4kids</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Zt2h09TrN3A&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Zt2h09TrN3A/default.jpg" height="90" width="120" time="00:04:59.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Zt2h09TrN3A/2.jpg" height="90" width="120" time="00:04:59.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Zt2h09TrN3A/1.jpg" height="90" width="120" time="00:02:29.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Zt2h09TrN3A/3.jpg" height="90" width="120" time="00:07:29.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Zt2h09TrN3A/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Episode 47 - Beyond The Fourth Wall</media:title>
+      <yt:duration seconds="599"/>
+      <yt:uploaded>2010-05-25T10:39:37.000Z</yt:uploaded>
+      <yt:videoid>Zt2h09TrN3A</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9560122" max="5" min="1" numRaters="10412" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="4426" viewCount="368512"/>
+    <yt:rating numDislikes="114" numLikes="10298"/>
+  </entry>
+  <entry gd:etag="W/&quot;DUUNRH47eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:pCLIg6WT7zM</id>
+    <published>2006-07-28T14:01:18.000Z</published>
+    <updated>2010-06-16T19:41:35.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Animals" label="Pets &amp; Animals"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Cockatiel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Final"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Fantasy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bird"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sing"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="game"/>
+    <title>Cockatiel sings Victorys Fanfare(Final Fantasy)</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/pCLIg6WT7zM?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=pCLIg6WT7zM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/pCLIg6WT7zM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/pCLIg6WT7zM/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=pCLIg6WT7zM"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/pCLIg6WT7zM?v=2"/>
+    <author>
+      <name>blackwhite810</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/blackwhite810</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/pCLIg6WT7zM/comments?v=2" countHint="3372"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Pets &amp; Animals" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Animals</media:category>
+      <media:content url="http://www.youtube.com/v/pCLIg6WT7zM?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="4" yt:format="5"/>
+      <media:content url="rtsp://v4.cache3.c.youtube.com/CiQLENy73wIaGwkz75Olg8gipBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="4" yt:format="1"/>
+      <media:content url="rtsp://v5.cache4.c.youtube.com/CiQLENy73wIaGwkz75Olg8gipBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="4" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">blackwhite810</media:credit>
+      <media:description type="plain">My cockatiel named Kame-chan sings Victorys Fanfare(Final Fantasy)</media:description>
+      <media:keywords>Cockatiel, Final, Fantasy, bird, sing, game</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=pCLIg6WT7zM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pCLIg6WT7zM/default.jpg" height="90" width="120" time="00:00:02"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pCLIg6WT7zM/2.jpg" height="90" width="120" time="00:00:02"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pCLIg6WT7zM/1.jpg" height="90" width="120" time="00:00:01"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pCLIg6WT7zM/3.jpg" height="90" width="120" time="00:00:03"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pCLIg6WT7zM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Cockatiel sings Victorys Fanfare(Final Fantasy)</media:title>
+      <yt:duration seconds="4"/>
+      <yt:uploaded>2006-07-28T14:01:18.000Z</yt:uploaded>
+      <yt:videoid>pCLIg6WT7zM</yt:videoid>
+    </media:group>
+    <gd:rating average="4.954462" max="5" min="1" numRaters="7642" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="14381" viewCount="1098363"/>
+    <yt:rating numDislikes="87" numLikes="7555"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEMGQX47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:z_AbfPXTKms</id>
+    <published>2009-01-12T01:42:22.000Z</published>
+    <updated>2010-06-16T21:07:00.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Animals" label="Pets &amp; Animals"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="猫"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ねこ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cat"/>
+    <title>まるです。</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/z_AbfPXTKms?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=z_AbfPXTKms&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/z_AbfPXTKms/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=z_AbfPXTKms"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/z_AbfPXTKms?v=2"/>
+    <author>
+      <name>mugumogu</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mugumogu</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="denied"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/z_AbfPXTKms/comments?v=2" countHint="5310"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Pets &amp; Animals" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Animals</media:category>
+      <media:content url="http://www.youtube.com/v/z_AbfPXTKms?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="315" yt:format="5"/>
+      <media:content url="rtsp://v6.cache2.c.youtube.com/CiQLENy73wIaGwlrKtP1fBvwzxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="315" yt:format="1"/>
+      <media:content url="rtsp://v4.cache7.c.youtube.com/CiQLENy73wIaGwlrKtP1fBvwzxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="315" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">mugumogu</media:credit>
+      <media:description type="plain">2008年の映像を使って紹介ビデオを作ってみました。長いです。Maru's introduction video by the collection of 2008.This is long.</media:description>
+      <media:keywords>猫, ねこ, cat</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=z_AbfPXTKms&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/z_AbfPXTKms/default.jpg" height="90" width="120" time="00:02:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/z_AbfPXTKms/2.jpg" height="90" width="120" time="00:02:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/z_AbfPXTKms/1.jpg" height="90" width="120" time="00:01:18.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/z_AbfPXTKms/3.jpg" height="90" width="120" time="00:03:56.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/z_AbfPXTKms/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">まるです。</media:title>
+      <yt:duration seconds="315"/>
+      <yt:uploaded>2009-01-12T01:42:22.000Z</yt:uploaded>
+      <yt:videoid>z_AbfPXTKms</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9505467" max="5" min="1" numRaters="14903" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="30985" viewCount="3647957"/>
+    <yt:rating numDislikes="184" numLikes="14719"/>
+  </entry>
+  <entry gd:etag="W/&quot;CkYERX47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:-_hbPLsZvvo</id>
+    <published>2009-05-16T21:55:01.000Z</published>
+    <updated>2010-06-16T20:28:24.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Howto" label="Howto &amp; Style"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cooking"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Japanese"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="food"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bento"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tamagoyaki"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="furikake"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="onigiri"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="noritama"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yukari"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Vienna"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sausage"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="chicken"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="karaage"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="apple"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="弁当"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="料理"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="レシピ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="クッキング"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="作り方"/>
+    <title>How to Make Bento (Japanese Boxed Lunch)</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/-_hbPLsZvvo?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=-_hbPLsZvvo&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-_hbPLsZvvo/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-_hbPLsZvvo/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=-_hbPLsZvvo"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/-_hbPLsZvvo?v=2"/>
+    <author>
+      <name>cookingwithdog</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cookingwithdog</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/-_hbPLsZvvo/comments?v=2" countHint="3216"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Howto &amp; Style" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Howto</media:category>
+      <media:content url="http://www.youtube.com/v/-_hbPLsZvvo?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="392" yt:format="5"/>
+      <media:content url="rtsp://v4.cache5.c.youtube.com/CiQLENy73wIaGwn6vhm7PFv4-xMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="392" yt:format="1"/>
+      <media:content url="rtsp://v4.cache4.c.youtube.com/CiQLENy73wIaGwn6vhm7PFv4-xMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="392" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">cookingwithdog</media:credit>
+      <media:description type="plain">Ingredients for Bento
+(serves 1)
+
+- Potato Salad -
+40g Potato (1.41 oz)
+10g Carrot (0.35 oz)
+400cc Water (1.69 u.s. cup)
+1/2 tsp Salt
+4cm Cucumber (1.57 inch)
+A pinch of Salt
+1 tbsp Sweet Corn
+1/2 tsp Vinegar
+A pinch of Sugar
+A pinch of Black Pepper
+1 tsp Mayonnaise
+
+1 Cherry Tomato
+
+- Chicken Karaage -
+50g Chicken (1.76 oz)
+2/3 tbs Kimchi Base
+or 1/2 Soy Sauce + 1/2 Sake + Grated Garlic
+1 tsp Potato Starch
+Frying Oil
+
+- Honey Glazed Pumpkin -
+40g Pumpkin (1.41 oz)
+Honey
+Toasted Black Sesame Seeds
+
+1/8 Apple
+
+- Onigiri -
+140g Fresh Steamed Rice (4.94 oz)
+Noritama Furikake - Egg &amp; Seaweed
+Yukari Furikake - Red Shiso Leaf
+2 sheets of 19×5cm Toasted Nori (7.5x2 inch)
+
+- Spinach Tamagoyaki -
+1 Egg
+40g Spinach (1.41 oz)
+1 tsp Soy Sauce
+
+1 Vienna Sausage
+1/2 tsp Oil
+
+**Trick to make bento in the busy morning is preparing the ingredients the night before or using premade ingredients from the market.
+
+** Recently, bento regained its popularity in Japan for its safe and balanced diet and many Japanese bring their own bento to school and work.
+
+About Music:
+Frederic Chopin - Valse in D-flat major "Minute Waltz" - Op. 64 No. 1 Play by Muriel Nguyen Xuan, recording by Stephane Magnenat Creative Commons http://creativecommons.org/licenses/by-sa/3.0/</media:description>
+      <media:keywords>cooking, Japanese, food, bento, tamagoyaki, furikake, onigiri, noritama, yukari, Vienna, sausage, chicken, karaage, apple, 弁当, 料理, レシピ, クッキング, 作り方</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=-_hbPLsZvvo&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-_hbPLsZvvo/default.jpg" height="90" width="120" time="00:03:16"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-_hbPLsZvvo/2.jpg" height="90" width="120" time="00:03:16"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-_hbPLsZvvo/1.jpg" height="90" width="120" time="00:01:38"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-_hbPLsZvvo/3.jpg" height="90" width="120" time="00:04:54"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-_hbPLsZvvo/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">How to Make Bento (Japanese Boxed Lunch)</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="392"/>
+      <yt:uploaded>2009-05-16T21:55:01.000Z</yt:uploaded>
+      <yt:videoid>-_hbPLsZvvo</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9500637" max="5" min="1" numRaters="9452" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="10260" viewCount="785113"/>
+    <yt:rating numDislikes="118" numLikes="9334"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0EAQn47eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:KKrrHsKazh4</id>
+    <published>2010-05-26T17:58:54.000Z</published>
+    <updated>2010-06-16T19:14:03.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Entertainment" label="Entertainment"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="malware"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spyware"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="virus"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="stop virus"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="stop spyware"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anti virus"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anti-virus"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anti-spy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anti"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spyzooka"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="free"/>
+    <title>Speed up your computer and wipe out all Virsus and Malware</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/KKrrHsKazh4?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=KKrrHsKazh4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/KKrrHsKazh4/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/KKrrHsKazh4/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=KKrrHsKazh4"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/KKrrHsKazh4?v=2"/>
+    <author>
+      <name>mukumukumariko</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mukumukumariko</uri>
+    </author>
+    <yt:accessControl action="comment" permission="moderated"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/KKrrHsKazh4/comments?v=2" countHint="24"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Entertainment" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Entertainment</media:category>
+      <media:content url="http://www.youtube.com/v/KKrrHsKazh4?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="99" yt:format="5"/>
+      <media:content url="rtsp://v3.cache8.c.youtube.com/CiQLENy73wIaGwkezprCHuuqKBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="99" yt:format="1"/>
+      <media:content url="rtsp://v2.cache2.c.youtube.com/CiQLENy73wIaGwkezprCHuuqKBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="99" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">mukumukumariko</media:credit>
+      <media:description type="plain">Is your computer lagging or running slowly? Tired of annoying pop ups and virus stealing your information and sending it to online thieves? Go to http://www.StopMal.com for a free scan to rid and free up your PC.</media:description>
+      <media:keywords>malware, spyware, spy, virus, stop virus, stop spyware, anti virus, anti-virus, anti-spy, anti, spyzooka, free</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=KKrrHsKazh4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KKrrHsKazh4/default.jpg" height="90" width="120" time="00:00:49.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KKrrHsKazh4/2.jpg" height="90" width="120" time="00:00:49.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KKrrHsKazh4/1.jpg" height="90" width="120" time="00:00:24.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KKrrHsKazh4/3.jpg" height="90" width="120" time="00:01:14.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KKrrHsKazh4/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Speed up your computer and wipe out all Virsus and Malware</media:title>
+      <yt:duration seconds="99"/>
+      <yt:uploaded>2010-05-26T17:58:54.000Z</yt:uploaded>
+      <yt:videoid>KKrrHsKazh4</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9745083" max="5" min="1" numRaters="4472" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="18" viewCount="20945"/>
+    <yt:rating numDislikes="28" numLikes="4444"/>
+  </entry>
+  <entry gd:etag="W/&quot;AkIDQ347eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:hPtbG0vtkHY</id>
+    <published>2009-12-06T21:41:13.000Z</published>
+    <updated>2010-06-16T20:02:52.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="While"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="My"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Guitar"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Gently"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Weeps(ukulele)"/>
+    <title>While My Guitar Gently Weeps(ukulele)</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/hPtbG0vtkHY?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=hPtbG0vtkHY&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/hPtbG0vtkHY/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/hPtbG0vtkHY/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=hPtbG0vtkHY"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/hPtbG0vtkHY?v=2"/>
+    <author>
+      <name>uke3453</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/uke3453</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/hPtbG0vtkHY/comments?v=2" countHint="6165"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/hPtbG0vtkHY?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="138" yt:format="5"/>
+      <media:content url="rtsp://v8.cache5.c.youtube.com/CiQLENy73wIaGwl2kO1LG1v7hBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="138" yt:format="1"/>
+      <media:content url="rtsp://v5.cache5.c.youtube.com/CiQLENy73wIaGwl2kO1LG1v7hBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="138" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">uke3453</media:credit>
+      <media:description type="plain"/>
+      <media:keywords>While, My, Guitar, Gently, Weeps(ukulele)</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=hPtbG0vtkHY&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hPtbG0vtkHY/default.jpg" height="90" width="120" time="00:01:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hPtbG0vtkHY/2.jpg" height="90" width="120" time="00:01:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hPtbG0vtkHY/1.jpg" height="90" width="120" time="00:00:34.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hPtbG0vtkHY/3.jpg" height="90" width="120" time="00:01:43.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hPtbG0vtkHY/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">While My Guitar Gently Weeps(ukulele)</media:title>
+      <yt:duration seconds="138"/>
+      <yt:uploaded>2009-12-06T21:41:13.000Z</yt:uploaded>
+      <yt:videoid>hPtbG0vtkHY</yt:videoid>
+    </media:group>
+    <gd:rating average="4.945041" max="5" min="1" numRaters="14993" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="13947" viewCount="2499794"/>
+    <yt:rating numDislikes="206" numLikes="14787"/>
+  </entry>
+  <entry gd:etag="W/&quot;C08BSX47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:fzzjgBAaWZw</id>
+    <published>2008-09-07T15:46:12.000Z</published>
+    <updated>2010-06-16T20:57:38.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Animals" label="Pets &amp; Animals"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="モアレ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="moire"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ネコ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cat"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="猫"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ぬこ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="だるまさんが転んにゃ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="だるまさんが転んだ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="StalkingCat"/>
+    <title>だるまさんが転んにゃ - Stalking Cat -</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/fzzjgBAaWZw?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=fzzjgBAaWZw&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/fzzjgBAaWZw/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/fzzjgBAaWZw/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=fzzjgBAaWZw"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/fzzjgBAaWZw?v=2"/>
+    <author>
+      <name>lowdope</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/lowdope</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/fzzjgBAaWZw/comments?v=2" countHint="17868"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Pets &amp; Animals" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Animals</media:category>
+      <media:content url="http://www.youtube.com/v/fzzjgBAaWZw?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="74" yt:format="5"/>
+      <media:content url="rtsp://v7.cache6.c.youtube.com/CiQLENy73wIaGwmcWRoQgOM8fxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="74" yt:format="1"/>
+      <media:content url="rtsp://v8.cache4.c.youtube.com/CiQLENy73wIaGwmcWRoQgOM8fxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="74" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">lowdope</media:credit>
+      <media:description type="plain">ブログ・モア＊モアレ
+http://moire.lowdope.com/</media:description>
+      <media:keywords>モアレ, moire, ネコ, cat, 猫, ぬこ, だるまさんが転んにゃ, だるまさんが転んだ, StalkingCat</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=fzzjgBAaWZw&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fzzjgBAaWZw/default.jpg" height="90" width="120" time="00:00:37"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fzzjgBAaWZw/2.jpg" height="90" width="120" time="00:00:37"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fzzjgBAaWZw/1.jpg" height="90" width="120" time="00:00:18.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fzzjgBAaWZw/3.jpg" height="90" width="120" time="00:00:55.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fzzjgBAaWZw/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">だるまさんが転んにゃ - Stalking Cat -</media:title>
+      <yt:duration seconds="74"/>
+      <yt:uploaded>2008-09-07T15:46:12.000Z</yt:uploaded>
+      <yt:videoid>fzzjgBAaWZw</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9449887" max="5" min="1" numRaters="44300" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="111988" viewCount="10997336"/>
+    <yt:rating numDislikes="609" numLikes="43691"/>
+  </entry>
+  <entry gd:etag="W/&quot;C0cMRH47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:b6Akkmwz38M</id>
+    <published>2009-11-14T13:42:24.000Z</published>
+    <updated>2010-06-16T20:44:45.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ukulele"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ma-i-na-ku-ma-na"/>
+    <title>ukulele ma-i-na-ku-ma-na</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/b6Akkmwz38M?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=b6Akkmwz38M&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/b6Akkmwz38M/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/b6Akkmwz38M/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=b6Akkmwz38M"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/b6Akkmwz38M?v=2"/>
+    <author>
+      <name>uke3453</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/uke3453</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/b6Akkmwz38M/comments?v=2" countHint="5220"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/b6Akkmwz38M?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="231" yt:format="5"/>
+      <media:content url="rtsp://v2.cache8.c.youtube.com/CiQLENy73wIaGwnD3zNskiSgbxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="231" yt:format="1"/>
+      <media:content url="rtsp://v5.cache1.c.youtube.com/CiQLENy73wIaGwnD3zNskiSgbxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="231" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">uke3453</media:credit>
+      <media:description type="plain">This is his original tune.
+
+この曲は息子が即興で歌ったものです。
+"ma-i-na-ku-ma-ｎa"も含め、ここに出てくるすべての歌詞はそのときたまたま出てきた言葉で意味はありません。
+
+即興で作ったなどというとおおげさですが、たぶんこの曲は彼が今まで聴いたり弾いたりした曲に少しだけアレンジを加え、組み合わせたものだと私は思います。曲の最後の部分が"Surfin' U.S.A"に聴こえるのは私だけでしょうか？</media:description>
+      <media:keywords>ukulele, ma-i-na-ku-ma-na</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=b6Akkmwz38M&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/b6Akkmwz38M/default.jpg" height="90" width="120" time="00:01:55.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/b6Akkmwz38M/2.jpg" height="90" width="120" time="00:01:55.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/b6Akkmwz38M/1.jpg" height="90" width="120" time="00:00:57.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/b6Akkmwz38M/3.jpg" height="90" width="120" time="00:02:53.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/b6Akkmwz38M/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">ukulele ma-i-na-ku-ma-na</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="231"/>
+      <yt:uploaded>2009-11-14T13:42:24.000Z</yt:uploaded>
+      <yt:videoid>b6Akkmwz38M</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9446754" max="5" min="1" numRaters="11550" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="12723" viewCount="2003578"/>
+    <yt:rating numDislikes="160" numLikes="11390"/>
+  </entry>
+  <entry gd:etag="W/&quot;CE8MRH47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:GfrIipujxfQ</id>
+    <published>2009-04-10T09:42:04.000Z</published>
+    <updated>2010-06-16T21:14:45.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Tags:"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="linkin"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="park"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="numb"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="lp"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="meteora"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="best"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="song"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="rock"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="band"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ever"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dbz"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="linkn"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="faint"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="reanimation"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="leave"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="out"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="all"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="the"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="rest"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Breaking"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Habit"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Official"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="HD"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="HQ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mike"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Shinoda"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Chester"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Most"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Viewed"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Honors"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Medal"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Judgment"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="In"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="End"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Rap"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Remix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Live"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Concert"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mr.Hahn"/>
+    <title>Linkin Park Numb official video HD</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/GfrIipujxfQ?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=GfrIipujxfQ&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/GfrIipujxfQ/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/GfrIipujxfQ/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=GfrIipujxfQ"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/GfrIipujxfQ?v=2"/>
+    <author>
+      <name>sanchit1dbzfan</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/sanchit1dbzfan</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/GfrIipujxfQ/comments?v=2" countHint="4527"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/GfrIipujxfQ?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="195" yt:format="5"/>
+      <media:content url="rtsp://v4.cache8.c.youtube.com/CiQLENy73wIaGwn0xaObisj6GRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="195" yt:format="1"/>
+      <media:content url="rtsp://v4.cache7.c.youtube.com/CiQLENy73wIaGwn0xaObisj6GRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="195" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">sanchit1dbzfan</media:credit>
+      <media:description type="plain">note-**READ THE WHOLE DISCRIPTION**plz watch my other vids too ,,, hey guys heres my favourite bands best song numb from the album meteora....enjoy......And plz dont post comments like this is not HD.........let me tell u i uploaded the vid in full HD but i dont know why youtube messed the quality.......</media:description>
+      <media:keywords>Tags:, linkin, park, numb, lp, meteora, best, song, rock, band, ever, dbz, linkn, faint, reanimation, leave, out, all, the, rest, Breaking, Habit, Official, Video, HD, HQ, Mike, Shinoda, Chester, Most, Viewed, Honors, Medal, Judgment, In, End, Rap, Remix, Live, Concert, Mr.Hahn</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=GfrIipujxfQ&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GfrIipujxfQ/default.jpg" height="90" width="120" time="00:01:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GfrIipujxfQ/2.jpg" height="90" width="120" time="00:01:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GfrIipujxfQ/1.jpg" height="90" width="120" time="00:00:48.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GfrIipujxfQ/3.jpg" height="90" width="120" time="00:02:26.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GfrIipujxfQ/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Linkin Park Numb official video HD</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="195"/>
+      <yt:uploaded>2009-04-10T09:42:04.000Z</yt:uploaded>
+      <yt:videoid>GfrIipujxfQ</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9422946" max="5" min="1" numRaters="10259" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="14588" viewCount="2955407"/>
+    <yt:rating numDislikes="148" numLikes="10111"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEMCQH47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:WfBlUQguvyw</id>
+    <published>2009-07-01T14:07:46.000Z</published>
+    <updated>2010-06-16T21:07:41.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Film" label="Film &amp; Animation"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="water"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="flavor"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="EP"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="webcam"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sour"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hibi"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="no"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="neiro"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tone"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="of"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="everyday"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="animation"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="masa"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hal"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="magico"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="choreography"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="grids"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="chat"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mosaic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="日々の音色"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="サワー"/>
+    <title>SOUR '日々の音色 (Hibi no neiro)'</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/WfBlUQguvyw?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=WfBlUQguvyw&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/WfBlUQguvyw/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/WfBlUQguvyw/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=WfBlUQguvyw"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/WfBlUQguvyw?v=2"/>
+    <author>
+      <name>masakaaa</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/masakaaa</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/WfBlUQguvyw/comments?v=2" countHint="3667"/>
+    </gd:comments>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>40.730608477796636 -73.98193359375</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <media:group>
+      <media:category label="Film &amp; Animation" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Film</media:category>
+      <media:content url="http://www.youtube.com/v/WfBlUQguvyw?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="231" yt:format="5"/>
+      <media:content url="rtsp://v8.cache8.c.youtube.com/CiQLENy73wIaGwksvy4IUWXwWRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="231" yt:format="1"/>
+      <media:content url="rtsp://v1.cache8.c.youtube.com/CiQLENy73wIaGwksvy4IUWXwWRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="231" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">masakaaa</media:credit>
+      <media:description type="plain">The video just won Best Music Video Award at the Annecy International Animated Film Festival. Thank you for your support! 
+
+This music video was shot for Sour's 'Hibi no Neiro' (Tone of everyday) from their first mini album 'Water Flavor EP'. The cast were selected from the actual Sour fan base, from many countries around the world. Each person and scene was filmed purely via webcam. 
+
+Director: Masashi Kawamura + Hal Kirkland + Magico Nakamura + Masayoshi Nakamura
+
+SOUR official site: http://sour-web.com
+
+2009 Zealot Co.,ltd / Neutral Nine Records
+
+LYRICS ----------------------------------------------------------
+
+Your heart that gently reflects in the puddle 
+is your tone, as you pass through the maze of everyday
+
+Footsteps of spring  
+the city starts adding color 
+The melody flowsLE LU LA LI
+Through the colored lenses
+
+ReggaeDubHiphopTechnoLatin 
+Between the waves of all the different values
+JazzRockPops Category no more
+Whats the most important thing?
+
+Spinning and turning on the overpass 
+as we overtake that season
+this and that, which color is your melody?
+Sometimes you could get confused
+
+ReggaeDubHiphopTechnoLatin 
+Between the waves of all different values
+JazzRockPops Category no more
+What are you thinking of now?
+
+If we can embrace all the differences
+It will shine the sky in rainbow colors
+Your heart that gently reflects in the puddle 
+is your tone, as you pass through the maze of everyday
+
+You can see it in any color, because of your clear feeling
+Dont worry about it, lets just go as we are.
+If we can embrace all the differences
+The rain will stop, and the sky will shines in rainbow colors
+
+Your heart that gently reflects in the puddle 
+is your tone, as you pass through the maze of everyday
+You can see it in any color, because of your clear feeling
+Let your tone shine like the rainbow
+
+Pass through the maze of everyday
+And start playing your tone 
+
+---------------------------------------------------------------------
+
+SOUR "日々の音色" のためのミュージックビデオ。（ミニアルバム "Water Flavor EP" 収録曲）このビデオを作り上げるために、世界中のSOURファンに協力を募りました。ビデオで使われている映像は全て、ラップトップのwebcamによって撮影しています。
+
+Director: Masashi Kawamura + Hal Kirkland + Magico Nakamura + Masayoshi Nakamura
+
+LYRICS ----------------------------------------------------------
+
+そっと　水たまり鏡に写る心は　日々の迷路抜けた君の音色
+
+春の足音にわか色付く街並み
+流れる「レルラリ」メロディー色眼鏡越し
+ReggaeDubHiphopTechnoRatin氾濫する価値の波間に
+JazzRockPops Category no more大切なものは　何？
+
+まわりまわる高架追い越した季節に
+あれやこれ 何色のメロディー？　とまどう時も
+ReggaeDubHiphopTechnoRatin氾濫する価値の波間に
+JazzRockPops Category no moreいま何を思うの？
+
+全ての違いを受け入れたら　虹色に輝く空を射す
+水たまり鏡に写る心は　日々の迷路抜けた　君の音色
+
+何色にも見えるのは澄んだ気持ちのせいだ　
+気にすることなんかないよこのままゆこう
+全ての違いを受け入れたら　虹色に輝く雨上がりの空
+
+きっと　水たまり鏡に写る心は　日々の迷路抜けた君の音色
+何色にも見えるのは澄んだ気持ちのせいだ　虹色に輝いて　君の音色
+
+日々の迷路抜けて　奏でる君の音色
+
+---------------------------------------------------------------------
+
+SOUR official site: http://sour-web.com
+
+2009 Zealot Co.,ltd / Neutral Nine Records</media:description>
+      <media:keywords>water, flavor, EP, webcam, sour, hibi, no, neiro, tone, of, everyday, animation, masa, hal, magico, music, video, choreography, grids, chat, mosaic, 日々の音色, サワー</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=WfBlUQguvyw&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WfBlUQguvyw/default.jpg" height="90" width="120" time="00:01:55.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WfBlUQguvyw/2.jpg" height="90" width="120" time="00:01:55.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WfBlUQguvyw/1.jpg" height="90" width="120" time="00:00:57.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WfBlUQguvyw/3.jpg" height="90" width="120" time="00:02:53.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WfBlUQguvyw/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">SOUR '日々の音色 (Hibi no neiro)'</media:title>
+      <yt:duration seconds="231"/>
+      <yt:uploaded>2009-07-01T14:07:46.000Z</yt:uploaded>
+      <yt:videoid>WfBlUQguvyw</yt:videoid>
+    </media:group>
+    <gd:rating average="4.943038" max="5" min="1" numRaters="16906" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:recorded>2009-07-01</yt:recorded>
+    <yt:statistics favoriteCount="50799" viewCount="2791045"/>
+    <yt:rating numDislikes="241" numLikes="16665"/>
+  </entry>
+  <entry gd:etag="W/&quot;DUMHSH47eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:rmkLlVzUBn4</id>
+    <published>2009-04-09T13:12:04.000Z</published>
+    <updated>2010-06-16T19:43:59.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Entertainment" label="Entertainment"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="コマ撮り"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ストップモーション"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="stop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="motion"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="animation"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="pig"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="wolf"/>
+    <title>オオカミとブタ。Stop motion with wolf and pig.</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/rmkLlVzUBn4?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rmkLlVzUBn4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rmkLlVzUBn4/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rmkLlVzUBn4/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=rmkLlVzUBn4"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/rmkLlVzUBn4?v=2"/>
+    <author>
+      <name>dokugyunyu</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/dokugyunyu</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/rmkLlVzUBn4/comments?v=2" countHint="6566"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Entertainment" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Entertainment</media:category>
+      <media:content url="http://www.youtube.com/v/rmkLlVzUBn4?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="235" yt:format="5"/>
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CiQLENy73wIaGwl-BtRclQtprhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="235" yt:format="1"/>
+      <media:content url="rtsp://v5.cache7.c.youtube.com/CiQLENy73wIaGwl-BtRclQtprhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="235" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">dokugyunyu</media:credit>
+      <media:description type="plain">At first I photographed stop motion　animation. And I displayed the photographs in my room and photographed it again. Enjoy a connection with the world of the room and the world in the photograph.  Thanks for watching.Some musicians add music on my video and reupload it. Thank you very much.
+オオカミとブタのコマ撮り写真を撮って、それを部屋に置いていく様子を再びコマ撮りにしました。２重コマ撮り。写真と部屋、２次元と３次元が織りなす、次元ハイブリッドコマドリエクスタシーー!!!!!!</media:description>
+      <media:keywords>コマ撮り, ストップモーション, stop, motion, animation, pig, wolf</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=rmkLlVzUBn4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rmkLlVzUBn4/default.jpg" height="90" width="120" time="00:01:57.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rmkLlVzUBn4/2.jpg" height="90" width="120" time="00:01:57.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rmkLlVzUBn4/1.jpg" height="90" width="120" time="00:00:58.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rmkLlVzUBn4/3.jpg" height="90" width="120" time="00:02:56.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rmkLlVzUBn4/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">オオカミとブタ。Stop motion with wolf and pig.</media:title>
+      <yt:duration seconds="235"/>
+      <yt:uploaded>2009-04-09T13:12:04.000Z</yt:uploaded>
+      <yt:videoid>rmkLlVzUBn4</yt:videoid>
+    </media:group>
+    <gd:rating average="4.942431" max="5" min="1" numRaters="21991" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="42192" viewCount="2842976"/>
+    <yt:rating numDislikes="316" numLikes="21675"/>
+  </entry>
+  <entry gd:etag="W/&quot;DUYGSH47eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:7hYGkqc1gqE</id>
+    <published>2009-07-14T03:49:41.000Z</published>
+    <updated>2010-06-16T19:38:49.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yugioh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="abridged"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="series"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="littlekuriboh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anime"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spoof"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <title>YGOTAS Third Anniversary Spectacularmathon</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/7hYGkqc1gqE?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=7hYGkqc1gqE&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/7hYGkqc1gqE/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/7hYGkqc1gqE/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=7hYGkqc1gqE"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/7hYGkqc1gqE?v=2"/>
+    <author>
+      <name>CardGamesFTW</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cardgamesftw</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/7hYGkqc1gqE/comments?v=2" countHint="4137"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/7hYGkqc1gqE?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="341" yt:format="5"/>
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CiQLENy73wIaGwmhgjWnkgYW7hMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="341" yt:format="1"/>
+      <media:content url="rtsp://v1.cache5.c.youtube.com/CiQLENy73wIaGwmhgjWnkgYW7hMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="341" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">CardGamesFTW</media:credit>
+      <media:description type="plain">Three years and barely two seasons! Hooray!
+
+Admittedly, one of my more rushed videos.</media:description>
+      <media:keywords>yugioh, abridged, series, littlekuriboh, anime, spoof, dub</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=7hYGkqc1gqE&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7hYGkqc1gqE/default.jpg" height="90" width="120" time="00:02:50.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7hYGkqc1gqE/2.jpg" height="90" width="120" time="00:02:50.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7hYGkqc1gqE/1.jpg" height="90" width="120" time="00:01:25.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7hYGkqc1gqE/3.jpg" height="90" width="120" time="00:04:15.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7hYGkqc1gqE/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">YGOTAS Third Anniversary Spectacularmathon</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="341"/>
+      <yt:uploaded>2009-07-14T03:49:41.000Z</yt:uploaded>
+      <yt:videoid>7hYGkqc1gqE</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9409895" max="5" min="1" numRaters="7541" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="5780" viewCount="345961"/>
+    <yt:rating numDislikes="111" numLikes="7430"/>
+  </entry>
+  <entry gd:etag="W/&quot;Ak4AQH47eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:mYn23fg-bO4</id>
+    <published>2008-12-29T14:29:35.000Z</published>
+    <updated>2010-06-16T20:09:01.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Howto" label="Howto &amp; Style"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="スタイリング"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="セルフ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="美容"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ビューティ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beauty"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="how"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="to"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hair"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="styling"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ロング"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ヘア"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="アレンジ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="簡単"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="リボン"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="アップ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ピン"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="キティ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ミニー"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hello"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kitty"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ribbon"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Lady"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Gaga"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="土屋アンナ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="minnie"/>
+    <title>Hair Tutorial Ribbon-shaped Up-do 髪でリボン編  ロングヘアアレンジ</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/mYn23fg-bO4?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=mYn23fg-bO4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/mYn23fg-bO4/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/mYn23fg-bO4/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=mYn23fg-bO4"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/mYn23fg-bO4?v=2"/>
+    <author>
+      <name>binosusume</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/binosusume</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/mYn23fg-bO4/comments?v=2" countHint="1912"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Howto &amp; Style" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Howto</media:category>
+      <media:content url="http://www.youtube.com/v/mYn23fg-bO4?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="403" yt:format="5"/>
+      <media:content url="rtsp://v6.cache4.c.youtube.com/CiQLENy73wIaGwnubD743faJmRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="403" yt:format="1"/>
+      <media:content url="rtsp://v4.cache1.c.youtube.com/CiQLENy73wIaGwnubD743faJmRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="403" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">binosusume</media:credit>
+      <media:description type="plain">http://binosusume.blog116.fc2.com/
+↑私のブログです☆注意点や使用したものなど説明あります♪</media:description>
+      <media:keywords>スタイリング, セルフ, 美容, ビューティ, beauty, how, to, hair, styling, ロング, ヘア, アレンジ, 簡単, リボン, アップ, ピン, キティ, ミニー, hello, kitty, ribbon, Lady, Gaga, 土屋アンナ, minnie</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=mYn23fg-bO4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mYn23fg-bO4/default.jpg" height="90" width="120" time="00:03:21.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mYn23fg-bO4/2.jpg" height="90" width="120" time="00:03:21.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mYn23fg-bO4/1.jpg" height="90" width="120" time="00:01:40.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mYn23fg-bO4/3.jpg" height="90" width="120" time="00:05:02.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mYn23fg-bO4/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Hair Tutorial Ribbon-shaped Up-do 髪でリボン編  ロングヘアアレンジ</media:title>
+      <yt:duration seconds="403"/>
+      <yt:uploaded>2008-12-29T14:29:35.000Z</yt:uploaded>
+      <yt:videoid>mYn23fg-bO4</yt:videoid>
+    </media:group>
+    <gd:rating average="4.949528" max="5" min="1" numRaters="5191" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="18213" viewCount="1723467"/>
+    <yt:rating numDislikes="65" numLikes="5126"/>
+  </entry>
+  <entry gd:etag="W/&quot;AkMNRH47eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:Q2KLRoF0TPc</id>
+    <published>2009-11-14T12:56:50.000Z</published>
+    <updated>2010-06-16T20:01:35.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="crazy"/>
+    <title>crazy G</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/Q2KLRoF0TPc?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Q2KLRoF0TPc&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Q2KLRoF0TPc/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Q2KLRoF0TPc/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=Q2KLRoF0TPc"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/Q2KLRoF0TPc?v=2"/>
+    <author>
+      <name>uke3453</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/uke3453</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Q2KLRoF0TPc/comments?v=2" countHint="1703"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/Q2KLRoF0TPc?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="42" yt:format="5"/>
+      <media:content url="rtsp://v8.cache1.c.youtube.com/CiQLENy73wIaGwn3THSBRotiQxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="42" yt:format="1"/>
+      <media:content url="rtsp://v3.cache7.c.youtube.com/CiQLENy73wIaGwn3THSBRotiQxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="42" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">uke3453</media:credit>
+      <media:description type="plain"/>
+      <media:keywords>crazy</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Q2KLRoF0TPc&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Q2KLRoF0TPc/default.jpg" height="90" width="120" time="00:00:21"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Q2KLRoF0TPc/2.jpg" height="90" width="120" time="00:00:21"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Q2KLRoF0TPc/1.jpg" height="90" width="120" time="00:00:10.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Q2KLRoF0TPc/3.jpg" height="90" width="120" time="00:00:31.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Q2KLRoF0TPc/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">crazy G</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="42"/>
+      <yt:uploaded>2009-11-14T12:56:50.000Z</yt:uploaded>
+      <yt:videoid>Q2KLRoF0TPc</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9521785" max="5" min="1" numRaters="4935" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="4295" viewCount="1077451"/>
+    <yt:rating numDislikes="59" numLikes="4876"/>
+  </entry>
+  <entry gd:etag="W/&quot;D04CQn47eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:5jE4XaAX-uM</id>
+    <published>2009-10-24T18:58:59.000Z</published>
+    <updated>2010-06-16T19:19:23.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yugioh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="abridged"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="series"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="littlekuriboh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anime"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spoof"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="parody"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <title>Episode 43 - Eternal Sunshine Of The Spotless Mai</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/5jE4XaAX-uM?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=5jE4XaAX-uM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/5jE4XaAX-uM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/5jE4XaAX-uM/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=5jE4XaAX-uM"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/5jE4XaAX-uM?v=2"/>
+    <author>
+      <name>CardGamesFTW</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cardgamesftw</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/5jE4XaAX-uM/comments?v=2" countHint="4350"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/5jE4XaAX-uM?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="516" yt:format="5"/>
+      <media:content url="rtsp://v7.cache1.c.youtube.com/CiQLENy73wIaGwnj-hegXTgx5hMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="516" yt:format="1"/>
+      <media:content url="rtsp://v7.cache7.c.youtube.com/CiQLENy73wIaGwnj-hegXTgx5hMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="516" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">CardGamesFTW</media:credit>
+      <media:description type="plain">Melvin goes bananas.
+
+B-A-N-A-N-A-S.</media:description>
+      <media:keywords>yugioh, abridged, series, littlekuriboh, anime, spoof, parody, dub</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=5jE4XaAX-uM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5jE4XaAX-uM/default.jpg" height="90" width="120" time="00:04:18"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5jE4XaAX-uM/2.jpg" height="90" width="120" time="00:04:18"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5jE4XaAX-uM/1.jpg" height="90" width="120" time="00:02:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5jE4XaAX-uM/3.jpg" height="90" width="120" time="00:06:27"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5jE4XaAX-uM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Episode 43 - Eternal Sunshine Of The Spotless Mai</media:title>
+      <yt:duration seconds="516"/>
+      <yt:uploaded>2009-10-24T18:58:59.000Z</yt:uploaded>
+      <yt:videoid>5jE4XaAX-uM</yt:videoid>
+    </media:group>
+    <gd:rating average="4.936158" max="5" min="1" numRaters="7033" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="4691" viewCount="510686"/>
+    <yt:rating numDislikes="112" numLikes="6921"/>
+  </entry>
+  <entry gd:etag="W/&quot;C08EQX47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:8ZsML4uWoiw</id>
+    <published>2009-04-12T11:36:08.000Z</published>
+    <updated>2010-06-16T20:56:40.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="People" label="People &amp; Blogs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beatbox"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="battle"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="wildcard"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="daichi"/>
+    <title>Daichi for Beatbox Battle Wildcard</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/8ZsML4uWoiw?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=8ZsML4uWoiw&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/8ZsML4uWoiw/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/8ZsML4uWoiw/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=8ZsML4uWoiw"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/8ZsML4uWoiw?v=2"/>
+    <author>
+      <name>daichibeatboxer</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/daichibeatboxer</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/8ZsML4uWoiw/comments?v=2" countHint="24134"/>
+    </gd:comments>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>33.515064400105686 130.47466278076172</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <media:group>
+      <media:category label="People &amp; Blogs" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">People</media:category>
+      <media:content url="http://www.youtube.com/v/8ZsML4uWoiw?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="149" yt:format="5"/>
+      <media:content url="rtsp://v2.cache5.c.youtube.com/CiQLENy73wIaGwksopaLLwyb8RMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="149" yt:format="1"/>
+      <media:content url="rtsp://v6.cache2.c.youtube.com/CiQLENy73wIaGwksopaLLwyb8RMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="149" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">daichibeatboxer</media:credit>
+      <media:description type="plain">My name is Daichi, I am 18 years old Japanese.  You might have seen me on other videos where I perfomed on a Japanese TV show called "Hamonepu".
+
+This time I did my best to win the Beatbox Battle wildcard. I hope you enjoy!</media:description>
+      <media:keywords>beatbox, battle, wildcard, daichi</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=8ZsML4uWoiw&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8ZsML4uWoiw/default.jpg" height="90" width="120" time="00:01:14.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8ZsML4uWoiw/2.jpg" height="90" width="120" time="00:01:14.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8ZsML4uWoiw/1.jpg" height="90" width="120" time="00:00:37.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8ZsML4uWoiw/3.jpg" height="90" width="120" time="00:01:51.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8ZsML4uWoiw/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Daichi for Beatbox Battle Wildcard</media:title>
+      <yt:duration seconds="149"/>
+      <yt:uploaded>2009-04-12T11:36:08.000Z</yt:uploaded>
+      <yt:videoid>8ZsML4uWoiw</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9331083" max="5" min="1" numRaters="41784" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="55081" viewCount="5890659"/>
+    <yt:rating numDislikes="699" numLikes="41085"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEYGSX47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:_ghNJ9VvZfc</id>
+    <published>2009-08-26T20:33:55.000Z</published>
+    <updated>2010-06-16T21:02:08.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yugioh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="abridged"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="series"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="littlekuriboh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anime"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spoof"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <title>Episode 42 - So Long &amp; Thanks For All The Trading Cards</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/_ghNJ9VvZfc?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=_ghNJ9VvZfc&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/_ghNJ9VvZfc/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/_ghNJ9VvZfc/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=_ghNJ9VvZfc"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/_ghNJ9VvZfc?v=2"/>
+    <author>
+      <name>CardGamesFTW</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cardgamesftw</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/_ghNJ9VvZfc/comments?v=2" countHint="7993"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/_ghNJ9VvZfc?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="650" yt:format="5"/>
+      <media:content url="rtsp://v5.cache7.c.youtube.com/CiQLENy73wIaGwn3ZW_VJ00I_hMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="650" yt:format="1"/>
+      <media:content url="rtsp://v2.cache6.c.youtube.com/CiQLENy73wIaGwn3ZW_VJ00I_hMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="650" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">CardGamesFTW</media:credit>
+      <media:description type="plain">It's in the frakking blimp!
+
+Special thanks to my good friend hieadenna for playing the part of Marik's mother.
+
+Rats ruof maet kcab gnirb.</media:description>
+      <media:keywords>yugioh, abridged, series, littlekuriboh, anime, spoof, dub</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=_ghNJ9VvZfc&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_ghNJ9VvZfc/default.jpg" height="90" width="120" time="00:05:25"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_ghNJ9VvZfc/2.jpg" height="90" width="120" time="00:05:25"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_ghNJ9VvZfc/1.jpg" height="90" width="120" time="00:02:42.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_ghNJ9VvZfc/3.jpg" height="90" width="120" time="00:08:07.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_ghNJ9VvZfc/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Episode 42 - So Long &amp; Thanks For All The Trading Cards</media:title>
+      <yt:duration seconds="650"/>
+      <yt:uploaded>2009-08-26T20:33:55.000Z</yt:uploaded>
+      <yt:videoid>_ghNJ9VvZfc</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9326696" max="5" min="1" numRaters="14867" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="6206" viewCount="730226"/>
+    <yt:rating numDislikes="250" numLikes="14617"/>
+  </entry>
+  <entry gd:etag="W/&quot;C0UMQn47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:eZGWQauQOAQ</id>
+    <published>2007-02-08T13:07:34.000Z</published>
+    <updated>2010-06-16T20:48:03.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Simon"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="and"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Garfunkel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Sound"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Of"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Silence"/>
+    <title>Sound Of Silence - Simon &amp; Garfunkel (live sound)</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/eZGWQauQOAQ?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=eZGWQauQOAQ&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/eZGWQauQOAQ/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/eZGWQauQOAQ/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=eZGWQauQOAQ"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/eZGWQauQOAQ?v=2"/>
+    <author>
+      <name>Hamp32</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/hamp32</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/eZGWQauQOAQ/comments?v=2" countHint="4017"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/eZGWQauQOAQ?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="199" yt:format="5"/>
+      <media:content url="rtsp://v1.cache2.c.youtube.com/CiQLENy73wIaGwkEOJCrQZaReRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="199" yt:format="1"/>
+      <media:content url="rtsp://v8.cache1.c.youtube.com/CiQLENy73wIaGwkEOJCrQZaReRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="199" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">Hamp32</media:credit>
+      <media:description type="plain">Simon &amp; Garfunkel Sound Of Silence(live sound)</media:description>
+      <media:keywords>Simon, and, Garfunkel, Sound, Of, Silence</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=eZGWQauQOAQ&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eZGWQauQOAQ/default.jpg" height="90" width="120" time="00:01:39.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eZGWQauQOAQ/2.jpg" height="90" width="120" time="00:01:39.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eZGWQauQOAQ/1.jpg" height="90" width="120" time="00:00:49.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eZGWQauQOAQ/3.jpg" height="90" width="120" time="00:02:29.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eZGWQauQOAQ/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Sound Of Silence - Simon &amp; Garfunkel (live sound)</media:title>
+      <yt:duration seconds="199"/>
+      <yt:uploaded>2007-02-08T13:07:34.000Z</yt:uploaded>
+      <yt:videoid>eZGWQauQOAQ</yt:videoid>
+    </media:group>
+    <gd:rating average="4.932211" max="5" min="1" numRaters="11403" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="25598" viewCount="5586794"/>
+    <yt:rating numDislikes="193" numLikes="11210"/>
+  </entry>
+  <entry gd:etag="W/&quot;Ak8AQX47eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:SNXirCwHtIQ</id>
+    <published>2009-06-25T13:20:36.000Z</published>
+    <updated>2010-06-16T20:07:20.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yugioh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="abridged"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="series"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="littlekuriboh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anime"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spoof"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <title>Episode 41 - Chenquieh!</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/SNXirCwHtIQ?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=SNXirCwHtIQ&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/SNXirCwHtIQ/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/SNXirCwHtIQ/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=SNXirCwHtIQ"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/SNXirCwHtIQ?v=2"/>
+    <author>
+      <name>CardGamesFTW</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cardgamesftw</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/SNXirCwHtIQ/comments?v=2" countHint="7225"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/SNXirCwHtIQ?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="503" yt:format="5"/>
+      <media:content url="rtsp://v6.cache1.c.youtube.com/CiQLENy73wIaGwmEtAcsrOLVSBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="503" yt:format="1"/>
+      <media:content url="rtsp://v6.cache7.c.youtube.com/CiQLENy73wIaGwmEtAcsrOLVSBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="503" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">CardGamesFTW</media:credit>
+      <media:description type="plain">Joey vs Door - Round 2</media:description>
+      <media:keywords>yugioh, abridged, series, littlekuriboh, anime, spoof, dub</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=SNXirCwHtIQ&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/SNXirCwHtIQ/default.jpg" height="90" width="120" time="00:04:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/SNXirCwHtIQ/2.jpg" height="90" width="120" time="00:04:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/SNXirCwHtIQ/1.jpg" height="90" width="120" time="00:02:05.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/SNXirCwHtIQ/3.jpg" height="90" width="120" time="00:06:17.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/SNXirCwHtIQ/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Episode 41 - Chenquieh!</media:title>
+      <yt:duration seconds="503"/>
+      <yt:uploaded>2009-06-25T13:20:36.000Z</yt:uploaded>
+      <yt:videoid>SNXirCwHtIQ</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9302516" max="5" min="1" numRaters="12287" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="6178" viewCount="792438"/>
+    <yt:rating numDislikes="214" numLikes="12073"/>
+  </entry>
+  <entry gd:etag="W/&quot;A04MRH47eCp7ImA9WxFVF00.&quot;">
+    <id>tag:youtube.com,2008:video:0HeUixe_Lpg</id>
+    <published>2008-07-21T15:01:56.000Z</published>
+    <updated>2010-06-16T17:39:45.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Tech" label="Science &amp; Technology"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="噴水"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="キャナルシティ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="福岡"/>
+    <title>水の落ちる絵</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/0HeUixe_Lpg?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=0HeUixe_Lpg&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/0HeUixe_Lpg/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/0HeUixe_Lpg/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=0HeUixe_Lpg"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/0HeUixe_Lpg?v=2"/>
+    <author>
+      <name>miyupee178</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/miyupee178</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/0HeUixe_Lpg/comments?v=2" countHint="2677"/>
+    </gd:comments>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>33.589598333356335 130.4109764099121</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <media:group>
+      <media:category label="Science &amp; Technology" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Tech</media:category>
+      <media:content url="http://www.youtube.com/v/0HeUixe_Lpg?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="358" yt:format="5"/>
+      <media:content url="rtsp://v8.cache6.c.youtube.com/CiQLENy73wIaGwmYLr8Xi5R30BMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="358" yt:format="1"/>
+      <media:content url="rtsp://v6.cache2.c.youtube.com/CiQLENy73wIaGwmYLr8Xi5R30BMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="358" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">miyupee178</media:credit>
+      <media:description type="plain">福岡のキャナルシティで
+あまりに感動した
+
+メーカーサイト
+http://www.koeiaquatec.co.jp/</media:description>
+      <media:keywords>噴水, キャナルシティ, 福岡</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=0HeUixe_Lpg&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0HeUixe_Lpg/default.jpg" height="90" width="120" time="00:02:59"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0HeUixe_Lpg/2.jpg" height="90" width="120" time="00:02:59"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0HeUixe_Lpg/1.jpg" height="90" width="120" time="00:01:29.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0HeUixe_Lpg/3.jpg" height="90" width="120" time="00:04:28.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0HeUixe_Lpg/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">水の落ちる絵</media:title>
+      <yt:duration seconds="358"/>
+      <yt:uploaded>2008-07-21T15:01:56.000Z</yt:uploaded>
+      <yt:videoid>0HeUixe_Lpg</yt:videoid>
+    </media:group>
+    <gd:rating average="4.934031" max="5" min="1" numRaters="6306" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:recorded>2008-07-20</yt:recorded>
+    <yt:statistics favoriteCount="19816" viewCount="3917185"/>
+    <yt:rating numDislikes="104" numLikes="6202"/>
+  </entry>
+  <entry gd:etag="W/&quot;AkcNRX47eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:eO0Q2yu1pzk</id>
+    <published>2009-06-29T00:31:55.000Z</published>
+    <updated>2010-06-16T19:54:54.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Michael"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jackson"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Heal"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="the"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="world"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="live"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="king"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="pop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kingofpop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="MJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="M.J"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="healthewold"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="michealjackson"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="マイケルジャクソン"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Billie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jean"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Moonwalk"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beat"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="it"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="You"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Are"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Not"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Alone"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="THRILLER"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="gala"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="1992"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="michaeljacksonr.i.p"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="michaeljacksonlive"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="マイケル・ジャクソン"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="singing"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="slash"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="R.I.P."/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="1958"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="2009"/>
+    <title>Michael Jackson -  " Heal The World "  Live At GBill Clinton's Gala 1992</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/eO0Q2yu1pzk?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=eO0Q2yu1pzk&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/eO0Q2yu1pzk/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/eO0Q2yu1pzk/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=eO0Q2yu1pzk"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/eO0Q2yu1pzk?v=2"/>
+    <author>
+      <name>xxTheWindCriesMaryxx</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/xxthewindcriesmaryxx</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="denied"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/eO0Q2yu1pzk/comments?v=2" countHint="5049"/>
+    </gd:comments>
+    <yt:location>ロシア</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/eO0Q2yu1pzk?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="336" yt:format="5"/>
+      <media:content url="rtsp://v8.cache7.c.youtube.com/CiQLENy73wIaGwk5p7Ur2xDteBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="336" yt:format="1"/>
+      <media:content url="rtsp://v7.cache2.c.youtube.com/CiQLENy73wIaGwk5p7Ur2xDteBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="336" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">xxTheWindCriesMaryxx</media:credit>
+      <media:description type="plain">The Official Michael Jackson Youtube Channel
+http://www.youtube.com/user/michaeljackson
+
+Thank you for the great comment a lot my video. 
+He is a king through all eternity. There might not be thing that you disappear sincerely. It dances with really wonderful music, and he is great. Thank you. Michael. 
+
+
+Did the god take him why?
+All over the world cries. 
+He was great. The good in the world. 
+Tears overflow when I listen to this tune. 
+It is a tune to make the person impressed like this. 
+Please listen by all means. 
+It loves sincerely. 
+Thank you up to now. Michael. 
+
+Heal The World GREAT SONG!!!
+ It is impressed like this. Another doesn't have music. 
+His song doesn't die. 
+He is alive in us. 
+Thank you for wonderful music.
+Thanks you Michael Jackson
+ No'1 king of pop
+live at Clinton Gala 1992
+
+
+
+
+
+
+My friend wrote lyrics. 
+We want to express our gratitude. Thank you.
+
+There's A Place In Your Heart
+And I Know That It Is Love
+And This Place Could
+Be Much Brighter Than Tomorrow
+And If You Really Try
+You'll Find There's No Need To Cry
+In This Place 
+You'll Feel There's No Hurt Or Sorrow
+
+There Are Ways
+To Get There
+If You Care Enough
+For The Living
+Make A Little Space
+Make A Better Place...
+
+Heal The World
+Make It A Better Place
+For You And For Me
+And The Entire Human Race
+There Are People Dying
+If You Care Enough
+For The Living
+Make A Better Place
+For You And For Me
+
+If You Want To Know Why
+There's A Love That Cannot Lie
+Love Is Strong
+It Only Cares For Joyful Giving
+If We Try We Shall See
+In This Bliss We Cannot Feel
+Fear Or Dread
+We Stop Existing And Start Living
+
+Then It Feels That Always
+Love's Enough For
+Us Growing
+So Make A Better World
+Make A Better World...
+
+Heal The World
+Make It A Better Place
+For You And For Me
+And The Entire Human Race
+There Are People Dying
+If You Care Enough
+For The Living
+Make A Better Place
+For You And For Me
+
+And The Dream We Were Conceived In
+Will Reveal A Joyful Face
+And The World We Once Believed In
+Will Shine Again In Grace
+Then Why Do We Keep Strangling Life
+Wound This Earth Crucify Its Soul
+Though It's Plain To See
+This World Is Heavenly Be God's Glow
+
+We Could Fly So High
+Let Our Spirits Never Die
+In My Heart
+I Feel You Are All My Brothers
+Create A World With No Fear
+Together We'll Cry Happy Tears
+See The Nations Turn
+Their Swords Into Plowshares
+
+We Could Really Get There
+If You Cared Enough
+For The Living
+Make A Little Space
+To Make A Better Place...
+
+Heal The World
+Make It A Better Place
+For You And For Me
+And The Entire Human Race
+There Are People Dying
+If You Care Enough
+For The Living
+Make A Better Place
+For You And For Me
+
+Heal The World
+Make It A Better Place
+For You And For Me
+And The Entire Human Race
+There Are People Dying
+If You Care Enough
+For The Living
+Make A Better Place
+For You And For Me
+
+Heal The World
+Make It A Better Place
+For You And For Me
+And The Entire Human Race
+There Are People Dying
+If You Care Enough
+For The Living
+Make A Better Place
+For You And For Me
+
+There Are People Dying
+If You Care Enough
+For The Living
+Make A Better Place
+For You And For Me
+
+There Are People Dying
+If You Care Enough
+For The Living
+Make A Better Place
+For You And For Me
+
+You And For Me
+You And For Me
+You And For Me
+You And For Me
+You And For Me
+You And For Me
+You And For Me
+You And For Me
+You And For Me
+You And For Me
+You And For Me</media:description>
+      <media:keywords>Michael, Jackson, Heal, the, world, live, king, pop, kingofpop, MJ, M.J, healthewold, michealjackson, マイケルジャクソン, Billie, Jean, Moonwalk, Beat, it, You, Are, Not, Alone, THRILLER, gala, 1992, michaeljacksonr.i.p, michaeljacksonlive, マイケル・ジャクソン, singing, slash, R.I.P., 1958, 2009</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=eO0Q2yu1pzk&amp;feature=youtube_gdata"/>
+      <media:restriction type="country" relationship="deny">DE</media:restriction>
+      <media:thumbnail url="http://i.ytimg.com/vi/eO0Q2yu1pzk/default.jpg" height="90" width="120" time="00:02:48"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eO0Q2yu1pzk/2.jpg" height="90" width="120" time="00:02:48"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eO0Q2yu1pzk/1.jpg" height="90" width="120" time="00:01:24"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eO0Q2yu1pzk/3.jpg" height="90" width="120" time="00:04:12"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eO0Q2yu1pzk/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Michael Jackson -  " Heal The World "  Live At GBill Clinton's Gala 1992</media:title>
+      <yt:duration seconds="336"/>
+      <yt:uploaded>2009-06-29T00:31:55.000Z</yt:uploaded>
+      <yt:videoid>eO0Q2yu1pzk</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9404135" max="5" min="1" numRaters="5320" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:recorded>2009-06-29</yt:recorded>
+    <yt:statistics favoriteCount="10038" viewCount="4385341"/>
+    <yt:rating numDislikes="79" numLikes="5241"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEUMRn47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:3HM9tyNkUAg</id>
+    <published>2009-11-12T16:34:09.000Z</published>
+    <updated>2010-06-16T21:04:47.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yugioh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="abridged"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="series"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anime"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="littlekuriboh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spoof"/>
+    <title>BROOKLYN RAGE~!</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/3HM9tyNkUAg?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=3HM9tyNkUAg&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/3HM9tyNkUAg/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/3HM9tyNkUAg/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=3HM9tyNkUAg"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/3HM9tyNkUAg?v=2"/>
+    <author>
+      <name>CardGamesFTW</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cardgamesftw</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/3HM9tyNkUAg/comments?v=2" countHint="8837"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/3HM9tyNkUAg?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="247" yt:format="5"/>
+      <media:content url="rtsp://v1.cache3.c.youtube.com/CiQLENy73wIaGwkIUGQjtz1z3BMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="247" yt:format="1"/>
+      <media:content url="rtsp://v4.cache2.c.youtube.com/CiQLENy73wIaGwkIUGQjtz1z3BMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="247" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">CardGamesFTW</media:credit>
+      <media:description type="plain">Buy Brooklyn Rage shirts from sharkrobot.com!
+
+http://sharkrobot.com/t-shirts/brooklyn-rage
+
+
+DIRECT DOWNLOAD MP3 - http://www.yugiohtheabridgedseries.com/sounds/Brooklyn%20Rage.mp3
+
+Lyrics:
+
+Nyeh nyeh nyeh nyeeehhh
+Nyeh nyeh nyeh nyeeehhh
+Nyeh nyeh nyeh nyeeehhh
+Nyeh nyeh nyeh nyeeehhh
+Nyeh nyeh nyeh nyeeehhh
+
+I wanna duel 'em like they do in Yu-Gi-Oh
+Face down face up trap cards spell cards then time roulette go (I love it!)
+All I do is just believe in the heart of the cards
+And then I kick some butt when I use Swordsman of Landstar
+
+Oh, oh, oh, oh, ohhhh, ohh-oh-ohh-oh-oh
+Ain't no surprise, check out my Red Eyes
+Oh, oh, oh, oh, ohhhh, ohh-oh-ohh-oh-oh
+Ain't no surprise, check out my Red Eyes
+
+Can't beat my
+Can't beat my
+No they can't beat my Brooklyn Rage
+(I don't wanna be a furry)
+Can't beat my
+Can't beat my
+No they can't beat my Brooklyn Rage
+(I don't wanna be a furry)
+
+Bruh-bruh-bruh-Brooklyn Rage, bruh-bruh-Brooklyn Rage
+Nyeh nyeh nyeh nyeh
+Bruh-bruh-bruh-Brooklyn Rage, bruh-bruh-Brooklyn Rage
+Nyeh nyeh nyeh nyeh
+
+My sister's sight is on the line I gotta win
+They'll learn to run soon as they see my creepy chin (I'm scary!)
+Russian Roulette is not the same without a gun
+But since we're dubbed by 4Kids we must make do without one
+Sucks!
+
+Oh, oh, oh, oh, ohhhh, ohh-oh-ohh-oh-oh
+Ain't no surprise, check out my Red Eyes
+Oh, oh, oh, oh, ohhhh, ohh-oh-ohh-oh-oh
+Ain't no surprise, check out my Red Eyes
+
+Can't beat my
+Can't beat my
+No they can't beat my Brooklyn Rage
+(I don't wanna be a furry)
+Can't beat my
+Can't beat my
+No they can't beat my Brooklyn Rage
+(I don't wanna be a furry)
+
+Bruh-bruh-bruh-Brooklyn Rage, bruh-bruh-Brooklyn Rage
+Nyeh nyeh nyeh nyeh
+Bruh-bruh-bruh-Brooklyn Rage, bruh-bruh-Brooklyn Rage
+Nyeh nyeh nyeh nyeh
+
+I won't lose to Rex and Weevil
+Cause they're evil
+And I'm groovy with my Yugi
+I'm not baggin' I'm just hangin' with my Baby Dragon
+Met this chick with giant boobies
+Treated us like we were noobies and
+She's such an ass, such an ass
+Check this deck, I ain't second class!
+
+Can't beat my
+Can't beat my
+No they can't beat my Brooklyn Rage
+(I don't wanna be a furry)
+Can't beat my
+Can't beat my
+No they can't beat my Brooklyn Rage
+(I don't wanna be a furry)
+
+Bruh-bruh-bruh-Brooklyn Rage, bruh-bruh-Brooklyn Rage
+Nyeh nyeh nyeh nyeh
+Bruh-bruh-bruh-Brooklyn Rage, bruh-bruh-Brooklyn Rage
+Nyeh nyeh nyeh nyeh</media:description>
+      <media:keywords>yugioh, abridged, series, anime, music, video, littlekuriboh, spoof</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=3HM9tyNkUAg&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3HM9tyNkUAg/default.jpg" height="90" width="120" time="00:02:03.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3HM9tyNkUAg/2.jpg" height="90" width="120" time="00:02:03.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3HM9tyNkUAg/1.jpg" height="90" width="120" time="00:01:01.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3HM9tyNkUAg/3.jpg" height="90" width="120" time="00:03:05.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3HM9tyNkUAg/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">BROOKLYN RAGE~!</media:title>
+      <yt:duration seconds="247"/>
+      <yt:uploaded>2009-11-12T16:34:09.000Z</yt:uploaded>
+      <yt:videoid>3HM9tyNkUAg</yt:videoid>
+    </media:group>
+    <gd:rating average="4.928297" max="5" min="1" numRaters="20836" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="31408" viewCount="1477382"/>
+    <yt:rating numDislikes="373" numLikes="20463"/>
+  </entry>
+</feed>

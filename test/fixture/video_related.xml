@@ -1,0 +1,1488 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:yt="http://gdata.youtube.com/schemas/2007" gd:etag="W/&quot;DEUAR3k7cCp7ImA9WxFVFk4.&quot;">
+  <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:related</id>
+  <updated>2010-06-15T21:10:46.708Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+  <title>Videos related to 'LTJ Bukem - Horizons'</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com/results?search=related&amp;search_query=Ltj%20Bukem%20Mc%20Conrad%20Horizons%20Ats%20Drumandbass%20atmospheric%20Good%20looking%20dnb%20d%27n%27b%20old%20school%20logical%20progression&amp;v=rFVHjZYoq4Q"/>
+  <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related?v=2"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/batch?v=2"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related?start-index=1&amp;max-results=25&amp;v=2"/>
+  <link rel="service" type="application/atomsvc+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related?alt=atom-service&amp;v=2"/>
+  <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related?start-index=26&amp;max-results=25&amp;v=2"/>
+  <author>
+    <name>YouTube</name>
+    <uri>http://www.youtube.com/</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>59</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <entry gd:etag="W/&quot;D0UDQn47eCp7ImA9WxFVFUU.&quot;">
+    <id>tag:youtube.com,2008:video:-g3RUnx9svM</id>
+    <published>2007-08-03T11:58:30.000Z</published>
+    <updated>2010-06-15T07:01:13.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dnb"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="drum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="and"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="atlantis"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Daniel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Williamson"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Good"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Looking"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Records"/>
+    <title>LTJ Bukem - Atlantis</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/-g3RUnx9svM?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=-g3RUnx9svM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-g3RUnx9svM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-g3RUnx9svM/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=-g3RUnx9svM"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/-g3RUnx9svM?v=2"/>
+    <author>
+      <name>cansk19</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cansk19</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/-g3RUnx9svM/comments?v=2" countHint="946"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/-g3RUnx9svM?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="435" yt:format="5"/>
+      <media:content url="rtsp://v5.cache6.c.youtube.com/CiMLENy73wIaGgnzsn18UtEN-hMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="435" yt:format="1"/>
+      <media:content url="rtsp://v2.cache6.c.youtube.com/CiMLENy73wIaGgnzsn18UtEN-hMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="435" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">cansk19</media:credit>
+      <media:description type="plain">LTJ Bukem - Atlantis / Good Looking Records Feel free to rate...</media:description>
+      <media:keywords>LTJ, Bukem, dnb, drum, and, bass, atlantis, Daniel, Williamson, dj, Good, Looking, Records</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=-g3RUnx9svM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-g3RUnx9svM/default.jpg" height="90" width="120" time="00:03:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-g3RUnx9svM/2.jpg" height="90" width="120" time="00:03:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-g3RUnx9svM/1.jpg" height="90" width="120" time="00:01:48.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-g3RUnx9svM/3.jpg" height="90" width="120" time="00:05:26.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-g3RUnx9svM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem - Atlantis</media:title>
+      <yt:duration seconds="435"/>
+      <yt:uploaded>2007-08-03T11:58:30.000Z</yt:uploaded>
+      <yt:videoid>-g3RUnx9svM</yt:videoid>
+    </media:group>
+    <gd:rating average="4.899573" max="5" min="1" numRaters="1404" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="3264" viewCount="360729"/>
+    <yt:rating numDislikes="35" numLikes="1369"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0MCQX47eCp7ImA9WxFVFUs.&quot;">
+    <id>tag:youtube.com,2008:video:XWR3HppFUxM</id>
+    <published>2008-03-14T20:04:55.000Z</published>
+    <updated>2010-06-15T01:31:00.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ltj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="drum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="base"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="d&amp;b"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jungle"/>
+    <title>LTJ Bukem - Music</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/XWR3HppFUxM?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=XWR3HppFUxM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/XWR3HppFUxM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/XWR3HppFUxM/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=XWR3HppFUxM"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/XWR3HppFUxM?v=2"/>
+    <author>
+      <name>oOsicknickOo</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/oosicknickoo</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/XWR3HppFUxM/comments?v=2" countHint="213"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/XWR3HppFUxM?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="530" yt:format="5"/>
+      <media:content url="rtsp://v1.cache2.c.youtube.com/CiMLENy73wIaGgkTU0WaHndkXRMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="530" yt:format="1"/>
+      <media:content url="rtsp://v8.cache2.c.youtube.com/CiMLENy73wIaGgkTU0WaHndkXRMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="530" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">oOsicknickOo</media:credit>
+      <media:description type="plain">Enjoy</media:description>
+      <media:keywords>ltj, bukem, music, drum, bass, base, d&amp;b, jungle</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=XWR3HppFUxM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XWR3HppFUxM/default.jpg" height="90" width="120" time="00:04:25"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XWR3HppFUxM/2.jpg" height="90" width="120" time="00:04:25"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XWR3HppFUxM/1.jpg" height="90" width="120" time="00:02:12.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XWR3HppFUxM/3.jpg" height="90" width="120" time="00:06:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XWR3HppFUxM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem - Music</media:title>
+      <yt:duration seconds="530"/>
+      <yt:uploaded>2008-03-14T20:04:55.000Z</yt:uploaded>
+      <yt:videoid>XWR3HppFUxM</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8821654" max="5" min="1" numRaters="314" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="741" viewCount="117158"/>
+    <yt:rating numDislikes="9" numLikes="305"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0cARn47eCp7ImA9WxFVFUQ.&quot;">
+    <id>tag:youtube.com,2008:video:7mekSjaYy0c</id>
+    <published>2007-10-18T22:48:06.000Z</published>
+    <updated>2010-06-15T09:44:07.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <title>LTJ Bukem - Inner Guidance</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/7mekSjaYy0c?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=7mekSjaYy0c&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/7mekSjaYy0c/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/7mekSjaYy0c/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=7mekSjaYy0c"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/7mekSjaYy0c?v=2"/>
+    <author>
+      <name>Synth19</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/synth19</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/7mekSjaYy0c/comments?v=2" countHint="104"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/7mekSjaYy0c?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="312" yt:format="5"/>
+      <media:content url="rtsp://v8.cache8.c.youtube.com/CiMLENy73wIaGglHy5g2SqRn7hMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="312" yt:format="1"/>
+      <media:content url="rtsp://v2.cache3.c.youtube.com/CiMLENy73wIaGglHy5g2SqRn7hMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="312" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">Synth19</media:credit>
+      <media:description type="plain">Good Looking Records o_o</media:description>
+      <media:keywords>LTJ, Bukem</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=7mekSjaYy0c&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7mekSjaYy0c/default.jpg" height="90" width="120" time="00:02:36"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7mekSjaYy0c/2.jpg" height="90" width="120" time="00:02:36"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7mekSjaYy0c/1.jpg" height="90" width="120" time="00:01:18"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7mekSjaYy0c/3.jpg" height="90" width="120" time="00:03:54"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7mekSjaYy0c/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem - Inner Guidance</media:title>
+      <yt:duration seconds="312"/>
+      <yt:uploaded>2007-10-18T22:48:06.000Z</yt:uploaded>
+      <yt:videoid>7mekSjaYy0c</yt:videoid>
+    </media:group>
+    <gd:rating average="4.910798" max="5" min="1" numRaters="213" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="708" viewCount="95445"/>
+    <yt:rating numDislikes="5" numLikes="208"/>
+  </entry>
+  <entry gd:etag="W/&quot;DkMERn47eCp7ImA9WxFVFUs.&quot;">
+    <id>tag:youtube.com,2008:video:X5clAkYEF5w</id>
+    <published>2007-12-21T18:45:58.000Z</published>
+    <updated>2010-06-15T01:13:27.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ARTIST:"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="BUKEM"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="MC"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="CONRAD"/>
+    <title>Jungle / Drum and Bass (logical progression 2001)</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/X5clAkYEF5w?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=X5clAkYEF5w&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/X5clAkYEF5w/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/X5clAkYEF5w/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=X5clAkYEF5w"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/X5clAkYEF5w?v=2"/>
+    <author>
+      <name>nineball87</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/nineball87</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/X5clAkYEF5w/comments?v=2" countHint="346"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/X5clAkYEF5w?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="637" yt:format="5"/>
+      <media:content url="rtsp://v5.cache1.c.youtube.com/CiMLENy73wIaGgmcFwRGAiWXXxMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="637" yt:format="1"/>
+      <media:content url="rtsp://v2.cache4.c.youtube.com/CiMLENy73wIaGgmcFwRGAiWXXxMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="637" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">nineball87</media:credit>
+      <media:description type="plain">ARTIST: LTJ BUKEM &amp; MC CONRAD GENRE: JUNGLE, DRUM AND BASS, AMBIENT Deephouse starts right after senses in the album.</media:description>
+      <media:keywords>ARTIST:, LTJ, BUKEM, MC, CONRAD</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=X5clAkYEF5w&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/X5clAkYEF5w/default.jpg" height="90" width="120" time="00:05:18.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/X5clAkYEF5w/2.jpg" height="90" width="120" time="00:05:18.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/X5clAkYEF5w/1.jpg" height="90" width="120" time="00:02:39.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/X5clAkYEF5w/3.jpg" height="90" width="120" time="00:07:57.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/X5clAkYEF5w/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Jungle / Drum and Bass (logical progression 2001)</media:title>
+      <yt:duration seconds="637"/>
+      <yt:uploaded>2007-12-21T18:45:58.000Z</yt:uploaded>
+      <yt:videoid>X5clAkYEF5w</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8067093" max="5" min="1" numRaters="626" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="1936" viewCount="489657"/>
+    <yt:rating numDislikes="30" numLikes="596"/>
+  </entry>
+  <entry gd:etag="W/&quot;DkIERn47eCp7ImA9WxFVFUU.&quot;">
+    <id>tag:youtube.com,2008:video:HPtWe0IhhMI</id>
+    <published>2008-03-14T21:48:32.000Z</published>
+    <updated>2010-06-15T06:48:27.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ltj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="watercolours"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="d&amp;b"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="drum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="base"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jungle"/>
+    <title>LTJ Bukem - Watercolours</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/HPtWe0IhhMI?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=HPtWe0IhhMI&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/HPtWe0IhhMI/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/HPtWe0IhhMI/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=HPtWe0IhhMI"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/HPtWe0IhhMI?v=2"/>
+    <author>
+      <name>oOsicknickOo</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/oosicknickoo</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/HPtWe0IhhMI/comments?v=2" countHint="79"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/HPtWe0IhhMI?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="460" yt:format="5"/>
+      <media:content url="rtsp://v6.cache4.c.youtube.com/CiMLENy73wIaGgnChCFCe1b7HBMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="460" yt:format="1"/>
+      <media:content url="rtsp://v4.cache3.c.youtube.com/CiMLENy73wIaGgnChCFCe1b7HBMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="460" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">oOsicknickOo</media:credit>
+      <media:description type="plain">Enjoy</media:description>
+      <media:keywords>ltj, bukem, watercolours, d&amp;b, drum, base, bass, jungle</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=HPtWe0IhhMI&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/HPtWe0IhhMI/default.jpg" height="90" width="120" time="00:03:50"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/HPtWe0IhhMI/2.jpg" height="90" width="120" time="00:03:50"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/HPtWe0IhhMI/1.jpg" height="90" width="120" time="00:01:55"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/HPtWe0IhhMI/3.jpg" height="90" width="120" time="00:05:45"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/HPtWe0IhhMI/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem - Watercolours</media:title>
+      <yt:duration seconds="460"/>
+      <yt:uploaded>2008-03-14T21:48:32.000Z</yt:uploaded>
+      <yt:videoid>HPtWe0IhhMI</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9324327" max="5" min="1" numRaters="148" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="393" viewCount="59047"/>
+    <yt:rating numDislikes="2" numLikes="146"/>
+  </entry>
+  <entry gd:etag="W/&quot;CUcAQH47eCp7ImA9WxFVFUQ.&quot;">
+    <id>tag:youtube.com,2008:video:-gafJXCDKk4</id>
+    <published>2007-06-06T10:34:51.000Z</published>
+    <updated>2010-06-15T09:10:41.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="MC"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Conrad"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dnb"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Remix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mashup"/>
+    <title>LTJ Bukem &amp; MC Conrad Video</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/-gafJXCDKk4?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=-gafJXCDKk4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-gafJXCDKk4/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-gafJXCDKk4/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/-gafJXCDKk4?v=2"/>
+    <author>
+      <name>hotnstinky</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/hotnstinky</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="denied"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/-gafJXCDKk4/comments?v=2" countHint="67"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/-gafJXCDKk4?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="236" yt:format="5"/>
+      <media:credit role="uploader" scheme="urn:youtube">hotnstinky</media:credit>
+      <media:description type="plain">Rick Swerve stayed up a little late last night, had a few hits off of a tasty old bong — otherwise known as Mt. Baker — and decided to take his first foray into the exciting world of video editing. The end result of course displays my raw technical skills, but the video also overflows with the untapped creativity of a talented young artist just waiting to break free from the shackles of our oppressive and rigid society. So sit back, relax, and groove with LTJ Bukem, MC Conrad, and the fine visual effects of Rick Swerve in "LTJ Elderly" — HotnStinky.com's first contribution to the venerable YouTube universe. I don't think Sundance will be calling anytime soon. But trust me, it has a great ending.</media:description>
+      <media:keywords>LTJ, Bukem, MC, Conrad, dnb, Remix, Mashup</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=-gafJXCDKk4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-gafJXCDKk4/default.jpg" height="90" width="120" time="00:01:58"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-gafJXCDKk4/2.jpg" height="90" width="120" time="00:01:58"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-gafJXCDKk4/1.jpg" height="90" width="120" time="00:00:59"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-gafJXCDKk4/3.jpg" height="90" width="120" time="00:02:57"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-gafJXCDKk4/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem &amp; MC Conrad Video</media:title>
+      <yt:duration seconds="236"/>
+      <yt:uploaded>2007-06-06T10:34:51.000Z</yt:uploaded>
+      <yt:videoid>-gafJXCDKk4</yt:videoid>
+    </media:group>
+    <gd:rating average="4.72043" max="5" min="1" numRaters="93" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:recorded>2007-06-01</yt:recorded>
+    <yt:statistics favoriteCount="286" viewCount="46439"/>
+    <yt:rating numDislikes="7" numLikes="86"/>
+  </entry>
+  <entry gd:etag="W/&quot;DkQBQH47eCp7ImA9WxFVFUg.&quot;">
+    <id>tag:youtube.com,2008:video:h818y6DzuhU</id>
+    <published>2007-12-09T15:25:38.000Z</published>
+    <updated>2010-06-14T22:25:51.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Live"/>
+    <title>LTJ Bukem and MC Conrad - Live @ Electronic Beats (Part 2)</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/h818y6DzuhU?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=h818y6DzuhU&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/h818y6DzuhU/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/h818y6DzuhU/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=h818y6DzuhU"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/h818y6DzuhU?v=2"/>
+    <author>
+      <name>aquasky3000</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/aquasky3000</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/h818y6DzuhU/comments?v=2" countHint="107"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/h818y6DzuhU?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="605" yt:format="5"/>
+      <media:content url="rtsp://v5.cache3.c.youtube.com/CiMLENy73wIaGgkVuvOgy3zNhxMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="605" yt:format="1"/>
+      <media:content url="rtsp://v7.cache5.c.youtube.com/CiMLENy73wIaGgkVuvOgy3zNhxMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="605" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">aquasky3000</media:credit>
+      <media:description type="plain">LTJ Bukem and MC Conrad - Live @ Electronic Beats (Part 2)</media:description>
+      <media:keywords>Bukem, Live</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=h818y6DzuhU&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/h818y6DzuhU/default.jpg" height="90" width="120" time="00:05:02.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/h818y6DzuhU/2.jpg" height="90" width="120" time="00:05:02.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/h818y6DzuhU/1.jpg" height="90" width="120" time="00:02:31.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/h818y6DzuhU/3.jpg" height="90" width="120" time="00:07:33.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/h818y6DzuhU/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem and MC Conrad - Live @ Electronic Beats (Part 2)</media:title>
+      <yt:duration seconds="605"/>
+      <yt:uploaded>2007-12-09T15:25:38.000Z</yt:uploaded>
+      <yt:videoid>h818y6DzuhU</yt:videoid>
+    </media:group>
+    <gd:rating average="4.895105" max="5" min="1" numRaters="143" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="438" viewCount="64578"/>
+    <yt:rating numDislikes="4" numLikes="139"/>
+  </entry>
+  <entry gd:etag="W/&quot;C0AFSX47eCp7ImA9WxFVFk0.&quot;">
+    <id>tag:youtube.com,2008:video:yftOy8kz7aE</id>
+    <published>2007-04-02T05:17:38.000Z</published>
+    <updated>2010-06-15T11:35:18.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Massive"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Attack"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Teardrop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Portishead"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Remix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hubble"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Space"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Cara"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Fleming"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Judy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Zifka"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="House"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="theme"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Assassin's"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Creed"/>
+    <title>"Teardrop" - Massive Attack</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/yftOy8kz7aE?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=yftOy8kz7aE&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/yftOy8kz7aE/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/yftOy8kz7aE/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/yftOy8kz7aE?v=2"/>
+    <author>
+      <name>carafleming</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/carafleming</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="denied"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/yftOy8kz7aE/comments?v=2" countHint="3380"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/yftOy8kz7aE?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="337" yt:format="5"/>
+      <media:credit role="uploader" scheme="urn:youtube">carafleming</media:credit>
+      <media:description type="plain">Your moment of Zen to Teardrop by Massive Attack. These are fractured images from the Hubble Space Telescope. They are animated in iMovie on a Macbook. The reference to Portishead at the end of the film is an error. But once I posted it, I didn't want to pull the video so the error remains. Sorry.</media:description>
+      <media:keywords>Massive, Attack, Teardrop, Portishead, Remix, Hubble, Space, Cara, Fleming, Judy, Zifka, House, theme, music, Assassin's, Creed</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=yftOy8kz7aE&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/yftOy8kz7aE/default.jpg" height="90" width="120" time="00:02:48.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/yftOy8kz7aE/2.jpg" height="90" width="120" time="00:02:48.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/yftOy8kz7aE/1.jpg" height="90" width="120" time="00:01:24.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/yftOy8kz7aE/3.jpg" height="90" width="120" time="00:04:12.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/yftOy8kz7aE/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">"Teardrop" - Massive Attack</media:title>
+      <yt:duration seconds="337"/>
+      <yt:uploaded>2007-04-02T05:17:38.000Z</yt:uploaded>
+      <yt:videoid>yftOy8kz7aE</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8997526" max="5" min="1" numRaters="7681" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="24193" viewCount="3019106"/>
+    <yt:rating numDislikes="192" numLikes="7489"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEcFQH47eCp7ImA9WxFVFUo.&quot;">
+    <id>tag:youtube.com,2008:video:eTjcNh7w2Ng</id>
+    <published>2008-07-22T14:42:16.000Z</published>
+    <updated>2010-06-15T03:20:11.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Earth"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="downtempo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="electronic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="space"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="universe"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="trance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="good"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="looking"/>
+    <title>LTJ Bukem Earth</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/eTjcNh7w2Ng?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=eTjcNh7w2Ng&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/eTjcNh7w2Ng/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/eTjcNh7w2Ng/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=eTjcNh7w2Ng"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/eTjcNh7w2Ng?v=2"/>
+    <author>
+      <name>ExNihiloJimmy</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/exnihilojimmy</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/eTjcNh7w2Ng/comments?v=2" countHint="64"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/eTjcNh7w2Ng?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="517" yt:format="5"/>
+      <media:content url="rtsp://v2.cache1.c.youtube.com/CiMLENy73wIaGgnY2PAeNtw4eRMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="517" yt:format="1"/>
+      <media:content url="rtsp://v8.cache8.c.youtube.com/CiMLENy73wIaGgnY2PAeNtw4eRMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="517" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">ExNihiloJimmy</media:credit>
+      <media:description type="plain">One of my favourite songs with a picture of my favourite planet</media:description>
+      <media:keywords>LTJ, Bukem, Earth, downtempo, electronic, space, universe, music, trance, good, looking</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=eTjcNh7w2Ng&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eTjcNh7w2Ng/default.jpg" height="90" width="120" time="00:04:18.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eTjcNh7w2Ng/2.jpg" height="90" width="120" time="00:04:18.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eTjcNh7w2Ng/1.jpg" height="90" width="120" time="00:02:09.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eTjcNh7w2Ng/3.jpg" height="90" width="120" time="00:06:27.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eTjcNh7w2Ng/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem Earth</media:title>
+      <yt:duration seconds="517"/>
+      <yt:uploaded>2008-07-22T14:42:16.000Z</yt:uploaded>
+      <yt:videoid>eTjcNh7w2Ng</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8333335" max="5" min="1" numRaters="84" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="228" viewCount="36559"/>
+    <yt:rating numDislikes="3" numLikes="81"/>
+  </entry>
+  <entry gd:etag="W/&quot;DEQGQ347eCp7ImA9WxFVFUs.&quot;">
+    <id>tag:youtube.com,2008:video:UrpWEosV6MY</id>
+    <published>2006-01-23T22:34:38.000Z</published>
+    <updated>2010-06-15T01:45:22.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ltj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="drumandbass"/>
+    <title>LTJ Bukem - sunrain</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/UrpWEosV6MY?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=UrpWEosV6MY&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/UrpWEosV6MY/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/UrpWEosV6MY/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/UrpWEosV6MY?v=2"/>
+    <author>
+      <name>oele</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/oele</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/UrpWEosV6MY/comments?v=2" countHint="107"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/UrpWEosV6MY?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="184" yt:format="5"/>
+      <media:content url="rtsp://v7.cache1.c.youtube.com/CiMLENy73wIaGgnG6BWLEla6UhMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="184" yt:format="1"/>
+      <media:content url="rtsp://v4.cache4.c.youtube.com/CiMLENy73wIaGgnG6BWLEla6UhMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="184" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">oele</media:credit>
+      <media:description type="plain">LTJ Bukem feat: elliot</media:description>
+      <media:keywords>ltj, bukem, drumandbass</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=UrpWEosV6MY&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UrpWEosV6MY/default.jpg" height="90" width="120" time="00:01:32"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UrpWEosV6MY/2.jpg" height="90" width="120" time="00:01:32"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UrpWEosV6MY/1.jpg" height="90" width="120" time="00:00:46"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UrpWEosV6MY/3.jpg" height="90" width="120" time="00:02:18"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UrpWEosV6MY/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem - sunrain</media:title>
+      <yt:duration seconds="184"/>
+      <yt:uploaded>2006-01-23T22:34:38.000Z</yt:uploaded>
+      <yt:videoid>UrpWEosV6MY</yt:videoid>
+    </media:group>
+    <gd:rating average="4.852018" max="5" min="1" numRaters="223" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="789" viewCount="116320"/>
+    <yt:rating numDislikes="8" numLikes="215"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0EEQH47eCp7ImA9WxFVFUs.&quot;">
+    <id>tag:youtube.com,2008:video:YIcMolthnX0</id>
+    <published>2006-06-10T14:09:00.000Z</published>
+    <updated>2010-06-15T01:33:21.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Goldie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dnb"/>
+    <title>Goldie - Temper Temper</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/YIcMolthnX0?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=YIcMolthnX0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/YIcMolthnX0/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/YIcMolthnX0/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/YIcMolthnX0?v=2"/>
+    <author>
+      <name>sneezing7</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/sneezing7</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="denied"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/YIcMolthnX0/comments?v=2" countHint="500"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/YIcMolthnX0?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="258" yt:format="5"/>
+      <media:credit role="uploader" scheme="urn:youtube">sneezing7</media:credit>
+      <media:description type="plain">Breaking Stuff - Goldie Style</media:description>
+      <media:keywords>Goldie, dnb</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=YIcMolthnX0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YIcMolthnX0/default.jpg" height="90" width="120" time="00:02:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YIcMolthnX0/2.jpg" height="90" width="120" time="00:02:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YIcMolthnX0/1.jpg" height="90" width="120" time="00:01:04.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YIcMolthnX0/3.jpg" height="90" width="120" time="00:03:13.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YIcMolthnX0/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Goldie - Temper Temper</media:title>
+      <yt:duration seconds="258"/>
+      <yt:uploaded>2006-06-10T14:09:00.000Z</yt:uploaded>
+      <yt:videoid>YIcMolthnX0</yt:videoid>
+    </media:group>
+    <gd:rating average="4.7052374" max="5" min="1" numRaters="821" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="2370" viewCount="436171"/>
+    <yt:rating numDislikes="60" numLikes="761"/>
+  </entry>
+  <entry gd:etag="W/&quot;D08BRX47eCp7ImA9WxFVFUU.&quot;">
+    <id>tag:youtube.com,2008:video:rTRrmV9-qY0</id>
+    <published>2007-08-03T13:04:40.000Z</published>
+    <updated>2010-06-15T07:10:54.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dnb"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="drum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="and"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="journey"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="inwards"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Daniel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Williamson"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Good"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Looking"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Records"/>
+    <title>LTJ Bukem - Journey Inwards</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/rTRrmV9-qY0?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rTRrmV9-qY0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rTRrmV9-qY0/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rTRrmV9-qY0/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/rTRrmV9-qY0?v=2"/>
+    <author>
+      <name>cansk19</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cansk19</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/rTRrmV9-qY0/comments?v=2" countHint="100"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/rTRrmV9-qY0?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="424" yt:format="5"/>
+      <media:content url="rtsp://v5.cache7.c.youtube.com/CiMLENy73wIaGgmNqX5fmWs0rRMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="424" yt:format="1"/>
+      <media:content url="rtsp://v3.cache1.c.youtube.com/CiMLENy73wIaGgmNqX5fmWs0rRMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="424" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">cansk19</media:credit>
+      <media:description type="plain">LTJ Bukem - Journey Inwards Feel free to rate...</media:description>
+      <media:keywords>LTJ, Bukem, dnb, drum, and, bass, journey, inwards, Daniel, Williamson, dj, Good, Looking, Records</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=rTRrmV9-qY0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rTRrmV9-qY0/default.jpg" height="90" width="120" time="00:03:32"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rTRrmV9-qY0/2.jpg" height="90" width="120" time="00:03:32"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rTRrmV9-qY0/1.jpg" height="90" width="120" time="00:01:46"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rTRrmV9-qY0/3.jpg" height="90" width="120" time="00:05:18"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rTRrmV9-qY0/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem - Journey Inwards</media:title>
+      <yt:duration seconds="424"/>
+      <yt:uploaded>2007-08-03T13:04:40.000Z</yt:uploaded>
+      <yt:videoid>rTRrmV9-qY0</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8672986" max="5" min="1" numRaters="211" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="501" viewCount="52400"/>
+    <yt:rating numDislikes="7" numLikes="204"/>
+  </entry>
+  <entry gd:etag="W/&quot;DkAGQX47eCp7ImA9WxFVFUU.&quot;">
+    <id>tag:youtube.com,2008:video:8d9Zg1sAhls</id>
+    <published>2008-10-31T07:10:25.000Z</published>
+    <updated>2010-06-15T06:52:00.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Logical"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="progression"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Horizons"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="drum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="and"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="trance"/>
+    <title>LTJ Bukem - Horizons</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/8d9Zg1sAhls?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=8d9Zg1sAhls&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/8d9Zg1sAhls/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/8d9Zg1sAhls/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=8d9Zg1sAhls"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/8d9Zg1sAhls?v=2"/>
+    <author>
+      <name>pressplayagain</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/pressplayagain</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/8d9Zg1sAhls/comments?v=2" countHint="38"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/8d9Zg1sAhls?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="425" yt:format="5"/>
+      <media:content url="rtsp://v7.cache8.c.youtube.com/CiMLENy73wIaGglbhgBbg1nf8RMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="425" yt:format="1"/>
+      <media:content url="rtsp://v1.cache6.c.youtube.com/CiMLENy73wIaGglbhgBbg1nf8RMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="425" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">pressplayagain</media:credit>
+      <media:description type="plain">Logical Progression - track 10 CD - A</media:description>
+      <media:keywords>LTJ, Bukem, Logical, progression, Horizons, drum, and, bass, trance</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=8d9Zg1sAhls&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8d9Zg1sAhls/default.jpg" height="90" width="120" time="00:03:32.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8d9Zg1sAhls/2.jpg" height="90" width="120" time="00:03:32.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8d9Zg1sAhls/1.jpg" height="90" width="120" time="00:01:46.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8d9Zg1sAhls/3.jpg" height="90" width="120" time="00:05:18.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8d9Zg1sAhls/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem - Horizons</media:title>
+      <yt:duration seconds="425"/>
+      <yt:uploaded>2008-10-31T07:10:25.000Z</yt:uploaded>
+      <yt:videoid>8d9Zg1sAhls</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9615383" max="5" min="1" numRaters="78" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="211" viewCount="21566"/>
+    <yt:rating numDislikes="1" numLikes="77"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEIFR347eCp7ImA9WxFVFUo.&quot;">
+    <id>tag:youtube.com,2008:video:sx9bMRIbYJc</id>
+    <published>2008-03-30T07:43:48.000Z</published>
+    <updated>2010-06-15T03:28:36.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="MC"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Conrad"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Way"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="of"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Life"/>
+    <title>LTJ Bukem &amp; MC Conrad - A Way of Life</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/sx9bMRIbYJc?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=sx9bMRIbYJc&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/sx9bMRIbYJc/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/sx9bMRIbYJc/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=sx9bMRIbYJc"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/sx9bMRIbYJc?v=2"/>
+    <author>
+      <name>gobrowns1</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/gobrowns1</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/sx9bMRIbYJc/comments?v=2" countHint="70"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/sx9bMRIbYJc?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="257" yt:format="5"/>
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CiMLENy73wIaGgmXYBsSMVsfsxMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="257" yt:format="1"/>
+      <media:content url="rtsp://v1.cache1.c.youtube.com/CiMLENy73wIaGgmXYBsSMVsfsxMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="257" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">gobrowns1</media:credit>
+      <media:description type="plain">Pic : Cat eye Nebula Please buy the album if you like the songs.</media:description>
+      <media:keywords>LTJ, Bukem, MC, Conrad, Way, of, Life</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=sx9bMRIbYJc&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sx9bMRIbYJc/default.jpg" height="90" width="120" time="00:02:08.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sx9bMRIbYJc/2.jpg" height="90" width="120" time="00:02:08.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sx9bMRIbYJc/1.jpg" height="90" width="120" time="00:01:04.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sx9bMRIbYJc/3.jpg" height="90" width="120" time="00:03:12.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sx9bMRIbYJc/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem &amp; MC Conrad - A Way of Life</media:title>
+      <yt:duration seconds="257"/>
+      <yt:uploaded>2008-03-30T07:43:48.000Z</yt:uploaded>
+      <yt:videoid>sx9bMRIbYJc</yt:videoid>
+    </media:group>
+    <gd:rating average="4.947761" max="5" min="1" numRaters="134" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="410" viewCount="55670"/>
+    <yt:rating numDislikes="2" numLikes="132"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEECRX47eCp7ImA9WxFVFUQ.&quot;">
+    <id>tag:youtube.com,2008:video:MF_ctZ2M2Hs</id>
+    <published>2008-02-02T02:43:43.000Z</published>
+    <updated>2010-06-15T09:04:24.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ltj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="watercolours"/>
+    <title>ltj bukem watercolours</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/MF_ctZ2M2Hs?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=MF_ctZ2M2Hs&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/MF_ctZ2M2Hs/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/MF_ctZ2M2Hs/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/MF_ctZ2M2Hs?v=2"/>
+    <author>
+      <name>ridehalfpipe</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ridehalfpipe</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/MF_ctZ2M2Hs/comments?v=2" countHint="55"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/MF_ctZ2M2Hs?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="457" yt:format="5"/>
+      <media:content url="rtsp://v2.cache7.c.youtube.com/CiMLENy73wIaGgl72IydtdxfMBMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="457" yt:format="1"/>
+      <media:content url="rtsp://v5.cache5.c.youtube.com/CiMLENy73wIaGgl72IydtdxfMBMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="457" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">ridehalfpipe</media:credit>
+      <media:description type="plain">ltj bukem watercolours</media:description>
+      <media:keywords>ltj, bukem, watercolours</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=MF_ctZ2M2Hs&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/MF_ctZ2M2Hs/default.jpg" height="90" width="120" time="00:03:48.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/MF_ctZ2M2Hs/2.jpg" height="90" width="120" time="00:03:48.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/MF_ctZ2M2Hs/1.jpg" height="90" width="120" time="00:01:54.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/MF_ctZ2M2Hs/3.jpg" height="90" width="120" time="00:05:42.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/MF_ctZ2M2Hs/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">ltj bukem watercolours</media:title>
+      <yt:duration seconds="457"/>
+      <yt:uploaded>2008-02-02T02:43:43.000Z</yt:uploaded>
+      <yt:videoid>MF_ctZ2M2Hs</yt:videoid>
+    </media:group>
+    <gd:rating average="4.87069" max="5" min="1" numRaters="116" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="332" viewCount="34342"/>
+    <yt:rating numDislikes="4" numLikes="112"/>
+  </entry>
+  <entry gd:etag="W/&quot;CUMHQH47eCp7ImA9WxFVFUo.&quot;">
+    <id>tag:youtube.com,2008:video:Q6D0CX3C9dE</id>
+    <published>2008-10-30T20:24:28.000Z</published>
+    <updated>2010-06-15T03:43:51.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Demons"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="theme"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Logical"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="progression"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="drum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="trance"/>
+    <title>LTJ Bukem - Demons Theme</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/Q6D0CX3C9dE?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Q6D0CX3C9dE&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Q6D0CX3C9dE/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Q6D0CX3C9dE/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/Q6D0CX3C9dE?v=2"/>
+    <author>
+      <name>pressplayagain</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/pressplayagain</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Q6D0CX3C9dE/comments?v=2" countHint="110"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/Q6D0CX3C9dE?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="437" yt:format="5"/>
+      <media:content url="rtsp://v1.cache7.c.youtube.com/CiMLENy73wIaGgnR9cJ9CfSgQxMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="437" yt:format="1"/>
+      <media:content url="rtsp://v1.cache7.c.youtube.com/CiMLENy73wIaGgnR9cJ9CfSgQxMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="437" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">pressplayagain</media:credit>
+      <media:description type="plain">Logical Progression - CD A</media:description>
+      <media:keywords>LTJ, Bukem, Demons, theme, Logical, progression, drum, bass, trance</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Q6D0CX3C9dE&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Q6D0CX3C9dE/default.jpg" height="90" width="120" time="00:03:38.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Q6D0CX3C9dE/2.jpg" height="90" width="120" time="00:03:38.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Q6D0CX3C9dE/1.jpg" height="90" width="120" time="00:01:49.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Q6D0CX3C9dE/3.jpg" height="90" width="120" time="00:05:27.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Q6D0CX3C9dE/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem - Demons Theme</media:title>
+      <yt:duration seconds="437"/>
+      <yt:uploaded>2008-10-30T20:24:28.000Z</yt:uploaded>
+      <yt:videoid>Q6D0CX3C9dE</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9872613" max="5" min="1" numRaters="157" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="426" viewCount="38390"/>
+    <yt:rating numDislikes="0" numLikes="157"/>
+  </entry>
+  <entry gd:etag="W/&quot;C0MERX47eCp7ImA9WxFVFk0.&quot;">
+    <id>tag:youtube.com,2008:video:ABqh9N-Mw5E</id>
+    <published>2006-01-21T21:54:19.000Z</published>
+    <updated>2010-06-15T11:30:04.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="pendulum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="slam"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="fat"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dancing"/>
+    <title>pendulum - slam</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/ABqh9N-Mw5E?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=ABqh9N-Mw5E&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ABqh9N-Mw5E/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ABqh9N-Mw5E/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=ABqh9N-Mw5E"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/ABqh9N-Mw5E?v=2"/>
+    <author>
+      <name>clairen2205</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/clairen2205</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/ABqh9N-Mw5E/comments?v=2" countHint="24629"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/ABqh9N-Mw5E?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="259" yt:format="5"/>
+      <media:content url="rtsp://v6.cache2.c.youtube.com/CiMLENy73wIaGgmRw4zf9KEaABMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="259" yt:format="1"/>
+      <media:content url="rtsp://v1.cache3.c.youtube.com/CiMLENy73wIaGgmRw4zf9KEaABMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="259" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">clairen2205</media:credit>
+      <media:description type="plain">the video for slam by pendulum</media:description>
+      <media:keywords>pendulum, slam, fat, dancing</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=ABqh9N-Mw5E&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ABqh9N-Mw5E/default.jpg" height="90" width="120" time="00:02:09.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ABqh9N-Mw5E/2.jpg" height="90" width="120" time="00:02:09.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ABqh9N-Mw5E/1.jpg" height="90" width="120" time="00:01:04.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ABqh9N-Mw5E/3.jpg" height="90" width="120" time="00:03:14.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ABqh9N-Mw5E/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">pendulum - slam</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="259"/>
+      <yt:uploaded>2006-01-21T21:54:19.000Z</yt:uploaded>
+      <yt:videoid>ABqh9N-Mw5E</yt:videoid>
+    </media:group>
+    <gd:rating average="4.863076" max="5" min="1" numRaters="39993" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="75519" viewCount="11956925"/>
+    <yt:rating numDislikes="1369" numLikes="38624"/>
+  </entry>
+  <entry gd:etag="W/&quot;DUQMQn47eCp7ImA9WxFVFkw.&quot;">
+    <id>tag:youtube.com,2008:video:RpDrf_2VCxE</id>
+    <published>2008-11-10T10:42:43.000Z</published>
+    <updated>2010-06-15T15:56:23.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="People" label="People &amp; Blogs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJBUKEM"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="BUKEM"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="CYANTIFIC"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="GOODLOOKING"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="HOSPITAL"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="REMIX"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="HITCHIN"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="DRUM"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="BASS"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="DNB"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="DRUMNBASS"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="JUNGLE"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="OLD"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="SKOOL"/>
+    <title>LTJ BUKEM @ REMIX, HITCHIN</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/RpDrf_2VCxE?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=RpDrf_2VCxE&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/RpDrf_2VCxE/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/RpDrf_2VCxE/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/RpDrf_2VCxE?v=2"/>
+    <author>
+      <name>officialdnba</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/officialdnba</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/RpDrf_2VCxE/comments?v=2" countHint="14"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="People &amp; Blogs" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">People</media:category>
+      <media:content url="http://www.youtube.com/v/RpDrf_2VCxE?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="387" yt:format="5"/>
+      <media:content url="rtsp://v7.cache1.c.youtube.com/CiMLENy73wIaGgkRC5X9f-uQRhMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="387" yt:format="1"/>
+      <media:content url="rtsp://v2.cache5.c.youtube.com/CiMLENy73wIaGgkRC5X9f-uQRhMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="387" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">officialdnba</media:credit>
+      <media:description type="plain">This Halloween we ventured back to new Hitchin venue, Remix to attend the opening and launch party of the Boogaloo Beats record shop. With LTJ Bukem and Cyantific gracing the bill, the crowd were in for a spooky night.</media:description>
+      <media:keywords>LTJBUKEM, BUKEM, CYANTIFIC, GOODLOOKING, HOSPITAL, REMIX, HITCHIN, DRUM, BASS, DNB, DRUMNBASS, JUNGLE, OLD, SKOOL</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=RpDrf_2VCxE&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/RpDrf_2VCxE/default.jpg" height="90" width="120" time="00:03:13.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/RpDrf_2VCxE/2.jpg" height="90" width="120" time="00:03:13.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/RpDrf_2VCxE/1.jpg" height="90" width="120" time="00:01:36.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/RpDrf_2VCxE/3.jpg" height="90" width="120" time="00:04:50.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/RpDrf_2VCxE/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ BUKEM @ REMIX, HITCHIN</media:title>
+      <yt:duration seconds="387"/>
+      <yt:uploaded>2008-11-10T10:42:43.000Z</yt:uploaded>
+      <yt:videoid>RpDrf_2VCxE</yt:videoid>
+    </media:group>
+    <gd:rating average="4.875" max="5" min="1" numRaters="8" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="34" viewCount="5656"/>
+    <yt:rating numDislikes="0" numLikes="8"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0UDQ347eCp7ImA9WxFVFUU.&quot;">
+    <id>tag:youtube.com,2008:video:NKkWVlw1yv0</id>
+    <published>2007-08-03T11:42:55.000Z</published>
+    <updated>2010-06-15T07:01:12.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dnb"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="drum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="and"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="demons"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="theme"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Daniel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Williamson"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Good"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Looking"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Records"/>
+    <title>LTJ Bukem - Demon´s Theme PART 2</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/NKkWVlw1yv0?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=NKkWVlw1yv0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/NKkWVlw1yv0/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/NKkWVlw1yv0/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/NKkWVlw1yv0?v=2"/>
+    <author>
+      <name>cansk19</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cansk19</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/NKkWVlw1yv0/comments?v=2" countHint="96"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/NKkWVlw1yv0?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="303" yt:format="5"/>
+      <media:content url="rtsp://v7.cache1.c.youtube.com/CiMLENy73wIaGgn9yjVcVhapNBMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="303" yt:format="1"/>
+      <media:content url="rtsp://v6.cache6.c.youtube.com/CiMLENy73wIaGgn9yjVcVhapNBMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="303" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">cansk19</media:credit>
+      <media:description type="plain">LTJ Bukem - Demon´s Theme (PART 2) 1991 Feel free to rate...</media:description>
+      <media:keywords>LTJ, Bukem, dnb, drum, and, bass, demons, theme, Daniel, Williamson, dj, Good, Looking, Records</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=NKkWVlw1yv0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/NKkWVlw1yv0/default.jpg" height="90" width="120" time="00:02:31.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/NKkWVlw1yv0/2.jpg" height="90" width="120" time="00:02:31.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/NKkWVlw1yv0/1.jpg" height="90" width="120" time="00:01:15.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/NKkWVlw1yv0/3.jpg" height="90" width="120" time="00:03:47.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/NKkWVlw1yv0/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem - Demon´s Theme PART 2</media:title>
+      <yt:duration seconds="303"/>
+      <yt:uploaded>2007-08-03T11:42:55.000Z</yt:uploaded>
+      <yt:videoid>NKkWVlw1yv0</yt:videoid>
+    </media:group>
+    <gd:rating average="4.885246" max="5" min="1" numRaters="122" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="261" viewCount="30679"/>
+    <yt:rating numDislikes="3" numLikes="119"/>
+  </entry>
+  <entry gd:etag="W/&quot;CUIFQH47eCp7ImA9WxFVFUs.&quot;">
+    <id>tag:youtube.com,2008:video:aMYBxGTKAHE</id>
+    <published>2007-12-09T14:14:32.000Z</published>
+    <updated>2010-06-15T00:58:31.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Live"/>
+    <title>LTJ Bukem and MC Conrad - Live @ Electronic Beats (Part 1)</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/aMYBxGTKAHE?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=aMYBxGTKAHE&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/aMYBxGTKAHE/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/aMYBxGTKAHE/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=aMYBxGTKAHE"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/aMYBxGTKAHE?v=2"/>
+    <author>
+      <name>aquasky3000</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/aquasky3000</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/aMYBxGTKAHE/comments?v=2" countHint="134"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/aMYBxGTKAHE?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="606" yt:format="5"/>
+      <media:content url="rtsp://v3.cache7.c.youtube.com/CiMLENy73wIaGglxAMpkxAHGaBMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="606" yt:format="1"/>
+      <media:content url="rtsp://v8.cache7.c.youtube.com/CiMLENy73wIaGglxAMpkxAHGaBMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="606" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">aquasky3000</media:credit>
+      <media:description type="plain">LTJ Bukem and MC Conrad - Live @ Electronic Beats (Part 1)</media:description>
+      <media:keywords>Bukem, Live</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=aMYBxGTKAHE&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/aMYBxGTKAHE/default.jpg" height="90" width="120" time="00:05:03"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/aMYBxGTKAHE/2.jpg" height="90" width="120" time="00:05:03"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/aMYBxGTKAHE/1.jpg" height="90" width="120" time="00:02:31.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/aMYBxGTKAHE/3.jpg" height="90" width="120" time="00:07:34.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/aMYBxGTKAHE/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem and MC Conrad - Live @ Electronic Beats (Part 1)</media:title>
+      <yt:duration seconds="606"/>
+      <yt:uploaded>2007-12-09T14:14:32.000Z</yt:uploaded>
+      <yt:videoid>aMYBxGTKAHE</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9069767" max="5" min="1" numRaters="172" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="539" viewCount="62157"/>
+    <yt:rating numDislikes="4" numLikes="168"/>
+  </entry>
+  <entry gd:etag="W/&quot;CUYCRn47eCp7ImA9WxFVFUQ.&quot;">
+    <id>tag:youtube.com,2008:video:0UQDnCGHer0</id>
+    <published>2008-01-05T16:25:53.000Z</published>
+    <updated>2010-06-15T09:12:47.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="feat."/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mc"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Conrad"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Big"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bud"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Drum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ixtapaluca"/>
+    <title>LTJ Bukem feat. Mc Conrad - Big Bud Drum n Bass</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/0UQDnCGHer0?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=0UQDnCGHer0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/0UQDnCGHer0/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/0UQDnCGHer0/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=0UQDnCGHer0"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/0UQDnCGHer0?v=2"/>
+    <author>
+      <name>picharevil</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/picharevil</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/0UQDnCGHer0/comments?v=2" countHint="117"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/0UQDnCGHer0?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="191" yt:format="5"/>
+      <media:content url="rtsp://v8.cache7.c.youtube.com/CiMLENy73wIaGgm9eochnANE0RMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="191" yt:format="1"/>
+      <media:content url="rtsp://v1.cache2.c.youtube.com/CiMLENy73wIaGgm9eochnANE0RMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="191" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">picharevil</media:credit>
+      <media:description type="plain">LTJ Bukem feat. Mc Conrad - Big Bud Drum n Bass</media:description>
+      <media:keywords>LTJ, Bukem, feat., Mc, Conrad, Big, Bud, Drum, Bass, ixtapaluca</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=0UQDnCGHer0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0UQDnCGHer0/default.jpg" height="90" width="120" time="00:01:35.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0UQDnCGHer0/2.jpg" height="90" width="120" time="00:01:35.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0UQDnCGHer0/1.jpg" height="90" width="120" time="00:00:47.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0UQDnCGHer0/3.jpg" height="90" width="120" time="00:02:23.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0UQDnCGHer0/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem feat. Mc Conrad - Big Bud Drum n Bass</media:title>
+      <yt:duration seconds="191"/>
+      <yt:uploaded>2008-01-05T16:25:53.000Z</yt:uploaded>
+      <yt:videoid>0UQDnCGHer0</yt:videoid>
+    </media:group>
+    <gd:rating average="4.917526" max="5" min="1" numRaters="194" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="680" viewCount="123372"/>
+    <yt:rating numDislikes="4" numLikes="190"/>
+  </entry>
+  <entry gd:etag="W/&quot;CUEBSH47eCp7ImA9WxFVFUQ.&quot;">
+    <id>tag:youtube.com,2008:video:DIsC8-O1qrI</id>
+    <published>2007-10-23T02:47:33.000Z</published>
+    <updated>2010-06-15T09:20:59.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="MC"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Conrad"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="goodlooking"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="records"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="drumnbass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="liquid"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="drumandbass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="deep"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="drum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="DJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soul"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="underground"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Exit"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Festival"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Novi"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Sad"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Serbia"/>
+    <title>LTJ bukem in Session - Live @ Exit 2007 - Feat. MC Conrad (Clip 1)</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/DIsC8-O1qrI?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=DIsC8-O1qrI&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/DIsC8-O1qrI/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/DIsC8-O1qrI/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=DIsC8-O1qrI"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/DIsC8-O1qrI?v=2"/>
+    <author>
+      <name>goodlookingTV</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/goodlookingtv</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/DIsC8-O1qrI/comments?v=2" countHint="74"/>
+    </gd:comments>
+    <yt:location>Novi Sad</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/DIsC8-O1qrI?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="344" yt:format="5"/>
+      <media:content url="rtsp://v4.cache7.c.youtube.com/CiMLENy73wIaGgmyqrXj8wKLDBMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="344" yt:format="1"/>
+      <media:content url="rtsp://v8.cache6.c.youtube.com/CiMLENy73wIaGgmyqrXj8wKLDBMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="344" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">goodlookingTV</media:credit>
+      <media:description type="plain">LTJ Bukem MC Conrad @ Exit Festival - Novi Sad - 2007 goodlooking homepage: www.goodlooking.org Join our other goodlooking social networks here... LTJ Bukem &amp; goodlooking records - facebook fan page www.facebook.com MC Conrad - facebook fan page: www.new.facebook.com goodlooking organisation - facebook group: www.facebook.com goodlooking organisation - last.fm: www.last.fm goodlooking organisation - myspace: www.myspace.com goodlooking records - myspace: www.myspace.com goodlooking organisation - bebo: www.bebo.com</media:description>
+      <media:keywords>LTJ, Bukem, MC, Conrad, goodlooking, records, drumnbass, liquid, drumandbass, deep, drum, bass, DJ, dance, music, soul, underground, Exit, Festival, Novi, Sad, Serbia</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=DIsC8-O1qrI&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/DIsC8-O1qrI/default.jpg" height="90" width="120" time="00:02:52"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/DIsC8-O1qrI/2.jpg" height="90" width="120" time="00:02:52"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/DIsC8-O1qrI/1.jpg" height="90" width="120" time="00:01:26"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/DIsC8-O1qrI/3.jpg" height="90" width="120" time="00:04:18"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/DIsC8-O1qrI/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ bukem in Session - Live @ Exit 2007 - Feat. MC Conrad (Clip 1)</media:title>
+      <yt:duration seconds="344"/>
+      <yt:uploaded>2007-10-23T02:47:33.000Z</yt:uploaded>
+      <yt:videoid>DIsC8-O1qrI</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8958335" max="5" min="1" numRaters="48" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="115" viewCount="40559"/>
+    <yt:rating numDislikes="1" numLikes="47"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0cFRH47eCp7ImA9WxFVFUQ.&quot;">
+    <id>tag:youtube.com,2008:video:25Yv8jTkjuM</id>
+    <published>2006-08-01T21:50:47.000Z</published>
+    <updated>2010-06-15T09:43:35.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Film" label="Film &amp; Animation"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LTJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bukem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="drum'n'bass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="vj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="goodlooking"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="space"/>
+    <title>LTJ Bukem - Horizons (vj mix)</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/25Yv8jTkjuM?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=25Yv8jTkjuM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/25Yv8jTkjuM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/25Yv8jTkjuM/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/25Yv8jTkjuM?v=2"/>
+    <author>
+      <name>strangehead</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/strangehead</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/25Yv8jTkjuM/comments?v=2" countHint="65"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Film &amp; Animation" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Film</media:category>
+      <media:content url="http://www.youtube.com/v/25Yv8jTkjuM?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="491" yt:format="5"/>
+      <media:content url="rtsp://v8.cache5.c.youtube.com/CiMLENy73wIaGgnjjuQ08i-W2xMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="491" yt:format="1"/>
+      <media:content url="rtsp://v4.cache7.c.youtube.com/CiMLENy73wIaGgnjjuQ08i-W2xMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="491" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">strangehead</media:credit>
+      <media:description type="plain">Live vj set.</media:description>
+      <media:keywords>LTJ, Bukem, drum'n'bass, vj, goodlooking, space</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=25Yv8jTkjuM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/25Yv8jTkjuM/default.jpg" height="90" width="120" time="00:04:05.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/25Yv8jTkjuM/2.jpg" height="90" width="120" time="00:04:05.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/25Yv8jTkjuM/1.jpg" height="90" width="120" time="00:02:02.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/25Yv8jTkjuM/3.jpg" height="90" width="120" time="00:06:08.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/25Yv8jTkjuM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem - Horizons (vj mix)</media:title>
+      <yt:duration seconds="491"/>
+      <yt:uploaded>2006-08-01T21:50:47.000Z</yt:uploaded>
+      <yt:videoid>25Yv8jTkjuM</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8421054" max="5" min="1" numRaters="114" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:recorded>2006-08-01</yt:recorded>
+    <yt:statistics favoriteCount="396" viewCount="45338"/>
+    <yt:rating numDislikes="4" numLikes="110"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEIDSX47eCp7ImA9WxFVFUU.&quot;">
+    <id>tag:youtube.com,2008:video:wijTCe6vBbQ</id>
+    <published>2008-09-28T13:57:39.000Z</published>
+    <updated>2010-06-15T06:16:18.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="electronic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Drum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="and"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dnb"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dark"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ambient"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="trance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hype"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="aphrodite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="doc"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="scott"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="clipz"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dillinja"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="lemon"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="idm"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="techno"/>
+    <title>LTJ Bukem - Tokyo Dawn</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/wijTCe6vBbQ?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=wijTCe6vBbQ&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wijTCe6vBbQ/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wijTCe6vBbQ/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/wijTCe6vBbQ?v=2"/>
+    <author>
+      <name>Maxopo</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/maxopo</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/wijTCe6vBbQ/comments?v=2" countHint="71"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/wijTCe6vBbQ?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="458" yt:format="5"/>
+      <media:content url="rtsp://v3.cache3.c.youtube.com/CiMLENy73wIaGgm0Ba_uCdMowhMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="458" yt:format="1"/>
+      <media:content url="rtsp://v8.cache3.c.youtube.com/CiMLENy73wIaGgm0Ba_uCdMowhMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="458" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">Maxopo</media:credit>
+      <media:description type="plain">Best Ambient Drum &amp; Bass Tune!</media:description>
+      <media:keywords>electronic, Drum, and, bass, dnb, dark, ambient, house, trance, dj, hype, aphrodite, doc, scott, clipz, dillinja, lemon, idm, techno</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=wijTCe6vBbQ&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wijTCe6vBbQ/default.jpg" height="90" width="120" time="00:03:49"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wijTCe6vBbQ/2.jpg" height="90" width="120" time="00:03:49"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wijTCe6vBbQ/1.jpg" height="90" width="120" time="00:01:54.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wijTCe6vBbQ/3.jpg" height="90" width="120" time="00:05:43.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wijTCe6vBbQ/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LTJ Bukem - Tokyo Dawn</media:title>
+      <yt:duration seconds="458"/>
+      <yt:uploaded>2008-09-28T13:57:39.000Z</yt:uploaded>
+      <yt:videoid>wijTCe6vBbQ</yt:videoid>
+    </media:group>
+    <gd:rating average="4.925" max="5" min="1" numRaters="80" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="225" viewCount="27321"/>
+    <yt:rating numDislikes="1" numLikes="79"/>
+  </entry>
+  <entry gd:etag="W/&quot;Dk8EQ347eCp7ImA9WxFVFUU.&quot;">
+    <id>tag:youtube.com,2008:video:z9gIYAHHaqc</id>
+    <published>2008-01-15T15:28:33.000Z</published>
+    <updated>2010-06-15T06:53:22.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="leftfield"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="melt"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Leftism"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="trance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="triphop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ambient"/>
+    <title>LeftField Melt (audio only) Leftism</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/z9gIYAHHaqc?f=related&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=z9gIYAHHaqc&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/z9gIYAHHaqc/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/z9gIYAHHaqc/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=z9gIYAHHaqc"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related/z9gIYAHHaqc?v=2"/>
+    <author>
+      <name>NeoDracco</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/neodracco</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/z9gIYAHHaqc/comments?v=2" countHint="120"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/z9gIYAHHaqc?f=related&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="585" yt:format="5"/>
+      <media:content url="rtsp://v3.cache6.c.youtube.com/CiMLENy73wIaGgmnascBYAjYzxMYDSANFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="585" yt:format="1"/>
+      <media:content url="rtsp://v4.cache6.c.youtube.com/CiMLENy73wIaGgmnascBYAjYzxMYESARFEgGUgdyZWxhdGVkDA==/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="585" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">NeoDracco</media:credit>
+      <media:description type="plain">LeftField Melt (audio only) Leftism</media:description>
+      <media:keywords>leftfield, melt, Leftism, trance, triphop, ambient</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=z9gIYAHHaqc&amp;feature=youtube_gdata"/>
+      <media:restriction type="country" relationship="deny">DE</media:restriction>
+      <media:thumbnail url="http://i.ytimg.com/vi/z9gIYAHHaqc/default.jpg" height="90" width="120" time="00:04:52.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/z9gIYAHHaqc/2.jpg" height="90" width="120" time="00:04:52.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/z9gIYAHHaqc/1.jpg" height="90" width="120" time="00:02:26.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/z9gIYAHHaqc/3.jpg" height="90" width="120" time="00:07:18.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/z9gIYAHHaqc/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">LeftField Melt (audio only) Leftism</media:title>
+      <yt:duration seconds="585"/>
+      <yt:uploaded>2008-01-15T15:28:33.000Z</yt:uploaded>
+      <yt:videoid>z9gIYAHHaqc</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9130435" max="5" min="1" numRaters="161" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="471" viewCount="57168"/>
+    <yt:rating numDislikes="3" numLikes="158"/>
+  </entry>
+</feed>

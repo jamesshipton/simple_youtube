@@ -1,0 +1,423 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:yt="http://gdata.youtube.com/schemas/2007" gd:etag="W/&quot;AkICRHo-eCp7ImA9WxFVFk4.&quot;">
+  <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comments</id>
+  <updated>2010-06-15T21:49:25.450Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+  <title>Comments on 'LTJ Bukem - Horizons'</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments?v=2"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/batch?v=2"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments?start-index=1&amp;max-results=25&amp;v=2"/>
+  <link rel="service" type="application/atomsvc+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments?alt=atom-service&amp;v=2"/>
+  <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments?start-index=26&amp;max-results=25&amp;v=2"/>
+  <author>
+    <name>YouTube</name>
+    <uri>http://www.youtube.com/</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>556</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <entry gd:etag="W/&quot;DkECQH47eCp7ImA9WxFVFUo.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYvXdSHsPidV3piuelq3hrYcsII3jv9CDZs</id>
+    <published>2010-06-15T04:04:21.000Z</published>
+    <updated>2010-06-15T04:04:21.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>Come up to my first ...</title>
+    <content>Come up to my first ever e on this about 14-15 years ago, ahh too long...</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYvXdSHsPidV3piuelq3hrYcsII3jv9CDZs?v=2"/>
+    <author>
+      <name>smallnutjob</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/smallnutjob</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;DkIFR347eCp7ImA9WxFVFUo.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYvOn_203zTGrWhQaUCoRB7HgYZf_ldNi_w</id>
+    <published>2010-06-15T04:01:56.000Z</published>
+    <updated>2010-06-15T04:01:56.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>The Horizons lean ...</title>
+    <content>The Horizons lean forward offering you space to place new steps of change. - mmmmmm how cool....</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYvOn_203zTGrWhQaUCoRB7HgYZf_ldNi_w?v=2"/>
+    <author>
+      <name>smallnutjob</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/smallnutjob</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;D0QCRn47eCp7ImA9WxFVE04.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYs06tslZPFVAS5N9l43PS5qHG6iIM90FhA</id>
+    <published>2010-06-12T09:36:07.000Z</published>
+    <updated>2010-06-12T09:36:07.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>I have to admit, I ...</title>
+    <content>I have to admit, I bought it when it came out, didn't really feel it back then. But since 2 years I always come back to this tune, this has aged soo well. It makes much more sense now. Perfectly understandable that 17yolds nowadays come back to this. Timeless, epic and more than the sum of its parts. Listen to this at sunrise with a perfect soundsystem somewhere in the woods...brilliant!</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYs06tslZPFVAS5N9l43PS5qHG6iIM90FhA?v=2"/>
+    <author>
+      <name>mostchill</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mostchill</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;CU4HRH47eCp7ImA9WxFVEko.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYvzvTr6PHURsuoHXh-XQV_K_uP--pW55Fk</id>
+    <published>2010-06-11T16:32:15.000Z</published>
+    <updated>2010-06-11T16:32:15.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>amazing track, ...</title>
+    <content>amazing track, takes me away - very very far away</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYvzvTr6PHURsuoHXh-XQV_K_uP--pW55Fk?v=2"/>
+    <author>
+      <name>numodegraphika</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/numodegraphika</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;CkMMSH47eCp7ImA9WxFVEUU.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYukDA2Ef5lCavDVdllI7JBRhdlVBALiEDM</id>
+    <published>2010-06-10T14:34:49.000Z</published>
+    <updated>2010-06-10T14:34:49.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>DEDICADA À RAINHA ...</title>
+    <content>DEDICADA À RAINHA BEATRIZ DE PORTUGAL !
+         mil miminhos meu amor...tão lindo !
+                ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
+                             alexandre</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYukDA2Ef5lCavDVdllI7JBRhdlVBALiEDM?v=2"/>
+    <author>
+      <name>Libertarian555</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/libertarian555</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;CkUCRn47eCp7ImA9WxFVEUU.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYs-ZFu6afsqbsmderHBu_UYboaaNufhHz4</id>
+    <published>2010-06-10T14:31:07.000Z</published>
+    <updated>2010-06-10T14:31:07.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>DEDICADA À RAINHA ...</title>
+    <content>DEDICADA À RAINHA BEATRIZ DE PORTUGAL !
+         mil miminhos meu amor...tão lindo !
+                ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
+                             alexandre
+</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYs-ZFu6afsqbsmderHBu_UYboaaNufhHz4?v=2"/>
+    <author>
+      <name>Libertarian555</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/libertarian555</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;CEMHR347eCp7ImA9WxFVEE4.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYtjwB527MCBYL1v9zXSVedIzsd361YlJuc</id>
+    <published>2010-06-08T21:27:16.000Z</published>
+    <updated>2010-06-08T21:27:16.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>"The horizon leans ...</title>
+    <content>"The horizon leans forward..." etc is a quotation by the famous poet and writer, Maya Angelou.</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYtjwB527MCBYL1v9zXSVedIzsd361YlJuc?v=2"/>
+    <author>
+      <name>TrulyVToogood</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/trulyvtoogood</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;DU4CR347eCp7ImA9WxFWF0k.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYsFyH7daIEEfUyJ9n1FJSsBOCPEz5qXfIM</id>
+    <published>2010-06-05T14:26:06.000Z</published>
+    <updated>2010-06-05T14:26:06.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>Wonderful - Best of ...</title>
+    <content>Wonderful - Best of British!</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYsFyH7daIEEfUyJ9n1FJSsBOCPEz5qXfIM?v=2"/>
+    <author>
+      <name>milanvaja</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/milanvaja</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;DEMNRX47eCp7ImA9WxFWFk4.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYtz-Y0UuCw9v8p-G1Q2roGkxkPccBZHsVM</id>
+    <published>2010-06-04T07:28:14.000Z</published>
+    <updated>2010-06-04T07:28:14.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>@jake77  Yes the ...</title>
+    <content>@jake77  Yes the technology increases but often the creativity goes down because many of the artist are not being innovative.... not to say that the future of music is doomed but no one makes tracks that move me the way the older ones do .....hopefully in the future we will see a burst of life put back into the music.. peas : )</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#in-reply-to" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYv71W9sMnINc3n7mofly5Fqm0grXOnc7O8?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYtz-Y0UuCw9v8p-G1Q2roGkxkPccBZHsVM?v=2"/>
+    <author>
+      <name>ACEN111</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/acen111</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;AkYHQ347eCp7ImA9WxFWFUo.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYurOBr0suouLHSM9BsBcV_l_1w62hhix2s</id>
+    <published>2010-06-03T15:15:32.000Z</published>
+    <updated>2010-06-03T15:15:32.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>Man, this is such a ...</title>
+    <content>Man, this is such a tune.</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYurOBr0suouLHSM9BsBcV_l_1w62hhix2s?v=2"/>
+    <author>
+      <name>ugforthewin</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ugforthewin</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;C0cGR347eCp7ImA9WxFWFE4.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYs00eXbeeW-xyith5RFzOZYfh59I64Zsgw</id>
+    <published>2010-06-01T22:23:46.000Z</published>
+    <updated>2010-06-01T22:23:46.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>All the genuine ...</title>
+    <content>All the genuine skill that makes a true legend. Never contrived, always pushing boundaries... Was one of the doors of perception for me. The sample used only enchances the legendary vision of this track. Will never forget this.</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYs00eXbeeW-xyith5RFzOZYfh59I64Zsgw?v=2"/>
+    <author>
+      <name>filterfunkable</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/filterfunkable</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;D0MHQH47eCp7ImA9WxFXFkk.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYuQVb1v8SzPwxrBnJGf_CCnYPXmGWUVpWs</id>
+    <published>2010-05-23T20:10:31.000Z</published>
+    <updated>2010-05-23T20:10:31.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>The horizon leans ...</title>
+    <content>The horizon leans forward, offering you space to place new steps of change......</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYuQVb1v8SzPwxrBnJGf_CCnYPXmGWUVpWs?v=2"/>
+    <author>
+      <name>hankevans83</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/hankevans83</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;DkcDQn47eCp7ImA9WxFXFUU.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYuRoaakwzPxIsaQIMRL1IBtJWaKiIebLqI</id>
+    <published>2010-05-23T03:07:53.000Z</published>
+    <updated>2010-05-23T03:07:53.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>LTG....where the ...</title>
+    <content>LTG....where the man, are the man, and will always be the man in Drum in Bass</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYuRoaakwzPxIsaQIMRL1IBtJWaKiIebLqI?v=2"/>
+    <author>
+      <name>grcvli</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/grcvli</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;DkIDQH47eCp7ImA9WxFXFEU.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYt4xo1JdutUvVT8FJbn8-VcocEiQ_DOctI</id>
+    <published>2010-05-21T23:29:31.000Z</published>
+    <updated>2010-05-21T23:29:31.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>what else is there?</title>
+    <content>what else is there?</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYt4xo1JdutUvVT8FJbn8-VcocEiQ_DOctI?v=2"/>
+    <author>
+      <name>rocamoora</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/rocamoora</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;C0UFSH47eCp7ImA9WxFXEkg.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYubTh6D7nBKVFZPyVgQEMv3eH8FJbuDlL8</id>
+    <published>2010-05-19T06:40:19.000Z</published>
+    <updated>2010-05-19T06:40:19.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>@andysquirrell That ...</title>
+    <content>@andysquirrell That comment is so beautiful,It has a depth to it I can most definatly relate to</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#in-reply-to" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYtZsV_VzKft4ugMoHAX5CO8cpWMCuMjfbc?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYubTh6D7nBKVFZPyVgQEMv3eH8FJbuDlL8?v=2"/>
+    <author>
+      <name>sanddraggercali</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/sanddraggercali</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;C04BRn47eCp7ImA9WxFQFUU.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYsitQHzEWOqYGI7oSZnqzNHXFkzMc2cst4</id>
+    <published>2010-05-11T12:45:57.000Z</published>
+    <updated>2010-05-11T12:45:57.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>dig</title>
+    <content>dig</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYsitQHzEWOqYGI7oSZnqzNHXFkzMc2cst4?v=2"/>
+    <author>
+      <name>lucpawlus10</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/lucpawlus10</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;CUYDRn47eCp7ImA9WxFQFEk.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYuZOnISlhsHXHme8eqKErZkj5Il1w6aq0c</id>
+    <published>2010-05-09T22:12:57.000Z</published>
+    <updated>2010-05-09T22:12:57.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>Yo the keyboard ...</title>
+    <content>Yo the keyboard loop sounds like a sound snippet from the film Real Genius where Val Kilmer plays Chris Knight. I recognized this the second it came on. Good use of this sample, if in case this is where he took it from. :)</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYuZOnISlhsHXHme8eqKErZkj5Il1w6aq0c?v=2"/>
+    <author>
+      <name>quicktolisten</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/quicktolisten</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;DkYGQX47eCp7ImA9WxFQE0g.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYtWcaGVTwuPqQJnihz055Fxwjrd0hQ7mJs</id>
+    <published>2010-05-08T21:28:40.000Z</published>
+    <updated>2010-05-08T21:28:40.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>such a beautiful ...</title>
+    <content>such a beautiful tune</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYtWcaGVTwuPqQJnihz055Fxwjrd0hQ7mJs?v=2"/>
+    <author>
+      <name>PABPrankCalls</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/pabprankcalls</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;CEMGRn47eCp7ImA9WxFQEE8.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYvqAISjpAZHzBIr3crX5OvnJ5R7376JPIU</id>
+    <published>2010-05-05T01:20:27.000Z</published>
+    <updated>2010-05-05T01:20:27.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>I forgot the track ...</title>
+    <content>I forgot the track name and lost the cd in 1997. but never forgot the tune. Propa  15's and 18's combo track. A true boot rattler.</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYvqAISjpAZHzBIr3crX5OvnJ5R7376JPIU?v=2"/>
+    <author>
+      <name>moviejacker</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/moviejacker</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;DUQFQn47eCp7ImA9WxFRF0g.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYsiHXwUUuo_E2lAA7J-yJVY8QuxdZY5tuU</id>
+    <published>2010-05-01T23:41:53.000Z</published>
+    <updated>2010-05-01T23:41:53.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>@BrownskinE 
+It's ...</title>
+    <content>@BrownskinE 
+It's Maya Angelou, actually. And she reads the inaugural poem of 1993.
+
+There is a video of the event on YouTube:
+watch?v=HDtw62Ah2zY
+
+I'm mighty glad for the video, actually, but it would be neat to have these kind of things in the video's description :)</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYsiHXwUUuo_E2lAA7J-yJVY8QuxdZY5tuU?v=2"/>
+    <author>
+      <name>d3st88</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/d3st88</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;A0QEQH47eCp7ImA9WxFRF08.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYtT5HR9NhyBG8ghNrBh63rEI8OPADhAsKo</id>
+    <published>2010-05-01T15:55:01.000Z</published>
+    <updated>2010-05-01T15:55:01.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>MegaAly101 take a ...</title>
+    <content>MegaAly101 take a deep breath
+2.think of someone you like
+3.press F10 five times
+4.send this to five other videos
+5.look at your screen 10 hours ago</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYtT5HR9NhyBG8ghNrBh63rEI8OPADhAsKo?v=2"/>
+    <author>
+      <name>jonah317</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/jonah317</uri>
+    </author>
+    <yt:spam/>
+  </entry>
+  <entry gd:etag="W/&quot;CEMMQX47eCp7ImA9WxFRFUo.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYuYdw-5Qv2Grl5Q2KGJlFDhkBjK2EYiDqM</id>
+    <published>2010-04-29T20:21:20.000Z</published>
+    <updated>2010-04-29T20:21:20.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>The voice is the ...</title>
+    <content>The voice is the great poet and speaker Mya Angelou</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYuYdw-5Qv2Grl5Q2KGJlFDhkBjK2EYiDqM?v=2"/>
+    <author>
+      <name>BrownskinE</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/brownskine</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;A0ENQH47eCp7ImA9WxFRFEU.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYvRhBiG6SzzFvYjyS1HD14V5uuF3m9GJMc</id>
+    <published>2010-04-28T21:21:31.000Z</published>
+    <updated>2010-04-28T21:21:31.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>can someone tell me ...</title>
+    <content>can someone tell me who the lady's voice is and what it is off, it's on the tip of my tongue and bugging me!</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYvRhBiG6SzzFvYjyS1HD14V5uuF3m9GJMc?v=2"/>
+    <author>
+      <name>TheCharlieRoo</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/thecharlieroo</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;AkIMQn47eCp7ImA9WxFRFEw.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYuY_szriVwlS-NQhzRg5Hbl37jQe7w6hOk</id>
+    <published>2010-04-28T01:36:23.000Z</published>
+    <updated>2010-04-28T01:36:23.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>ill probly get some ...</title>
+    <content>ill probly get some shit for this, but this is the first LTJ Bukem song ive listened to (or that i remember listening to) .... but i gotta say, ive been missing out! sick tune</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYuY_szriVwlS-NQhzRg5Hbl37jQe7w6hOk?v=2"/>
+    <author>
+      <name>dan19evans</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/dan19evans</uri>
+    </author>
+  </entry>
+  <entry gd:etag="W/&quot;D0YESH47eCp7ImA9WxFREU0.&quot;">
+    <id>tag:youtube.com,2008:video:rFVHjZYoq4Q:comment:EaJVSd3-LYuSp1maa000NNbOnlIP2voxVXYuM6q8lJQ</id>
+    <published>2010-04-24T10:31:49.000Z</published>
+    <updated>2010-04-24T10:31:49.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#comment"/>
+    <title>This is such an ...</title>
+    <content>This is such an epic tune so many memories @THEIRISHARMSKEVVIE yeah same here ...
+
+Thanks</content>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rFVHjZYoq4Q"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments/EaJVSd3-LYuSp1maa000NNbOnlIP2voxVXYuM6q8lJQ?v=2"/>
+    <author>
+      <name>RareKinds</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/rarekinds</uri>
+    </author>
+  </entry>
+</feed>

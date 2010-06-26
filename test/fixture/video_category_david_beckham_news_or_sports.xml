@@ -1,0 +1,1526 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:gml="http://www.opengis.net/gml" xmlns:yt="http://gdata.youtube.com/schemas/2007" xmlns:georss="http://www.georss.org/georss" gd:etag="W/&quot;CUAMQX88cCp7ImA9WxFVGEw.&quot;">
+  <id>tag:youtube.com,2008:videos</id>
+  <updated>2010-06-17T22:29:40.178Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+  <title>YouTube Videos</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?v=2"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/batch?v=2"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?start-index=1&amp;max-results=25&amp;category=%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fkeywords.cat%7Ddavid%2C%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fkeywords.cat%7Dbeckham%2C%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fcategories.cat%7DNews%7C%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fcategories.cat%7DSports&amp;v=2"/>
+  <link rel="service" type="application/atomsvc+xml" href="http://gdata.youtube.com/feeds/api/videos?alt=atom-service&amp;v=2"/>
+  <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?start-index=26&amp;max-results=25&amp;category=%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fkeywords.cat%7Ddavid%2C%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fkeywords.cat%7Dbeckham%2C%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fcategories.cat%7DNews%7C%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fcategories.cat%7DSports&amp;v=2"/>
+  <author>
+    <name>YouTube</name>
+    <uri>http://www.youtube.com/</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>40727</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <entry gd:etag="W/&quot;DUINRn47eCp7ImA9WxFVGE0.&quot;">
+    <id>tag:youtube.com,2008:video:adYgHunQEl0</id>
+    <published>2007-03-22T22:17:49.000Z</published>
+    <updated>2010-06-17T20:46:37.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="freekick"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="england"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="realmadrid"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="legend"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="master"/>
+    <title>All the FreeKicks from David Beckham</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/adYgHunQEl0?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=adYgHunQEl0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/adYgHunQEl0/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/adYgHunQEl0/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=adYgHunQEl0"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/adYgHunQEl0?v=2"/>
+    <author>
+      <name>sokhangoo</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/sokhangoo</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/adYgHunQEl0/comments?v=2" countHint="7587"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/adYgHunQEl0?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="447" yt:format="5"/>
+      <media:content url="rtsp://v6.cache7.c.youtube.com/CiILENy73wIaGQldEtDpHiDWaRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="447" yt:format="1"/>
+      <media:content url="rtsp://v2.cache5.c.youtube.com/CiILENy73wIaGQldEtDpHiDWaRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="447" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">sokhangoo</media:credit>
+      <media:description type="plain">all the freekicks of the legend is here! the oldest to the newest one!</media:description>
+      <media:keywords>David, Beckham, freekick, england, realmadrid, legend, master</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=adYgHunQEl0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/adYgHunQEl0/default.jpg" height="90" width="120" time="00:03:43.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/adYgHunQEl0/2.jpg" height="90" width="120" time="00:03:43.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/adYgHunQEl0/1.jpg" height="90" width="120" time="00:01:51.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/adYgHunQEl0/3.jpg" height="90" width="120" time="00:05:35.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/adYgHunQEl0/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">All the FreeKicks from David Beckham</media:title>
+      <yt:duration seconds="447"/>
+      <yt:uploaded>2007-03-22T22:17:49.000Z</yt:uploaded>
+      <yt:videoid>adYgHunQEl0</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8730073" max="5" min="1" numRaters="9347" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="14396" viewCount="3792258"/>
+    <yt:rating numDislikes="297" numLikes="9050"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEMGRX47eCp7ImA9WxFVF0g.&quot;">
+    <id>tag:youtube.com,2008:video:IIclFfGk5No</id>
+    <published>2006-05-13T19:52:01.000Z</published>
+    <updated>2010-06-17T05:27:04.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Compilation"/>
+    <title>David Beckham</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/IIclFfGk5No?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=IIclFfGk5No&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/IIclFfGk5No/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/IIclFfGk5No/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/IIclFfGk5No?v=2"/>
+    <author>
+      <name>Theodor7</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/theodor7</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/IIclFfGk5No/comments?v=2" countHint="3505"/>
+    </gd:comments>
+    <yt:location>Manchester</yt:location>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/IIclFfGk5No?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="271" yt:format="5"/>
+      <media:content url="rtsp://v4.cache6.c.youtube.com/CiILENy73wIaGQna5KTxFSWHIBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="271" yt:format="1"/>
+      <media:content url="rtsp://v3.cache6.c.youtube.com/CiILENy73wIaGQna5KTxFSWHIBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="271" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">Theodor7</media:credit>
+      <media:description type="plain">A brilliant David Beckham compilation!</media:description>
+      <media:keywords>David, Beckham, Compilation</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=IIclFfGk5No&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/IIclFfGk5No/default.jpg" height="90" width="120" time="00:02:15.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/IIclFfGk5No/2.jpg" height="90" width="120" time="00:02:15.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/IIclFfGk5No/1.jpg" height="90" width="120" time="00:01:07.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/IIclFfGk5No/3.jpg" height="90" width="120" time="00:03:23.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/IIclFfGk5No/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham</media:title>
+      <yt:duration seconds="271"/>
+      <yt:uploaded>2006-05-13T19:52:01.000Z</yt:uploaded>
+      <yt:videoid>IIclFfGk5No</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8253546" max="5" min="1" numRaters="3384" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="4725" viewCount="1774077"/>
+    <yt:rating numDislikes="148" numLikes="3236"/>
+  </entry>
+  <entry gd:etag="W/&quot;A0UGQX47eCp7ImA9WxFVF0U.&quot;">
+    <id>tag:youtube.com,2008:video:FUX7wTWJpCw</id>
+    <published>2007-08-19T22:09:06.000Z</published>
+    <updated>2010-06-17T15:40:20.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <title>David Beckham - TEN BEST GOALS</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/FUX7wTWJpCw?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=FUX7wTWJpCw&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FUX7wTWJpCw/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FUX7wTWJpCw/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=FUX7wTWJpCw"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FUX7wTWJpCw?v=2"/>
+    <author>
+      <name>cruxis7856</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cruxis7856</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/FUX7wTWJpCw/comments?v=2" countHint="508"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/FUX7wTWJpCw?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="340" yt:format="5"/>
+      <media:content url="rtsp://v1.cache3.c.youtube.com/CiILENy73wIaGQkspIk1wftFFRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="340" yt:format="1"/>
+      <media:content url="rtsp://v5.cache1.c.youtube.com/CiILENy73wIaGQkspIk1wftFFRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="340" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">cruxis7856</media:credit>
+      <media:description type="plain">The ten best goals by David Bekham!! Counting down from 10 to #1! ENJOY :)</media:description>
+      <media:keywords>David, Beckham</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=FUX7wTWJpCw&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FUX7wTWJpCw/default.jpg" height="90" width="120" time="00:02:50"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FUX7wTWJpCw/2.jpg" height="90" width="120" time="00:02:50"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FUX7wTWJpCw/1.jpg" height="90" width="120" time="00:01:25"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FUX7wTWJpCw/3.jpg" height="90" width="120" time="00:04:15"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FUX7wTWJpCw/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham - TEN BEST GOALS</media:title>
+      <yt:duration seconds="340"/>
+      <yt:uploaded>2007-08-19T22:09:06.000Z</yt:uploaded>
+      <yt:videoid>FUX7wTWJpCw</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8361583" max="5" min="1" numRaters="708" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="972" viewCount="501581"/>
+    <yt:rating numDislikes="29" numLikes="679"/>
+  </entry>
+  <entry gd:etag="W/&quot;CkINQH47eCp7ImA9WxFVF0o.&quot;">
+    <id>tag:youtube.com,2008:video:72aHqkhPu0U</id>
+    <published>2006-12-19T06:37:23.000Z</published>
+    <updated>2010-06-17T10:29:51.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="david"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="gary"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="neville"/>
+    <title>David Beckham Gary Neville</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/72aHqkhPu0U?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=72aHqkhPu0U&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/72aHqkhPu0U/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/72aHqkhPu0U/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=72aHqkhPu0U"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/72aHqkhPu0U?v=2"/>
+    <author>
+      <name>onlyinkenya</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/onlyinkenya</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/72aHqkhPu0U/comments?v=2" countHint="223"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/72aHqkhPu0U?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="240" yt:format="5"/>
+      <media:content url="rtsp://v6.cache3.c.youtube.com/CiILENy73wIaGQlFu09Iqodm7xMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="240" yt:format="1"/>
+      <media:content url="rtsp://v2.cache2.c.youtube.com/CiILENy73wIaGQlFu09Iqodm7xMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="240" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">onlyinkenya</media:credit>
+      <media:description type="plain">A short excerpt from David's movie "The Real David Beckham" shows David cooking at Gary's house.</media:description>
+      <media:keywords>david, beckham, gary, neville</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=72aHqkhPu0U&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/72aHqkhPu0U/default.jpg" height="90" width="120" time="00:02:00"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/72aHqkhPu0U/2.jpg" height="90" width="120" time="00:02:00"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/72aHqkhPu0U/1.jpg" height="90" width="120" time="00:01:00"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/72aHqkhPu0U/3.jpg" height="90" width="120" time="00:03:00"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/72aHqkhPu0U/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham Gary Neville</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="240"/>
+      <yt:uploaded>2006-12-19T06:37:23.000Z</yt:uploaded>
+      <yt:videoid>72aHqkhPu0U</yt:videoid>
+    </media:group>
+    <gd:rating average="4.800532" max="5" min="1" numRaters="376" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="622" viewCount="334335"/>
+    <yt:rating numDislikes="19" numLikes="357"/>
+  </entry>
+  <entry gd:etag="W/&quot;C0YMQn47eCp7ImA9WxFVF0g.&quot;">
+    <id>tag:youtube.com,2008:video:3Yz0Vk0WJQ8</id>
+    <published>2006-05-18T15:32:32.000Z</published>
+    <updated>2010-06-17T05:06:23.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <title>David Beckham</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/3Yz0Vk0WJQ8?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=3Yz0Vk0WJQ8&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/3Yz0Vk0WJQ8/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/3Yz0Vk0WJQ8/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=3Yz0Vk0WJQ8"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/3Yz0Vk0WJQ8?v=2"/>
+    <author>
+      <name>calvinbeckham2006</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/calvinbeckham2006</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/3Yz0Vk0WJQ8/comments?v=2" countHint="742"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/3Yz0Vk0WJQ8?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="271" yt:format="5"/>
+      <media:content url="rtsp://v3.cache8.c.youtube.com/CiILENy73wIaGQkPJRZNVvSM3RMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="271" yt:format="1"/>
+      <media:content url="rtsp://v6.cache1.c.youtube.com/CiILENy73wIaGQkPJRZNVvSM3RMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="271" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">calvinbeckham2006</media:credit>
+      <media:description type="plain">David Beckham</media:description>
+      <media:keywords>David, Beckham</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=3Yz0Vk0WJQ8&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3Yz0Vk0WJQ8/default.jpg" height="90" width="120" time="00:02:15.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3Yz0Vk0WJQ8/2.jpg" height="90" width="120" time="00:02:15.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3Yz0Vk0WJQ8/1.jpg" height="90" width="120" time="00:01:07.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3Yz0Vk0WJQ8/3.jpg" height="90" width="120" time="00:03:23.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3Yz0Vk0WJQ8/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham</media:title>
+      <yt:duration seconds="271"/>
+      <yt:uploaded>2006-05-18T15:32:32.000Z</yt:uploaded>
+      <yt:videoid>3Yz0Vk0WJQ8</yt:videoid>
+    </media:group>
+    <gd:rating average="4.835491" max="5" min="1" numRaters="1313" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="1930" viewCount="745313"/>
+    <yt:rating numDislikes="54" numLikes="1259"/>
+  </entry>
+  <entry gd:etag="W/&quot;DEMHRH47eCp7ImA9WxFVF0o.&quot;">
+    <id>tag:youtube.com,2008:video:ylF9ySdw2aU</id>
+    <published>2009-01-21T14:02:35.000Z</published>
+    <updated>2010-06-17T12:07:15.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="young jeezy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="david beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="missy elliott"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="russell simmons"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="katy perry kevin garnett"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="DMC"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Run DMC"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shoes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sneakers"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sneaker"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="frankie valli"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="four seasons"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beggin'"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Pilooski"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="commercial"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="adidas commercial"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="my adidas"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hip hop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="KG"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="basketball"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soccer"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="football"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hole in one"/>
+    <title>adidas Originals - David Beckham and Kevin Garnett "The Hole-in-One"</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/ylF9ySdw2aU?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=ylF9ySdw2aU&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ylF9ySdw2aU/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ylF9ySdw2aU/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=ylF9ySdw2aU"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ylF9ySdw2aU?v=2"/>
+    <author>
+      <name>adidasOriginals2009</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/adidasoriginals2009</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/ylF9ySdw2aU/comments?v=2" countHint="792"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/ylF9ySdw2aU?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="86" yt:format="5"/>
+      <media:content url="rtsp://v5.cache6.c.youtube.com/CiILENy73wIaGQml2XAnyX1RyhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="86" yt:format="1"/>
+      <media:content url="rtsp://v8.cache3.c.youtube.com/CiILENy73wIaGQml2XAnyX1RyhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="86" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">adidasOriginals2009</media:credit>
+      <media:description type="plain">Before the adidas Originals House Party kicked off, our friends David and KG challenged each other to a little one-on-one competition in the backyard.</media:description>
+      <media:keywords>young jeezy, david beckham, missy elliott, russell simmons, katy perry kevin garnett, DMC, Run DMC, shoes, sneakers, sneaker, frankie valli, four seasons, beggin', Pilooski, commercial, adidas commercial, my adidas, hip hop, KG, basketball, soccer, football, hole in one</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=ylF9ySdw2aU&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ylF9ySdw2aU/default.jpg" height="90" width="120" time="00:00:43"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ylF9ySdw2aU/2.jpg" height="90" width="120" time="00:00:43"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ylF9ySdw2aU/1.jpg" height="90" width="120" time="00:00:21.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ylF9ySdw2aU/3.jpg" height="90" width="120" time="00:01:04.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ylF9ySdw2aU/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">adidas Originals - David Beckham and Kevin Garnett "The Hole-in-One"</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="86"/>
+      <yt:uploaded>2009-01-21T14:02:35.000Z</yt:uploaded>
+      <yt:videoid>ylF9ySdw2aU</yt:videoid>
+    </media:group>
+    <gd:rating average="4.323272" max="5" min="1" numRaters="2518" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="3303" viewCount="1309409"/>
+    <yt:rating numDislikes="426" numLikes="2092"/>
+  </entry>
+  <entry gd:etag="W/&quot;D04CQn47eCp7ImA9WxFVF0o.&quot;">
+    <id>tag:youtube.com,2008:video:IDgQYTPpsx4</id>
+    <published>2008-08-31T23:15:43.000Z</published>
+    <updated>2010-06-17T11:59:23.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Sesame"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Street"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Muppets"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Elmo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Kevin"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Clash"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soccer"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="vocabulary"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="2000's"/>
+    <title>David Beckham on Sesame Street</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/IDgQYTPpsx4?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=IDgQYTPpsx4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/IDgQYTPpsx4/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/IDgQYTPpsx4/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=IDgQYTPpsx4"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/IDgQYTPpsx4?v=2"/>
+    <author>
+      <name>MarshalGrover</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/marshalgrover</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/IDgQYTPpsx4/comments?v=2" countHint="153"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/IDgQYTPpsx4?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="63" yt:format="5"/>
+      <media:content url="rtsp://v4.cache6.c.youtube.com/CiILENy73wIaGQkes-kzYRA4IBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="63" yt:format="1"/>
+      <media:content url="rtsp://v4.cache5.c.youtube.com/CiILENy73wIaGQkes-kzYRA4IBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="63" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">MarshalGrover</media:credit>
+      <media:description type="plain">...showing the word "persistence".</media:description>
+      <media:keywords>Sesame, Street, Muppets, Elmo, Kevin, Clash, David, Beckham, soccer, vocabulary, 2000's</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=IDgQYTPpsx4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/IDgQYTPpsx4/default.jpg" height="90" width="120" time="00:00:31.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/IDgQYTPpsx4/2.jpg" height="90" width="120" time="00:00:31.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/IDgQYTPpsx4/1.jpg" height="90" width="120" time="00:00:15.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/IDgQYTPpsx4/3.jpg" height="90" width="120" time="00:00:47.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/IDgQYTPpsx4/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham on Sesame Street</media:title>
+      <yt:duration seconds="63"/>
+      <yt:uploaded>2008-08-31T23:15:43.000Z</yt:uploaded>
+      <yt:videoid>IDgQYTPpsx4</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8461537" max="5" min="1" numRaters="182" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="436" viewCount="175853"/>
+    <yt:rating numDislikes="7" numLikes="175"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0YBQX47eCp7ImA9WxFVF0k.&quot;">
+    <id>tag:youtube.com,2008:video:cgOemKqIzEE</id>
+    <published>2010-03-15T11:57:17.000Z</published>
+    <updated>2010-06-17T03:25:50.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="david"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="injury"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="achilles"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tendon"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hurt"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="world"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cup"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ac"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="milan"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="galaxy"/>
+    <title>David Beckham Injury - Achilles Tendon - 14 March 2010</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/cgOemKqIzEE?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=cgOemKqIzEE&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/cgOemKqIzEE/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/cgOemKqIzEE/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=cgOemKqIzEE"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/cgOemKqIzEE?v=2"/>
+    <author>
+      <name>marksickmiller</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/marksickmiller</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/cgOemKqIzEE/comments?v=2" countHint="782"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/cgOemKqIzEE?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="97" yt:format="5"/>
+      <media:content url="rtsp://v7.cache4.c.youtube.com/CiILENy73wIaGQlBzIiqmJ4DchMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="97" yt:format="1"/>
+      <media:content url="rtsp://v7.cache6.c.youtube.com/CiILENy73wIaGQlBzIiqmJ4DchMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="97" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">marksickmiller</media:credit>
+      <media:description type="plain">(Associated Press, 3/15/10) -- David Beckham will miss the World Cup and most if not all the Los Angeles Galaxy season after tearing his left Achilles' tendon Sunday (3/14/10) while playing for AC Milan. His international career for England is all but over. "He will miss the World Cup for sure," a person familiar with the injury told The Associated Press, speaking on condition of anonymity because an official announcement had not been made. The person said it was likely the 34-year-old midfielder will play again. Bidding to become the first English player to appear in four World Cups, Beckham was injured without getting hit during AC Milan's 1-0 Serie A win over Chievo Verona. With only a few minutes remaining and the score 0-0, Beckham was by himself with the ball, shifted his weight and reached a hand down to his left heel. Beckham then stood up and snapped his wrists like he was breaking a twig in half in a gesture to show the AC Milan bench he knew the tendon was broken. Visibly in pain and in tears, Beckham went to the sideline for medical attention, leaving Milan a man short because all three substitutes had been used. "He felt the muscle begin to come up, which is a typical symptom when you break an Achilles' tendon," Milan coach Leonardo told Sky. "This is a real blow.'' Sky reported that Beckham said, "It's broken, it's broken,'' when he came off. Club doctor Jean Pierre Meersseman told Italy's Sky TV that Beckham will fly to Finland, where he will be treated by &lt;b&gt;...&lt;/b&gt;</media:description>
+      <media:keywords>david, beckham, injury, achilles, tendon, hurt, world, cup, ac, milan, galaxy</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=cgOemKqIzEE&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/cgOemKqIzEE/default.jpg" height="90" width="120" time="00:00:48.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/cgOemKqIzEE/2.jpg" height="90" width="120" time="00:00:48.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/cgOemKqIzEE/1.jpg" height="90" width="120" time="00:00:24.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/cgOemKqIzEE/3.jpg" height="90" width="120" time="00:01:12.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/cgOemKqIzEE/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham Injury - Achilles Tendon - 14 March 2010</media:title>
+      <yt:duration seconds="97"/>
+      <yt:uploaded>2010-03-15T11:57:17.000Z</yt:uploaded>
+      <yt:videoid>cgOemKqIzEE</yt:videoid>
+    </media:group>
+    <gd:rating average="4.326271" max="5" min="1" numRaters="236" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="134" viewCount="419540"/>
+    <yt:rating numDislikes="40" numLikes="196"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEcNRn47eCp7ImA9WxFVF0o.&quot;">
+    <id>tag:youtube.com,2008:video:D2v3grF4-Lc</id>
+    <published>2010-05-23T10:04:34.000Z</published>
+    <updated>2010-06-17T10:54:57.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="News" label="News &amp; Politics"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Afghan"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Afghanistan"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Helmand"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soldiers"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="troops"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Becks"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David Beckham"/>
+    <title>David Beckham visits British troops in Afghanistan</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/D2v3grF4-Lc?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=D2v3grF4-Lc&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/D2v3grF4-Lc/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/D2v3grF4-Lc/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=D2v3grF4-Lc"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/D2v3grF4-Lc?v=2"/>
+    <author>
+      <name>itnnews</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/itnnews</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/D2v3grF4-Lc/comments?v=2" countHint="34"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="News &amp; Politics" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">News</media:category>
+      <media:content url="http://www.youtube.com/v/D2v3grF4-Lc?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="103" yt:format="5"/>
+      <media:content url="rtsp://v2.cache1.c.youtube.com/CiILENy73wIaGQm3-HixgvdrDxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="103" yt:format="1"/>
+      <media:content url="rtsp://v8.cache4.c.youtube.com/CiILENy73wIaGQm3-HixgvdrDxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="103" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">itnnews</media:credit>
+      <media:description type="plain">David Beckham has met British troops in Helmand province on a visit to Afghanistan. . Follow us on twitter at twitter.com .</media:description>
+      <media:keywords>Afghan, Afghanistan, Helmand, soldiers, troops, Becks, Beckham, David Beckham</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=D2v3grF4-Lc&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/D2v3grF4-Lc/default.jpg" height="90" width="120" time="00:00:51.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/D2v3grF4-Lc/2.jpg" height="90" width="120" time="00:00:51.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/D2v3grF4-Lc/1.jpg" height="90" width="120" time="00:00:25.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/D2v3grF4-Lc/3.jpg" height="90" width="120" time="00:01:17.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/D2v3grF4-Lc/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham visits British troops in Afghanistan</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="103"/>
+      <yt:uploaded>2010-05-23T10:04:34.000Z</yt:uploaded>
+      <yt:videoid>D2v3grF4-Lc</yt:videoid>
+    </media:group>
+    <gd:rating average="4.724138" max="5" min="1" numRaters="29" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:recorded>2010-05-23</yt:recorded>
+    <yt:statistics favoriteCount="21" viewCount="6925"/>
+    <yt:rating numDislikes="2" numLikes="27"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0MERH47eCp7ImA9WxFVF0k.&quot;">
+    <id>tag:youtube.com,2008:video:jxCGGWC1lsc</id>
+    <published>2010-01-31T10:33:40.000Z</published>
+    <updated>2010-06-17T03:30:05.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="DOWN"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="vs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LALALA"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Watcha"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="say"/>
+    <title>David Beckham New Pics</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/jxCGGWC1lsc?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=jxCGGWC1lsc&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/jxCGGWC1lsc/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/jxCGGWC1lsc/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=jxCGGWC1lsc"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/jxCGGWC1lsc?v=2"/>
+    <author>
+      <name>MyTube3223</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mytube3223</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/jxCGGWC1lsc/comments?v=2" countHint="14"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/jxCGGWC1lsc?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="232" yt:format="5"/>
+      <media:content url="rtsp://v2.cache4.c.youtube.com/CiILENy73wIaGQnHlrVgGYYQjxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="232" yt:format="1"/>
+      <media:content url="rtsp://v1.cache7.c.youtube.com/CiILENy73wIaGQnHlrVgGYYQjxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="232" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">MyTube3223</media:credit>
+      <media:description type="plain">New David Beckham Pics</media:description>
+      <media:keywords>David, Beckham, DOWN, vs, LALALA, Watcha, say</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=jxCGGWC1lsc&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/jxCGGWC1lsc/default.jpg" height="90" width="120" time="00:01:56"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/jxCGGWC1lsc/2.jpg" height="90" width="120" time="00:01:56"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/jxCGGWC1lsc/1.jpg" height="90" width="120" time="00:00:58"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/jxCGGWC1lsc/3.jpg" height="90" width="120" time="00:02:54"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/jxCGGWC1lsc/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham New Pics</media:title>
+      <yt:duration seconds="232"/>
+      <yt:uploaded>2010-01-31T10:33:40.000Z</yt:uploaded>
+      <yt:videoid>jxCGGWC1lsc</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9473686" max="5" min="1" numRaters="19" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="32" viewCount="12639"/>
+    <yt:rating numDislikes="0" numLikes="19"/>
+  </entry>
+  <entry gd:etag="W/&quot;DkINQ347eCp7ImA9WxFVF0g.&quot;">
+    <id>tag:youtube.com,2008:video:fYqbhXW8GyA</id>
+    <published>2010-03-09T17:19:33.000Z</published>
+    <updated>2010-06-17T06:03:12.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="News" label="News &amp; Politics"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="AC Milan"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Manchester United"/>
+    <title>Chaos greets David Beckham</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/fYqbhXW8GyA?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=fYqbhXW8GyA&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/fYqbhXW8GyA/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/fYqbhXW8GyA/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=fYqbhXW8GyA"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/fYqbhXW8GyA?v=2"/>
+    <author>
+      <name>itnnews</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/itnnews</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/fYqbhXW8GyA/comments?v=2" countHint="13"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="News &amp; Politics" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">News</media:category>
+      <media:content url="http://www.youtube.com/v/fYqbhXW8GyA?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="77" yt:format="5"/>
+      <media:content url="rtsp://v2.cache1.c.youtube.com/CiILENy73wIaGQkgG7x1hZuKfRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="77" yt:format="1"/>
+      <media:content url="rtsp://v5.cache3.c.youtube.com/CiILENy73wIaGQkgG7x1hZuKfRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="77" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">itnnews</media:credit>
+      <media:description type="plain">A fan frenzy greeted David Beckham as AC Milan landed at Manchester Airport . . Follow us on twitter at twitter.com .</media:description>
+      <media:keywords>David Beckham, AC Milan, Manchester United</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=fYqbhXW8GyA&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fYqbhXW8GyA/default.jpg" height="90" width="120" time="00:00:38.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fYqbhXW8GyA/2.jpg" height="90" width="120" time="00:00:38.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fYqbhXW8GyA/1.jpg" height="90" width="120" time="00:00:19.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fYqbhXW8GyA/3.jpg" height="90" width="120" time="00:00:57.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fYqbhXW8GyA/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Chaos greets David Beckham</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="77"/>
+      <yt:uploaded>2010-03-09T17:19:33.000Z</yt:uploaded>
+      <yt:videoid>fYqbhXW8GyA</yt:videoid>
+    </media:group>
+    <gd:rating average="4.611111" max="5" min="1" numRaters="18" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:recorded>2010-03-09</yt:recorded>
+    <yt:statistics favoriteCount="15" viewCount="14097"/>
+    <yt:rating numDislikes="2" numLikes="16"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0YNQn47eCp7ImA9WxFVF0o.&quot;">
+    <id>tag:youtube.com,2008:video:Gu8Okf0q9xU</id>
+    <published>2009-03-07T06:08:21.000Z</published>
+    <updated>2010-06-17T11:46:33.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Compilation"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="AC"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Milan"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Lazio"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Tribute"/>
+    <title>David Beckham AC Milan vs Lazio</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/Gu8Okf0q9xU?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Gu8Okf0q9xU&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Gu8Okf0q9xU/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Gu8Okf0q9xU/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Gu8Okf0q9xU?v=2"/>
+    <author>
+      <name>7urtadoAmarant3</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/7urtadoamarant3</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="denied"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Gu8Okf0q9xU/comments?v=2" countHint="612"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/Gu8Okf0q9xU?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="377" yt:format="5"/>
+      <media:credit role="uploader" scheme="urn:youtube">7urtadoAmarant3</media:credit>
+      <media:description type="plain">One of the best performances from Beckham while playing for AC Milan. I hope you enjoy!</media:description>
+      <media:keywords>David, Beckham, Compilation, AC, Milan, Lazio, Tribute</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Gu8Okf0q9xU&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gu8Okf0q9xU/default.jpg" height="90" width="120" time="00:03:08.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gu8Okf0q9xU/2.jpg" height="90" width="120" time="00:03:08.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gu8Okf0q9xU/1.jpg" height="90" width="120" time="00:01:34.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gu8Okf0q9xU/3.jpg" height="90" width="120" time="00:04:42.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gu8Okf0q9xU/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham AC Milan vs Lazio</media:title>
+      <yt:duration seconds="377"/>
+      <yt:uploaded>2009-03-07T06:08:21.000Z</yt:uploaded>
+      <yt:videoid>Gu8Okf0q9xU</yt:videoid>
+    </media:group>
+    <gd:rating average="4.7066894" max="5" min="1" numRaters="583" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="445" viewCount="463056"/>
+    <yt:rating numDislikes="43" numLikes="540"/>
+  </entry>
+  <entry gd:etag="W/&quot;C08GRn47eCp7ImA9WxFVF0U.&quot;">
+    <id>tag:youtube.com,2008:video:XbP-kKGX9Z0</id>
+    <published>2010-05-22T20:22:44.000Z</published>
+    <updated>2010-06-17T13:37:07.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="News" label="News &amp; Politics"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="troops"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="news"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Afghanistan"/>
+    <title>David Beckham visits troops in Afghanistan</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/XbP-kKGX9Z0?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=XbP-kKGX9Z0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/XbP-kKGX9Z0/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/XbP-kKGX9Z0/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=XbP-kKGX9Z0"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/XbP-kKGX9Z0?v=2"/>
+    <author>
+      <name>dailymirror</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/dailymirror</uri>
+    </author>
+    <yt:accessControl action="comment" permission="moderated"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/XbP-kKGX9Z0/comments?v=2" countHint="5"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="News &amp; Politics" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">News</media:category>
+      <media:content url="http://www.youtube.com/v/XbP-kKGX9Z0?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="143" yt:format="5"/>
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CiILENy73wIaGQmd9ZehkP6zXRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="143" yt:format="1"/>
+      <media:content url="rtsp://v8.cache5.c.youtube.com/CiILENy73wIaGQmd9ZehkP6zXRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="143" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">dailymirror</media:credit>
+      <media:description type="plain"/>
+      <media:keywords>David Beckham, troops, news, Afghanistan</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=XbP-kKGX9Z0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XbP-kKGX9Z0/default.jpg" height="90" width="120" time="00:01:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XbP-kKGX9Z0/2.jpg" height="90" width="120" time="00:01:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XbP-kKGX9Z0/1.jpg" height="90" width="120" time="00:00:35.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XbP-kKGX9Z0/3.jpg" height="90" width="120" time="00:01:47.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XbP-kKGX9Z0/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham visits troops in Afghanistan</media:title>
+      <yt:duration seconds="143"/>
+      <yt:uploaded>2010-05-22T20:22:44.000Z</yt:uploaded>
+      <yt:videoid>XbP-kKGX9Z0</yt:videoid>
+    </media:group>
+    <gd:rating average="4.483871" max="5" min="1" numRaters="31" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="20" viewCount="26869"/>
+    <yt:rating numDislikes="4" numLikes="27"/>
+  </entry>
+  <entry gd:etag="W/&quot;CkEARH47eCp7ImA9WxFVF0o.&quot;">
+    <id>tag:youtube.com,2008:video:-r3h5GP_wSA</id>
+    <published>2007-03-09T17:06:08.000Z</published>
+    <updated>2010-06-17T10:30:45.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Free"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Kick"/>
+    <title>David Beckham Best Free Kicks</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/-r3h5GP_wSA?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=-r3h5GP_wSA&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-r3h5GP_wSA/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-r3h5GP_wSA/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=-r3h5GP_wSA"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-r3h5GP_wSA?v=2"/>
+    <author>
+      <name>abc1008mbs1179</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/abc1008mbs1179</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/-r3h5GP_wSA/comments?v=2" countHint="1294"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/-r3h5GP_wSA?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="447" yt:format="5"/>
+      <media:content url="rtsp://v4.cache1.c.youtube.com/CiILENy73wIaGQkgwf9j5OG9-hMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="447" yt:format="1"/>
+      <media:content url="rtsp://v1.cache5.c.youtube.com/CiILENy73wIaGQkgwf9j5OG9-hMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="447" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">abc1008mbs1179</media:credit>
+      <media:description type="plain">Music: Robert Miles - Children</media:description>
+      <media:keywords>David, Beckham, Free, Kick</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=-r3h5GP_wSA&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-r3h5GP_wSA/default.jpg" height="90" width="120" time="00:03:43.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-r3h5GP_wSA/2.jpg" height="90" width="120" time="00:03:43.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-r3h5GP_wSA/1.jpg" height="90" width="120" time="00:01:51.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-r3h5GP_wSA/3.jpg" height="90" width="120" time="00:05:35.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-r3h5GP_wSA/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham Best Free Kicks</media:title>
+      <yt:duration seconds="447"/>
+      <yt:uploaded>2007-03-09T17:06:08.000Z</yt:uploaded>
+      <yt:videoid>-r3h5GP_wSA</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8513317" max="5" min="1" numRaters="2065" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="3288" viewCount="820739"/>
+    <yt:rating numDislikes="77" numLikes="1988"/>
+  </entry>
+  <entry gd:etag="W/&quot;CkEARH47eCp7ImA9WxFVF0o.&quot;">
+    <id>tag:youtube.com,2008:video:Gig9p0kGA1o</id>
+    <published>2007-03-09T17:02:04.000Z</published>
+    <updated>2010-06-17T10:30:45.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Free"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Kick"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Assist"/>
+    <title>David Beckham Best Assists</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/Gig9p0kGA1o?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Gig9p0kGA1o&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Gig9p0kGA1o/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Gig9p0kGA1o/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Gig9p0kGA1o?v=2"/>
+    <author>
+      <name>abc1008mbs1179</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/abc1008mbs1179</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Gig9p0kGA1o/comments?v=2" countHint="430"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/Gig9p0kGA1o?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="273" yt:format="5"/>
+      <media:credit role="uploader" scheme="urn:youtube">abc1008mbs1179</media:credit>
+      <media:description type="plain">Music: Embrace - Ashes</media:description>
+      <media:keywords>David, Beckham, Free, Kick, Assist</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Gig9p0kGA1o&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gig9p0kGA1o/default.jpg" height="90" width="120" time="00:02:16.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gig9p0kGA1o/2.jpg" height="90" width="120" time="00:02:16.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gig9p0kGA1o/1.jpg" height="90" width="120" time="00:01:08.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gig9p0kGA1o/3.jpg" height="90" width="120" time="00:03:24.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gig9p0kGA1o/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham Best Assists</media:title>
+      <yt:duration seconds="273"/>
+      <yt:uploaded>2007-03-09T17:02:04.000Z</yt:uploaded>
+      <yt:videoid>Gig9p0kGA1o</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8844037" max="5" min="1" numRaters="545" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="1234" viewCount="275836"/>
+    <yt:rating numDislikes="16" numLikes="529"/>
+  </entry>
+  <entry gd:etag="W/&quot;CUQGRX47eCp7ImA9WxFVF0k.&quot;">
+    <id>tag:youtube.com,2008:video:hjVSCy-tt2E</id>
+    <published>2008-03-26T05:26:17.000Z</published>
+    <updated>2010-06-17T02:55:24.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="football"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soccer"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="60"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="minutes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cbs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="los"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="angeles"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="galaxy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="uk"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="us"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bend"/>
+    <title>David Beckham - Full Profile on CBS "60 minutes"</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/hjVSCy-tt2E?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=hjVSCy-tt2E&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/hjVSCy-tt2E/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/hjVSCy-tt2E/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=hjVSCy-tt2E"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/hjVSCy-tt2E?v=2"/>
+    <author>
+      <name>musth14</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/musth14</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/hjVSCy-tt2E/comments?v=2" countHint="139"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/hjVSCy-tt2E?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="595" yt:format="5"/>
+      <media:content url="rtsp://v6.cache2.c.youtube.com/CiILENy73wIaGQlht60vC1I1hhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="595" yt:format="1"/>
+      <media:content url="rtsp://v3.cache7.c.youtube.com/CiILENy73wIaGQlht60vC1I1hhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="595" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">musth14</media:credit>
+      <media:description type="plain">CBS "60 Minutes" profiles David Beckham, covering his transition from UK/Euro footballer to US soccer player for the LA Galaxy. Becks gives host Anderson Cooper an close-up look at his free kick technique and shows off a new tattoo.</media:description>
+      <media:keywords>David, Beckham, football, soccer, 60, minutes, cbs, los, angeles, galaxy, uk, us, bend</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=hjVSCy-tt2E&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hjVSCy-tt2E/default.jpg" height="90" width="120" time="00:04:57.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hjVSCy-tt2E/2.jpg" height="90" width="120" time="00:04:57.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hjVSCy-tt2E/1.jpg" height="90" width="120" time="00:02:28.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hjVSCy-tt2E/3.jpg" height="90" width="120" time="00:07:26.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hjVSCy-tt2E/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham - Full Profile on CBS "60 minutes"</media:title>
+      <yt:duration seconds="595"/>
+      <yt:uploaded>2008-03-26T05:26:17.000Z</yt:uploaded>
+      <yt:videoid>hjVSCy-tt2E</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8385415" max="5" min="1" numRaters="192" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="303" viewCount="91201"/>
+    <yt:rating numDislikes="8" numLikes="184"/>
+  </entry>
+  <entry gd:etag="W/&quot;DEMASX47eCp7ImA9WxFVF0o.&quot;">
+    <id>tag:youtube.com,2008:video:kRdTCKOb-lo</id>
+    <published>2008-07-17T03:28:29.000Z</published>
+    <updated>2010-06-17T12:07:28.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cristiano"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ronaldo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="david"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="la"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="galaxy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="real"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="madrid"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="UEFA"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Eurocup"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="2008"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Manchester"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="United"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Portugal"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="espy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="awards"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="espn"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soccer"/>
+    <title>Cristiano Ronaldo To Follow David Beckham's Footsteps</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/kRdTCKOb-lo?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=kRdTCKOb-lo&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/kRdTCKOb-lo/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/kRdTCKOb-lo/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=kRdTCKOb-lo"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/kRdTCKOb-lo?v=2"/>
+    <author>
+      <name>HollyscoopTV</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/hollyscooptv</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/kRdTCKOb-lo/comments?v=2" countHint="2382"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/kRdTCKOb-lo?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="79" yt:format="5"/>
+      <media:content url="rtsp://v3.cache7.c.youtube.com/CiILENy73wIaGQla-pujCFMXkRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="79" yt:format="1"/>
+      <media:content url="rtsp://v6.cache3.c.youtube.com/CiILENy73wIaGQla-pujCFMXkRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="79" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">HollyscoopTV</media:credit>
+      <media:description type="plain">Description: Cristiano Ronaldo spoke to Hollyscoop at the 2008 ESPY Awards about the possibly of moving to the US to play for the LA Galaxy just like David Beckham</media:description>
+      <media:keywords>cristiano, ronaldo, david, beckham, la, galaxy, real, madrid, UEFA, Eurocup, 2008, Manchester, United, Portugal, espy, awards, espn, soccer</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=kRdTCKOb-lo&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kRdTCKOb-lo/default.jpg" height="90" width="120" time="00:00:39.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kRdTCKOb-lo/2.jpg" height="90" width="120" time="00:00:39.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kRdTCKOb-lo/1.jpg" height="90" width="120" time="00:00:19.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kRdTCKOb-lo/3.jpg" height="90" width="120" time="00:00:59.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kRdTCKOb-lo/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Cristiano Ronaldo To Follow David Beckham's Footsteps</media:title>
+      <yt:duration seconds="79"/>
+      <yt:uploaded>2008-07-17T03:28:29.000Z</yt:uploaded>
+      <yt:videoid>kRdTCKOb-lo</yt:videoid>
+    </media:group>
+    <gd:rating average="4.5299487" max="5" min="1" numRaters="1753" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="417" viewCount="1723176"/>
+    <yt:rating numDislikes="206" numLikes="1547"/>
+  </entry>
+  <entry gd:etag="W/&quot;A0UNRX47eCp7ImA9WxFVF0U.&quot;">
+    <id>tag:youtube.com,2008:video:Pc5gHm8Po20</id>
+    <published>2007-01-14T15:09:57.000Z</published>
+    <updated>2010-06-17T15:41:34.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Adidas"/>
+    <title>David Beckham - Adidas Ad</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/Pc5gHm8Po20?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Pc5gHm8Po20&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Pc5gHm8Po20/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Pc5gHm8Po20/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=Pc5gHm8Po20"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Pc5gHm8Po20?v=2"/>
+    <author>
+      <name>Darlene25</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/darlene25</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Pc5gHm8Po20/comments?v=2" countHint="148"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/Pc5gHm8Po20?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="89" yt:format="5"/>
+      <media:content url="rtsp://v2.cache1.c.youtube.com/CiILENy73wIaGQltow9vHmDOPRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="89" yt:format="1"/>
+      <media:content url="rtsp://v6.cache1.c.youtube.com/CiILENy73wIaGQltow9vHmDOPRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="89" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">Darlene25</media:credit>
+      <media:description type="plain">David Beckham - Adidas Ad</media:description>
+      <media:keywords>David, Beckham, Adidas</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Pc5gHm8Po20&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Pc5gHm8Po20/default.jpg" height="90" width="120" time="00:00:44.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Pc5gHm8Po20/2.jpg" height="90" width="120" time="00:00:44.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Pc5gHm8Po20/1.jpg" height="90" width="120" time="00:00:22.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Pc5gHm8Po20/3.jpg" height="90" width="120" time="00:01:06.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Pc5gHm8Po20/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham - Adidas Ad</media:title>
+      <yt:duration seconds="89"/>
+      <yt:uploaded>2007-01-14T15:09:57.000Z</yt:uploaded>
+      <yt:videoid>Pc5gHm8Po20</yt:videoid>
+    </media:group>
+    <gd:rating average="4.747826" max="5" min="1" numRaters="575" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="1669" viewCount="630000"/>
+    <yt:rating numDislikes="36" numLikes="539"/>
+  </entry>
+  <entry gd:etag="W/&quot;DEQHRH47eCp7ImA9WxFVF0o.&quot;">
+    <id>tag:youtube.com,2008:video:OV6Iu58RS-g</id>
+    <published>2008-07-24T17:06:37.000Z</published>
+    <updated>2010-06-17T12:05:35.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="david"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mancheser"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="united"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="la"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="galaxy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="70"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yards"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="football"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="england"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hero"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="penalty"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bouma"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="injury"/>
+    <title>David Beckham Tribute</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/OV6Iu58RS-g?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=OV6Iu58RS-g&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/OV6Iu58RS-g/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/OV6Iu58RS-g/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=OV6Iu58RS-g"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/OV6Iu58RS-g?v=2"/>
+    <author>
+      <name>itswilko3</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/itswilko3</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/OV6Iu58RS-g/comments?v=2" countHint="140"/>
+    </gd:comments>
+    <yt:location>undefined</yt:location>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/OV6Iu58RS-g?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="216" yt:format="5"/>
+      <media:content url="rtsp://v2.cache2.c.youtube.com/CiILENy73wIaGQnoSxGfu4heORMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="216" yt:format="1"/>
+      <media:content url="rtsp://v4.cache5.c.youtube.com/CiILENy73wIaGQnoSxGfu4heORMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="216" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">itswilko3</media:credit>
+      <media:description type="plain">REUPLOADED My compilation on David Beckham Please subscribe to my new channel David Robert Joseph Beckham, OBE (born 2 May 1975) is an English professional footballer, who plays in midfield. He currently plays for and captains Major League Soccer's Los Angeles Galaxy[2] and is also a member of the England national team. He earned his 100th cap for England against France in March 2008.[3] He has twice been runner-up for FIFA World Player of the Year, and in 2004 was the world's highest-paid footballer.[4] He was Google's most searched of all sports topics in both 2003 and 2004.[5] Such global recognition has made him an elite advertising brand and a top fashion icon.[6][7] Beckham was captain of England from 15 November 2000 to 2 July 2006. He made 58 appearances as captain, and ended his tenure in that role after the 2006 FIFA World Cup finals. He continued to make contributions for the England national team in 2007 competitions.[8] Beckham captained Manchester United for the first time on October 21st 2000 in a Premiership match against Leeds United, coming on as a substitute for injured team captain Roy Keane. Beckham went on to score a free-kick in this match, which finished 3-0. Beckham's career began when he signed a professional contract with Manchester United, making his first-team debut in 1992 aged 17. During his time there, United won the Premier League title six times, the FA Cup twice, and the UEFA Champions League in 1999. He left Manchester United to sign &lt;b&gt;...&lt;/b&gt;</media:description>
+      <media:keywords>david, beckham, mancheser, united, la, galaxy, 70, yards, football, england, hero, penalty, bouma, injury</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=OV6Iu58RS-g&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/OV6Iu58RS-g/default.jpg" height="90" width="120" time="00:01:48"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/OV6Iu58RS-g/2.jpg" height="90" width="120" time="00:01:48"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/OV6Iu58RS-g/1.jpg" height="90" width="120" time="00:00:54"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/OV6Iu58RS-g/3.jpg" height="90" width="120" time="00:02:42"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/OV6Iu58RS-g/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham Tribute</media:title>
+      <yt:duration seconds="216"/>
+      <yt:uploaded>2008-07-24T17:06:37.000Z</yt:uploaded>
+      <yt:videoid>OV6Iu58RS-g</yt:videoid>
+    </media:group>
+    <gd:rating average="4.7970295" max="5" min="1" numRaters="202" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="311" viewCount="83171"/>
+    <yt:rating numDislikes="10" numLikes="192"/>
+  </entry>
+  <entry gd:etag="W/&quot;AkcCRn47eCp7ImA9WxFVF0U.&quot;">
+    <id>tag:youtube.com,2008:video:Va-PGV9RM4c</id>
+    <published>2007-04-26T02:01:13.000Z</published>
+    <updated>2010-06-17T15:21:07.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="News" label="News &amp; Politics"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soccer"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="malaria"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bed"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="nets"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Africa"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mosquitos"/>
+    <title>David Beckham: Fight Malaria by Donating a $10 Bed Net</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/Va-PGV9RM4c?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Va-PGV9RM4c&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Va-PGV9RM4c/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Va-PGV9RM4c/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Va-PGV9RM4c?v=2"/>
+    <author>
+      <name>malarianomore</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/malarianomore</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Va-PGV9RM4c/comments?v=2" countHint="19"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="News &amp; Politics" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">News</media:category>
+      <media:content url="http://www.youtube.com/v/Va-PGV9RM4c?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="31" yt:format="5"/>
+      <media:content url="rtsp://v1.cache5.c.youtube.com/CiILENy73wIaGQmHM1FfGY-vVRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="31" yt:format="1"/>
+      <media:content url="rtsp://v4.cache4.c.youtube.com/CiILENy73wIaGQmHM1FfGY-vVRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="31" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">malarianomore</media:credit>
+      <media:description type="plain">Soccer superstar David Beckham encourages you to donate a $10 bed net to protect African children from malaria. Malaria claims one child's life every 30 seconds.</media:description>
+      <media:keywords>David, Beckham, soccer, malaria, bed, nets, Africa, mosquitos</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Va-PGV9RM4c&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Va-PGV9RM4c/default.jpg" height="90" width="120" time="00:00:15.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Va-PGV9RM4c/2.jpg" height="90" width="120" time="00:00:15.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Va-PGV9RM4c/1.jpg" height="90" width="120" time="00:00:07.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Va-PGV9RM4c/3.jpg" height="90" width="120" time="00:00:23.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Va-PGV9RM4c/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham: Fight Malaria by Donating a $10 Bed Net</media:title>
+      <yt:duration seconds="31"/>
+      <yt:uploaded>2007-04-26T02:01:13.000Z</yt:uploaded>
+      <yt:videoid>Va-PGV9RM4c</yt:videoid>
+    </media:group>
+    <gd:rating average="4.793103" max="5" min="1" numRaters="29" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="45" viewCount="30724"/>
+    <yt:rating numDislikes="2" numLikes="27"/>
+  </entry>
+  <entry gd:etag="W/&quot;DE4CSX47eCp7ImA9WxFVF0Q.&quot;">
+    <id>tag:youtube.com,2008:video:FJSpIueB6Ak</id>
+    <published>2008-05-04T08:10:24.000Z</published>
+    <updated>2010-06-17T17:49:28.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Goals"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soccer"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="MLS"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Major"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="League"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Los"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Angeles"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Galaxy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Real"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Salt"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Lake"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Euro"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="National"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Team"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="USA"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="England"/>
+    <title>David Beckham Scores 2 World Class Goals</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/FJSpIueB6Ak?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=FJSpIueB6Ak&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FJSpIueB6Ak/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FJSpIueB6Ak/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=FJSpIueB6Ak"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FJSpIueB6Ak?v=2"/>
+    <author>
+      <name>MalibuBabygirl911</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/malibubabygirl911</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/FJSpIueB6Ak/comments?v=2" countHint="1954"/>
+    </gd:comments>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>34.03217697143555 -118.76495361328125</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/FJSpIueB6Ak?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="93" yt:format="5"/>
+      <media:content url="rtsp://v8.cache1.c.youtube.com/CiILENy73wIaGQkJ6IHnIqmUFBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="93" yt:format="1"/>
+      <media:content url="rtsp://v3.cache8.c.youtube.com/CiILENy73wIaGQkJ6IHnIqmUFBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="93" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">MalibuBabygirl911</media:credit>
+      <media:description type="plain">Beckham scores 2 goals against Real Salt Lake, to bring them back from a 2-nil score line to tie the game.</media:description>
+      <media:keywords>David, Beckham, Goals, soccer, MLS, Major, League, Los, Angeles, Galaxy, Real, Salt, Lake, Euro, National, Team, USA, England</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=FJSpIueB6Ak&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FJSpIueB6Ak/default.jpg" height="90" width="120" time="00:00:46.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FJSpIueB6Ak/2.jpg" height="90" width="120" time="00:00:46.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FJSpIueB6Ak/1.jpg" height="90" width="120" time="00:00:23.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FJSpIueB6Ak/3.jpg" height="90" width="120" time="00:01:09.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FJSpIueB6Ak/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham Scores 2 World Class Goals</media:title>
+      <yt:duration seconds="93"/>
+      <yt:uploaded>2008-05-04T08:10:24.000Z</yt:uploaded>
+      <yt:videoid>FJSpIueB6Ak</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8127313" max="5" min="1" numRaters="1351" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="1520" viewCount="1318252"/>
+    <yt:rating numDislikes="63" numLikes="1288"/>
+  </entry>
+  <entry gd:etag="W/&quot;C0YBR347eCp7ImA9WxFVF0s.&quot;">
+    <id>tag:youtube.com,2008:video:3ZAQSeOaIQE</id>
+    <published>2007-06-19T05:09:41.000Z</published>
+    <updated>2010-06-17T07:52:36.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Real"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="madrid"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="la"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="liga"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Man"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Utd"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Manchester"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="United"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spanish"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tvb"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="champions"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="raul"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="carlo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="zidan"/>
+    <title>David Beckham Last match for Real Madrid</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/3ZAQSeOaIQE?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=3ZAQSeOaIQE&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/3ZAQSeOaIQE/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/3ZAQSeOaIQE/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=3ZAQSeOaIQE"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/3ZAQSeOaIQE?v=2"/>
+    <author>
+      <name>RayGoodnight</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/raygoodnight</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="denied"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/3ZAQSeOaIQE/comments?v=2" countHint="120"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/3ZAQSeOaIQE?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="202" yt:format="5"/>
+      <media:content url="rtsp://v4.cache1.c.youtube.com/CiILENy73wIaGQkBIZrjSRCQ3RMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="202" yt:format="1"/>
+      <media:content url="rtsp://v8.cache1.c.youtube.com/CiILENy73wIaGQkBIZrjSRCQ3RMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="202" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">RayGoodnight</media:credit>
+      <media:description type="plain">David Beckham helped Real Madrid to win the Spanish La Liga Championship 2007 Song( To Have and To Hold)</media:description>
+      <media:keywords>David, Beckham, Real, madrid, la, liga, Man, Utd, Manchester, United, spanish, tvb, champions, raul, carlo, zidan</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=3ZAQSeOaIQE&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3ZAQSeOaIQE/default.jpg" height="90" width="120" time="00:01:41"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3ZAQSeOaIQE/2.jpg" height="90" width="120" time="00:01:41"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3ZAQSeOaIQE/1.jpg" height="90" width="120" time="00:00:50.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3ZAQSeOaIQE/3.jpg" height="90" width="120" time="00:02:31.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3ZAQSeOaIQE/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham Last match for Real Madrid</media:title>
+      <yt:duration seconds="202"/>
+      <yt:uploaded>2007-06-19T05:09:41.000Z</yt:uploaded>
+      <yt:videoid>3ZAQSeOaIQE</yt:videoid>
+    </media:group>
+    <gd:rating average="4.933884" max="5" min="1" numRaters="121" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="297" viewCount="157868"/>
+    <yt:rating numDislikes="2" numLikes="119"/>
+  </entry>
+  <entry gd:etag="W/&quot;Ck8BRX47eCp7ImA9WxFVF0Q.&quot;">
+    <id>tag:youtube.com,2008:video:qgjWZXnTn9A</id>
+    <published>2008-05-25T12:46:05.000Z</published>
+    <updated>2010-06-17T16:07:34.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="david"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="goal"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="la"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Galaxy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Wizards"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="70"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yard"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="futbol"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="football"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="gol"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soccer"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="calcio"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mls"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Fußball"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="voetbal"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="fotboll"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="بيكهام"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="هدف"/>
+    <title>Beckham 70 Yard Goal - LA Galaxy Vs. Kansas City Wizards -HQ</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/qgjWZXnTn9A?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=qgjWZXnTn9A&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/qgjWZXnTn9A/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/qgjWZXnTn9A/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=qgjWZXnTn9A"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/qgjWZXnTn9A?v=2"/>
+    <author>
+      <name>beckham4ever2005</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/beckham4ever2005</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/qgjWZXnTn9A/comments?v=2" countHint="8728"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/qgjWZXnTn9A?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="43" yt:format="5"/>
+      <media:content url="rtsp://v3.cache5.c.youtube.com/CiILENy73wIaGQnQn9N5ZdYIqhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="43" yt:format="1"/>
+      <media:content url="rtsp://v2.cache8.c.youtube.com/CiILENy73wIaGQnQn9N5ZdYIqhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="43" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">beckham4ever2005</media:credit>
+      <media:description type="plain">Beckham 70 yard goal against Kansas City Wizards in 05/24/2008. HQ available (because this video is not stolen and repost it). This Goal is not Fake. Soccer is not scripted as pro-wrestling. It happens all the time in soccer when teams got nothing to lose trying to tie a game. The goalie joins his teammates to make it even 11 vs 11 players. A year ago Andres Palop ( a goalie ) tied a game with a header in the extra time. PS. Since I post it this video in the morning, more than 30 duplicates of my video were posted. Not even the video, but the title and description as well. LMAO</media:description>
+      <media:keywords>david, Beckham, goal, la, Galaxy, Wizards, 70, yard, futbol, football, gol, soccer, calcio, mls, Fußball, voetbal, fotboll, بيكهام, هدف</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=qgjWZXnTn9A&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/qgjWZXnTn9A/default.jpg" height="90" width="120" time="00:00:21.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/qgjWZXnTn9A/2.jpg" height="90" width="120" time="00:00:21.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/qgjWZXnTn9A/1.jpg" height="90" width="120" time="00:00:10.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/qgjWZXnTn9A/3.jpg" height="90" width="120" time="00:00:32.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/qgjWZXnTn9A/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Beckham 70 Yard Goal - LA Galaxy Vs. Kansas City Wizards -HQ</media:title>
+      <yt:duration seconds="43"/>
+      <yt:uploaded>2008-05-25T12:46:05.000Z</yt:uploaded>
+      <yt:videoid>qgjWZXnTn9A</yt:videoid>
+    </media:group>
+    <gd:rating average="4.5997367" max="5" min="1" numRaters="8362" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="8038" viewCount="6633036"/>
+    <yt:rating numDislikes="837" numLikes="7525"/>
+  </entry>
+  <entry gd:etag="W/&quot;C08DSX47eCp7ImA9WxFVF0g.&quot;">
+    <id>tag:youtube.com,2008:video:rKDvtnEhLP0</id>
+    <published>2006-06-06T20:14:49.000Z</published>
+    <updated>2010-06-17T05:17:58.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="david"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="greece"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="vs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="england"/>
+    <title>David Beckham (greece vs england) great free kick</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rKDvtnEhLP0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rKDvtnEhLP0/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rKDvtnEhLP0/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rKDvtnEhLP0?v=2"/>
+    <author>
+      <name>kidxanga</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/kidxanga</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="denied"/>
+    <yt:accessControl action="syndicate" permission="denied"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/rKDvtnEhLP0/comments?v=2" countHint="1593"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:credit role="uploader" scheme="urn:youtube">kidxanga</media:credit>
+      <media:description type="plain">just remembering the old days..... i wonder if beckham can pull something like this in this 2006 worldcup</media:description>
+      <media:keywords>david, beckham, greece, vs, england</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=rKDvtnEhLP0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rKDvtnEhLP0/default.jpg" height="90" width="120" time="00:00:26.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rKDvtnEhLP0/2.jpg" height="90" width="120" time="00:00:26.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rKDvtnEhLP0/1.jpg" height="90" width="120" time="00:00:13.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rKDvtnEhLP0/3.jpg" height="90" width="120" time="00:00:39.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rKDvtnEhLP0/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham (greece vs england) great free kick</media:title>
+      <yt:duration seconds="53"/>
+      <yt:uploaded>2006-06-06T20:14:49.000Z</yt:uploaded>
+      <yt:videoid>rKDvtnEhLP0</yt:videoid>
+    </media:group>
+    <yt:noembed/>
+    <gd:rating average="4.848164" max="5" min="1" numRaters="1607" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="2542" viewCount="1156792"/>
+    <yt:rating numDislikes="61" numLikes="1546"/>
+  </entry>
+  <entry gd:etag="W/&quot;CUQASH47eCp7ImA9WxFVF0o.&quot;">
+    <id>tag:youtube.com,2008:video:CWz5GgP5E3I</id>
+    <published>2009-12-04T19:49:40.000Z</published>
+    <updated>2010-06-17T11:15:49.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="News" label="News &amp; Politics"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Beckham"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Launches"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="JABULANI"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="2010"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="World"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Cup"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Draw"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Soccer"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Football"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="NEWS"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="BREAKING"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Soccerball"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Fédération"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Internationale"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="de"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Association"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="FIFA"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Fútbol"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mexican"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="national"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="team"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="fan"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="futbol"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="adidas"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="launch"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="unveiling"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="interview"/>
+    <title>David Beckham Launches JABULANI FIFA 2010 World Cup Draw Soccer Ball Football NEWS BREAKING</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/CWz5GgP5E3I?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=CWz5GgP5E3I&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/CWz5GgP5E3I/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/CWz5GgP5E3I/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=CWz5GgP5E3I"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/CWz5GgP5E3I?v=2"/>
+    <author>
+      <name>SBARTSTV</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/sbartstv</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/CWz5GgP5E3I/comments?v=2" countHint="138"/>
+    </gd:comments>
+    <yt:location>south aftica</yt:location>
+    <media:group>
+      <media:category label="News &amp; Politics" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">News</media:category>
+      <media:content url="http://www.youtube.com/v/CWz5GgP5E3I?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="48" yt:format="5"/>
+      <media:content url="rtsp://v8.cache8.c.youtube.com/CiILENy73wIaGQlyE_kDGvlsCRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="48" yt:format="1"/>
+      <media:content url="rtsp://v8.cache3.c.youtube.com/CiILENy73wIaGQlyE_kDGvlsCRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="48" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">SBARTSTV</media:credit>
+      <media:description type="plain">David Beckham Launches JABULANI 2010 World Cup Soccer Football NEWS BREAKING Unveiling of adidas 2010 World Cup Official Match Ball: 'Jabulani' Ahead of the 2010 World Cup draw in Cape Town, adidas unveiled the official match ball 'Jabulani'. Available video includes an interview with Herbert Hainer, CEO adidas Group and David Beckham and highlights from the unveiling of 'Jabulani'.</media:description>
+      <media:keywords>David, Beckham, Launches, JABULANI, 2010, World, Cup, Draw, Soccer, Football, NEWS, BREAKING, Soccerball, Fédération, Internationale, de, Association, FIFA, Fútbol, mexican, national, team, fan, futbol, adidas, launch, unveiling, interview</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=CWz5GgP5E3I&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CWz5GgP5E3I/default.jpg" height="90" width="120" time="00:00:24"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CWz5GgP5E3I/2.jpg" height="90" width="120" time="00:00:24"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CWz5GgP5E3I/1.jpg" height="90" width="120" time="00:00:12"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CWz5GgP5E3I/3.jpg" height="90" width="120" time="00:00:36"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CWz5GgP5E3I/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Beckham Launches JABULANI FIFA 2010 World Cup Draw Soccer Ball Football NEWS BREAKING</media:title>
+      <yt:duration seconds="48"/>
+      <yt:uploaded>2009-12-04T19:49:40.000Z</yt:uploaded>
+      <yt:videoid>CWz5GgP5E3I</yt:videoid>
+    </media:group>
+    <gd:rating average="4.47561" max="5" min="1" numRaters="82" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:recorded>2009-12-04</yt:recorded>
+    <yt:statistics favoriteCount="29" viewCount="105360"/>
+    <yt:rating numDislikes="11" numLikes="71"/>
+  </entry>
+</feed>

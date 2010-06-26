@@ -1,0 +1,280 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:yt="http://gdata.youtube.com/schemas/2007" gd:etag="W/&quot;Dk4HRH47eCp7ImA9WxFVFkk.&quot;">
+  <id>tag:youtube.com,2008:standardfeed:jp:top_rated</id>
+  <updated>2010-06-15T16:35:35.000-07:00</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+  <title>Top Rated</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com/browse?s=tr"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated?v=2"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/batch?v=2"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated?start-index=1&amp;max-results=4&amp;category=%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fcategories.cat%7DComedy&amp;v=2"/>
+  <link rel="service" type="application/atomsvc+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated?alt=atom-service&amp;v=2"/>
+  <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated?start-index=5&amp;max-results=4&amp;category=%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fcategories.cat%7DComedy&amp;v=2"/>
+  <author>
+    <name>YouTube</name>
+    <uri>http://www.youtube.com/</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>22</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>4</openSearch:itemsPerPage>
+  <entry gd:etag="W/&quot;CU4ASX47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:Zt2h09TrN3A</id>
+    <published>2010-05-25T10:39:37.000Z</published>
+    <updated>2010-06-16T21:32:28.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yugioh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="abridged"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="series"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="littlekuriboh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spoof"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anime"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="season"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="three"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="parody"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="noah"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kaiba"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kirbopher"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="teamfourstar"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="4kids"/>
+    <title>Episode 47 - Beyond The Fourth Wall</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/Zt2h09TrN3A?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Zt2h09TrN3A&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Zt2h09TrN3A/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Zt2h09TrN3A/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=Zt2h09TrN3A"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/Zt2h09TrN3A?v=2"/>
+    <author>
+      <name>CardGamesFTW</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cardgamesftw</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Zt2h09TrN3A/comments?v=2" countHint="5287"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/Zt2h09TrN3A?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="599" yt:format="5"/>
+      <media:content url="rtsp://v3.cache8.c.youtube.com/CiQLENy73wIaGwlwN-vU06HdZhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="599" yt:format="1"/>
+      <media:content url="rtsp://v5.cache2.c.youtube.com/CiQLENy73wIaGwlwN-vU06HdZhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="599" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">CardGamesFTW</media:credit>
+      <media:description type="plain">In memory of Maddie Blaustein.
+
+Also Starring:
+
+Kirbopher as Noah
+MasakoX as Nesbitt
+KaiserNeko as Johnson
+Lanipator as Lector
+Takahata101 as Crump
+HBI2K as Gansley
+ShadyVox as Jaden</media:description>
+      <media:keywords>yugioh, abridged, series, littlekuriboh, dub, spoof, anime, season, three, parody, noah, kaiba, kirbopher, teamfourstar, 4kids</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Zt2h09TrN3A&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Zt2h09TrN3A/default.jpg" height="90" width="120" time="00:04:59.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Zt2h09TrN3A/2.jpg" height="90" width="120" time="00:04:59.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Zt2h09TrN3A/1.jpg" height="90" width="120" time="00:02:29.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Zt2h09TrN3A/3.jpg" height="90" width="120" time="00:07:29.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Zt2h09TrN3A/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Episode 47 - Beyond The Fourth Wall</media:title>
+      <yt:duration seconds="599"/>
+      <yt:uploaded>2010-05-25T10:39:37.000Z</yt:uploaded>
+      <yt:videoid>Zt2h09TrN3A</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9560122" max="5" min="1" numRaters="10412" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="4427" viewCount="368512"/>
+    <yt:rating numDislikes="114" numLikes="10298"/>
+  </entry>
+  <entry gd:etag="W/&quot;DUYGSH47eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:7hYGkqc1gqE</id>
+    <published>2009-07-14T03:49:41.000Z</published>
+    <updated>2010-06-16T19:38:49.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yugioh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="abridged"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="series"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="littlekuriboh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anime"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spoof"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <title>YGOTAS Third Anniversary Spectacularmathon</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/7hYGkqc1gqE?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=7hYGkqc1gqE&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/7hYGkqc1gqE/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/7hYGkqc1gqE/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=7hYGkqc1gqE"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/7hYGkqc1gqE?v=2"/>
+    <author>
+      <name>CardGamesFTW</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cardgamesftw</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/7hYGkqc1gqE/comments?v=2" countHint="4137"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/7hYGkqc1gqE?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="341" yt:format="5"/>
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CiQLENy73wIaGwmhgjWnkgYW7hMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="341" yt:format="1"/>
+      <media:content url="rtsp://v1.cache5.c.youtube.com/CiQLENy73wIaGwmhgjWnkgYW7hMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="341" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">CardGamesFTW</media:credit>
+      <media:description type="plain">Three years and barely two seasons! Hooray!
+
+Admittedly, one of my more rushed videos.</media:description>
+      <media:keywords>yugioh, abridged, series, littlekuriboh, anime, spoof, dub</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=7hYGkqc1gqE&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7hYGkqc1gqE/default.jpg" height="90" width="120" time="00:02:50.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7hYGkqc1gqE/2.jpg" height="90" width="120" time="00:02:50.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7hYGkqc1gqE/1.jpg" height="90" width="120" time="00:01:25.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7hYGkqc1gqE/3.jpg" height="90" width="120" time="00:04:15.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7hYGkqc1gqE/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">YGOTAS Third Anniversary Spectacularmathon</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="341"/>
+      <yt:uploaded>2009-07-14T03:49:41.000Z</yt:uploaded>
+      <yt:videoid>7hYGkqc1gqE</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9409895" max="5" min="1" numRaters="7541" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="5780" viewCount="345961"/>
+    <yt:rating numDislikes="111" numLikes="7430"/>
+  </entry>
+  <entry gd:etag="W/&quot;D04CQn47eCp7ImA9WxFVF0w.&quot;">
+    <id>tag:youtube.com,2008:video:5jE4XaAX-uM</id>
+    <published>2009-10-24T18:58:59.000Z</published>
+    <updated>2010-06-16T19:19:23.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yugioh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="abridged"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="series"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="littlekuriboh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anime"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spoof"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="parody"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <title>Episode 43 - Eternal Sunshine Of The Spotless Mai</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/5jE4XaAX-uM?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=5jE4XaAX-uM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/5jE4XaAX-uM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/5jE4XaAX-uM/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=5jE4XaAX-uM"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/5jE4XaAX-uM?v=2"/>
+    <author>
+      <name>CardGamesFTW</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cardgamesftw</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/5jE4XaAX-uM/comments?v=2" countHint="4350"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/5jE4XaAX-uM?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="516" yt:format="5"/>
+      <media:content url="rtsp://v7.cache1.c.youtube.com/CiQLENy73wIaGwnj-hegXTgx5hMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="516" yt:format="1"/>
+      <media:content url="rtsp://v7.cache7.c.youtube.com/CiQLENy73wIaGwnj-hegXTgx5hMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="516" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">CardGamesFTW</media:credit>
+      <media:description type="plain">Melvin goes bananas.
+
+B-A-N-A-N-A-S.</media:description>
+      <media:keywords>yugioh, abridged, series, littlekuriboh, anime, spoof, parody, dub</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=5jE4XaAX-uM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5jE4XaAX-uM/default.jpg" height="90" width="120" time="00:04:18"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5jE4XaAX-uM/2.jpg" height="90" width="120" time="00:04:18"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5jE4XaAX-uM/1.jpg" height="90" width="120" time="00:02:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5jE4XaAX-uM/3.jpg" height="90" width="120" time="00:06:27"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5jE4XaAX-uM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Episode 43 - Eternal Sunshine Of The Spotless Mai</media:title>
+      <yt:duration seconds="516"/>
+      <yt:uploaded>2009-10-24T18:58:59.000Z</yt:uploaded>
+      <yt:videoid>5jE4XaAX-uM</yt:videoid>
+    </media:group>
+    <gd:rating average="4.936158" max="5" min="1" numRaters="7033" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="4691" viewCount="510686"/>
+    <yt:rating numDislikes="112" numLikes="6921"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEYGSX47eCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:video:_ghNJ9VvZfc</id>
+    <published>2009-08-26T20:33:55.000Z</published>
+    <updated>2010-06-16T21:02:08.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yugioh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="abridged"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="series"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="littlekuriboh"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="anime"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spoof"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <title>Episode 42 - So Long &amp; Thanks For All The Trading Cards</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/_ghNJ9VvZfc?f=standard&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=_ghNJ9VvZfc&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/_ghNJ9VvZfc/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/_ghNJ9VvZfc/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=_ghNJ9VvZfc"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/_ghNJ9VvZfc?v=2"/>
+    <author>
+      <name>CardGamesFTW</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cardgamesftw</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/_ghNJ9VvZfc/comments?v=2" countHint="7993"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/_ghNJ9VvZfc?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="650" yt:format="5"/>
+      <media:content url="rtsp://v5.cache7.c.youtube.com/CiQLENy73wIaGwn3ZW_VJ00I_hMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="650" yt:format="1"/>
+      <media:content url="rtsp://v2.cache6.c.youtube.com/CiQLENy73wIaGwn3ZW_VJ00I_hMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="650" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">CardGamesFTW</media:credit>
+      <media:description type="plain">It's in the frakking blimp!
+
+Special thanks to my good friend hieadenna for playing the part of Marik's mother.
+
+Rats ruof maet kcab gnirb.</media:description>
+      <media:keywords>yugioh, abridged, series, littlekuriboh, anime, spoof, dub</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=_ghNJ9VvZfc&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_ghNJ9VvZfc/default.jpg" height="90" width="120" time="00:05:25"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_ghNJ9VvZfc/2.jpg" height="90" width="120" time="00:05:25"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_ghNJ9VvZfc/1.jpg" height="90" width="120" time="00:02:42.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_ghNJ9VvZfc/3.jpg" height="90" width="120" time="00:08:07.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_ghNJ9VvZfc/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Episode 42 - So Long &amp; Thanks For All The Trading Cards</media:title>
+      <yt:duration seconds="650"/>
+      <yt:uploaded>2009-08-26T20:33:55.000Z</yt:uploaded>
+      <yt:videoid>_ghNJ9VvZfc</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9326696" max="5" min="1" numRaters="14867" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="6206" viewCount="730226"/>
+    <yt:rating numDislikes="250" numLikes="14617"/>
+  </entry>
+</feed>

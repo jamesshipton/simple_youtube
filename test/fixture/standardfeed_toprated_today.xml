@@ -1,0 +1,1855 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://purl.org/atom/app#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:yt="http://gdata.youtube.com/schemas/2007">
+  <id>http://gdata.youtube.com/feeds/api/standardfeeds/top_rated</id>
+  <updated>2010-06-16T13:10:18.000-07:00</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+  <title type="text">Top Rated</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com/browse?s=tr"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/batch"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?start-index=1&amp;max-results=25&amp;time=today"/>
+  <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?start-index=26&amp;max-results=25&amp;time=today"/>
+  <author>
+    <name>YouTube</name>
+    <uri>http://www.youtube.com/</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>100</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/yDKg5s5BFGA</id>
+    <published>2010-06-15T19:32:29.000Z</published>
+    <updated>2010-06-16T21:07:05.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="People" label="People &amp; Blogs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shaycarl"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shaytards"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="treadmill"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="running"/>
+    <title type="text">RUBBER BAND CHALLENGE! (6/14/10-456)</title>
+    <content type="text">MY PANTS BAR!
+
+OUR WEBSITE
+http://www.shaycarl.com
+
+FOLLOW US ON TWITTER
+Shay http://www.twitter.com/shaycarl
+
+Katilette http://www.twitter.com/katilette</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=yDKg5s5BFGA&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/yDKg5s5BFGA/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/yDKg5s5BFGA/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=yDKg5s5BFGA"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/yDKg5s5BFGA"/>
+    <author>
+      <name>SHAYTARDS</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/shaytards</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/yDKg5s5BFGA/comments" countHint="8470"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="People &amp; Blogs" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">People</media:category>
+      <media:content url="http://www.youtube.com/v/yDKg5s5BFGA?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="806" yt:format="5"/>
+      <media:content url="rtsp://v3.cache4.c.youtube.com/CiQLENy73wIaGwlgFEHO5qAyyBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="806" yt:format="1"/>
+      <media:content url="rtsp://v6.cache8.c.youtube.com/CiQLENy73wIaGwlgFEHO5qAyyBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="806" yt:format="6"/>
+      <media:description type="plain">MY PANTS BAR!
+
+OUR WEBSITE
+http://www.shaycarl.com
+
+FOLLOW US ON TWITTER
+Shay http://www.twitter.com/shaycarl
+
+Katilette http://www.twitter.com/katilette</media:description>
+      <media:keywords>shaycarl, shaytards, treadmill, running</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=yDKg5s5BFGA&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/yDKg5s5BFGA/2.jpg" height="90" width="120" time="00:06:43"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/yDKg5s5BFGA/1.jpg" height="90" width="120" time="00:03:21.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/yDKg5s5BFGA/3.jpg" height="90" width="120" time="00:10:04.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/yDKg5s5BFGA/0.jpg" height="240" width="320" time="00:06:43"/>
+      <media:title type="plain">RUBBER BAND CHALLENGE! (6/14/10-456)</media:title>
+      <yt:duration seconds="806"/>
+    </media:group>
+    <gd:rating average="4.9757113" max="5" min="1" numRaters="11775" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="602" viewCount="159333"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/9fYNWQh8ncQ</id>
+    <published>2010-06-16T17:15:26.000Z</published>
+    <updated>2010-06-16T21:06:58.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="People" label="People &amp; Blogs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shaycarl"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shaytards"/>
+    <title type="text">MY DAUGHTER'S A BOOZER! (6/15/10-457)</title>
+    <content type="text">MY PANTS BAR!
+
+Find everything that we do online in ONE place at OUR WEBSITE
+http://www.shaycarl.com
+
+FOLLOW US ON THE TWEETisphere.
+Shay's http://www.twitter.com/shaycarl
+
+Katilette's http://www.twitter.com/katilette</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=9fYNWQh8ncQ&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/9fYNWQh8ncQ/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/9fYNWQh8ncQ/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=9fYNWQh8ncQ"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/9fYNWQh8ncQ"/>
+    <author>
+      <name>SHAYTARDS</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/shaytards</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/9fYNWQh8ncQ/comments" countHint="2804"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="People &amp; Blogs" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">People</media:category>
+      <media:content url="http://www.youtube.com/v/9fYNWQh8ncQ?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="691" yt:format="5"/>
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CiQLENy73wIaGwnEnXwIWQ329RMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="691" yt:format="1"/>
+      <media:content url="rtsp://v2.cache7.c.youtube.com/CiQLENy73wIaGwnEnXwIWQ329RMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="691" yt:format="6"/>
+      <media:description type="plain">MY PANTS BAR!
+
+Find everything that we do online in ONE place at OUR WEBSITE
+http://www.shaycarl.com
+
+FOLLOW US ON THE TWEETisphere.
+Shay's http://www.twitter.com/shaycarl
+
+Katilette's http://www.twitter.com/katilette</media:description>
+      <media:keywords>shaycarl, shaytards</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=9fYNWQh8ncQ&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/9fYNWQh8ncQ/2.jpg" height="90" width="120" time="00:05:45.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/9fYNWQh8ncQ/1.jpg" height="90" width="120" time="00:02:52.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/9fYNWQh8ncQ/3.jpg" height="90" width="120" time="00:08:38.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/9fYNWQh8ncQ/0.jpg" height="240" width="320" time="00:05:45.500"/>
+      <media:title type="plain">MY DAUGHTER'S A BOOZER! (6/15/10-457)</media:title>
+      <yt:duration seconds="691"/>
+    </media:group>
+    <gd:rating average="4.9713516" max="5" min="1" numRaters="10053" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="294" viewCount="327"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/fIiAA5VYUiQ</id>
+    <published>2010-06-15T02:34:17.000Z</published>
+    <updated>2010-06-16T21:05:32.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Games" label="Gaming"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="thank"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="you"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="for"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="your"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="support"/>
+    <title type="text">"And so our story begins..."</title>
+    <content type="text">http://twitter.com/seananners</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=fIiAA5VYUiQ&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/fIiAA5VYUiQ/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/fIiAA5VYUiQ/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=fIiAA5VYUiQ"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/fIiAA5VYUiQ"/>
+    <author>
+      <name>SeaNanners</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/seananners</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/fIiAA5VYUiQ/comments" countHint="8192"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Gaming" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Games</media:category>
+      <media:content url="http://www.youtube.com/v/fIiAA5VYUiQ?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="255" yt:format="5"/>
+      <media:content url="rtsp://v7.cache7.c.youtube.com/CiQLENy73wIaGwkkUliVA4CIfBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="255" yt:format="1"/>
+      <media:content url="rtsp://v4.cache3.c.youtube.com/CiQLENy73wIaGwkkUliVA4CIfBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="255" yt:format="6"/>
+      <media:description type="plain">http://twitter.com/seananners</media:description>
+      <media:keywords>thank, you, for, your, support</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=fIiAA5VYUiQ&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fIiAA5VYUiQ/2.jpg" height="90" width="120" time="00:02:07.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fIiAA5VYUiQ/1.jpg" height="90" width="120" time="00:01:03.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fIiAA5VYUiQ/3.jpg" height="90" width="120" time="00:03:11.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/fIiAA5VYUiQ/0.jpg" height="240" width="320" time="00:02:07.500"/>
+      <media:title type="plain">"And so our story begins..."</media:title>
+      <yt:duration seconds="255"/>
+    </media:group>
+    <gd:rating average="4.965618" max="5" min="1" numRaters="19487" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="463" viewCount="82810"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/xh1MpySp1AQ</id>
+    <published>2010-06-15T01:12:27.000Z</published>
+    <updated>2010-06-16T21:06:38.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Entertainment" label="Entertainment"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shaycarl"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shaytards"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="new"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="baby"/>
+    <title type="text">POSTPARTUM DEPRESSION!</title>
+    <content type="text">MY PANTS BAR!
+
+OUR WEBSITE http://www.shaycarl.com
+
+FOLLOW US ON TWITTER
+Shay http://www.twitter.com/shaycarl
+
+Katilette http://www.twitter.com/katilette</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=xh1MpySp1AQ&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/xh1MpySp1AQ/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/xh1MpySp1AQ/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=xh1MpySp1AQ"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/xh1MpySp1AQ"/>
+    <author>
+      <name>SHAYTARDS</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/shaytards</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/xh1MpySp1AQ/comments" countHint="7084"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Entertainment" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Entertainment</media:category>
+      <media:content url="http://www.youtube.com/v/xh1MpySp1AQ?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="490" yt:format="5"/>
+      <media:content url="rtsp://v4.cache1.c.youtube.com/CiQLENy73wIaGwkE1Kkkp0wdxhMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="490" yt:format="1"/>
+      <media:content url="rtsp://v5.cache6.c.youtube.com/CiQLENy73wIaGwkE1Kkkp0wdxhMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="490" yt:format="6"/>
+      <media:description type="plain">MY PANTS BAR!
+
+OUR WEBSITE http://www.shaycarl.com
+
+FOLLOW US ON TWITTER
+Shay http://www.twitter.com/shaycarl
+
+Katilette http://www.twitter.com/katilette</media:description>
+      <media:keywords>shaycarl, shaytards, new, baby</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=xh1MpySp1AQ&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/xh1MpySp1AQ/2.jpg" height="90" width="120" time="00:04:05"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/xh1MpySp1AQ/1.jpg" height="90" width="120" time="00:02:02.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/xh1MpySp1AQ/3.jpg" height="90" width="120" time="00:06:07.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/xh1MpySp1AQ/0.jpg" height="240" width="320" time="00:04:05"/>
+      <media:title type="plain">POSTPARTUM DEPRESSION!</media:title>
+      <yt:duration seconds="490"/>
+    </media:group>
+    <gd:rating average="4.964619" max="5" min="1" numRaters="14669" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="943" viewCount="321264"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/YV4EWjKiYCU</id>
+    <published>2010-06-15T13:47:14.000Z</published>
+    <updated>2010-06-16T21:05:51.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Howto" label="Howto &amp; Style"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="alberto"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beatbox"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hamburger"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hänger"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cheng"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bet"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="you"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="will"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="not"/>
+    <title type="text">5 Zauberwürfel in 2Min? (Auflösung)</title>
+    <content type="text">BITTE DURCHLESEN!!!!
+Du hast was Besonderes drauf? Immer wenn du es ankündigst zu machen, sagen die Leute „Das schaffst du niemals"? Du hast mal Lust was Verrücktes auszuprobieren aber brauchst einen kleinen Ansporn? Dann bist du bei „I bet you will not „ genau richtig. Alberto ist mehr der Kritiker doch Cheng glaubt an die Jugend von Heute. Schicke uns dein Video (Siehe unten wie es genau sein muss) und wir zeigen dich und dein Experiment auf unserem Channel und ganz Deutschland setzt auf oder gegen dich. Das Video wird in 2 Teile geteilt, die in einem gewissen Abspann hochgeladen werden.. In dem ersten hört und sieht man nur deine Ankündigung was du vor hast, dann wird von den Youtubern auf oder gegen dich gesetzt.3 Tage später wird die Auflösung (Top oder Flop) hochgeladen und die Youtuber können sehen ob sie mit ihrer Vermutung richtig lagen.. Es ist kein Thema wenn du dein Experiment nicht schaffst, es muss einfach nur unterhaltsam sein... In deinem Video wirst du natürlich auch noch mal gepuscht und es wird nach der Auflösung auf dem Hamburgerhaenger channel hochgeladen, und evtl gibt es auch noch eine kleine Überraschung für deinen Mut.
+
+
+Lese dir die Informationen bitte sorgfältig durch
+
+
+Dieses Spiel ist nur für unsere Abonnenten
+
+Du willst dich für „I be you will not!" bewerben?
+
+Ganz einfach
+
+1. Du musst Etwas können, oder ausprobieren was für die Zuschauer spannend sein könnte
+2. Du nimmst das ganze auf Video auf und sagst bevor du den Versuch startest mein Name ist....und ich werde jetzt..... (Es ist nicht wichtig dass du dein Experiment schaffst, es muss nur spektakulär und interessant sein...Du kannst meinetwegen auch einen Eimer mit rohen Eiern trinken (Nicht empfehlenswert)
+3. Du schickst das Video an ichwillrein@live.de (Am besten lädst du es irgendwo hoch, so dass wir es runterladen können"und mit gut Glück kommst du dann ins Video
+(Die Videos müssen keine Top Quali haben, aber es sollte schon vernünftig aufgenommen sein)
+
+Du willst einfach nur zuschauen und evtl sogar noch was fürs zuschauen gewinnen?
+
+1. Gebe deine Vermutung ob die Person die Wette schafft einmal als Kommentar in dem Video ab und schicke deine Vermutung noch mal als Email an ichwillrein@live.de
+2. Wenn du bei 3 verschiedenen Videos richtig getippt hast, hast du die Chance auf einen Gewinn (Ist immer verschieden) Es kann allerdings nur einer gewinnen (Sorry) Die Person wird dann einfach ausgelost (was wir auch aufnehmen, damit keiner das Gefühl hat, dass wir euch nur verseppeln wollen
+
+WICHTIG: Deine Email muss als Betreff: Name der Person die sich der Herausforderung stellt und ein ja oder nein. In der Mail sollte dann noch dein Youtube Name stehen.</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=YV4EWjKiYCU&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/YV4EWjKiYCU/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/YV4EWjKiYCU/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=YV4EWjKiYCU"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/YV4EWjKiYCU"/>
+    <author>
+      <name>albertoson</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/albertoson</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/YV4EWjKiYCU/comments" countHint="3239"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Howto &amp; Style" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Howto</media:category>
+      <media:content url="http://www.youtube.com/v/YV4EWjKiYCU?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="344" yt:format="5"/>
+      <media:content url="rtsp://v4.cache2.c.youtube.com/CiQLENy73wIaGwklYKIyWgReYRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="344" yt:format="1"/>
+      <media:content url="rtsp://v8.cache8.c.youtube.com/CiQLENy73wIaGwklYKIyWgReYRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="344" yt:format="6"/>
+      <media:description type="plain">BITTE DURCHLESEN!!!!
+Du hast was Besonderes drauf? Immer wenn du es ankündigst zu machen, sagen die Leute „Das schaffst du niemals"? Du hast mal Lust was Verrücktes auszuprobieren aber brauchst einen kleinen Ansporn? Dann bist du bei „I bet you will not „ genau richtig. Alberto ist mehr der Kritiker doch Cheng glaubt an die Jugend von Heute. Schicke uns dein Video (Siehe unten wie es genau sein muss) und wir zeigen dich und dein Experiment auf unserem Channel und ganz Deutschland setzt auf oder gegen dich. Das Video wird in 2 Teile geteilt, die in einem gewissen Abspann hochgeladen werden.. In dem ersten hört und sieht man nur deine Ankündigung was du vor hast, dann wird von den Youtubern auf oder gegen dich gesetzt.3 Tage später wird die Auflösung (Top oder Flop) hochgeladen und die Youtuber können sehen ob sie mit ihrer Vermutung richtig lagen.. Es ist kein Thema wenn du dein Experiment nicht schaffst, es muss einfach nur unterhaltsam sein... In deinem Video wirst du natürlich auch noch mal gepuscht und es wird nach der Auflösung auf dem Hamburgerhaenger channel hochgeladen, und evtl gibt es auch noch eine kleine Überraschung für deinen Mut.
+
+
+Lese dir die Informationen bitte sorgfältig durch
+
+
+Dieses Spiel ist nur für unsere Abonnenten
+
+Du willst dich für „I be you will not!" bewerben?
+
+Ganz einfach
+
+1. Du musst Etwas können, oder ausprobieren was für die Zuschauer spannend sein könnte
+2. Du nimmst das ganze auf Video auf und sagst bevor du den Versuch startest mein Name ist....und ich werde jetzt..... (Es ist nicht wichtig dass du dein Experiment schaffst, es muss nur spektakulär und interessant sein...Du kannst meinetwegen auch einen Eimer mit rohen Eiern trinken (Nicht empfehlenswert)
+3. Du schickst das Video an ichwillrein@live.de (Am besten lädst du es irgendwo hoch, so dass wir es runterladen können"und mit gut Glück kommst du dann ins Video
+(Die Videos müssen keine Top Quali haben, aber es sollte schon vernünftig aufgenommen sein)
+
+Du willst einfach nur zuschauen und evtl sogar noch was fürs zuschauen gewinnen?
+
+1. Gebe deine Vermutung ob die Person die Wette schafft einmal als Kommentar in dem Video ab und schicke deine Vermutung noch mal als Email an ichwillrein@live.de
+2. Wenn du bei 3 verschiedenen Videos richtig getippt hast, hast du die Chance auf einen Gewinn (Ist immer verschieden) Es kann allerdings nur einer gewinnen (Sorry) Die Person wird dann einfach ausgelost (was wir auch aufnehmen, damit keiner das Gefühl hat, dass wir euch nur verseppeln wollen
+
+WICHTIG: Deine Email muss als Betreff: Name der Person die sich der Herausforderung stellt und ein ja oder nein. In der Mail sollte dann noch dein Youtube Name stehen.</media:description>
+      <media:keywords>alberto, beatbox, hamburger, hänger, cheng, bet, you, will, not</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=YV4EWjKiYCU&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YV4EWjKiYCU/2.jpg" height="90" width="120" time="00:02:52"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YV4EWjKiYCU/1.jpg" height="90" width="120" time="00:01:26"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YV4EWjKiYCU/3.jpg" height="90" width="120" time="00:04:18"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YV4EWjKiYCU/0.jpg" height="240" width="320" time="00:02:52"/>
+      <media:title type="plain">5 Zauberwürfel in 2Min? (Auflösung)</media:title>
+      <yt:duration seconds="344"/>
+    </media:group>
+    <gd:rating average="4.940043" max="5" min="1" numRaters="7472" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="297" viewCount="60182"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/NNgn3YiVLBk</id>
+    <published>2010-06-15T21:02:00.000Z</published>
+    <updated>2010-06-16T21:06:55.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Entertainment" label="Entertainment"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="charlestrippy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="alli"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="zoey"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="marley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ctfxc"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beach"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hot"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jumping"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="wave"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jump"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="florida"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="internet"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="killed"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="television"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="summer"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="body"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="board"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="skim"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="iphone"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ios"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="new"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="apple"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="wwdc"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="2010"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="steve"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jobs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="nerdgasm"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="canon"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="7d"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="5d"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hd"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="nature"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="springs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="wakulla"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="freezing"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bikini"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="off"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tower"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="swimming"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="singing"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dog"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="puppy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cute"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shopping"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cart"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="stunts"/>
+    <title type="text">SHOPPING CART STUNTS (6.14.10 - Day 410)</title>
+    <content type="text">watch the cinnamon challenge here: http://www.youtube.com/watch?v=bBPFxUhXhmo
+
+Follow us on Twitter &amp; Facebook
+
+http://twitter.com/CharlesTrippy
+http://twitter.com/AlliSpeed
+
+http://facebook.com/CharlesTrippyFriendCore
+
+Our Personal channels:
+http://youtube.com/CharlesTrippy
+http://youtube.com/Alli
+
+Our website:
+http://internetkilledtv.com
+
+
+
+
+
+
+
+.</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=NNgn3YiVLBk&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/NNgn3YiVLBk/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/NNgn3YiVLBk/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=NNgn3YiVLBk"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/NNgn3YiVLBk"/>
+    <author>
+      <name>CTFxC</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ctfxc</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/NNgn3YiVLBk/comments" countHint="5427"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Entertainment" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Entertainment</media:category>
+      <media:content url="http://www.youtube.com/v/NNgn3YiVLBk?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="608" yt:format="5"/>
+      <media:content url="rtsp://v7.cache3.c.youtube.com/CiQLENy73wIaGwkZLJWI3SfYNBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="608" yt:format="1"/>
+      <media:content url="rtsp://v3.cache8.c.youtube.com/CiQLENy73wIaGwkZLJWI3SfYNBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="608" yt:format="6"/>
+      <media:description type="plain">watch the cinnamon challenge here: http://www.youtube.com/watch?v=bBPFxUhXhmo
+
+Follow us on Twitter &amp; Facebook
+
+http://twitter.com/CharlesTrippy
+http://twitter.com/AlliSpeed
+
+http://facebook.com/CharlesTrippyFriendCore
+
+Our Personal channels:
+http://youtube.com/CharlesTrippy
+http://youtube.com/Alli
+
+Our website:
+http://internetkilledtv.com
+
+
+
+
+
+
+
+.</media:description>
+      <media:keywords>charlestrippy, alli, zoey, marley, ctfxc, beach, hot, jumping, wave, jump, florida, internet, killed, television, summer, body, board, skim, iphone, ios, new, apple, wwdc, 2010, steve, jobs, nerdgasm, canon, 7d, 5d, hd, nature, springs, wakulla, freezing, bikini, off, tower, swimming, singing, dog, puppy, cute, shopping, cart, stunts</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=NNgn3YiVLBk&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/NNgn3YiVLBk/2.jpg" height="90" width="120" time="00:05:04"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/NNgn3YiVLBk/1.jpg" height="90" width="120" time="00:02:32"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/NNgn3YiVLBk/3.jpg" height="90" width="120" time="00:07:36"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/NNgn3YiVLBk/0.jpg" height="240" width="320" time="00:05:04"/>
+      <media:title type="plain">SHOPPING CART STUNTS (6.14.10 - Day 410)</media:title>
+      <yt:duration seconds="608"/>
+    </media:group>
+    <gd:rating average="4.9373384" max="5" min="1" numRaters="8123" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="204" viewCount="59427"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/_FB1BL4qP_s</id>
+    <published>2010-06-14T21:25:52.000Z</published>
+    <updated>2010-06-16T21:05:42.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Entertainment" label="Entertainment"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="charlestrippy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="alli"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="zoey"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="marley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ctfxc"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beach"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hot"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jumping"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="wave"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jump"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="florida"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="internet"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="killed"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="television"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="summer"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="body"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="board"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="skim"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="iphone"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ios"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="new"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="apple"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="wwdc"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="2010"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="steve"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jobs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="nerdgasm"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="canon"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="7d"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="5d"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hd"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="nature"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="springs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="wakulla"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="freezing"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bikini"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="off"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tower"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="swimming"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="singing"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dog"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="puppy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cute"/>
+    <title type="text">CUTE SINGING DOG! (6.13.10 - Day 409)</title>
+    <content type="text">watch the cinnamon challenge here: http://www.youtube.com/watch?v=bBPFxUhXhmo
+
+Follow us on Twitter &amp; Facebook
+
+http://twitter.com/CharlesTrippy
+http://twitter.com/AlliSpeed
+
+http://facebook.com/CharlesTrippyFriendCore
+
+Our Personal channels:
+http://youtube.com/CharlesTrippy
+http://youtube.com/Alli
+
+Our website:
+http://internetkilledtv.com
+
+
+
+
+
+
+
+.</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=_FB1BL4qP_s&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/_FB1BL4qP_s/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/_FB1BL4qP_s/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=_FB1BL4qP_s"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/_FB1BL4qP_s"/>
+    <author>
+      <name>CTFxC</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ctfxc</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/_FB1BL4qP_s/comments" countHint="2250"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Entertainment" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Entertainment</media:category>
+      <media:content url="http://www.youtube.com/v/_FB1BL4qP_s?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="540" yt:format="5"/>
+      <media:content url="rtsp://v6.cache3.c.youtube.com/CiQLENy73wIaGwn7Pyq-BHVQ_BMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="540" yt:format="1"/>
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CiQLENy73wIaGwn7Pyq-BHVQ_BMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="540" yt:format="6"/>
+      <media:description type="plain">watch the cinnamon challenge here: http://www.youtube.com/watch?v=bBPFxUhXhmo
+
+Follow us on Twitter &amp; Facebook
+
+http://twitter.com/CharlesTrippy
+http://twitter.com/AlliSpeed
+
+http://facebook.com/CharlesTrippyFriendCore
+
+Our Personal channels:
+http://youtube.com/CharlesTrippy
+http://youtube.com/Alli
+
+Our website:
+http://internetkilledtv.com
+
+
+
+
+
+
+
+.</media:description>
+      <media:keywords>charlestrippy, alli, zoey, marley, ctfxc, beach, hot, jumping, wave, jump, florida, internet, killed, television, summer, body, board, skim, iphone, ios, new, apple, wwdc, 2010, steve, jobs, nerdgasm, canon, 7d, 5d, hd, nature, springs, wakulla, freezing, bikini, off, tower, swimming, singing, dog, puppy, cute</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=_FB1BL4qP_s&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_FB1BL4qP_s/2.jpg" height="90" width="120" time="00:04:30"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_FB1BL4qP_s/1.jpg" height="90" width="120" time="00:02:15"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_FB1BL4qP_s/3.jpg" height="90" width="120" time="00:06:45"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/_FB1BL4qP_s/0.jpg" height="240" width="320" time="00:04:30"/>
+      <media:title type="plain">CUTE SINGING DOG! (6.13.10 - Day 409)</media:title>
+      <yt:duration seconds="540"/>
+    </media:group>
+    <gd:rating average="4.945976" max="5" min="1" numRaters="5405" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="245" viewCount="88651"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/tVoRkCwpj_w</id>
+    <published>2010-06-15T17:22:19.000Z</published>
+    <updated>2010-06-16T21:07:04.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Film" label="Film &amp; Animation"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mystery"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="guitar"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="man"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mysteryguitarman"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="joe"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="penna"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jp"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="destorm"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="de"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="storm"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="this"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="song"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="has"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="been"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="stuck"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="in"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="my"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="head"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="for"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="days"/>
+    <title type="text">Magic Glasses</title>
+    <content type="text">Like this video? Click the link to tweet it out!
+http://bit.ly/ClickToRetweetGlasses
+
+The New Basic YouTube Editor:
+Should be going live tomorrow... I'll place the link here when it is!
+
+DeStorm:
+http://www.youtube.com/destorm
+
+Watch my other videos:
+http://www.youtube.com/MysteryGuitarMan
+
+
+My second channel:
+http://www.youtube.com/jp
+
+GET THE T-SHIRTS:
+http://bit.ly/MGMshirts
+
+Twitter's cool... right?
+http://www.twitter.com/MysteryGuitarM
+
+Facebook, too:
+http://apps.facebook.com/mysteryguitarman
+
+Send me things:
+
+Mystery Guitar Man
+PO Box 2966
+Hollywood, CA 90078
+
+--Subtitles--
+Portuguese: http://sleepneverwakeup.wordpress.com
+Dutch: http://twitter.com/robdesair</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=tVoRkCwpj_w&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/tVoRkCwpj_w/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/tVoRkCwpj_w/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=tVoRkCwpj_w"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/tVoRkCwpj_w"/>
+    <author>
+      <name>MysteryGuitarMan</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mysteryguitarman</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/tVoRkCwpj_w/comments" countHint="6109"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Film &amp; Animation" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Film</media:category>
+      <media:content url="http://www.youtube.com/v/tVoRkCwpj_w?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="128" yt:format="5"/>
+      <media:content url="rtsp://v5.cache8.c.youtube.com/CiQLENy73wIaGwn8jykskBFatRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="128" yt:format="1"/>
+      <media:content url="rtsp://v7.cache2.c.youtube.com/CiQLENy73wIaGwn8jykskBFatRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="128" yt:format="6"/>
+      <media:description type="plain">Like this video? Click the link to tweet it out!
+http://bit.ly/ClickToRetweetGlasses
+
+The New Basic YouTube Editor:
+Should be going live tomorrow... I'll place the link here when it is!
+
+DeStorm:
+http://www.youtube.com/destorm
+
+Watch my other videos:
+http://www.youtube.com/MysteryGuitarMan
+
+
+My second channel:
+http://www.youtube.com/jp
+
+GET THE T-SHIRTS:
+http://bit.ly/MGMshirts
+
+Twitter's cool... right?
+http://www.twitter.com/MysteryGuitarM
+
+Facebook, too:
+http://apps.facebook.com/mysteryguitarman
+
+Send me things:
+
+Mystery Guitar Man
+PO Box 2966
+Hollywood, CA 90078
+
+--Subtitles--
+Portuguese: http://sleepneverwakeup.wordpress.com
+Dutch: http://twitter.com/robdesair</media:description>
+      <media:keywords>mystery, guitar, man, mysteryguitarman, joe, penna, jp, destorm, de, storm, this, song, has, been, stuck, in, my, head, for, days</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=tVoRkCwpj_w&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tVoRkCwpj_w/2.jpg" height="90" width="120" time="00:01:04"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tVoRkCwpj_w/1.jpg" height="90" width="120" time="00:00:32"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tVoRkCwpj_w/3.jpg" height="90" width="120" time="00:01:36"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tVoRkCwpj_w/0.jpg" height="240" width="320" time="00:01:04"/>
+      <media:title type="plain">Magic Glasses</media:title>
+      <yt:duration seconds="128"/>
+    </media:group>
+    <gd:rating average="4.923285" max="5" min="1" numRaters="23659" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="2353" viewCount="277415"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/nKJhztaGAdQ</id>
+    <published>2010-06-15T23:49:02.000Z</published>
+    <updated>2010-06-16T21:06:59.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="People" label="People &amp; Blogs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jay"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Park"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jaebeom"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jaebum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Art"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="of"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Movement"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="AOM"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Cover"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Billionaire"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="travis"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mccoy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bruno"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mars"/>
+    <title type="text">Jay Park Billionaire (cover)</title>
+    <content type="text">B.o.B ft. Jay Park  nothing on you just came out i will try to get it on itunes so everybody can get access to it =). 
+i got the words wrong and i'm playing a imaginary guitar but hope you guys enjoy thanks  
+가사도틀리고 있지도않은기타를치고있어요 ㅋㅋ잘은못불렀지만그래도재밌게보고가세요ㅋㅋ
+
+
+don't need no bling bling dont need no cars and clothes/
+don't need no body guards or guns in my arsenal/
+probably still eat burger king i dont need no royal grill/
+i'd prolly spend half right now to clean the oil spill/
+try to do something to prevent animal casualties/
+go to all the places hit up by natural tragedies/
+help all the boys and girl who can't help them selves
+buy a present for everybody whose ever gave me help/
+like you in pain? you aint gotta hurt no more
+be like mom and dad you aint gotta work no more/
+would be busy i would have so many mouths to feed
+record a buncha song and then put em out for free/
+just for all of yall (fans) =)</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=nKJhztaGAdQ&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/nKJhztaGAdQ/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/nKJhztaGAdQ/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=nKJhztaGAdQ"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/nKJhztaGAdQ"/>
+    <author>
+      <name>jayparkaom</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/jayparkaom</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/nKJhztaGAdQ/comments" countHint="3134"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="People &amp; Blogs" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">People</media:category>
+      <media:content url="http://www.youtube.com/v/nKJhztaGAdQ?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="144" yt:format="5"/>
+      <media:content url="rtsp://v2.cache5.c.youtube.com/CiQLENy73wIaGwnUAYbWzmGinBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="144" yt:format="1"/>
+      <media:content url="rtsp://v3.cache6.c.youtube.com/CiQLENy73wIaGwnUAYbWzmGinBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="144" yt:format="6"/>
+      <media:description type="plain">B.o.B ft. Jay Park  nothing on you just came out i will try to get it on itunes so everybody can get access to it =). 
+i got the words wrong and i'm playing a imaginary guitar but hope you guys enjoy thanks  
+가사도틀리고 있지도않은기타를치고있어요 ㅋㅋ잘은못불렀지만그래도재밌게보고가세요ㅋㅋ
+
+
+don't need no bling bling dont need no cars and clothes/
+don't need no body guards or guns in my arsenal/
+probably still eat burger king i dont need no royal grill/
+i'd prolly spend half right now to clean the oil spill/
+try to do something to prevent animal casualties/
+go to all the places hit up by natural tragedies/
+help all the boys and girl who can't help them selves
+buy a present for everybody whose ever gave me help/
+like you in pain? you aint gotta hurt no more
+be like mom and dad you aint gotta work no more/
+would be busy i would have so many mouths to feed
+record a buncha song and then put em out for free/
+just for all of yall (fans) =)</media:description>
+      <media:keywords>Jay, Park, Jaebeom, Jaebum, Art, of, Movement, AOM, Cover, Billionaire, travis, mccoy, bruno, mars</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=nKJhztaGAdQ&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/nKJhztaGAdQ/2.jpg" height="90" width="120" time="00:01:12"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/nKJhztaGAdQ/1.jpg" height="90" width="120" time="00:00:36"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/nKJhztaGAdQ/3.jpg" height="90" width="120" time="00:01:48"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/nKJhztaGAdQ/0.jpg" height="240" width="320" time="00:01:12"/>
+      <media:title type="plain">Jay Park Billionaire (cover)</media:title>
+      <yt:duration seconds="144"/>
+    </media:group>
+    <gd:rating average="4.922151" max="5" min="1" numRaters="7810" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="4641" viewCount="148076"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/iY63ffXAvxo</id>
+    <published>2010-06-14T23:14:20.000Z</published>
+    <updated>2010-06-16T21:07:00.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Entertainment" label="Entertainment"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shanedawsontv"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shanedawsontv2"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shane"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="iphone"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="brittanilouisetaylor"/>
+    <title type="text">CAUGHT HAVING SEX?!</title>
+    <content type="text">Go subscribe to Brittani :) http://www.youtube.com/brittanilouisetaylor PS. this vid was made on a flip cuz my iphone is having trouble uploading :(</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=iY63ffXAvxo&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/iY63ffXAvxo/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/iY63ffXAvxo/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=iY63ffXAvxo"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/iY63ffXAvxo"/>
+    <author>
+      <name>shane</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/shane</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/iY63ffXAvxo/comments" countHint="9196"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Entertainment" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Entertainment</media:category>
+      <media:content url="http://www.youtube.com/v/iY63ffXAvxo?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="74" yt:format="5"/>
+      <media:content url="rtsp://v2.cache5.c.youtube.com/CiQLENy73wIaGwkav8D1fbeOiRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="74" yt:format="1"/>
+      <media:content url="rtsp://v6.cache6.c.youtube.com/CiQLENy73wIaGwkav8D1fbeOiRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="74" yt:format="6"/>
+      <media:description type="plain">Go subscribe to Brittani :) http://www.youtube.com/brittanilouisetaylor PS. this vid was made on a flip cuz my iphone is having trouble uploading :(</media:description>
+      <media:keywords>shanedawsontv, shanedawsontv2, shane, iphone, brittanilouisetaylor</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=iY63ffXAvxo&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/iY63ffXAvxo/2.jpg" height="90" width="120" time="00:00:37"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/iY63ffXAvxo/1.jpg" height="90" width="120" time="00:00:18.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/iY63ffXAvxo/3.jpg" height="90" width="120" time="00:00:55.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/iY63ffXAvxo/0.jpg" height="240" width="320" time="00:00:37"/>
+      <media:title type="plain">CAUGHT HAVING SEX?!</media:title>
+      <yt:duration seconds="74"/>
+    </media:group>
+    <gd:rating average="4.9194546" max="5" min="1" numRaters="10044" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="1139" viewCount="237410"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/V2fpgpanZAw</id>
+    <published>2010-06-15T02:28:47.000Z</published>
+    <updated>2010-06-16T21:07:05.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="End"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Love"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="This"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Too"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Shall"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Pass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Of"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="the"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="blue"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="colour"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sky"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="okgo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ok"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="go"/>
+    <title type="text">OK Go - End Love - Official Video</title>
+    <content type="text">Download this video and enter the Contest at http://www.facebook.com/okgo
+OK Go's official video for 'End Love' off the album Of The Blue Colour of the Sky. 
+Director: OK Go, Eric Gunther, and Jeff Lieberman
+Producer: Shirley Moyers</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=V2fpgpanZAw&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/V2fpgpanZAw/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/V2fpgpanZAw/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=V2fpgpanZAw"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/V2fpgpanZAw"/>
+    <author>
+      <name>OkGo</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/okgo</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/V2fpgpanZAw/comments" countHint="1218"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/V2fpgpanZAw?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="270" yt:format="5"/>
+      <media:content url="rtsp://v8.cache8.c.youtube.com/CiQLENy73wIaGwkMZKeWgulnVxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="270" yt:format="1"/>
+      <media:content url="rtsp://v8.cache7.c.youtube.com/CiQLENy73wIaGwkMZKeWgulnVxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="270" yt:format="6"/>
+      <media:description type="plain">Download this video and enter the Contest at http://www.facebook.com/okgo
+OK Go's official video for 'End Love' off the album Of The Blue Colour of the Sky. 
+Director: OK Go, Eric Gunther, and Jeff Lieberman
+Producer: Shirley Moyers</media:description>
+      <media:keywords>End, Love, This, Too, Shall, Pass, Of, the, blue, colour, sky, okgo, ok, go</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=V2fpgpanZAw&amp;feature=youtube_gdata"/>
+      <media:restriction type="country" relationship="deny">DE</media:restriction>
+      <media:thumbnail url="http://i.ytimg.com/vi/V2fpgpanZAw/2.jpg" height="90" width="120" time="00:02:15"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/V2fpgpanZAw/1.jpg" height="90" width="120" time="00:01:07.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/V2fpgpanZAw/3.jpg" height="90" width="120" time="00:03:22.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/V2fpgpanZAw/0.jpg" height="240" width="320" time="00:02:15"/>
+      <media:title type="plain">OK Go - End Love - Official Video</media:title>
+      <yt:duration seconds="270"/>
+    </media:group>
+    <gd:rating average="4.951389" max="5" min="1" numRaters="4032" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="3071" viewCount="98872"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/9GR1JvO8kXg</id>
+    <published>2010-06-15T22:40:24.000Z</published>
+    <updated>2010-06-16T21:06:43.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="People" label="People &amp; Blogs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="pretty"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ugly"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beautiful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="insecurity"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="conceited"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="self-esteem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="annoying"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="makeup"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dumb"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dogs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="walking"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="poop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="park"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="car"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="woman"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="high"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="school"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="attention"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="whore"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="models"/>
+    <title type="text">FAT STICKS</title>
+    <content type="text">YOU ARE NOT UGLY. YOU ARE BEAUTIFUL. DUMBASS.
+
+Leave a comment if you know anyone like this!
+Also keep emailing video topics to:
+itskingsleybitch@yahoo.com
+
+Tweet Me!
+http://www.twitter.com/kingsleyyy
+
+Thanks for watching. Mmhmm.</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=9GR1JvO8kXg&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/9GR1JvO8kXg/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/9GR1JvO8kXg/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=9GR1JvO8kXg"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/9GR1JvO8kXg"/>
+    <author>
+      <name>ItsKingsleyBitch</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/itskingsleybitch</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/9GR1JvO8kXg/comments" countHint="2036"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="People &amp; Blogs" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">People</media:category>
+      <media:content url="http://www.youtube.com/v/9GR1JvO8kXg?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="162" yt:format="5"/>
+      <media:content url="rtsp://v3.cache3.c.youtube.com/CiQLENy73wIaGwl4kbzzJnVk9BMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="162" yt:format="1"/>
+      <media:content url="rtsp://v4.cache4.c.youtube.com/CiQLENy73wIaGwl4kbzzJnVk9BMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="162" yt:format="6"/>
+      <media:description type="plain">YOU ARE NOT UGLY. YOU ARE BEAUTIFUL. DUMBASS.
+
+Leave a comment if you know anyone like this!
+Also keep emailing video topics to:
+itskingsleybitch@yahoo.com
+
+Tweet Me!
+http://www.twitter.com/kingsleyyy
+
+Thanks for watching. Mmhmm.</media:description>
+      <media:keywords>pretty, ugly, beautiful, insecurity, conceited, self-esteem, annoying, makeup, dumb, dogs, walking, poop, park, car, woman, high, school, attention, whore, models</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=9GR1JvO8kXg&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/9GR1JvO8kXg/2.jpg" height="90" width="120" time="00:01:21"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/9GR1JvO8kXg/1.jpg" height="90" width="120" time="00:00:40.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/9GR1JvO8kXg/3.jpg" height="90" width="120" time="00:02:01.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/9GR1JvO8kXg/0.jpg" height="240" width="320" time="00:01:21"/>
+      <media:title type="plain">FAT STICKS</media:title>
+      <yt:duration seconds="162"/>
+    </media:group>
+    <gd:rating average="4.951396" max="5" min="1" numRaters="4012" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="778" viewCount="40529"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/FBxx1S89iow</id>
+    <published>2010-06-15T18:52:47.000Z</published>
+    <updated>2010-06-16T21:01:20.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Entertainment" label="Entertainment"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jennette"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="McCurdy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="iCarly"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="interview"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="with"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Nickelodeon"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="star"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="What"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="the"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Buck"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Michael"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Buckley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Not"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="That"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Far"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Away"/>
+    <title type="text">OMG! It's Jennette McCurdy From iCarly!!!!!!!!!!!!!!!</title>
+    <content type="text">Click Here to Expand! Hot!
+
+My BE THE CHANGE Video for The Trevor Project!
+http://www.youtube.com/watch?v=NJGdny7_2sU
+
+My LASIK Video! Please Support and Enter the Sweepstakes!
+http://www.youtube.com/watch?v=5feCMLj9lHM
+
+Thank you to Jennette McCurdy for hanging out! 
+She is awesome!!!
+
+Not That Far Away On ITunes!
+http://itunes.apple.com/us/album/not-that-far-away-single/id372651987
+
+JENNETTE ON YOUTUBE!
+http://www.youtube.com/jennettemccurdy
+
+More Jennette! (YouTube/Twitter Links Here!)
+http://jennettemccurdy.com/
+
+____________</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=FBxx1S89iow&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FBxx1S89iow/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FBxx1S89iow/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=FBxx1S89iow"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/FBxx1S89iow"/>
+    <author>
+      <name>WHATTHEBUCKSHOW</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/whatthebuckshow</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/FBxx1S89iow/comments" countHint="1772"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Entertainment" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Entertainment</media:category>
+      <media:content url="http://www.youtube.com/v/FBxx1S89iow?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="298" yt:format="5"/>
+      <media:content url="rtsp://v5.cache6.c.youtube.com/CiQLENy73wIaGwmMij0v1XEcFBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="298" yt:format="1"/>
+      <media:content url="rtsp://v2.cache6.c.youtube.com/CiQLENy73wIaGwmMij0v1XEcFBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="298" yt:format="6"/>
+      <media:description type="plain">Click Here to Expand! Hot!
+
+My BE THE CHANGE Video for The Trevor Project!
+http://www.youtube.com/watch?v=NJGdny7_2sU
+
+My LASIK Video! Please Support and Enter the Sweepstakes!
+http://www.youtube.com/watch?v=5feCMLj9lHM
+
+Thank you to Jennette McCurdy for hanging out! 
+She is awesome!!!
+
+Not That Far Away On ITunes!
+http://itunes.apple.com/us/album/not-that-far-away-single/id372651987
+
+JENNETTE ON YOUTUBE!
+http://www.youtube.com/jennettemccurdy
+
+More Jennette! (YouTube/Twitter Links Here!)
+http://jennettemccurdy.com/
+
+____________</media:description>
+      <media:keywords>Jennette, McCurdy, iCarly, interview, with, Nickelodeon, star, What, the, Buck, Michael, Buckley, Not, That, Far, Away</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=FBxx1S89iow&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FBxx1S89iow/2.jpg" height="90" width="120" time="00:02:29"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FBxx1S89iow/1.jpg" height="90" width="120" time="00:01:14.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FBxx1S89iow/3.jpg" height="90" width="120" time="00:03:43.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FBxx1S89iow/0.jpg" height="240" width="320" time="00:02:29"/>
+      <media:title type="plain">OMG! It's Jennette McCurdy From iCarly!!!!!!!!!!!!!!!</media:title>
+      <yt:duration seconds="298"/>
+    </media:group>
+    <gd:rating average="4.911646" max="5" min="1" numRaters="5195" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="509" viewCount="51776"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/y9DPn2ikvo4</id>
+    <published>2010-06-15T20:16:51.000Z</published>
+    <updated>2010-06-16T21:05:59.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Games" label="Gaming"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Machinima"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Respawn"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="with"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mr"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Sark"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hutch"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="MachinimaRespawn"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Seananners"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Gootecks"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="E3"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Electronic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Entertainment"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Expo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="adam"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="montoya"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bunker"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="reservoir"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dogs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="quentin"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tarantino"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="top"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="secret"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="gameplay"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="commentary"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="grand"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="theft"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="auto"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="GTA"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Liberty"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="City"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yt:quality=high"/>
+    <title type="text">Respawn War Room: E3 Day 1 ft. Mr Sark, Hutch, Gootecks &amp; Seananners</title>
+    <content type="text">http://www.youtube.com/watch?v=QEFUVTnMM2E
+Click here to watch Inside Gaming: E3 2010 Coverage - Day 1 (Hourly Coverage!)
+
+Respawn War Room: E3 Day 1 ft. Mr Sark, Hutch, Gootecks &amp; Seananners
+
+Join the Machinima Respawn team as they meet in their super top secret E3 bunker to plan their attack on the Electronic Entertainment Expo. Sark, Hutch, and Gootecks struggle to find the perfect 4th edition to their team...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Follow Machinima on Twitter!
+ 
+Machinima
+http://twitter.com/machinima_com
+
+Inside Gaming
+http://twitter.com/insidegaming
+
+Machinima Respawn
+http://twitter.com/mcom_respawn
+
+Machinima Entertainment, Technology, Culture
+http://twitter.com/machinima_etc
+
+FOR MORE MACHINIMA, GO TO: 
+http://www.youtube.com/subscription_center?add_user=machinima
+
+FOR MORE GAMEPLAY, GO TO: 
+http://www.youtube.com/subscription_center?add_user=machinimarespawn
+
+FOR MORE SPORTS GAMEPLAY, GO TO: 
+http://www.youtube.com/subscription_center?add_user=machinimasports
+
+TAGS: Machinima Respawn with Mr Sark Hutch MachinimaRespawn Seananners Gootecks E3 Electronic Entertainment Expo adam montoya bunker reservoir dogs quentin tarantino bunker top secret gameplay commentary grand theft auto GTA Liberty City</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=y9DPn2ikvo4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/y9DPn2ikvo4/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/y9DPn2ikvo4/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=y9DPn2ikvo4"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/y9DPn2ikvo4"/>
+    <author>
+      <name>machinimarespawn</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/machinimarespawn</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/y9DPn2ikvo4/comments" countHint="1613"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Gaming" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Games</media:category>
+      <media:content url="http://www.youtube.com/v/y9DPn2ikvo4?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="223" yt:format="5"/>
+      <media:content url="rtsp://v7.cache3.c.youtube.com/CiQLENy73wIaGwmOvqRon8_QyxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="223" yt:format="1"/>
+      <media:content url="rtsp://v1.cache7.c.youtube.com/CiQLENy73wIaGwmOvqRon8_QyxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="223" yt:format="6"/>
+      <media:description type="plain">http://www.youtube.com/watch?v=QEFUVTnMM2E
+Click here to watch Inside Gaming: E3 2010 Coverage - Day 1 (Hourly Coverage!)
+
+Respawn War Room: E3 Day 1 ft. Mr Sark, Hutch, Gootecks &amp; Seananners
+
+Join the Machinima Respawn team as they meet in their super top secret E3 bunker to plan their attack on the Electronic Entertainment Expo. Sark, Hutch, and Gootecks struggle to find the perfect 4th edition to their team...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Follow Machinima on Twitter!
+ 
+Machinima
+http://twitter.com/machinima_com
+
+Inside Gaming
+http://twitter.com/insidegaming
+
+Machinima Respawn
+http://twitter.com/mcom_respawn
+
+Machinima Entertainment, Technology, Culture
+http://twitter.com/machinima_etc
+
+FOR MORE MACHINIMA, GO TO: 
+http://www.youtube.com/subscription_center?add_user=machinima
+
+FOR MORE GAMEPLAY, GO TO: 
+http://www.youtube.com/subscription_center?add_user=machinimarespawn
+
+FOR MORE SPORTS GAMEPLAY, GO TO: 
+http://www.youtube.com/subscription_center?add_user=machinimasports
+
+TAGS: Machinima Respawn with Mr Sark Hutch MachinimaRespawn Seananners Gootecks E3 Electronic Entertainment Expo adam montoya bunker reservoir dogs quentin tarantino bunker top secret gameplay commentary grand theft auto GTA Liberty City</media:description>
+      <media:keywords>Machinima, Respawn, with, Mr, Sark, Hutch, MachinimaRespawn, Seananners, Gootecks, E3, Electronic, Entertainment, Expo, adam, montoya, bunker, reservoir, dogs, quentin, tarantino, top, secret, gameplay, commentary, grand, theft, auto, GTA, Liberty, City, yt:quality=high</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=y9DPn2ikvo4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/y9DPn2ikvo4/2.jpg" height="90" width="120" time="00:01:51.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/y9DPn2ikvo4/1.jpg" height="90" width="120" time="00:00:55.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/y9DPn2ikvo4/3.jpg" height="90" width="120" time="00:02:47.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/y9DPn2ikvo4/0.jpg" height="240" width="320" time="00:01:51.500"/>
+      <media:title type="plain">Respawn War Room: E3 Day 1 ft. Mr Sark, Hutch, Gootecks &amp; Seananners</media:title>
+      <yt:duration seconds="223"/>
+    </media:group>
+    <gd:rating average="4.9637747" max="5" min="1" numRaters="3423" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="665" viewCount="47987"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/hw_UgM5P77s</id>
+    <published>2010-06-15T23:39:03.000Z</published>
+    <updated>2010-06-16T21:06:01.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="People" label="People &amp; Blogs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kassemg"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kassemgtwo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kassem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="vlog"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="blog"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ralphs"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="the"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="station"/>
+    <title type="text">Ralph's Doesn't Even Try Anymore.</title>
+    <content type="text">Eff you Ralphs. New office, and filmed a Station video. Enjoy.
+
+FIND ME ONLINE:
+http://www.Blippy.com/Kassemg
+http://twitter.com/kassemg
+http://apps.facebook.com/kassemg/
+http://www.dailybooth.com/kassemg
+http://www.myspace.com/kassemg
+http://thekassemg.com
+
+SEND ME LETTERS:
+2461 Santa Monica Blvd. #511
+Santa Monica, CA 90404</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=hw_UgM5P77s&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/hw_UgM5P77s/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/hw_UgM5P77s/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=hw_UgM5P77s"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/hw_UgM5P77s"/>
+    <author>
+      <name>KassemGtwo</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/kassemgtwo</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/hw_UgM5P77s/comments" countHint="1152"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="People &amp; Blogs" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">People</media:category>
+      <media:content url="http://www.youtube.com/v/hw_UgM5P77s?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="402" yt:format="5"/>
+      <media:content url="rtsp://v6.cache1.c.youtube.com/CiQLENy73wIaGwm770_OgNQPhxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="402" yt:format="1"/>
+      <media:content url="rtsp://v1.cache6.c.youtube.com/CiQLENy73wIaGwm770_OgNQPhxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="402" yt:format="6"/>
+      <media:description type="plain">Eff you Ralphs. New office, and filmed a Station video. Enjoy.
+
+FIND ME ONLINE:
+http://www.Blippy.com/Kassemg
+http://twitter.com/kassemg
+http://apps.facebook.com/kassemg/
+http://www.dailybooth.com/kassemg
+http://www.myspace.com/kassemg
+http://thekassemg.com
+
+SEND ME LETTERS:
+2461 Santa Monica Blvd. #511
+Santa Monica, CA 90404</media:description>
+      <media:keywords>kassemg, kassemgtwo, kassem, vlog, blog, video, ralphs, the, station</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=hw_UgM5P77s&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hw_UgM5P77s/2.jpg" height="90" width="120" time="00:03:21"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hw_UgM5P77s/1.jpg" height="90" width="120" time="00:01:40.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hw_UgM5P77s/3.jpg" height="90" width="120" time="00:05:01.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/hw_UgM5P77s/0.jpg" height="240" width="320" time="00:03:21"/>
+      <media:title type="plain">Ralph's Doesn't Even Try Anymore.</media:title>
+      <yt:duration seconds="402"/>
+    </media:group>
+    <gd:rating average="4.9333153" max="5" min="1" numRaters="3719" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="142" viewCount="36667"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/CT-H1x8-klw</id>
+    <published>2010-06-15T14:56:56.000Z</published>
+    <updated>2010-06-16T21:06:55.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Games" label="Gaming"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Small"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beans"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="smallishbeans"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tejb"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tejbzdotcom"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="to"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tha"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="face"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="grizz"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tejbz"/>
+    <title type="text">Tejb - Minitage (By meh)</title>
+    <content type="text">I'm sure you all Know who tejb is. but yeah if you don't -
+http://www.youtube.com/tejbz
+He asked me to edit some shiz so i did :P
+enjoy</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=CT-H1x8-klw&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/CT-H1x8-klw/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/CT-H1x8-klw/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=CT-H1x8-klw"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/CT-H1x8-klw"/>
+    <author>
+      <name>SmallishBeans</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/smallishbeans</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/CT-H1x8-klw/comments" countHint="341"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Gaming" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Games</media:category>
+      <media:content url="http://www.youtube.com/v/CT-H1x8-klw?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="103" yt:format="5"/>
+      <media:content url="rtsp://v1.cache1.c.youtube.com/CiQLENy73wIaGwlckj4f14c_CRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="103" yt:format="1"/>
+      <media:content url="rtsp://v8.cache2.c.youtube.com/CiQLENy73wIaGwlckj4f14c_CRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="103" yt:format="6"/>
+      <media:description type="plain">I'm sure you all Know who tejb is. but yeah if you don't -
+http://www.youtube.com/tejbz
+He asked me to edit some shiz so i did :P
+enjoy</media:description>
+      <media:keywords>Small, beans, smallishbeans, tejb, tejbzdotcom, to, tha, face, grizz, tejbz</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=CT-H1x8-klw&amp;feature=youtube_gdata"/>
+      <media:restriction type="country" relationship="deny">DE</media:restriction>
+      <media:thumbnail url="http://i.ytimg.com/vi/CT-H1x8-klw/2.jpg" height="90" width="120" time="00:00:51.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CT-H1x8-klw/1.jpg" height="90" width="120" time="00:00:25.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CT-H1x8-klw/3.jpg" height="90" width="120" time="00:01:17.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CT-H1x8-klw/0.jpg" height="240" width="320" time="00:00:51.500"/>
+      <media:title type="plain">Tejb - Minitage (By meh)</media:title>
+      <yt:duration seconds="103"/>
+    </media:group>
+    <gd:rating average="4.915212" max="5" min="1" numRaters="4010" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="113" viewCount="18392"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/I92vQ0Nj4LA</id>
+    <published>2010-06-15T20:30:59.000Z</published>
+    <updated>2010-06-16T21:06:28.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Education" label="Education"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="making"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="atheism"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="religion"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="aint"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="that"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="easy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="so"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="keep"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dancing"/>
+    <title type="text">Let's make it a religion !</title>
+    <content type="text">Second Chapter of my audio-book "The Unreasonable God" : http://tinyurl.com/35pb4so
+
+If you would like to support it with paypal donations : http://tinyurl.com/ZOMGitsCriss-paypal
+
+You can listen to the rest of it here :
+http://soundcloud.com/zomgitscriss
+
+Let's make Atheism a religion cos I wanna be a cult leader and such, fo' real !
+Btw ...it's my birthday and I dance if I want to ;)</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=I92vQ0Nj4LA&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/I92vQ0Nj4LA/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/I92vQ0Nj4LA/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=I92vQ0Nj4LA"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/I92vQ0Nj4LA"/>
+    <author>
+      <name>ZOMGitsCriss</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/zomgitscriss</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/I92vQ0Nj4LA/comments" countHint="2888"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Education" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Education</media:category>
+      <media:content url="http://www.youtube.com/v/I92vQ0Nj4LA?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="338" yt:format="5"/>
+      <media:content url="rtsp://v3.cache2.c.youtube.com/CiQLENy73wIaGwmw4GNDQ6_dIxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="338" yt:format="1"/>
+      <media:content url="rtsp://v4.cache6.c.youtube.com/CiQLENy73wIaGwmw4GNDQ6_dIxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="338" yt:format="6"/>
+      <media:description type="plain">Second Chapter of my audio-book "The Unreasonable God" : http://tinyurl.com/35pb4so
+
+If you would like to support it with paypal donations : http://tinyurl.com/ZOMGitsCriss-paypal
+
+You can listen to the rest of it here :
+http://soundcloud.com/zomgitscriss
+
+Let's make Atheism a religion cos I wanna be a cult leader and such, fo' real !
+Btw ...it's my birthday and I dance if I want to ;)</media:description>
+      <media:keywords>making, atheism, religion, aint, that, easy, yo, so, keep, dancing</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=I92vQ0Nj4LA&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/I92vQ0Nj4LA/2.jpg" height="90" width="120" time="00:02:49"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/I92vQ0Nj4LA/1.jpg" height="90" width="120" time="00:01:24.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/I92vQ0Nj4LA/3.jpg" height="90" width="120" time="00:04:13.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/I92vQ0Nj4LA/0.jpg" height="240" width="320" time="00:02:49"/>
+      <media:title type="plain">Let's make it a religion !</media:title>
+      <yt:duration seconds="338"/>
+    </media:group>
+    <gd:rating average="4.951393" max="5" min="1" numRaters="3374" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="314" viewCount="12511"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/4htNWb0tAd4</id>
+    <published>2010-06-15T21:00:37.000Z</published>
+    <updated>2010-06-16T21:03:16.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jake and Amir"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mother s Day"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="collegehumor originals"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="chtv"/>
+    <title type="text">Jake and Amir: Mother's Day</title>
+    <content type="text">There's nothing stronger than a mother's love. But I've been working out. See our videos a month earlier at http://www.collegehumor.com and follow us on http://www.facebook.com/CollegeHumor</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=4htNWb0tAd4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/4htNWb0tAd4/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/4htNWb0tAd4/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=4htNWb0tAd4"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/4htNWb0tAd4"/>
+    <author>
+      <name>collegehumor</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/collegehumor</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/4htNWb0tAd4/comments" countHint="950"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="rtsp://v5.cache7.c.youtube.com/CiQLENy73wIaGwneAS29WU0b4hMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" isDefault="true" expression="full" duration="155" yt:format="1"/>
+      <media:content url="rtsp://v6.cache8.c.youtube.com/CiQLENy73wIaGwneAS29WU0b4hMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="155" yt:format="6"/>
+      <media:description type="plain">There's nothing stronger than a mother's love. But I've been working out. See our videos a month earlier at http://www.collegehumor.com and follow us on http://www.facebook.com/CollegeHumor</media:description>
+      <media:keywords>Jake and Amir, Mother s Day, collegehumor originals, chtv</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=4htNWb0tAd4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4htNWb0tAd4/2.jpg" height="90" width="120" time="00:01:17.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4htNWb0tAd4/1.jpg" height="90" width="120" time="00:00:38.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4htNWb0tAd4/3.jpg" height="90" width="120" time="00:01:56.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4htNWb0tAd4/0.jpg" height="240" width="320" time="00:01:17.500"/>
+      <media:title type="plain">Jake and Amir: Mother's Day</media:title>
+      <yt:duration seconds="155"/>
+    </media:group>
+    <yt:noembed/>
+    <gd:rating average="4.894004" max="5" min="1" numRaters="4453" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="777" viewCount="81694"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/N4vf8N6GpdM</id>
+    <published>2010-06-15T18:11:02.000Z</published>
+    <updated>2010-06-16T21:07:04.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Grammar"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Nazis"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hitler"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Third Reich"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="World War 2"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="collegehumor originals"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="chtv"/>
+    <title type="text">Grammar Nazis</title>
+    <content type="text">Nazis really have very little tolerance for just about anything. See our videos a month earlier at http://www.collegehumor.com and follow us on http://www.facebook.com/CollegeHumor</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=N4vf8N6GpdM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/N4vf8N6GpdM/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/N4vf8N6GpdM/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=N4vf8N6GpdM"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/N4vf8N6GpdM"/>
+    <author>
+      <name>collegehumor</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/collegehumor</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/N4vf8N6GpdM/comments" countHint="3981"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="rtsp://v6.cache4.c.youtube.com/CiQLENy73wIaGwnTpYbe8N-LNxMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" isDefault="true" expression="full" duration="207" yt:format="1"/>
+      <media:content url="rtsp://v8.cache7.c.youtube.com/CiQLENy73wIaGwnTpYbe8N-LNxMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="207" yt:format="6"/>
+      <media:description type="plain">Nazis really have very little tolerance for just about anything. See our videos a month earlier at http://www.collegehumor.com and follow us on http://www.facebook.com/CollegeHumor</media:description>
+      <media:keywords>Grammar, Nazis, Hitler, Third Reich, World War 2, collegehumor originals, chtv</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=N4vf8N6GpdM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/N4vf8N6GpdM/2.jpg" height="90" width="120" time="00:01:43.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/N4vf8N6GpdM/1.jpg" height="90" width="120" time="00:00:51.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/N4vf8N6GpdM/3.jpg" height="90" width="120" time="00:02:35.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/N4vf8N6GpdM/0.jpg" height="240" width="320" time="00:01:43.500"/>
+      <media:title type="plain">Grammar Nazis</media:title>
+      <yt:duration seconds="207"/>
+    </media:group>
+    <yt:noembed/>
+    <gd:rating average="4.857468" max="5" min="1" numRaters="13183" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="5040" viewCount="132067"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/7q1ATG6SNnA</id>
+    <published>2010-06-15T06:14:44.000Z</published>
+    <updated>2010-06-16T21:06:34.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="top"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mv"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="teaser"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="수정"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="BIGBANG"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="SOL"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="GD"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="DRAGON"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="VI"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="LITE"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="DAESUNG"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="TAEYANG"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="SEUNGRI"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="BIG"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="BANG"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="IRIS"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="トップ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="アイリス"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ソル"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ジードラゴン"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="テソン"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="テヤン"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="YG"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ENTERTAINMENT"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ワイジー"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ターン"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="イット"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="アップ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Turn"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="it"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="up"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Tune"/>
+    <title type="text">T.O.P [BIGBANG] - Turn It Up [MV TEASER]</title>
+    <content type="text"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=7q1ATG6SNnA&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/7q1ATG6SNnA/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/7q1ATG6SNnA/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=7q1ATG6SNnA"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/7q1ATG6SNnA"/>
+    <author>
+      <name>YGEntertainment</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ygentertainment</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/7q1ATG6SNnA/comments" countHint="1806"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/7q1ATG6SNnA?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="29" yt:format="5"/>
+      <media:content url="rtsp://v5.cache3.c.youtube.com/CiQLENy73wIaGwlwNpJuTECt7hMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="29" yt:format="1"/>
+      <media:content url="rtsp://v8.cache4.c.youtube.com/CiQLENy73wIaGwlwNpJuTECt7hMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="29" yt:format="6"/>
+      <media:description type="plain"/>
+      <media:keywords>top, mv, teaser, 수정, BIGBANG, SOL, GD, DRAGON, VI, LITE, DAESUNG, TAEYANG, SEUNGRI, BIG, BANG, IRIS, トップ, アイリス, ソル, ジードラゴン, テソン, テヤン, YG, ENTERTAINMENT, ワイジー, ターン, イット, アップ, Turn, it, up, Tune</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=7q1ATG6SNnA&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7q1ATG6SNnA/2.jpg" height="90" width="120" time="00:00:14.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7q1ATG6SNnA/1.jpg" height="90" width="120" time="00:00:07.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7q1ATG6SNnA/3.jpg" height="90" width="120" time="00:00:21.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/7q1ATG6SNnA/0.jpg" height="240" width="320" time="00:00:14.500"/>
+      <media:title type="plain">T.O.P [BIGBANG] - Turn It Up [MV TEASER]</media:title>
+      <yt:duration seconds="29"/>
+    </media:group>
+    <gd:rating average="4.9186144" max="5" min="1" numRaters="3551" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="2207" viewCount="166877"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/YZTC_OH7C_g</id>
+    <published>2010-06-14T21:16:40.000Z</published>
+    <updated>2010-06-16T21:02:34.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Nonprofit" label="Nonprofits &amp; Activism"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="be the change"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="the trevor project"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="gay"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="lesbian"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bisexual"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="transgender"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="questioning"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="lgbtq"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="suicide"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="alan turing"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="computers"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hank green"/>
+    <title type="text">Be The Change - vlogbrothers</title>
+    <content type="text">http://memelabs.com/thetrevorproject
+
+The Trevor Project is the leading national organization focused on crisis and suicide prevention efforts among Lesbian, Gay, Bisexual, Transgender and Questioning youth. In the midst of National LGBTQ Pride Month, The Trevor Project is launching a new video contest called BE THE CHANGE. To enter, all you have to do is record a video explaining how you, or you and your friends, are working hard to BE THE CHANGE as a lesbian, gay, bisexual, transgender, questioning or allied youth and submit it to memelabs.com/thetrevorproject</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=YZTC_OH7C_g&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/YZTC_OH7C_g/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/YZTC_OH7C_g/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=YZTC_OH7C_g"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/YZTC_OH7C_g"/>
+    <author>
+      <name>vlogbrothers</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vlogbrothers</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/YZTC_OH7C_g/comments" countHint="1552"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Nonprofits &amp; Activism" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Nonprofit</media:category>
+      <media:content url="http://www.youtube.com/v/YZTC_OH7C_g?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="209" yt:format="5"/>
+      <media:content url="rtsp://v6.cache7.c.youtube.com/CiQLENy73wIaGwn4C_vh_MKUYRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="209" yt:format="1"/>
+      <media:content url="rtsp://v2.cache3.c.youtube.com/CiQLENy73wIaGwn4C_vh_MKUYRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="209" yt:format="6"/>
+      <media:description type="plain">http://memelabs.com/thetrevorproject
+
+The Trevor Project is the leading national organization focused on crisis and suicide prevention efforts among Lesbian, Gay, Bisexual, Transgender and Questioning youth. In the midst of National LGBTQ Pride Month, The Trevor Project is launching a new video contest called BE THE CHANGE. To enter, all you have to do is record a video explaining how you, or you and your friends, are working hard to BE THE CHANGE as a lesbian, gay, bisexual, transgender, questioning or allied youth and submit it to memelabs.com/thetrevorproject</media:description>
+      <media:keywords>be the change, the trevor project, gay, lesbian, bisexual, transgender, questioning, lgbtq, suicide, alan turing, computers, hank green</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=YZTC_OH7C_g&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YZTC_OH7C_g/2.jpg" height="90" width="120" time="00:01:44.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YZTC_OH7C_g/1.jpg" height="90" width="120" time="00:00:52.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YZTC_OH7C_g/3.jpg" height="90" width="120" time="00:02:36.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YZTC_OH7C_g/0.jpg" height="240" width="320" time="00:01:44.500"/>
+      <media:title type="plain">Be The Change - vlogbrothers</media:title>
+      <yt:duration seconds="209"/>
+    </media:group>
+    <gd:rating average="4.893828" max="5" min="1" numRaters="3937" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="481" viewCount="60083"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/tax4e4hBBZc</id>
+    <published>2010-06-15T22:34:40.000Z</published>
+    <updated>2010-06-16T21:05:10.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Games" label="Gaming"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Portal"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Portal 2"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Valve"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Steam"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="GlaDOS"/>
+    <title type="text">Portal 2 Teaser Trailer</title>
+    <content type="text">Portal 2 is targeted for launch in 2011 on the PlayStation 3, PC, Mac and Xbox 360 platforms.
+
+For more information on Portal 2, please visit http://www.thinkwithportals.com.</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=tax4e4hBBZc&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/tax4e4hBBZc/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/tax4e4hBBZc/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=tax4e4hBBZc"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/tax4e4hBBZc"/>
+    <author>
+      <name>Valve</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/valve</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/tax4e4hBBZc/comments" countHint="1629"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Gaming" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Games</media:category>
+      <media:content url="http://www.youtube.com/v/tax4e4hBBZc?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="59" yt:format="5"/>
+      <media:content url="rtsp://v6.cache7.c.youtube.com/CiQLENy73wIaGwmXBUGIe3istRMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="59" yt:format="1"/>
+      <media:content url="rtsp://v2.cache6.c.youtube.com/CiQLENy73wIaGwmXBUGIe3istRMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="59" yt:format="6"/>
+      <media:description type="plain">Portal 2 is targeted for launch in 2011 on the PlayStation 3, PC, Mac and Xbox 360 platforms.
+
+For more information on Portal 2, please visit http://www.thinkwithportals.com.</media:description>
+      <media:keywords>Portal, Portal 2, Valve, Steam, GlaDOS</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=tax4e4hBBZc&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tax4e4hBBZc/2.jpg" height="90" width="120" time="00:00:29.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tax4e4hBBZc/1.jpg" height="90" width="120" time="00:00:14.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tax4e4hBBZc/3.jpg" height="90" width="120" time="00:00:44.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tax4e4hBBZc/0.jpg" height="240" width="320" time="00:00:29.500"/>
+      <media:title type="plain">Portal 2 Teaser Trailer</media:title>
+      <yt:duration seconds="59"/>
+    </media:group>
+    <gd:rating average="4.963158" max="5" min="1" numRaters="3040" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="2148" viewCount="44460"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/5kIgLwCCxbU</id>
+    <published>2010-06-15T05:09:19.000Z</published>
+    <updated>2010-06-16T21:06:55.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Black"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Veil"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Brides"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="BVB"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="andy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sixx"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Perfect"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Weapon"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Six"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Knives"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="and"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Pens"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sacred"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ceremony"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tour"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Sandra"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Alva"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ashley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Purdy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jake"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Pitts"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jinxx"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Never"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Give"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="In"/>
+    <title type="text">BLACK VEIL BRIDES "Perfect Weapon" OFFICIAL MUSIC VIDEO</title>
+    <content type="text">Black Veil Brides video for "Perfect Weapon" from their debut album "We Stitch These Wounds" AVAILABLE EVERYWHERE July 20th 2010</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=5kIgLwCCxbU&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/5kIgLwCCxbU/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/5kIgLwCCxbU/related"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/5kIgLwCCxbU"/>
+    <author>
+      <name>BlackVeilBridestv</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/blackveilbridestv</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/5kIgLwCCxbU/comments" countHint="3691"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/5kIgLwCCxbU?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="307" yt:format="5"/>
+      <media:description type="plain">Black Veil Brides video for "Perfect Weapon" from their debut album "We Stitch These Wounds" AVAILABLE EVERYWHERE July 20th 2010</media:description>
+      <media:keywords>Black, Veil, Brides, BVB, andy, sixx, Perfect, Weapon, Six, Knives, and, Pens, sacred, ceremony, tour, Sandra, Alva, Ashley, Purdy, Jake, Pitts, Jinxx, Never, Give, In</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=5kIgLwCCxbU&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5kIgLwCCxbU/2.jpg" height="90" width="120" time="00:02:33.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5kIgLwCCxbU/1.jpg" height="90" width="120" time="00:01:16.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5kIgLwCCxbU/3.jpg" height="90" width="120" time="00:03:50.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/5kIgLwCCxbU/0.jpg" height="240" width="320" time="00:02:33.500"/>
+      <media:title type="plain">BLACK VEIL BRIDES "Perfect Weapon" OFFICIAL MUSIC VIDEO</media:title>
+      <yt:duration seconds="307"/>
+    </media:group>
+    <gd:rating average="4.893628" max="5" min="1" numRaters="3798" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="4498" viewCount="54532"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/JMvAFhaCQ58</id>
+    <published>2010-06-15T14:30:53.000Z</published>
+    <updated>2010-06-16T21:01:35.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny vlog"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Arturo Trejo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Nancy Trejo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="plants"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="gardening"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="garden"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="family"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="las vegas"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yard"/>
+    <title type="text">Planting Pretty Plants in my Pressed Plaid Pants</title>
+    <content type="text">Follow me on twitter: http://twitter.com/MrArturoTrejo
+
+Facebook Fan Page: http://www.facebook.com/pages/Mr-Arturo-Trejo/119581278057750?ref=sgm
+
+Check out Mrs. Nancy Trejo: http://www.youtube.com/MrsNancyTrejo</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=JMvAFhaCQ58&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/JMvAFhaCQ58/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/JMvAFhaCQ58/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=JMvAFhaCQ58"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/JMvAFhaCQ58"/>
+    <author>
+      <name>MrArturoTrejo</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mrarturotrejo</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/JMvAFhaCQ58/comments" countHint="307"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/JMvAFhaCQ58?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="252" yt:format="5"/>
+      <media:content url="rtsp://v8.cache2.c.youtube.com/CiQLENy73wIaGwmfQ4IWFsDLJBMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="252" yt:format="1"/>
+      <media:content url="rtsp://v8.cache8.c.youtube.com/CiQLENy73wIaGwmfQ4IWFsDLJBMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="252" yt:format="6"/>
+      <media:description type="plain">Follow me on twitter: http://twitter.com/MrArturoTrejo
+
+Facebook Fan Page: http://www.facebook.com/pages/Mr-Arturo-Trejo/119581278057750?ref=sgm
+
+Check out Mrs. Nancy Trejo: http://www.youtube.com/MrsNancyTrejo</media:description>
+      <media:keywords>funny vlog, Arturo Trejo, Nancy Trejo, video, funny video, plants, gardening, garden, family, las vegas, yard</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=JMvAFhaCQ58&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JMvAFhaCQ58/2.jpg" height="90" width="120" time="00:02:06"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JMvAFhaCQ58/1.jpg" height="90" width="120" time="00:01:03"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JMvAFhaCQ58/3.jpg" height="90" width="120" time="00:03:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JMvAFhaCQ58/0.jpg" height="240" width="320" time="00:02:06"/>
+      <media:title type="plain">Planting Pretty Plants in my Pressed Plaid Pants</media:title>
+      <yt:duration seconds="252"/>
+    </media:group>
+    <gd:rating average="4.986884" max="5" min="1" numRaters="2821" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="47" viewCount="10335"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/8Uc2lpH0iZ0</id>
+    <published>2010-06-14T21:53:54.000Z</published>
+    <updated>2010-06-16T21:06:35.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Games" label="Gaming"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="E3"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Xbox"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="360"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Kinect"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="iPhone"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Like"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Totally"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Awesome"/>
+    <title type="text">E3, Kinect &amp; iPhone 4</title>
+    <content type="text">Click here to find out WTF is going on!!! :)
+
+Toby is back with all the news from the industry that you need to know about!
+
+---------------------
+Links -
+iPhone 4 Pre-Order:
+http://bit.ly/cpcAct
+
+Box Office Weekend:
+http://bit.ly/b9c3pj
+http://bit.ly/6f649W
+
+
+Resident Evil Afterlife LITERAL Trailer:
+http://bit.ly/aD4zyW
+
+Xbox 360 Kinect:
+http://bit.ly/a4wuqc
+
+Hot Gamer Chick of the Day:
+Katie
+http://bit.ly/a8OZqn</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=8Uc2lpH0iZ0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/8Uc2lpH0iZ0/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/8Uc2lpH0iZ0/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=8Uc2lpH0iZ0"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/standardfeeds/top_rated/v/8Uc2lpH0iZ0"/>
+    <author>
+      <name>LikeTotallyAwesome</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/liketotallyawesome</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/8Uc2lpH0iZ0/comments" countHint="1652"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Gaming" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Games</media:category>
+      <media:content url="http://www.youtube.com/v/8Uc2lpH0iZ0?f=standard&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="187" yt:format="5"/>
+      <media:content url="rtsp://v2.cache2.c.youtube.com/CiQLENy73wIaGwmdifSRljZH8RMYDSANFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="187" yt:format="1"/>
+      <media:content url="rtsp://v7.cache8.c.youtube.com/CiQLENy73wIaGwmdifSRljZH8RMYESARFEgGUghzdGFuZGFyZAw=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="187" yt:format="6"/>
+      <media:description type="plain">Click here to find out WTF is going on!!! :)
+
+Toby is back with all the news from the industry that you need to know about!
+
+---------------------
+Links -
+iPhone 4 Pre-Order:
+http://bit.ly/cpcAct
+
+Box Office Weekend:
+http://bit.ly/b9c3pj
+http://bit.ly/6f649W
+
+
+Resident Evil Afterlife LITERAL Trailer:
+http://bit.ly/aD4zyW
+
+Xbox 360 Kinect:
+http://bit.ly/a4wuqc
+
+Hot Gamer Chick of the Day:
+Katie
+http://bit.ly/a8OZqn</media:description>
+      <media:keywords>E3, Xbox, 360, Kinect, iPhone, Like, Totally, Awesome</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=8Uc2lpH0iZ0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8Uc2lpH0iZ0/2.jpg" height="90" width="120" time="00:01:33.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8Uc2lpH0iZ0/1.jpg" height="90" width="120" time="00:00:46.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8Uc2lpH0iZ0/3.jpg" height="90" width="120" time="00:02:20.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8Uc2lpH0iZ0/0.jpg" height="240" width="320" time="00:01:33.500"/>
+      <media:title type="plain">E3, Kinect &amp; iPhone 4</media:title>
+      <yt:duration seconds="187"/>
+    </media:group>
+    <gd:rating average="4.835844" max="5" min="1" numRaters="5842" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="287" viewCount="140793"/>
+  </entry>
+</feed>

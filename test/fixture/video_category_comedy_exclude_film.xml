@@ -1,0 +1,354 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:gml="http://www.opengis.net/gml" xmlns:yt="http://gdata.youtube.com/schemas/2007" xmlns:georss="http://www.georss.org/georss" gd:etag="W/&quot;A0AARXk4fip7ImA9WxFVGE0.&quot;">
+  <id>tag:youtube.com,2008:videos</id>
+  <updated>2010-06-17T21:22:24.736Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+  <title>YouTube Videos</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?v=2"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/batch?v=2"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?start-index=1&amp;max-results=5&amp;category=%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fcategories.cat%7DComedy%2C-%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fkeywords.cat%7Dfilm&amp;v=2"/>
+  <link rel="service" type="application/atomsvc+xml" href="http://gdata.youtube.com/feeds/api/videos?alt=atom-service&amp;v=2"/>
+  <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?start-index=6&amp;max-results=5&amp;category=%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fcategories.cat%7DComedy%2C-%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fkeywords.cat%7Dfilm&amp;v=2"/>
+  <author>
+    <name>YouTube</name>
+    <uri>http://www.youtube.com/</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>1000000</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+  <entry gd:etag="W/&quot;A0AGRn47eCp7ImA9WxFVF0k.&quot;">
+    <id>tag:youtube.com,2008:video:XVtJBBwP8Ao</id>
+    <published>2009-07-05T17:06:19.000Z</published>
+    <updated>2010-06-17T04:42:07.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Harry Potter"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="musical"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Darren Criss"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="AJ Holmes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hermione Granger"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ron Weasley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Draco Malfoy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dumbledore"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Voldemort"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Quirrel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Snape"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hogwarts"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="magic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Zefron"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Pigfarts"/>
+    <title>A Very Potter Musical Act 2 Part 1</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/XVtJBBwP8Ao?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=XVtJBBwP8Ao&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/XVtJBBwP8Ao/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/XVtJBBwP8Ao/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=XVtJBBwP8Ao"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/XVtJBBwP8Ao?v=2"/>
+    <author>
+      <name>StarKidPotter</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/starkidpotter</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/XVtJBBwP8Ao/comments?v=2" countHint="2225"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/XVtJBBwP8Ao?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="503" yt:format="5"/>
+      <media:content url="rtsp://v2.cache1.c.youtube.com/CiILENy73wIaGQkK8A8cBElbXRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="503" yt:format="1"/>
+      <media:content url="rtsp://v8.cache2.c.youtube.com/CiILENy73wIaGQkK8A8cBElbXRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="503" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">StarKidPotter</media:credit>
+      <media:description type="plain">Act 2 begins and the entire wizarding world is in a frenzy. Voldemort's back and vlogging about it on his new floo-tube channel, the minister of magic is skeptical of the whole situation, and it's up to Harry to defeat the Dark Lord and save the world... again! "A Very Potter Musical" is an unofficial, fan-made, parody show.</media:description>
+      <media:keywords>Harry Potter, musical, funny, Darren Criss, AJ Holmes, Hermione Granger, Ron Weasley, Draco Malfoy, Dumbledore, Voldemort, Quirrel, Snape, Hogwarts, music, magic, Zefron, Pigfarts</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=XVtJBBwP8Ao&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XVtJBBwP8Ao/default.jpg" height="90" width="120" time="00:04:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XVtJBBwP8Ao/2.jpg" height="90" width="120" time="00:04:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XVtJBBwP8Ao/1.jpg" height="90" width="120" time="00:02:05.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XVtJBBwP8Ao/3.jpg" height="90" width="120" time="00:06:17.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XVtJBBwP8Ao/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">A Very Potter Musical Act 2 Part 1</media:title>
+      <yt:duration seconds="503"/>
+      <yt:uploaded>2009-07-05T17:06:19.000Z</yt:uploaded>
+      <yt:videoid>XVtJBBwP8Ao</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9522996" max="5" min="1" numRaters="4088" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="3316" viewCount="484169"/>
+    <yt:rating numDislikes="49" numLikes="4039"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEMER347eCp7ImA9WxFVF0U.&quot;">
+    <id>tag:youtube.com,2008:video:R2GjRg5u7eQ</id>
+    <published>2010-04-06T05:06:30.000Z</published>
+    <updated>2010-06-17T13:46:46.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Evil"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Iguana"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Productions"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Allen"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Murphy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Craig"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Deering"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="amnesia"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="memory"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="loss"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="stunts"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="humor"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="improv"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sketch"/>
+    <title>The Allen and Craig Show Episode 22</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/R2GjRg5u7eQ?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=R2GjRg5u7eQ&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/R2GjRg5u7eQ/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/R2GjRg5u7eQ/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=R2GjRg5u7eQ"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/R2GjRg5u7eQ?v=2"/>
+    <author>
+      <name>EvilIguanaProduction</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/eviliguanaproduction</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/R2GjRg5u7eQ/comments?v=2" countHint="781"/>
+    </gd:comments>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>41.885921478271484 -88.154296875</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/R2GjRg5u7eQ?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="884" yt:format="5"/>
+      <media:content url="rtsp://v1.cache1.c.youtube.com/CiILENy73wIaGQnk7W4ORqNhRxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="884" yt:format="1"/>
+      <media:content url="rtsp://v1.cache2.c.youtube.com/CiILENy73wIaGQnk7W4ORqNhRxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="884" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">EvilIguanaProduction</media:credit>
+      <media:description type="plain">Allen comes down with a case of amnesia which causes him to become a completely different person. Now Craig must try and get the old Allen back.</media:description>
+      <media:keywords>Evil, Iguana, Productions, Allen, Murphy, Craig, Deering, amnesia, memory, loss, stunts, funny, humor, comedy, improv, sketch</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=R2GjRg5u7eQ&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/R2GjRg5u7eQ/default.jpg" height="90" width="120" time="00:07:22"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/R2GjRg5u7eQ/2.jpg" height="90" width="120" time="00:07:22"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/R2GjRg5u7eQ/1.jpg" height="90" width="120" time="00:03:41"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/R2GjRg5u7eQ/3.jpg" height="90" width="120" time="00:11:03"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/R2GjRg5u7eQ/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">The Allen and Craig Show Episode 22</media:title>
+      <yt:duration seconds="884"/>
+      <yt:uploaded>2010-04-06T05:06:30.000Z</yt:uploaded>
+      <yt:videoid>R2GjRg5u7eQ</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9589744" max="5" min="1" numRaters="1365" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="688" viewCount="53835"/>
+    <yt:rating numDislikes="14" numLikes="1351"/>
+  </entry>
+  <entry gd:etag="W/&quot;CUMEQ347eCp7ImA9WxFVF0s.&quot;">
+    <id>tag:youtube.com,2008:video:wqwguSrBRA4</id>
+    <published>2010-05-06T01:03:32.000Z</published>
+    <updated>2010-06-17T08:30:02.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jokes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="boondocks"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="humor"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="aaron mcgruder"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="the boondocks"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="huey"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="riley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ruckus"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shade45"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="eminem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="taylor swift"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="miley cyrus"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="adult swim"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cartoons"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="niggas"/>
+    <title>Boondocks Season 3 Promo: Uncle Ruckus Interview with Shade 45 Pt. 1</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/wqwguSrBRA4?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=wqwguSrBRA4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wqwguSrBRA4/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wqwguSrBRA4/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=wqwguSrBRA4"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wqwguSrBRA4?v=2"/>
+    <author>
+      <name>boondocksbootleg</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/boondocksbootleg</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/wqwguSrBRA4/comments?v=2" countHint="334"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/wqwguSrBRA4?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="743" yt:format="5"/>
+      <media:content url="rtsp://v5.cache8.c.youtube.com/CiILENy73wIaGQkORMEquSCswhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="743" yt:format="1"/>
+      <media:content url="rtsp://v6.cache2.c.youtube.com/CiILENy73wIaGQkORMEquSCswhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="743" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">boondocksbootleg</media:credit>
+      <media:description type="plain">Uncle Ruckus Interview on Shade 45's The All Out Show with Rude Jude &amp; Lord Sear (sorry about the name fail...hence, bootleg). The Boondocks - Sundays at 11:30PM on Adult Swim!</media:description>
+      <media:keywords>jokes, boondocks, comedy, funny, humor, aaron mcgruder, the boondocks, huey, riley, ruckus, shade45, eminem, taylor swift, miley cyrus, adult swim, cartoons, niggas</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=wqwguSrBRA4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wqwguSrBRA4/default.jpg" height="90" width="120" time="00:06:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wqwguSrBRA4/2.jpg" height="90" width="120" time="00:06:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wqwguSrBRA4/1.jpg" height="90" width="120" time="00:03:05.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wqwguSrBRA4/3.jpg" height="90" width="120" time="00:09:17.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wqwguSrBRA4/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Boondocks Season 3 Promo: Uncle Ruckus Interview with Shade 45 Pt. 1</media:title>
+      <yt:duration seconds="743"/>
+      <yt:uploaded>2010-05-06T01:03:32.000Z</yt:uploaded>
+      <yt:videoid>wqwguSrBRA4</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9758673" max="5" min="1" numRaters="663" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="879" viewCount="70369"/>
+    <yt:rating numDislikes="4" numLikes="659"/>
+  </entry>
+  <entry gd:etag="W/&quot;CUEEQX47eCp7ImA9WxFVF0U.&quot;">
+    <id>tag:youtube.com,2008:video:mtk5Ej-xLsM</id>
+    <published>2010-05-02T17:38:21.000Z</published>
+    <updated>2010-06-17T14:06:40.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Road Trip"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="comedy central"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="gabriel iglesias"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hot and fluffy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="felipe"/>
+    <title>"Road Trip" - Gabriel Iglesias- (From Hot &amp; Fluffy comedy special)</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/mtk5Ej-xLsM?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=mtk5Ej-xLsM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/mtk5Ej-xLsM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/mtk5Ej-xLsM/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=mtk5Ej-xLsM"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/mtk5Ej-xLsM?v=2"/>
+    <author>
+      <name>hotandfluffycomedy</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/hotandfluffycomedy</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/mtk5Ej-xLsM/comments?v=2" countHint="182"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/mtk5Ej-xLsM?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="587" yt:format="5"/>
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CiILENy73wIaGQnDLrE_EjnZmhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="587" yt:format="1"/>
+      <media:content url="rtsp://v5.cache3.c.youtube.com/CiILENy73wIaGQnDLrE_EjnZmhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="587" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">hotandfluffycomedy</media:credit>
+      <media:description type="plain">Here is a clip of me talking about taking a road trip with my friends from my comedy central special "Hot and Fluffy comedy." Watch it and let me know what you think.</media:description>
+      <media:keywords>Road Trip, comedy central, gabriel iglesias, hot and fluffy, felipe</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=mtk5Ej-xLsM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mtk5Ej-xLsM/default.jpg" height="90" width="120" time="00:04:53.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mtk5Ej-xLsM/2.jpg" height="90" width="120" time="00:04:53.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mtk5Ej-xLsM/1.jpg" height="90" width="120" time="00:02:26.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mtk5Ej-xLsM/3.jpg" height="90" width="120" time="00:07:20.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mtk5Ej-xLsM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">"Road Trip" - Gabriel Iglesias- (From Hot &amp; Fluffy comedy special)</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="587"/>
+      <yt:uploaded>2010-05-02T17:38:21.000Z</yt:uploaded>
+      <yt:videoid>mtk5Ej-xLsM</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9866962" max="5" min="1" numRaters="902" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="1169" viewCount="121475"/>
+    <yt:rating numDislikes="3" numLikes="899"/>
+  </entry>
+  <entry gd:etag="W/&quot;DE4BRn47eCp7ImA9WxFVF0o.&quot;">
+    <id>tag:youtube.com,2008:video:KQTEarr4P4k</id>
+    <published>2007-10-31T05:20:37.000Z</published>
+    <updated>2010-06-17T12:15:57.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dave"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Chapelle"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kojo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jcx"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="slick"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="corks"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="def"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jam"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="stan"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="lathan"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="auditions"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="rich"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bitch"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="rick"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="james"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="john"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kerry"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="taser"/>
+    <title>Dave Chapelle @ kojo's Comedy funhouse</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/KQTEarr4P4k?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=KQTEarr4P4k&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/KQTEarr4P4k/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/KQTEarr4P4k/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=KQTEarr4P4k"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/KQTEarr4P4k?v=2"/>
+    <author>
+      <name>ereynihc</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ereynihc</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/KQTEarr4P4k/comments?v=2" countHint="362"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/KQTEarr4P4k?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="618" yt:format="5"/>
+      <media:content url="rtsp://v5.cache6.c.youtube.com/CiILENy73wIaGQmJP_i6asQEKRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="618" yt:format="1"/>
+      <media:content url="rtsp://v5.cache8.c.youtube.com/CiILENy73wIaGQmJP_i6asQEKRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="618" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">ereynihc</media:credit>
+      <media:description type="plain">Dave Chapelle drops down o corks to buss some jokes watch out for that security guard who wanted to b famous via youtube!!!</media:description>
+      <media:keywords>Dave, Chapelle, kojo, comedy, jcx, slick, corks, def, jam, stan, lathan, auditions, rich, bitch, rick, james, john, kerry, taser</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=KQTEarr4P4k&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KQTEarr4P4k/default.jpg" height="90" width="120" time="00:05:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KQTEarr4P4k/2.jpg" height="90" width="120" time="00:05:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KQTEarr4P4k/1.jpg" height="90" width="120" time="00:02:34.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KQTEarr4P4k/3.jpg" height="90" width="120" time="00:07:43.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KQTEarr4P4k/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Dave Chapelle @ kojo's Comedy funhouse</media:title>
+      <yt:duration seconds="618"/>
+      <yt:uploaded>2007-10-31T05:20:37.000Z</yt:uploaded>
+      <yt:videoid>KQTEarr4P4k</yt:videoid>
+    </media:group>
+    <gd:rating average="4.938095" max="5" min="1" numRaters="840" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="1559" viewCount="247144"/>
+    <yt:rating numDislikes="13" numLikes="827"/>
+  </entry>
+</feed>

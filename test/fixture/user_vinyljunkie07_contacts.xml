@@ -1,0 +1,424 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:yt="http://gdata.youtube.com/schemas/2007" gd:etag="W/&quot;C0YCSXY9fCp7ImA9WxFVGEw.&quot;">
+  <id>tag:youtube.com,2008:user:vinyljunkie07:contacts</id>
+  <updated>2010-06-17T21:46:08.864Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+  <title>Contacts of vinyljunkie07</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com/profile_friends?user=vinyljunkie07"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts?v=2"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/batch?v=2"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts?start-index=1&amp;max-results=25&amp;v=2"/>
+  <link rel="service" type="application/atomsvc+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts?alt=atom-service&amp;v=2"/>
+  <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts?start-index=26&amp;max-results=25&amp;v=2"/>
+  <author>
+    <name>vinyljunkie07</name>
+    <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>363</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:ellaskins</id>
+    <published>2007-02-11T14:19:11.000-08:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>ellaskins</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ellaskins?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=ellaskins"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/ellaskins?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>ellaskins</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:AngelOfLightCZ</id>
+    <published>2007-04-14T03:36:24.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>AngelOfLightCZ</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/angeloflightcz?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=AngelOfLightCZ"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/AngelOfLightCZ?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>AngelOfLightCZ</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:djartelique</id>
+    <published>2007-05-17T07:44:24.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>djartelique</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/djartelique?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=djartelique"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/djartelique?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>djartelique</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:chucklove909</id>
+    <published>2007-05-27T09:35:46.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>chucklove909</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/chucklove909?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=chucklove909"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/chucklove909?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>chucklove909</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:briansredd</id>
+    <published>2007-06-03T09:52:23.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>briansredd</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/briansredd?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=briansredd"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/briansredd?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>briansredd</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:hardtofindrecords</id>
+    <published>2007-06-21T03:55:43.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>hardtofindrecords</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/hardtofindrecords?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=hardtofindrecords"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/hardtofindrecords?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>hardtofindrecords</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:HTFR</id>
+    <published>2007-07-30T04:39:20.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>HTFR</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/htfr?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=HTFR"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/HTFR?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>HTFR</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:mechelleparlow3818</id>
+    <published>2007-09-18T21:57:24.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>mechelleparlow3818</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mechelleparlow3818?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=mechelleparlow3818"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/mechelleparlow3818?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>mechelleparlow3818</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:probedms</id>
+    <published>2007-09-23T00:28:38.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>probedms</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/probedms?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=probedms"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/probedms?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>probedms</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:DJTGM</id>
+    <published>2007-10-30T10:05:38.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>DJTGM</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/djtgm?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=DJTGM"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/DJTGM?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>DJTGM</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:DJCARY</id>
+    <published>2007-10-31T12:29:39.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>DJCARY</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/djcary?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=DJCARY"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/DJCARY?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>DJCARY</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:brettland</id>
+    <published>2007-11-11T13:38:53.000-08:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>brettland</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/brettland?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=brettland"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/brettland?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>brettland</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:laurentkm3</id>
+    <published>2007-11-14T09:15:32.000-08:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>laurentkm3</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/laurentkm3?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=laurentkm3"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/laurentkm3?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>laurentkm3</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:JackmasterScratch</id>
+    <published>2007-11-20T14:04:41.000-08:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>JackmasterScratch</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/jackmasterscratch?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=JackmasterScratch"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/JackmasterScratch?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>JackmasterScratch</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:19djFOX86</id>
+    <published>2007-11-28T04:23:26.000-08:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>19djFOX86</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/19djfox86?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=19djFOX86"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/19djFOX86?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>19djFOX86</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:mnellykid</id>
+    <published>2007-12-05T17:45:29.000-08:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>mnellykid</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mnellykid?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=mnellykid"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/mnellykid?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>mnellykid</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:BUZZINGFREAKOFNATURE</id>
+    <published>2007-12-06T05:52:44.000-08:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>BUZZINGFREAKOFNATURE</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/buzzingfreakofnature?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=BUZZINGFREAKOFNATURE"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/BUZZINGFREAKOFNATURE?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>BUZZINGFREAKOFNATURE</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:taelue</id>
+    <published>2008-01-01T13:31:20.000-08:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>taelue</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/taelue?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=taelue"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/taelue?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>taelue</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:CrackerSchool</id>
+    <published>2008-01-26T01:34:25.000-08:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>CrackerSchool</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/crackerschool?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=CrackerSchool"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/CrackerSchool?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>CrackerSchool</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:macadammusic</id>
+    <published>2008-03-25T13:05:15.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>macadammusic</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/macadammusic?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=macadammusic"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/macadammusic?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>macadammusic</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:DJmisplacedmarbles</id>
+    <published>2008-03-31T16:01:21.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>DJmisplacedmarbles</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/djmisplacedmarbles?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=DJmisplacedmarbles"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/DJmisplacedmarbles?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>DJmisplacedmarbles</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:Gentbrizz</id>
+    <published>2008-04-26T14:29:27.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>Gentbrizz</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/gentbrizz?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=Gentbrizz"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/Gentbrizz?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>Gentbrizz</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:robvbeats</id>
+    <published>2008-04-28T18:44:21.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>robvbeats</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/robvbeats?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=robvbeats"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/robvbeats?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>robvbeats</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:stellarrubio</id>
+    <published>2008-05-19T02:18:55.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>stellarrubio</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/stellarrubio?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=stellarrubio"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/stellarrubio?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>stellarrubio</yt:username>
+  </entry>
+  <entry gd:etag="W/&quot;C0YCSXY9eyp7ImA9WxFVGEw.&quot;">
+    <id>tag:youtube.com,2008:user:vinyljunkie07:contact:thestereo</id>
+    <published>2008-05-19T10:14:48.000-07:00</published>
+    <updated>2010-06-17T21:46:08.863Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#friend"/>
+    <title>thestereo</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/thestereo?v=2"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=thestereo"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts/thestereo?v=2"/>
+    <author>
+      <name>vinyljunkie07</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/vinyljunkie07</uri>
+    </author>
+    <yt:status>accepted</yt:status>
+    <yt:username>thestereo</yt:username>
+  </entry>
+</feed>

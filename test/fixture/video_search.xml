@@ -1,0 +1,309 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:yt="http://gdata.youtube.com/schemas/2007" gd:etag="W/&quot;D0MDR389eip7ImA9WxFVFk4.&quot;">
+  <id>tag:youtube.com,2008:videos</id>
+  <updated>2010-06-15T20:57:56.162Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+  <title>YouTube Videos matching query: ruby on rails</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?v=2"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/batch?v=2"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&amp;start-index=1&amp;max-results=5&amp;v=2"/>
+  <link rel="service" type="application/atomsvc+xml" href="http://gdata.youtube.com/feeds/api/videos?alt=atom-service&amp;v=2"/>
+  <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&amp;start-index=6&amp;max-results=5&amp;v=2"/>
+  <author>
+    <name>YouTube</name>
+    <uri>http://www.youtube.com/</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>1058</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+  <entry gd:etag="W/&quot;DUABRH47eCp7ImA9WxFVFk0.&quot;">
+    <id>tag:youtube.com,2008:video:LADHwoN2LMM</id>
+    <published>2008-03-12T00:36:43.000Z</published>
+    <updated>2010-06-15T13:15:55.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Education" label="Education"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="uc"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ucberkeley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="university"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="california"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="berkeley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="lecture"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="computer"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="science"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yt:quality=high"/>
+    <title>Ruby on Rails - Part 1: Hello World</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/LADHwoN2LMM?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=LADHwoN2LMM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/LADHwoN2LMM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/LADHwoN2LMM/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=LADHwoN2LMM"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/LADHwoN2LMM?v=2"/>
+    <author>
+      <name>UCBerkeleyEvents</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ucberkeleyevents</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/LADHwoN2LMM/comments?v=2" countHint="67"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Education" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Education</media:category>
+      <media:content url="http://www.youtube.com/v/LADHwoN2LMM?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="4515" yt:format="5"/>
+      <media:content url="rtsp://v5.cache6.c.youtube.com/CiILENy73wIaGQnDLHaDwscALBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="4515" yt:format="1"/>
+      <media:content url="rtsp://v1.cache5.c.youtube.com/CiILENy73wIaGQnDLHaDwscALBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="4515" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">UCBerkeleyEvents</media:credit>
+      <media:description type="plain">Ruby on Rails Intensive 1-Day Course Part 1 - Hello World Web Apps anatomy 101, Model-View-Controller 101, Rails 101, deconstructing Hello World in Rails. This is an intensive one-day overview of the fundamental concepts of the Ruby on Rails Web programming framework, presented by the UC Berkeley RAD Lab. The overview consists of six sections of approximately one hour each. August 16, 2007 Armando Fox and UC Berkeley RAD Lab radlab.cs.berkeley.edu</media:description>
+      <media:keywords>uc, ucberkeley, university, california, berkeley, lecture, computer, science, yt:quality=high</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=LADHwoN2LMM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/LADHwoN2LMM/default.jpg" height="90" width="120" time="00:37:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/LADHwoN2LMM/2.jpg" height="90" width="120" time="00:37:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/LADHwoN2LMM/1.jpg" height="90" width="120" time="00:18:48.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/LADHwoN2LMM/3.jpg" height="90" width="120" time="00:56:26.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/LADHwoN2LMM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Ruby on Rails - Part 1: Hello World</media:title>
+      <yt:duration seconds="4515"/>
+      <yt:uploaded>2008-03-12T00:36:43.000Z</yt:uploaded>
+      <yt:videoid>LADHwoN2LMM</yt:videoid>
+    </media:group>
+    <gd:rating average="4.7006803" max="5" min="1" numRaters="147" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="732" viewCount="83060"/>
+    <yt:rating numDislikes="11" numLikes="136"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0cGQH47eCp7ImA9WxFVFUQ.&quot;">
+    <id>tag:youtube.com,2008:video:Gzj723LkRJY</id>
+    <published>2005-11-08T07:43:19.000Z</published>
+    <updated>2010-06-15T09:43:41.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Howto" label="Howto &amp; Style"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="rails"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ruby"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="programming"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="web"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ajax"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="development"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="demo"/>
+    <title>Ruby on Rails demo</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/Gzj723LkRJY?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Gzj723LkRJY&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Gzj723LkRJY/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Gzj723LkRJY/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Gzj723LkRJY?v=2"/>
+    <author>
+      <name>tenthconcept</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/tenthconcept</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Gzj723LkRJY/comments?v=2" countHint="153"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Howto &amp; Style" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Howto</media:category>
+      <media:content url="http://www.youtube.com/v/Gzj723LkRJY?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="970" yt:format="5"/>
+      <media:content url="rtsp://v4.cache1.c.youtube.com/CiILENy73wIaGQmWRORy2_s4GxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="970" yt:format="1"/>
+      <media:content url="rtsp://v4.cache6.c.youtube.com/CiILENy73wIaGQmWRORy2_s4GxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="970" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">tenthconcept</media:credit>
+      <media:description type="plain">David Heinemeier Hansson, the creator of the Ruby on Rails web development framework demonstrates how to create a blog engine in 15 minutes.</media:description>
+      <media:keywords>rails, ruby, programming, web, ajax, development, demo</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Gzj723LkRJY&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gzj723LkRJY/default.jpg" height="90" width="120" time="00:08:05"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gzj723LkRJY/2.jpg" height="90" width="120" time="00:08:05"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gzj723LkRJY/1.jpg" height="90" width="120" time="00:04:02.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gzj723LkRJY/3.jpg" height="90" width="120" time="00:12:07.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Gzj723LkRJY/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Ruby on Rails demo</media:title>
+      <yt:duration seconds="970"/>
+      <yt:uploaded>2005-11-08T07:43:19.000Z</yt:uploaded>
+      <yt:videoid>Gzj723LkRJY</yt:videoid>
+    </media:group>
+    <gd:rating average="4.224138" max="5" min="1" numRaters="116" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="293" viewCount="142604"/>
+    <yt:rating numDislikes="23" numLikes="93"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0IHRn47eCp7ImA9WxFVFUs.&quot;">
+    <id>tag:youtube.com,2008:video:PQbuyKUaKFo</id>
+    <published>2007-05-14T03:47:52.000Z</published>
+    <updated>2010-06-15T01:32:17.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="railsenvy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ruby"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="rubyonrails"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="parody"/>
+    <title>Ruby on Rails vs Java - Commercial #1 of 9</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/PQbuyKUaKFo?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=PQbuyKUaKFo&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/PQbuyKUaKFo/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/PQbuyKUaKFo/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=PQbuyKUaKFo"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/PQbuyKUaKFo?v=2"/>
+    <author>
+      <name>envyads</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/envyads</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/PQbuyKUaKFo/comments?v=2" countHint="400"/>
+    </gd:comments>
+    <yt:location>Orlando, FL</yt:location>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/PQbuyKUaKFo?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="51" yt:format="5"/>
+      <media:content url="rtsp://v8.cache3.c.youtube.com/CiILENy73wIaGQlaKBqlyO4GPRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="51" yt:format="1"/>
+      <media:content url="rtsp://v6.cache5.c.youtube.com/CiILENy73wIaGQlaKBqlyO4GPRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="51" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">envyads</media:credit>
+      <media:description type="plain">Gregg Pollack from EnvyLabs.com and Jason Seifer from http do some Ruby on Rails commercials in the same style of the Mac vs PC ads. Videos produced by Jason Hawkins of MakeFilmWork.com.</media:description>
+      <media:keywords>railsenvy, ruby, rubyonrails, parody</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=PQbuyKUaKFo&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/PQbuyKUaKFo/default.jpg" height="90" width="120" time="00:00:25.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/PQbuyKUaKFo/2.jpg" height="90" width="120" time="00:00:25.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/PQbuyKUaKFo/1.jpg" height="90" width="120" time="00:00:12.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/PQbuyKUaKFo/3.jpg" height="90" width="120" time="00:00:38.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/PQbuyKUaKFo/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Ruby on Rails vs Java - Commercial #1 of 9</media:title>
+      <yt:duration seconds="51"/>
+      <yt:uploaded>2007-05-14T03:47:52.000Z</yt:uploaded>
+      <yt:videoid>PQbuyKUaKFo</yt:videoid>
+    </media:group>
+    <gd:rating average="4.045977" max="5" min="1" numRaters="522" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="508" viewCount="413565"/>
+    <yt:rating numDislikes="124" numLikes="398"/>
+  </entry>
+  <entry gd:etag="W/&quot;DEUERn47eCp7ImA9WxFVFUs.&quot;">
+    <id>tag:youtube.com,2008:video:UCB57Npj9U0</id>
+    <published>2008-03-12T00:42:44.000Z</published>
+    <updated>2010-06-15T01:43:27.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Education" label="Education"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="uc"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ucberkeley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="university"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="california"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="berkeley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="lecture"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="computer"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="science"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yt:quality=high"/>
+    <title>Ruby on Rails - Part 2: Just Enough Ruby</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/UCB57Npj9U0?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=UCB57Npj9U0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/UCB57Npj9U0/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/UCB57Npj9U0/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=UCB57Npj9U0"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/UCB57Npj9U0?v=2"/>
+    <author>
+      <name>UCBerkeleyEvents</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ucberkeleyevents</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/UCB57Npj9U0/comments?v=2" countHint="9"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Education" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Education</media:category>
+      <media:content url="http://www.youtube.com/v/UCB57Npj9U0?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="5717" yt:format="5"/>
+      <media:content url="rtsp://v8.cache8.c.youtube.com/CiILENy73wIaGQlN9WPa7HkgUBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="5717" yt:format="1"/>
+      <media:content url="rtsp://v8.cache7.c.youtube.com/CiILENy73wIaGQlN9WPa7HkgUBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="5717" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">UCBerkeleyEvents</media:credit>
+      <media:description type="plain">Ruby on Rails Intensive 1-Day Course Part 2: Just Enough Ruby object orientation, naming conventions, mixins and modules (a/k/a multiple inheritance done right), iterators and generators. This is an intensive one-day overview of the fundamental concepts of the Ruby on Rails Web programming framework, presented by the UC Berkeley RAD Lab. The overview consists of six sections of approximately one hour each. August 16, 2007 William Sobel and UC Berkeley RAD Lab radlab.cs.berkeley.edu</media:description>
+      <media:keywords>uc, ucberkeley, university, california, berkeley, lecture, computer, science, yt:quality=high</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=UCB57Npj9U0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UCB57Npj9U0/default.jpg" height="90" width="120" time="00:47:38.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UCB57Npj9U0/2.jpg" height="90" width="120" time="00:47:38.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UCB57Npj9U0/1.jpg" height="90" width="120" time="00:23:49.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UCB57Npj9U0/3.jpg" height="90" width="120" time="01:11:27.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UCB57Npj9U0/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Ruby on Rails - Part 2: Just Enough Ruby</media:title>
+      <yt:duration seconds="5717"/>
+      <yt:uploaded>2008-03-12T00:42:44.000Z</yt:uploaded>
+      <yt:videoid>UCB57Npj9U0</yt:videoid>
+    </media:group>
+    <gd:rating average="4.6976743" max="5" min="1" numRaters="43" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="162" viewCount="19702"/>
+    <yt:rating numDislikes="3" numLikes="40"/>
+  </entry>
+  <entry gd:etag="W/&quot;DkQESH47eCp7ImA9WxFVFUo.&quot;">
+    <id>tag:youtube.com,2008:video:sb2xzeWf-PM</id>
+    <published>2008-08-19T04:21:17.000Z</published>
+    <updated>2010-06-15T03:58:29.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Tech" label="Science &amp; Technology"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="rails"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="business"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="startup"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="chicago"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="tmo9d"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="oreillynews"/>
+    <title>David Heinemeier Hansson - Ruby on Rails, Startups, Culture</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/sb2xzeWf-PM?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=sb2xzeWf-PM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/sb2xzeWf-PM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/sb2xzeWf-PM/related?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/sb2xzeWf-PM?v=2"/>
+    <author>
+      <name>OreillyMedia</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/oreillymedia</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/sb2xzeWf-PM/comments?v=2" countHint="31"/>
+    </gd:comments>
+    <yt:location>Wicker Park, Chicago, IL</yt:location>
+    <media:group>
+      <media:category label="Science &amp; Technology" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Tech</media:category>
+      <media:content url="http://www.youtube.com/v/sb2xzeWf-PM?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="1789" yt:format="5"/>
+      <media:content url="rtsp://v6.cache8.c.youtube.com/CiILENy73wIaGQnz-J_lzbG9sRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="1789" yt:format="1"/>
+      <media:content url="rtsp://v4.cache5.c.youtube.com/CiILENy73wIaGQnz-J_lzbG9sRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="1789" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">OreillyMedia</media:credit>
+      <media:description type="plain">Article and Transcript: news.oreilly.com O'Reilly News talks to David Heinemeier Hansson about the current state of Ruby on Rails, what is next for the framework? and what Hansson is paying attention to? David also discusses his recent presentation at Y! Combinator's Startup School and his ideas about the culture of technology and innovation. If you want to hear more of Hansson, he will be speaking at RailsConf Europe this December in Berlin. Register Today: en.oreilly.com Copyright 2008 O'Reilly News. All Rights Reserved. Filmed in Chicago, IL by Tim O'Brien.</media:description>
+      <media:keywords>rails, business, startup, chicago, tmo9d, oreillynews</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=sb2xzeWf-PM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sb2xzeWf-PM/default.jpg" height="90" width="120" time="00:14:54.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sb2xzeWf-PM/2.jpg" height="90" width="120" time="00:14:54.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sb2xzeWf-PM/1.jpg" height="90" width="120" time="00:07:27.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sb2xzeWf-PM/3.jpg" height="90" width="120" time="00:22:21.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sb2xzeWf-PM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">David Heinemeier Hansson - Ruby on Rails, Startups, Culture</media:title>
+      <yt:duration seconds="1789"/>
+      <yt:uploaded>2008-08-19T04:21:17.000Z</yt:uploaded>
+      <yt:videoid>sb2xzeWf-PM</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9183674" max="5" min="1" numRaters="49" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="106" viewCount="15852"/>
+    <yt:rating numDislikes="1" numLikes="48"/>
+  </entry>
+</feed>

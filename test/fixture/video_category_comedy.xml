@@ -1,0 +1,745 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:gml="http://www.opengis.net/gml" xmlns:yt="http://gdata.youtube.com/schemas/2007" xmlns:georss="http://www.georss.org/georss" gd:etag="W/&quot;A0cMR3Y6fSp7ImA9WxFVFk4.&quot;">
+  <id>tag:youtube.com,2008:videos</id>
+  <updated>2010-06-15T21:58:06.815Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+  <title>YouTube Videos</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?v=2"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/batch?v=2"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?start-index=1&amp;max-results=11&amp;category=%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fcategories.cat%7DComedy&amp;v=2"/>
+  <link rel="service" type="application/atomsvc+xml" href="http://gdata.youtube.com/feeds/api/videos?alt=atom-service&amp;v=2"/>
+  <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos?start-index=12&amp;max-results=11&amp;category=%7Bhttp%3A%2F%2Fgdata.youtube.com%2Fschemas%2F2007%2Fcategories.cat%7DComedy&amp;v=2"/>
+  <author>
+    <name>YouTube</name>
+    <uri>http://www.youtube.com/</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>1000000</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>11</openSearch:itemsPerPage>
+  <entry gd:etag="W/&quot;DUANSX47eCp7ImA9WxFVFUo.&quot;">
+    <id>tag:youtube.com,2008:video:XVtJBBwP8Ao</id>
+    <published>2009-07-05T17:06:19.000Z</published>
+    <updated>2010-06-15T04:56:38.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Harry Potter"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="musical"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Darren Criss"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="AJ Holmes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hermione Granger"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ron Weasley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Draco Malfoy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dumbledore"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Voldemort"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Quirrel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Snape"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hogwarts"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="magic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Zefron"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Pigfarts"/>
+    <title>A Very Potter Musical Act 2 Part 1</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/XVtJBBwP8Ao?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=XVtJBBwP8Ao&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/XVtJBBwP8Ao/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/XVtJBBwP8Ao/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=XVtJBBwP8Ao"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/XVtJBBwP8Ao?v=2"/>
+    <author>
+      <name>StarKidPotter</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/starkidpotter</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/XVtJBBwP8Ao/comments?v=2" countHint="2215"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/XVtJBBwP8Ao?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="503" yt:format="5"/>
+      <media:content url="rtsp://v2.cache1.c.youtube.com/CiILENy73wIaGQkK8A8cBElbXRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="503" yt:format="1"/>
+      <media:content url="rtsp://v8.cache2.c.youtube.com/CiILENy73wIaGQkK8A8cBElbXRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="503" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">StarKidPotter</media:credit>
+      <media:description type="plain">Act 2 begins and the entire wizarding world is in a frenzy. Voldemort's back and vlogging about it on his new floo-tube channel, the minister of magic is skeptical of the whole situation, and it's up to Harry to defeat the Dark Lord and save the world... again! "A Very Potter Musical" is an unofficial, fan-made, parody show.</media:description>
+      <media:keywords>Harry Potter, musical, funny, Darren Criss, AJ Holmes, Hermione Granger, Ron Weasley, Draco Malfoy, Dumbledore, Voldemort, Quirrel, Snape, Hogwarts, music, magic, Zefron, Pigfarts</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=XVtJBBwP8Ao&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XVtJBBwP8Ao/default.jpg" height="90" width="120" time="00:04:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XVtJBBwP8Ao/2.jpg" height="90" width="120" time="00:04:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XVtJBBwP8Ao/1.jpg" height="90" width="120" time="00:02:05.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XVtJBBwP8Ao/3.jpg" height="90" width="120" time="00:06:17.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/XVtJBBwP8Ao/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">A Very Potter Musical Act 2 Part 1</media:title>
+      <yt:duration seconds="503"/>
+      <yt:uploaded>2009-07-05T17:06:19.000Z</yt:uploaded>
+      <yt:videoid>XVtJBBwP8Ao</yt:videoid>
+    </media:group>
+    <gd:rating average="4.952112" max="5" min="1" numRaters="4072" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="3300" viewCount="481378"/>
+    <yt:rating numDislikes="49" numLikes="4023"/>
+  </entry>
+  <entry gd:etag="W/&quot;AkMHR347eCp7ImA9WxFVFUU.&quot;">
+    <id>tag:youtube.com,2008:video:R2GjRg5u7eQ</id>
+    <published>2010-04-06T05:06:30.000Z</published>
+    <updated>2010-06-15T07:53:56.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Evil"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Iguana"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Productions"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Allen"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Murphy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Craig"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Deering"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="amnesia"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="memory"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="loss"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="stunts"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="humor"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="improv"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sketch"/>
+    <title>The Allen and Craig Show Episode 22</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/R2GjRg5u7eQ?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=R2GjRg5u7eQ&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/R2GjRg5u7eQ/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/R2GjRg5u7eQ/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=R2GjRg5u7eQ"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/R2GjRg5u7eQ?v=2"/>
+    <author>
+      <name>EvilIguanaProduction</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/eviliguanaproduction</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/R2GjRg5u7eQ/comments?v=2" countHint="779"/>
+    </gd:comments>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>41.885921478271484 -88.154296875</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/R2GjRg5u7eQ?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="884" yt:format="5"/>
+      <media:content url="rtsp://v1.cache1.c.youtube.com/CiILENy73wIaGQnk7W4ORqNhRxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="884" yt:format="1"/>
+      <media:content url="rtsp://v1.cache2.c.youtube.com/CiILENy73wIaGQnk7W4ORqNhRxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="884" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">EvilIguanaProduction</media:credit>
+      <media:description type="plain">Allen comes down with a case of amnesia which causes him to become a completely different person. Now Craig must try and get the old Allen back.</media:description>
+      <media:keywords>Evil, Iguana, Productions, Allen, Murphy, Craig, Deering, amnesia, memory, loss, stunts, funny, humor, comedy, improv, sketch</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=R2GjRg5u7eQ&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/R2GjRg5u7eQ/default.jpg" height="90" width="120" time="00:07:22"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/R2GjRg5u7eQ/2.jpg" height="90" width="120" time="00:07:22"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/R2GjRg5u7eQ/1.jpg" height="90" width="120" time="00:03:41"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/R2GjRg5u7eQ/3.jpg" height="90" width="120" time="00:11:03"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/R2GjRg5u7eQ/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">The Allen and Craig Show Episode 22</media:title>
+      <yt:duration seconds="884"/>
+      <yt:uploaded>2010-04-06T05:06:30.000Z</yt:uploaded>
+      <yt:videoid>R2GjRg5u7eQ</yt:videoid>
+    </media:group>
+    <gd:rating average="4.958793" max="5" min="1" numRaters="1359" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="683" viewCount="53363"/>
+    <yt:rating numDislikes="14" numLikes="1345"/>
+  </entry>
+  <entry gd:etag="W/&quot;DUMNQX47eCp7ImA9WxFVFUo.&quot;">
+    <id>tag:youtube.com,2008:video:wqwguSrBRA4</id>
+    <published>2010-05-06T01:03:32.000Z</published>
+    <updated>2010-06-15T04:51:30.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jokes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="boondocks"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="humor"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="aaron mcgruder"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="the boondocks"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="huey"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="riley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ruckus"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="shade45"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="eminem"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="taylor swift"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="miley cyrus"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="adult swim"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cartoons"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="niggas"/>
+    <title>Boondocks Season 3 Promo: Uncle Ruckus Interview with Shade 45 Pt. 1</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/wqwguSrBRA4?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=wqwguSrBRA4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wqwguSrBRA4/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wqwguSrBRA4/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=wqwguSrBRA4"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wqwguSrBRA4?v=2"/>
+    <author>
+      <name>boondocksbootleg</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/boondocksbootleg</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/wqwguSrBRA4/comments?v=2" countHint="333"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/wqwguSrBRA4?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="743" yt:format="5"/>
+      <media:content url="rtsp://v5.cache8.c.youtube.com/CiILENy73wIaGQkORMEquSCswhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="743" yt:format="1"/>
+      <media:content url="rtsp://v6.cache2.c.youtube.com/CiILENy73wIaGQkORMEquSCswhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="743" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">boondocksbootleg</media:credit>
+      <media:description type="plain">Uncle Ruckus Interview on Shade 45's The All Out Show with Rude Jude &amp; Lord Sear (sorry about the name fail...hence, bootleg). The Boondocks - Sundays at 11:30PM on Adult Swim!</media:description>
+      <media:keywords>jokes, boondocks, comedy, funny, humor, aaron mcgruder, the boondocks, huey, riley, ruckus, shade45, eminem, taylor swift, miley cyrus, adult swim, cartoons, niggas</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=wqwguSrBRA4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wqwguSrBRA4/default.jpg" height="90" width="120" time="00:06:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wqwguSrBRA4/2.jpg" height="90" width="120" time="00:06:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wqwguSrBRA4/1.jpg" height="90" width="120" time="00:03:05.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wqwguSrBRA4/3.jpg" height="90" width="120" time="00:09:17.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wqwguSrBRA4/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Boondocks Season 3 Promo: Uncle Ruckus Interview with Shade 45 Pt. 1</media:title>
+      <yt:duration seconds="743"/>
+      <yt:uploaded>2010-05-06T01:03:32.000Z</yt:uploaded>
+      <yt:videoid>wqwguSrBRA4</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9757943" max="5" min="1" numRaters="661" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="874" viewCount="69674"/>
+    <yt:rating numDislikes="4" numLikes="657"/>
+  </entry>
+  <entry gd:etag="W/&quot;A08NRH47eCp7ImA9WxFVFUk.&quot;">
+    <id>tag:youtube.com,2008:video:ZHZNpFiIQbA</id>
+    <published>2009-07-05T17:23:11.000Z</published>
+    <updated>2010-06-14T21:11:35.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Harry Potter"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="musical"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Darren Criss"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="AJ Holmes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hermione Granger"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ron Weasley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Draco Malfoy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dumbledore"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Voldemort"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Quirrel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Snape"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hogwarts"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="magic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Zefron"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Pigfarts"/>
+    <title>A Very Potter Musical Act 2 Part 2</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/ZHZNpFiIQbA?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=ZHZNpFiIQbA&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ZHZNpFiIQbA/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ZHZNpFiIQbA/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=ZHZNpFiIQbA"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ZHZNpFiIQbA?v=2"/>
+    <author>
+      <name>StarKidPotter</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/starkidpotter</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/ZHZNpFiIQbA/comments?v=2" countHint="1684"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/ZHZNpFiIQbA?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="514" yt:format="5"/>
+      <media:content url="rtsp://v8.cache4.c.youtube.com/CiILENy73wIaGQmwQYhYpE12ZBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="514" yt:format="1"/>
+      <media:content url="rtsp://v6.cache7.c.youtube.com/CiILENy73wIaGQmwQYhYpE12ZBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="514" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">StarKidPotter</media:credit>
+      <media:description type="plain">Can Snape be trusted? Cause it seems as if he's working for Voldemort! When he, the Dark Lord, and little Draco Malfoy put their heads together, evil schemes are hatched that can lead to nowhere but trouble-town... "A Very Potter Musical" is an unofficial, fan-made, parody show.</media:description>
+      <media:keywords>Harry Potter, musical, funny, Darren Criss, AJ Holmes, Hermione Granger, Ron Weasley, Draco Malfoy, Dumbledore, Voldemort, Quirrel, Snape, Hogwarts, music, magic, Zefron, Pigfarts</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=ZHZNpFiIQbA&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ZHZNpFiIQbA/default.jpg" height="90" width="120" time="00:04:17"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ZHZNpFiIQbA/2.jpg" height="90" width="120" time="00:04:17"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ZHZNpFiIQbA/1.jpg" height="90" width="120" time="00:02:08.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ZHZNpFiIQbA/3.jpg" height="90" width="120" time="00:06:25.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ZHZNpFiIQbA/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">A Very Potter Musical Act 2 Part 2</media:title>
+      <yt:duration seconds="514"/>
+      <yt:uploaded>2009-07-05T17:23:11.000Z</yt:uploaded>
+      <yt:videoid>ZHZNpFiIQbA</yt:videoid>
+    </media:group>
+    <gd:rating average="4.959206" max="5" min="1" numRaters="3628" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="3055" viewCount="427562"/>
+    <yt:rating numDislikes="37" numLikes="3591"/>
+  </entry>
+  <entry gd:etag="W/&quot;Ck8CR347eCp7ImA9WxFVFkw.&quot;">
+    <id>tag:youtube.com,2008:video:KQTEarr4P4k</id>
+    <published>2007-10-31T05:20:37.000Z</published>
+    <updated>2010-06-15T14:07:46.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dave"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Chapelle"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kojo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jcx"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="slick"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="corks"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="def"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jam"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="stan"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="lathan"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="auditions"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="rich"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bitch"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="rick"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="james"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="john"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="kerry"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="taser"/>
+    <title>Dave Chapelle @ kojo's Comedy funhouse</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/KQTEarr4P4k?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=KQTEarr4P4k&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/KQTEarr4P4k/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/KQTEarr4P4k/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=KQTEarr4P4k"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/KQTEarr4P4k?v=2"/>
+    <author>
+      <name>ereynihc</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ereynihc</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/KQTEarr4P4k/comments?v=2" countHint="359"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/KQTEarr4P4k?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="618" yt:format="5"/>
+      <media:content url="rtsp://v5.cache6.c.youtube.com/CiILENy73wIaGQmJP_i6asQEKRMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="618" yt:format="1"/>
+      <media:content url="rtsp://v5.cache8.c.youtube.com/CiILENy73wIaGQmJP_i6asQEKRMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="618" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">ereynihc</media:credit>
+      <media:description type="plain">Dave Chapelle drops down o corks to buss some jokes watch out for that security guard who wanted to b famous via youtube!!!</media:description>
+      <media:keywords>Dave, Chapelle, kojo, comedy, jcx, slick, corks, def, jam, stan, lathan, auditions, rich, bitch, rick, james, john, kerry, taser</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=KQTEarr4P4k&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KQTEarr4P4k/default.jpg" height="90" width="120" time="00:05:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KQTEarr4P4k/2.jpg" height="90" width="120" time="00:05:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KQTEarr4P4k/1.jpg" height="90" width="120" time="00:02:34.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KQTEarr4P4k/3.jpg" height="90" width="120" time="00:07:43.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/KQTEarr4P4k/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Dave Chapelle @ kojo's Comedy funhouse</media:title>
+      <yt:duration seconds="618"/>
+      <yt:uploaded>2007-10-31T05:20:37.000Z</yt:uploaded>
+      <yt:videoid>KQTEarr4P4k</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9377246" max="5" min="1" numRaters="835" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="1555" viewCount="245736"/>
+    <yt:rating numDislikes="13" numLikes="822"/>
+  </entry>
+  <entry gd:etag="W/&quot;Dk4EQn47eCp7ImA9WxFVFkw.&quot;">
+    <id>tag:youtube.com,2008:video:mtk5Ej-xLsM</id>
+    <published>2010-05-02T17:38:21.000Z</published>
+    <updated>2010-06-15T15:15:03.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Road Trip"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="comedy central"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="gabriel iglesias"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hot and fluffy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="felipe"/>
+    <title>"Road Trip" - Gabriel Iglesias- (From Hot &amp; Fluffy comedy special)</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/mtk5Ej-xLsM?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=mtk5Ej-xLsM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/mtk5Ej-xLsM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/mtk5Ej-xLsM/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=mtk5Ej-xLsM"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/mtk5Ej-xLsM?v=2"/>
+    <author>
+      <name>hotandfluffycomedy</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/hotandfluffycomedy</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/mtk5Ej-xLsM/comments?v=2" countHint="160"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/mtk5Ej-xLsM?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="587" yt:format="5"/>
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CiILENy73wIaGQnDLrE_EjnZmhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="587" yt:format="1"/>
+      <media:content url="rtsp://v5.cache3.c.youtube.com/CiILENy73wIaGQnDLrE_EjnZmhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="587" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">hotandfluffycomedy</media:credit>
+      <media:description type="plain">Here is a clip of me talking about taking a road trip with my friends from my comedy central special "Hot and Fluffy comedy." Watch it and let me know what you think.</media:description>
+      <media:keywords>Road Trip, comedy central, gabriel iglesias, hot and fluffy, felipe</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=mtk5Ej-xLsM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mtk5Ej-xLsM/default.jpg" height="90" width="120" time="00:04:53.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mtk5Ej-xLsM/2.jpg" height="90" width="120" time="00:04:53.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mtk5Ej-xLsM/1.jpg" height="90" width="120" time="00:02:26.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mtk5Ej-xLsM/3.jpg" height="90" width="120" time="00:07:20.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/mtk5Ej-xLsM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">"Road Trip" - Gabriel Iglesias- (From Hot &amp; Fluffy comedy special)</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="587"/>
+      <yt:uploaded>2010-05-02T17:38:21.000Z</yt:uploaded>
+      <yt:videoid>mtk5Ej-xLsM</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9860625" max="5" min="1" numRaters="861" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="1094" viewCount="111097"/>
+    <yt:rating numDislikes="3" numLikes="858"/>
+  </entry>
+  <entry gd:etag="W/&quot;CUMDQ347eCp7ImA9WxFVFUs.&quot;">
+    <id>tag:youtube.com,2008:video:Y5rq7RViXhA</id>
+    <published>2009-07-05T17:55:50.000Z</published>
+    <updated>2010-06-15T00:57:52.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Harry Potter"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="musical"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Darren Criss"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="AJ Holmes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hermione Granger"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ron Weasley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Draco Malfoy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dumbledore"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Voldemort"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Quirrel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Snape"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hogwarts"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="magic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Zefron"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Pigfarts"/>
+    <title>A Very Potter Musical Act 2 Part 3</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/Y5rq7RViXhA?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Y5rq7RViXhA&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Y5rq7RViXhA/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Y5rq7RViXhA/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=Y5rq7RViXhA"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Y5rq7RViXhA?v=2"/>
+    <author>
+      <name>StarKidPotter</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/starkidpotter</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Y5rq7RViXhA/comments?v=2" countHint="1407"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/Y5rq7RViXhA?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="442" yt:format="5"/>
+      <media:content url="rtsp://v2.cache7.c.youtube.com/CiILENy73wIaGQkQXmIV7eqaYxMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="442" yt:format="1"/>
+      <media:content url="rtsp://v8.cache1.c.youtube.com/CiILENy73wIaGQkQXmIV7eqaYxMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="442" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">StarKidPotter</media:credit>
+      <media:description type="plain">Harry goes to meet with Dumbledore to learn vital information that is crucial to bringing down the Dark Lord, and he's brought along his two best friends, Ron and Hermione. Will they be able to get over their hurt feelings before someone gets hurt? They'd better if they care about Harry. After all, when one of thems has gots a problem, that means that all three of thems has gots a problem. As Zac Efron might say, "At Hogwarts, we're all in this together". "A Very Potter Musical" is an unofficial, fan-made, parody show.</media:description>
+      <media:keywords>Harry Potter, musical, funny, Darren Criss, AJ Holmes, Hermione Granger, Ron Weasley, Draco Malfoy, Dumbledore, Voldemort, Quirrel, Snape, Hogwarts, music, magic, Zefron, Pigfarts</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Y5rq7RViXhA&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Y5rq7RViXhA/default.jpg" height="90" width="120" time="00:03:41"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Y5rq7RViXhA/2.jpg" height="90" width="120" time="00:03:41"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Y5rq7RViXhA/1.jpg" height="90" width="120" time="00:01:50.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Y5rq7RViXhA/3.jpg" height="90" width="120" time="00:05:31.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Y5rq7RViXhA/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">A Very Potter Musical Act 2 Part 3</media:title>
+      <yt:duration seconds="442"/>
+      <yt:uploaded>2009-07-05T17:55:50.000Z</yt:uploaded>
+      <yt:videoid>Y5rq7RViXhA</yt:videoid>
+    </media:group>
+    <gd:rating average="4.956842" max="5" min="1" numRaters="2989" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="2563" viewCount="414585"/>
+    <yt:rating numDislikes="32" numLikes="2957"/>
+  </entry>
+  <entry gd:etag="W/&quot;DEEERX47eCp7ImA9WxFVFk0.&quot;">
+    <id>tag:youtube.com,2008:video:GDDCaqvP5ME</id>
+    <published>2009-07-03T23:32:27.000Z</published>
+    <updated>2010-06-15T12:56:44.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Harry Potter"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="musical"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="behind the scenes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Darren Criss"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hermione Granger"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ron Weasley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Voldemort"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Draco Malfoy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dumbledore"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="AJ Holmes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <title>Bonnie's Behind The Scenes</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/GDDCaqvP5ME?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=GDDCaqvP5ME&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/GDDCaqvP5ME/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/GDDCaqvP5ME/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=GDDCaqvP5ME"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/GDDCaqvP5ME?v=2"/>
+    <author>
+      <name>StarKidPotter</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/starkidpotter</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/GDDCaqvP5ME/comments?v=2" countHint="1099"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/GDDCaqvP5ME?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="551" yt:format="5"/>
+      <media:content url="rtsp://v5.cache4.c.youtube.com/CiILENy73wIaGQnB5M-rasIwGBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="551" yt:format="1"/>
+      <media:content url="rtsp://v1.cache8.c.youtube.com/CiILENy73wIaGQnB5M-rasIwGBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="551" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">StarKidPotter</media:credit>
+      <media:description type="plain">Bonnie Gruesen (who plays Hermione) takes us behind the scenes for backstage shenanigans! See some rehearsals, prop making sessions, and glimpses backstage on the performance nights. See Darren Criss's "Potter-Log" and Jaime Lyn Beatty's (aka Ginny) interviews with cast members before the show. Check out more on our Facebook page: www.facebook.com/StarKidPotter Follow us on Twitter: www.twitter.com/StarKidPotter</media:description>
+      <media:keywords>Harry Potter, musical, behind the scenes, Darren Criss, Hermione Granger, Ron Weasley, Voldemort, Draco Malfoy, Dumbledore, AJ Holmes, funny, music</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=GDDCaqvP5ME&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GDDCaqvP5ME/default.jpg" height="90" width="120" time="00:04:35.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GDDCaqvP5ME/2.jpg" height="90" width="120" time="00:04:35.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GDDCaqvP5ME/1.jpg" height="90" width="120" time="00:02:17.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GDDCaqvP5ME/3.jpg" height="90" width="120" time="00:06:53.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GDDCaqvP5ME/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Bonnie's Behind The Scenes</media:title>
+      <yt:duration seconds="551"/>
+      <yt:uploaded>2009-07-03T23:32:27.000Z</yt:uploaded>
+      <yt:videoid>GDDCaqvP5ME</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9562945" max="5" min="1" numRaters="2677" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="2092" viewCount="142840"/>
+    <yt:rating numDislikes="29" numLikes="2648"/>
+  </entry>
+  <entry gd:etag="W/&quot;A0EFR347eCp7ImA9WxFVFUo.&quot;">
+    <id>tag:youtube.com,2008:video:On1yPf_TjRs</id>
+    <published>2009-07-05T14:50:52.000Z</published>
+    <updated>2010-06-15T05:26:56.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Harry Potter"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="musical"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Darren Criss"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="AJ Holmes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hermione Granger"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ron Weasley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Draco Malfoy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dumbledore"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Snape"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hogwarts"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="magic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Zefron"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Pigfarts"/>
+    <title>A Very Potter Musical Act 1 Part 10</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/On1yPf_TjRs?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=On1yPf_TjRs&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/On1yPf_TjRs/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/On1yPf_TjRs/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=On1yPf_TjRs"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/On1yPf_TjRs?v=2"/>
+    <author>
+      <name>StarKidPotter</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/starkidpotter</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/On1yPf_TjRs/comments?v=2" countHint="1922"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/On1yPf_TjRs?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="577" yt:format="5"/>
+      <media:content url="rtsp://v7.cache4.c.youtube.com/CiILENy73wIaGQkbjdP_PXJ9OhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="577" yt:format="1"/>
+      <media:content url="rtsp://v1.cache5.c.youtube.com/CiILENy73wIaGQkbjdP_PXJ9OhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="577" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">StarKidPotter</media:credit>
+      <media:description type="plain">The time for the annual Yule Ball is here and it's time for the kids to get their dress robes, learn to dance, and ask that special someone to the most important romantic event of the school year. When Harry and Ron turn out to be the only guys that don't have dates, the situation can only lead to disaster and hilarity. "A Very Potter Musical" is an unofficial, fan-made, parody show. "Cho's Song (Reprise)" Lyrics (by Darren Criss): HARRY: Youre tall and fun and pretty Youre really, really skinny Cho Chang Im the Mickey to your Minnie Youre the Tigger to my Winnie Cho Chang Youre cuter than a guinnie pig Wanna take you up to Winepeg Thats in Canada! Cho Cho Cho Cho China Ching Chong Cho Chang!</media:description>
+      <media:keywords>Harry Potter, musical, funny, Darren Criss, AJ Holmes, Hermione Granger, Ron Weasley, Draco Malfoy, Dumbledore, Snape, Hogwarts, music, magic, Zefron, Pigfarts</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=On1yPf_TjRs&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/On1yPf_TjRs/default.jpg" height="90" width="120" time="00:04:48.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/On1yPf_TjRs/2.jpg" height="90" width="120" time="00:04:48.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/On1yPf_TjRs/1.jpg" height="90" width="120" time="00:02:24.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/On1yPf_TjRs/3.jpg" height="90" width="120" time="00:07:12.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/On1yPf_TjRs/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">A Very Potter Musical Act 1 Part 10</media:title>
+      <yt:duration seconds="577"/>
+      <yt:uploaded>2009-07-05T14:50:52.000Z</yt:uploaded>
+      <yt:videoid>On1yPf_TjRs</yt:videoid>
+    </media:group>
+    <gd:rating average="4.943467" max="5" min="1" numRaters="3980" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="2983" viewCount="524341"/>
+    <yt:rating numDislikes="56" numLikes="3924"/>
+  </entry>
+  <entry gd:etag="W/&quot;A0INSX47eCp7ImA9WxFVFUo.&quot;">
+    <id>tag:youtube.com,2008:video:BGbRgbhLmIA</id>
+    <published>2009-07-05T12:11:17.000Z</published>
+    <updated>2010-06-15T05:26:38.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Harry Potter"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="musical"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Darren Criss"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="AJ Holmes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hermione Granger"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ron Weasley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Draco Malfoy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dumbledore"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Snape"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hogwarts"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="magic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Zefron"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Pigfarts"/>
+    <title>A Very Potter Musical Act 1 Part 4</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/BGbRgbhLmIA?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=BGbRgbhLmIA&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/BGbRgbhLmIA/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/BGbRgbhLmIA/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=BGbRgbhLmIA"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/BGbRgbhLmIA?v=2"/>
+    <author>
+      <name>StarKidPotter</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/starkidpotter</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/BGbRgbhLmIA/comments?v=2" countHint="2984"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/BGbRgbhLmIA?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="563" yt:format="5"/>
+      <media:content url="rtsp://v7.cache8.c.youtube.com/CiILENy73wIaGQmAmEu4gdFmBBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="563" yt:format="1"/>
+      <media:content url="rtsp://v2.cache8.c.youtube.com/CiILENy73wIaGQmAmEu4gdFmBBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="563" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">StarKidPotter</media:credit>
+      <media:description type="plain">Harry becomes a Hogwarts champion and has to compete in a tournament for the House Cup! But it won't be all fun and games. He'll have to complete dangerous tasks, face off against his arch-rival, Draco Malfoy, and discover the mystery of Pigfarts... "A Very Potter Musical" is an unofficial, fan-made, parody show.</media:description>
+      <media:keywords>Harry Potter, musical, funny, Darren Criss, AJ Holmes, Hermione Granger, Ron Weasley, Draco Malfoy, Dumbledore, Snape, Hogwarts, music, magic, Zefron, Pigfarts</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=BGbRgbhLmIA&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/BGbRgbhLmIA/default.jpg" height="90" width="120" time="00:04:41.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/BGbRgbhLmIA/2.jpg" height="90" width="120" time="00:04:41.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/BGbRgbhLmIA/1.jpg" height="90" width="120" time="00:02:20.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/BGbRgbhLmIA/3.jpg" height="90" width="120" time="00:07:02.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/BGbRgbhLmIA/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">A Very Potter Musical Act 1 Part 4</media:title>
+      <yt:duration seconds="563"/>
+      <yt:uploaded>2009-07-05T12:11:17.000Z</yt:uploaded>
+      <yt:videoid>BGbRgbhLmIA</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9393167" max="5" min="1" numRaters="5883" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="5238" viewCount="855387"/>
+    <yt:rating numDislikes="89" numLikes="5794"/>
+  </entry>
+  <entry gd:etag="W/&quot;A0EFQn47eCp7ImA9WxFVFUo.&quot;">
+    <id>tag:youtube.com,2008:video:jvyxSHwCyTg</id>
+    <published>2009-07-05T14:02:17.000Z</published>
+    <updated>2010-06-15T05:26:53.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Comedy" label="Comedy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Harry Potter"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="musical"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Darren Criss"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="AJ Holmes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hermione Granger"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ron Weasley"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Draco Malfoy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dumbledore"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Snape"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hogwarts"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="magic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Zefron"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Pigfarts"/>
+    <title>A Very Potter Musical Act 1 Part 9</title>
+    <content type="application/x-shockwave-flash" src="http://www.youtube.com/v/jvyxSHwCyTg?f=videos&amp;app=youtube_gdata"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=jvyxSHwCyTg&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/jvyxSHwCyTg/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/jvyxSHwCyTg/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=jvyxSHwCyTg"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/jvyxSHwCyTg?v=2"/>
+    <author>
+      <name>StarKidPotter</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/starkidpotter</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/jvyxSHwCyTg/comments?v=2" countHint="1379"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Comedy" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Comedy</media:category>
+      <media:content url="http://www.youtube.com/v/jvyxSHwCyTg?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="500" yt:format="5"/>
+      <media:content url="rtsp://v5.cache5.c.youtube.com/CiILENy73wIaGQk4yQJ8SLH8jhMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="500" yt:format="1"/>
+      <media:content url="rtsp://v1.cache8.c.youtube.com/CiILENy73wIaGQk4yQJ8SLH8jhMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="500" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube" yt:type="partner">StarKidPotter</media:credit>
+      <media:description type="plain">The day of the first task has arrived and Harry might not be as prepared as hoped he would be. When his magical abilities aren't enough, will his boyish charm and good looks get him out of this pickle? "A Very Potter Musical" is an unofficial, fan-made, parody show. "The Dragon Song" Lyrics (by Darren Criss): HARRY: Hey dragon you dont gotta do this Lets reevaluate our options throw away our old presumptions cause really you dont wanna go through this Im really not that special the Boy Who Lived is only flesh and bone the truth is in the end Im pretty useless without friends In fact Im alone Just like now but anyhow I spend my time at school trying to be this cool guy I never even asked for I dont know any spells Still manage to do well But theres only so long that can last for Im living off the glory of some stupid childrens story I had nothing to do with I just sat there and got lucky so level with me buddy I cant defeat thee so please dont eat me All I can do is sing this song for you HARRY: Lalalalala DRAGON: Rarararara HARRY: Lalalalala Lalala HARRY: (speaking) Thats right Dragon HARRY: You never asked to be a dragon I never asked to be a champion We both just jumped on the band wagon But all we need is guitar jamming HARRY: Lalalalala DRAGON: Rarararara HARRY: Lalalalala Lalala HARRY: (speaking) Goodnight Dragon</media:description>
+      <media:keywords>Harry Potter, musical, funny, Darren Criss, AJ Holmes, Hermione Granger, Ron Weasley, Draco Malfoy, Dumbledore, Snape, Hogwarts, music, magic, Zefron, Pigfarts</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=jvyxSHwCyTg&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/jvyxSHwCyTg/default.jpg" height="90" width="120" time="00:04:10"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/jvyxSHwCyTg/2.jpg" height="90" width="120" time="00:04:10"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/jvyxSHwCyTg/1.jpg" height="90" width="120" time="00:02:05"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/jvyxSHwCyTg/3.jpg" height="90" width="120" time="00:06:15"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/jvyxSHwCyTg/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">A Very Potter Musical Act 1 Part 9</media:title>
+      <yt:duration seconds="500"/>
+      <yt:uploaded>2009-07-05T14:02:17.000Z</yt:uploaded>
+      <yt:videoid>jvyxSHwCyTg</yt:videoid>
+    </media:group>
+    <gd:rating average="4.954023" max="5" min="1" numRaters="3741" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="3140" viewCount="545354"/>
+    <yt:rating numDislikes="43" numLikes="3698"/>
+  </entry>
+</feed>

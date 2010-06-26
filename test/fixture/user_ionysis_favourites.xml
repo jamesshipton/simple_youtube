@@ -1,0 +1,1496 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:yt="http://gdata.youtube.com/schemas/2007" gd:etag="W/&quot;DkIMQnw8eSp7ImA9WxFVF08.&quot;">
+  <id>tag:youtube.com,2008:user:ionysis:favorites</id>
+  <updated>2010-06-16T21:43:03.271Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+  <title>Favorites of ionysis</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis?v=2"/>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com/profile_favorites?user=ionysis"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites?v=2"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/batch?v=2"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites?start-index=1&amp;max-results=25&amp;v=2"/>
+  <link rel="service" type="application/atomsvc+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites?alt=atom-service&amp;v=2"/>
+  <author>
+    <name>ionysis</name>
+    <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>24</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <entry gd:etag="W/&quot;A0MEQH47eCp7ImA9WxFQGUU.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBNr4UTZyWgaKMZqrEYSJLVk</id>
+    <published>2010-05-16T05:56:41.000Z</published>
+    <updated>2010-05-16T05:56:41.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Felix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Carlos"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Alberto"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Everaldo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Brito"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Piazza"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Clodoaldo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jairzinho"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Gerson"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Tostao"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Pele"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Rivelino"/>
+    <title>Mexico 1970 World Cup Final: Brazil 4 Italy 1</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=QMe3uoUbhkA&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/QMe3uoUbhkA/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/QMe3uoUbhkA/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=QMe3uoUbhkA"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/QMe3uoUbhkA?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBNr4UTZyWgaKMZqrEYSJLVk?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/QMe3uoUbhkA/comments?v=2" countHint="190"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/QMe3uoUbhkA?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="335" yt:format="5"/>
+      <media:content url="rtsp://v3.cache6.c.youtube.com/CioLENy73wIaIQlAhhuFurfHQBMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="335" yt:format="1"/>
+      <media:content url="rtsp://v7.cache2.c.youtube.com/CioLENy73wIaIQlAhhuFurfHQBMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="335" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">Southstandred</media:credit>
+      <media:description type="plain">Memory match from BBC Football Focus, Brazil versus Italy in Mexico 1970 World Cup Final.</media:description>
+      <media:keywords>Felix, Carlos, Alberto, Everaldo, Brito, Piazza, Clodoaldo, Jairzinho, Gerson, Tostao, Pele, Rivelino</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=QMe3uoUbhkA&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/QMe3uoUbhkA/default.jpg" height="90" width="120" time="00:02:47.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/QMe3uoUbhkA/2.jpg" height="90" width="120" time="00:02:47.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/QMe3uoUbhkA/1.jpg" height="90" width="120" time="00:01:23.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/QMe3uoUbhkA/3.jpg" height="90" width="120" time="00:04:11.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/QMe3uoUbhkA/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Mexico 1970 World Cup Final: Brazil 4 Italy 1</media:title>
+      <yt:duration seconds="335"/>
+      <yt:uploaded>2008-06-10T10:57:57.000Z</yt:uploaded>
+      <yt:videoid>QMe3uoUbhkA</yt:videoid>
+    </media:group>
+    <gd:rating average="4.823009" max="5" min="1" numRaters="113" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="260" viewCount="146107"/>
+    <yt:rating numDislikes="5" numLikes="108"/>
+  </entry>
+  <entry gd:etag="W/&quot;AkQMQ347eCp7ImA9WxFQGUU.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBJDIMB4JzKBFjp7ktep-UCA</id>
+    <published>2010-05-16T05:39:42.000Z</published>
+    <updated>2010-05-16T05:39:42.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Sports" label="Sports"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ARGENTINA"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="VS"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="BELGIUM"/>
+    <title>MARADONA VS BELGIUM</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=eNRGF9i5pH4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/eNRGF9i5pH4/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/eNRGF9i5pH4/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/eNRGF9i5pH4?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBJDIMB4JzKBFjp7ktep-UCA?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/eNRGF9i5pH4/comments?v=2" countHint="40"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Sports" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Sports</media:category>
+      <media:content url="http://www.youtube.com/v/eNRGF9i5pH4?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="586" yt:format="5"/>
+      <media:content url="rtsp://v6.cache1.c.youtube.com/CioLENy73wIaIQl-pLnYF0bUeBMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="586" yt:format="1"/>
+      <media:content url="rtsp://v7.cache1.c.youtube.com/CioLENy73wIaIQl-pLnYF0bUeBMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="586" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">ZOBONDO</media:credit>
+      <media:description type="plain">MARADONA THE GREATEST</media:description>
+      <media:keywords>ARGENTINA, VS, BELGIUM</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=eNRGF9i5pH4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eNRGF9i5pH4/default.jpg" height="90" width="120" time="00:04:53"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eNRGF9i5pH4/2.jpg" height="90" width="120" time="00:04:53"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eNRGF9i5pH4/1.jpg" height="90" width="120" time="00:02:26.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eNRGF9i5pH4/3.jpg" height="90" width="120" time="00:07:19.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/eNRGF9i5pH4/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">MARADONA VS BELGIUM</media:title>
+      <yt:duration seconds="586"/>
+      <yt:uploaded>2008-06-23T12:26:38.000Z</yt:uploaded>
+      <yt:videoid>eNRGF9i5pH4</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9142857" max="5" min="1" numRaters="35" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="40" viewCount="20452"/>
+    <yt:rating numDislikes="1" numLikes="34"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEIGQH47eCp7ImA9WxFSFUg.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBBjjo8u8W0_9L-R9ekUvCaM</id>
+    <published>2010-04-18T01:02:01.000Z</published>
+    <updated>2010-04-18T01:02:01.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="House"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="storm"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bryant"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="love"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sexy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="blaze"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mental"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="instrum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="deephouse"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="deep"/>
+    <title>Storm Bryant - Love...Sexy (Love all night!)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=FUDJCO_3QJc&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FUDJCO_3QJc/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FUDJCO_3QJc/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FUDJCO_3QJc?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBBjjo8u8W0_9L-R9ekUvCaM?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/FUDJCO_3QJc/comments?v=2" countHint="9"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/FUDJCO_3QJc?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="370" yt:format="5"/>
+      <media:content url="rtsp://v8.cache2.c.youtube.com/CioLENy73wIaIQmXQPfvCMlAFRMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="370" yt:format="1"/>
+      <media:content url="rtsp://v7.cache1.c.youtube.com/CioLENy73wIaIQmXQPfvCMlAFRMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="370" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">cyanure1982</media:credit>
+      <media:description type="plain">Another fine EP by Blaze and Mental Instrum!!! Can't get enough of it :D</media:description>
+      <media:keywords>House, storm, bryant, love, sexy, blaze, mental, instrum, deephouse, deep</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=FUDJCO_3QJc&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FUDJCO_3QJc/default.jpg" height="90" width="120" time="00:03:05"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FUDJCO_3QJc/2.jpg" height="90" width="120" time="00:03:05"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FUDJCO_3QJc/1.jpg" height="90" width="120" time="00:01:32.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FUDJCO_3QJc/3.jpg" height="90" width="120" time="00:04:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FUDJCO_3QJc/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Storm Bryant - Love...Sexy (Love all night!)</media:title>
+      <yt:duration seconds="370"/>
+      <yt:uploaded>2008-09-24T16:12:36.000Z</yt:uploaded>
+      <yt:videoid>FUDJCO_3QJc</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="12" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="28" viewCount="2528"/>
+    <yt:rating numDislikes="0" numLikes="12"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEMNSH47eCp7ImA9WxFSFUg.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBFTQhhrERGOAplcXj29YT08</id>
+    <published>2010-04-18T01:01:39.000Z</published>
+    <updated>2010-04-18T01:01:39.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mentalinstrum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="NJ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="NYC"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Underground"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="House"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="1990s"/>
+    <title>Rhythm Section - Feelin Happy (Mentalinstrum Dub)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=pyo-B1F4qDs&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/pyo-B1F4qDs/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/pyo-B1F4qDs/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/pyo-B1F4qDs?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBFTQhhrERGOAplcXj29YT08?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/pyo-B1F4qDs/comments?v=2" countHint="11"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/pyo-B1F4qDs?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="400" yt:format="5"/>
+      <media:content url="rtsp://v2.cache3.c.youtube.com/CioLENy73wIaIQk7qHhRBz4qpxMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="400" yt:format="1"/>
+      <media:content url="rtsp://v1.cache5.c.youtube.com/CioLENy73wIaIQk7qHhRBz4qpxMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="400" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">RJJNY</media:credit>
+      <media:description type="plain">1995. Feat. Bobby Harding
+
+http://www.discogs.com/release/144404
+
+Be sure to check out  the transition at the 3:00 mark.</media:description>
+      <media:keywords>Mentalinstrum, NJ, NYC, Underground, House, Music, 1990s</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=pyo-B1F4qDs&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pyo-B1F4qDs/default.jpg" height="90" width="120" time="00:03:20"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pyo-B1F4qDs/2.jpg" height="90" width="120" time="00:03:20"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pyo-B1F4qDs/1.jpg" height="90" width="120" time="00:01:40"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pyo-B1F4qDs/3.jpg" height="90" width="120" time="00:05:00"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pyo-B1F4qDs/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Rhythm Section - Feelin Happy (Mentalinstrum Dub)</media:title>
+      <yt:duration seconds="400"/>
+      <yt:uploaded>2008-08-22T21:40:26.000Z</yt:uploaded>
+      <yt:videoid>pyo-B1F4qDs</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="16" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="52" viewCount="3367"/>
+    <yt:rating numDislikes="0" numLikes="16"/>
+  </entry>
+  <entry gd:etag="W/&quot;AkMAQX47eCp7ImA9WxFTFkk.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBNacRvoDwvlccIlu-fhko7s</id>
+    <published>2010-04-07T13:54:00.000Z</published>
+    <updated>2010-04-07T13:54:00.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="deep"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="underground"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="latin"/>
+    <title>Audiowhores - Nekoosa (JJK Club Mix)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=nad7MPe3vUI&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/nad7MPe3vUI/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/nad7MPe3vUI/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=nad7MPe3vUI"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/nad7MPe3vUI?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBNacRvoDwvlccIlu-fhko7s?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/nad7MPe3vUI/comments?v=2" countHint="5"/>
+    </gd:comments>
+    <yt:location>San Salvador</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/nad7MPe3vUI?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="421" yt:format="5"/>
+      <media:content url="rtsp://v5.cache6.c.youtube.com/CioLENy73wIaIQlCvbf3MHunnRMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="421" yt:format="1"/>
+      <media:content url="rtsp://v4.cache7.c.youtube.com/CioLENy73wIaIQlCvbf3MHunnRMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="421" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">djkandi08</media:credit>
+      <media:description type="plain">Latin house to feel and relax</media:description>
+      <media:keywords>deep, house, soulful, underground, latin</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=nad7MPe3vUI&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/nad7MPe3vUI/default.jpg" height="90" width="120" time="00:03:30.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/nad7MPe3vUI/2.jpg" height="90" width="120" time="00:03:30.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/nad7MPe3vUI/1.jpg" height="90" width="120" time="00:01:45.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/nad7MPe3vUI/3.jpg" height="90" width="120" time="00:05:15.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/nad7MPe3vUI/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Audiowhores - Nekoosa (JJK Club Mix)</media:title>
+      <yt:duration seconds="421"/>
+      <yt:uploaded>2008-11-13T06:42:17.000Z</yt:uploaded>
+      <yt:videoid>nad7MPe3vUI</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="9" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:recorded>2008-11-13</yt:recorded>
+    <yt:statistics favoriteCount="28" viewCount="1836"/>
+    <yt:rating numDislikes="0" numLikes="9"/>
+  </entry>
+  <entry gd:etag="W/&quot;CUEFQH47eCp7ImA9WxBaEEk.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBNNRnHzArTNDslY0Z9DG2Vc</id>
+    <published>2010-03-20T00:06:51.000Z</published>
+    <updated>2010-03-20T00:06:51.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jazz-N-Groove"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Brian"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Tappert"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Victor"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Simonelli"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Big"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Trax"/>
+    <title>Native Rhythms - Ya-Hey (B's Groove Mix)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=sgssMJAH3A8&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/sgssMJAH3A8/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/sgssMJAH3A8/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=sgssMJAH3A8"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/sgssMJAH3A8?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBNNRnHzArTNDslY0Z9DG2Vc?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/sgssMJAH3A8/comments?v=2" countHint="1"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/sgssMJAH3A8?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="374" yt:format="5"/>
+      <media:content url="rtsp://v6.cache6.c.youtube.com/CioLENy73wIaIQkP3AeQMCwLshMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="374" yt:format="1"/>
+      <media:content url="rtsp://v7.cache1.c.youtube.com/CioLENy73wIaIQkP3AeQMCwLshMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="374" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">Remkowski</media:credit>
+      <media:description type="plain">Label:Big Big Trax
+Catalog#:BBT-010
+Format:Vinyl, 12"
+
+Country:US
+Released:1995
+Genre:Electronic 
+Style:House</media:description>
+      <media:keywords>Jazz-N-Groove, Brian, Tappert, Victor, Simonelli, Big, Trax</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=sgssMJAH3A8&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sgssMJAH3A8/default.jpg" height="90" width="120" time="00:03:07"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sgssMJAH3A8/2.jpg" height="90" width="120" time="00:03:07"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sgssMJAH3A8/1.jpg" height="90" width="120" time="00:01:33.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sgssMJAH3A8/3.jpg" height="90" width="120" time="00:04:40.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sgssMJAH3A8/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Native Rhythms - Ya-Hey (B's Groove Mix)</media:title>
+      <yt:duration seconds="374"/>
+      <yt:uploaded>2009-10-22T09:53:16.000Z</yt:uploaded>
+      <yt:videoid>sgssMJAH3A8</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="5" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="13" viewCount="551"/>
+    <yt:rating numDislikes="0" numLikes="5"/>
+  </entry>
+  <entry gd:etag="W/&quot;CEIHQn47eCp7ImA9WxBaEEk.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBFFAGZCIWOSu4YOOSmwZtEw</id>
+    <published>2010-03-19T23:48:53.000Z</published>
+    <updated>2010-03-19T23:48:53.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Victor"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Simonelli"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Eight"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ball"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="joi"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cardwell"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="goodbye"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="old"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="school"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="garage"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="nyc"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="new"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="york"/>
+    <title>Joi Cardwell - Goodbye (Victor Simonelli Dub 1)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=lxHj6z62oLk&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/lxHj6z62oLk/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/lxHj6z62oLk/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=lxHj6z62oLk"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/lxHj6z62oLk?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBFFAGZCIWOSu4YOOSmwZtEw?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/lxHj6z62oLk/comments?v=2" countHint="14"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/lxHj6z62oLk?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="271" yt:format="5"/>
+      <media:content url="rtsp://v7.cache1.c.youtube.com/CioLENy73wIaIQm5oLY-6-MRlxMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="271" yt:format="1"/>
+      <media:content url="rtsp://v1.cache5.c.youtube.com/CioLENy73wIaIQm5oLY-6-MRlxMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="271" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">ruffbizness</media:credit>
+      <media:description type="plain">The legendary Victor Simonelli bringing his distinctive sound to this Eight Ball Records release from the early 90s.</media:description>
+      <media:keywords>Victor, Simonelli, Eight, ball, joi, cardwell, goodbye, old, school, house, garage, nyc, new, york</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=lxHj6z62oLk&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/lxHj6z62oLk/default.jpg" height="90" width="120" time="00:02:15.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/lxHj6z62oLk/2.jpg" height="90" width="120" time="00:02:15.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/lxHj6z62oLk/1.jpg" height="90" width="120" time="00:01:07.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/lxHj6z62oLk/3.jpg" height="90" width="120" time="00:03:23.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/lxHj6z62oLk/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Joi Cardwell - Goodbye (Victor Simonelli Dub 1)</media:title>
+      <yt:duration seconds="271"/>
+      <yt:uploaded>2008-05-15T19:41:04.000Z</yt:uploaded>
+      <yt:videoid>lxHj6z62oLk</yt:videoid>
+    </media:group>
+    <gd:rating average="4.892857" max="5" min="1" numRaters="28" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="114" viewCount="8485"/>
+    <yt:rating numDislikes="1" numLikes="27"/>
+  </entry>
+  <entry gd:etag="W/&quot;A08NRn47eCp7ImA9WxNXEE4.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBJrWioK5pk8hDfakZNIbju4</id>
+    <published>2009-09-27T08:24:57.000Z</published>
+    <updated>2009-09-27T08:24:57.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Umi"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Says"/>
+    <title>Mos Def - Umi Says</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=CsihHoyqwWY&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/CsihHoyqwWY/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/CsihHoyqwWY/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/CsihHoyqwWY?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBJrWioK5pk8hDfakZNIbju4?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="denied"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/CsihHoyqwWY/comments?v=2" countHint="1859"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/CsihHoyqwWY?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="251" yt:format="5"/>
+      <media:credit role="uploader" scheme="urn:youtube">OsGonza</media:credit>
+      <media:description type="plain">Umi Says</media:description>
+      <media:keywords>Umi, Says</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=CsihHoyqwWY&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CsihHoyqwWY/default.jpg" height="90" width="120" time="00:02:05.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CsihHoyqwWY/2.jpg" height="90" width="120" time="00:02:05.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CsihHoyqwWY/1.jpg" height="90" width="120" time="00:01:02.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CsihHoyqwWY/3.jpg" height="90" width="120" time="00:03:08.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/CsihHoyqwWY/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Mos Def - Umi Says</media:title>
+      <yt:duration seconds="251"/>
+      <yt:uploaded>2007-05-24T07:59:50.000Z</yt:uploaded>
+      <yt:videoid>CsihHoyqwWY</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9180017" max="5" min="1" numRaters="2622" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="9586" viewCount="891280"/>
+    <yt:rating numDislikes="54" numLikes="2568"/>
+  </entry>
+  <entry gd:etag="W/&quot;C0cHR347eCp7ImA9WxNTFU8.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBHuabLoS9zPul_vJ6N8J6ZU</id>
+    <published>2009-08-17T14:57:16.000Z</published>
+    <updated>2009-08-17T14:57:16.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Q-Tip"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ft."/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Kanye"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="West"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="And"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Consequence-"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="We"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Fight"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Love"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="NEW"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="MARCH"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="2009"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="pop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hip"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="rap"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="best"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ps3"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="more"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="amazin"/>
+    <title>Q-Tip Ft. Kanye West And Consequence- We Fight Love ( NEW MARCH 2009 ! )</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=-bkNGXMEdZ0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-bkNGXMEdZ0/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-bkNGXMEdZ0/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-bkNGXMEdZ0?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBHuabLoS9zPul_vJ6N8J6ZU?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="denied"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/-bkNGXMEdZ0/comments?v=2" countHint="13"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/-bkNGXMEdZ0?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="229" yt:format="5"/>
+      <media:credit role="uploader" scheme="urn:youtube">XxYoMpYxX</media:credit>
+      <media:description type="plain">New hipo-hop rap music .. can see more on my channel www.youtube.com/user/xxyompyxx
+
+do not read xtra tagz
+new lil wayne rnb4u Chris brown featuring the game g-unit juelz santana 50 cent timbaland t.i. tq i dont know soldier lil wayne t-paine akon azad hnnover berlin germany american movie clip music gta song 4 football rugby döhren best new neu yeni hakan sükür galatasaray sampion kurdistan pkk bloods new york washington harlem brooklyn american historie x sido augen auf halt dein maul sure situation alphabet gletscher Lil wayne lollipop Kanye West rap r&amp;b t-pain official remix full length afropik.com afropik music lil wayne kanye west weezy lollipop remix rap r&amp;b hip-hop world music indie unsigne Lollipop Lil Wayne Gucci Mane REMIX d carter graduation Lil Wayne Lollipop [Uncensored] hip-hop r&amp;b rap Lil Wayne Kanye West lollipop remix official tha carter gucci mane chamillionaire rick ross Lil wayne lollipop Kanye West rap r&amp;b t-pain official remix full length afropik.com afropik music Jay-Z - Blow The Whistle (EXCLUSIVE) !!!NEW!!! Hip-Hop Rap Jay-Z Blow The Whistle DeShawn Stevenson Diss Roc Boys Blue Magic American Gangster Kingdom Come 99 Problems Big pimpin Encore Remix The Blueprint Rocafella New Jay-Z diss to Deshawn Stevenson, aka "LeBron is Overrated" lebron james The Game Speaks On 50Cent/G-Unit, Best &amp; Worst MCs &amp; Movies Hip-Hop Rap The Game Speaks On 50Cent G-Unit, Best Worst MCs Interview Westcoast L.A.X Gangsta Rap G-Unot Big Dreams BWS Doctor's Advocate The Documentary Makaveli 2Pac Tupac The outlaws Ice Cube Snoop Dogg NWA Eazy E Tha Dogg Pound Dr.dre G-Unit 50 Cent Eminem How We Do Hate It or Love It Put You in the Game Dreams Stop Snitchin, Stop Lyin' Westside Story Let's Ride Wouldn't Get Far It's Okay One Blood Remix DISS TRACKS 2PAC HIT'Em UP hip-hop r&amp;b rap Three 6 Mafia DJ UNK I'd Rather Official Video Most Known Unknown Last 2 Walk Stay Fly Side 2 Side Crunk Music Dirty South Lil Jon Lil Flip Young Buck Slim Thug, Trick Daddy, &amp; Project Pat Mike Jones &amp; Paul Wall 8 Ball &amp; MJG Project Pat, Lil Wyte, Akon, Good Charlotte, DJ Unk, Lyfe Jennings, UGK, Eightball &amp; MJG, Al Kapone, DJ Spanish Fly, Frayser Boy, Chrome, Yung D, Superpower, and more DJ Paul and Juicy J G-Unit - Like A Dog (Official Video) !!NEW!! G-Unit - Hollow Thru Him (Fat Joe Diss) Elephant In The Sand G-Unit - Aim (Fat Joe Diss) [NEW TRACK] G-UNIT GUNIT G UNIT UNIT UNOT ROTTEN APPLE BUCK THE WORLD SOUTHSIDE NIGGA IM LEAVIN' LEAVING FAT JOE PUSSY BOY NEW SUNROOF SUN ROOF OPEN THE MECHANIC BE GOOD TO ME 50 CENT TONY YAYO LLOYD BANKS YOUNG BUCK G-UNIT GUNIT THISIS50.COM GUNIWORLD.COM G-UNITMEDIA.AT.GG CENTS UNOT G- OT GAME NAS JA RULE FAT JOE LIL WAYNE FAKE Lil Mama featuring Chris Brown T-Pain;Lil T-Pain Shawty Get Loose Rap Music Video Lil Mama g-slide gslide tour bus Lip Gloss hip hop dance rap soulja boy crank that huey kanye ciara 50cent rihanna Lil Mama Lip Gloss hiphop hip hop dance krump rap soulja boy crank that huey kanye fergie ciara 50cent rihanna beyonce Urban Music News Pop Rihanna Lil Mama Jay-Z Ne-Yo Good Girl Gone Bad l mama chris brown tpain t-pain shawty shorty get loose low flo rida with you kiss bet dance michael jackson Ludacris ft Young Jeezy - Grew Up A Screw Up Ludacris ft Young Jeezy - Grew Up A Screw Up (Chopped and Screwed) ludacris young jeezy grew screw sinxation chellorose Ludacris Feat Young Jeezy Ludacris Ft. Young Jeezy - Grew Up A Screw Up. Uncensored.a music video remastered by me grew up a screw up hope you enjoy ludacris youngjeezy grewupascarewup grew young jeezy luda chris brown shawty get loose t-pain lil' mama lil mama chris brown tpain t-pain shawty shorty get loose low flo rida with you kiss bet dance michael jackson Lil Mama featuring Chris Brown &amp; T-Pain;Lil Mama featuring T-Pain &amp; Chris Brown Shawty Get Loose (C) 2008 Zomba Recording, LLC Lil Mama featuring Chris Brown T-Pain;Lil T-Pain Shawty Get Loose Rap Music Video rick ross slip slide def jam boss tpain trilla march 11thRick Ross The Boss Hip Hop IDJ/Slip Slide Jonathan "JR" Rotem [Producer] Diane Martel [Video Director] Coleen Haynes Producer] Shelli Jury Music video by Rick Ross performing The Boss with Jonathan "JR" Rotem [Producer], Diane Martel [Video Director], Coleen Haynes [Video Producer], Shelli Jury [Video Producer] 2008 The Island love lockdown kanye west 2009charger kender28 350zruler</media:description>
+      <media:keywords>Q-Tip, Ft., Kanye, West, And, Consequence-, We, Fight, Love, NEW, MARCH, 2009, pop, music, hip, hop, rap, bass, best, ps3, more, amazin</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=-bkNGXMEdZ0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-bkNGXMEdZ0/default.jpg" height="90" width="120" time="00:01:54.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-bkNGXMEdZ0/2.jpg" height="90" width="120" time="00:01:54.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-bkNGXMEdZ0/1.jpg" height="90" width="120" time="00:00:57.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-bkNGXMEdZ0/3.jpg" height="90" width="120" time="00:02:51.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-bkNGXMEdZ0/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Q-Tip Ft. Kanye West And Consequence- We Fight Love ( NEW MARCH 2009 ! )</media:title>
+      <yt:duration seconds="229"/>
+      <yt:uploaded>2009-03-25T20:46:53.000Z</yt:uploaded>
+      <yt:videoid>-bkNGXMEdZ0</yt:videoid>
+    </media:group>
+    <gd:rating average="4.709677" max="5" min="1" numRaters="31" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="99" viewCount="15410"/>
+    <yt:rating numDislikes="2" numLikes="29"/>
+  </entry>
+  <entry gd:etag="W/&quot;Ak4FRH47eCp7ImA9WxJaEEk.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBJHBR8P7vYxS81VYJDK1AtA</id>
+    <published>2009-07-31T14:01:55.000Z</published>
+    <updated>2009-07-31T14:01:55.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Naked"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Music"/>
+    <title>ディープハウス</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=pFYc5LOJGig&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/pFYc5LOJGig/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/pFYc5LOJGig/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/pFYc5LOJGig?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBJHBR8P7vYxS81VYJDK1AtA?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/pFYc5LOJGig/comments?v=2" countHint="1"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/pFYc5LOJGig?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="340" yt:format="5"/>
+      <media:content url="rtsp://v4.cache2.c.youtube.com/CioLENy73wIaIQkoGomz5BxWpBMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="340" yt:format="1"/>
+      <media:content url="rtsp://v1.cache2.c.youtube.com/CioLENy73wIaIQkoGomz5BxWpBMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="340" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">10ende1992</media:credit>
+      <media:description type="plain">Blue Six ★ Love Yourself Basti &amp; Vincenzo Remix
+&amp;fmt=18（stereo)</media:description>
+      <media:keywords>Naked, Music</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=pFYc5LOJGig&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pFYc5LOJGig/default.jpg" height="90" width="120" time="00:02:50"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pFYc5LOJGig/2.jpg" height="90" width="120" time="00:02:50"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pFYc5LOJGig/1.jpg" height="90" width="120" time="00:01:25"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pFYc5LOJGig/3.jpg" height="90" width="120" time="00:04:15"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/pFYc5LOJGig/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">ディープハウス</media:title>
+      <yt:duration seconds="340"/>
+      <yt:uploaded>2009-06-21T14:35:49.000Z</yt:uploaded>
+      <yt:videoid>pFYc5LOJGig</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="4" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="7" viewCount="674"/>
+    <yt:rating numDislikes="0" numLikes="4"/>
+  </entry>
+  <entry gd:etag="W/&quot;AkAFQH47eCp7ImA9WxJaEEk.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBE-gjJDRfknnHjKhu5gJybU</id>
+    <published>2009-07-31T13:58:31.000Z</published>
+    <updated>2009-07-31T13:58:31.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Aussie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="UK"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hip"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mystro"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="exclusive"/>
+    <title>Mystro- Who You Gonna Blame?</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=GtNs9-U2USg&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/GtNs9-U2USg/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/GtNs9-U2USg/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/GtNs9-U2USg?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBE-gjJDRfknnHjKhu5gJybU?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/GtNs9-U2USg/comments?v=2" countHint="173"/>
+    </gd:comments>
+    <yt:location>Sydney</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/GtNs9-U2USg?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="198" yt:format="5"/>
+      <media:content url="rtsp://v3.cache3.c.youtube.com/CioLENy73wIaIQkoUTbl92zTGhMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="198" yt:format="1"/>
+      <media:content url="rtsp://v3.cache8.c.youtube.com/CioLENy73wIaIQkoUTbl92zTGhMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="198" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">GrindinHardwax</media:credit>
+      <media:description type="plain">New track from Mystro out exclusively through Grindin a hip hop label based in Australia. Who You Gonna Blame? is produced by P-Money and features cameos from Sereck (Def Wish Cast), Maya Jupiter and P-Money. The track is off the album Diggi Down Unda featuring all Australian/NZ production and vocal features. For more info go www.myspace.com/grindinmusic</media:description>
+      <media:keywords>Aussie, UK, Hip, Hop, Mystro, exclusive</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=GtNs9-U2USg&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GtNs9-U2USg/default.jpg" height="90" width="120" time="00:01:39"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GtNs9-U2USg/2.jpg" height="90" width="120" time="00:01:39"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GtNs9-U2USg/1.jpg" height="90" width="120" time="00:00:49.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GtNs9-U2USg/3.jpg" height="90" width="120" time="00:02:28.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/GtNs9-U2USg/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Mystro- Who You Gonna Blame?</media:title>
+      <yt:duration seconds="198"/>
+      <yt:uploaded>2006-11-08T00:53:49.000Z</yt:uploaded>
+      <yt:videoid>GtNs9-U2USg</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8347826" max="5" min="1" numRaters="115" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:recorded>2006-11-04</yt:recorded>
+    <yt:statistics favoriteCount="433" viewCount="42268"/>
+    <yt:rating numDislikes="5" numLikes="110"/>
+  </entry>
+  <entry gd:etag="W/&quot;Dk4MQn47eCp7ImA9WxJbEko.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBCTIbTIbMRLKE7VXJsAqu88</id>
+    <published>2009-07-22T15:03:03.000Z</published>
+    <updated>2009-07-22T15:03:03.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Fela"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Kuti"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="water No Get Enemy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Expensive"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Shit"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Afrobeat"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="HighLife"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jazz"/>
+    <title>Fela Kuti "Water No Get Enemy" (1975)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=YdV1V4vPPLI&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/YdV1V4vPPLI/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/YdV1V4vPPLI/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/YdV1V4vPPLI?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBCTIbTIbMRLKE7VXJsAqu88?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="denied"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/YdV1V4vPPLI/comments?v=2" countHint="220"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/YdV1V4vPPLI?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="659" yt:format="5"/>
+      <media:credit role="uploader" scheme="urn:youtube">rovingeye2</media:credit>
+      <media:description type="plain">Taken from his 1975 album "Exspensive Shit" The late great Fela Anikulapo Kuti,  (15 October 1938  2 August 1997), real name Olufela Olusegun Oludotun Ransome-Kuti, the pioneer of Afrobeat music. A Nigerian multi-instrumentalist musician and composer, human rights activist, and political maverick.
+
+
+Expensive Shit is his twelfth full-length album. It is considered to be one of his best albums, and was ranked #78 on Pitchfork Media's "Top 100 Albums of the 1970s". The title of the album refers to an incident in which the Nigerian police tried to arrest Kuti by planting a joint on him. Kuti managed to eat the joint which prompted the police to bring him into custody and try to wait for him to produce the excrement. According to legend he managed to use another inmate's feces and was eventually released.
+
+
+
+Regarding his name change. He was known as Fela Ransome-Kuti until about 1978, when he renamed himself Fela Anikulapo Kuti, the middle name meaning 'he who carries death in his pouch'. He was a human-rights revolutionary who started his own political party, Movement Of The People, to protest the kleptocracy in Nigeria. He had his own compound called the Kalakuta Republic, in Lagos, which he declared independent from Nigeria, where he and his uncountable number of wives lived, and were constantly terrorized by the government. His influence on funk and African music is unsurpassed with approximately 77 albums. 
+
+
+The musical style performed by Fela Kuti is called Afrobeat, which is essentially a fusion of jazz, funk, psychedelic rock, and traditional African chants and rhythms. It is characterized by having African-style percussion, vocals, and musical structure, along with jazzy, funky horn sections. The endless groove is also used, in which a base rhythm of drums, shekere, muted guitar, and bass guitar are repeated throughout the song. His band was notable for featuring two baritone saxophones, whereas most groups using this instrument only use one. This is a common technique in African and African-influenced musical styles, and can be seen in funk and hip-hop. Some elements often present in Felas music are the call-and-response within the chorus and figurative but simple lyrics. Felas songs were almost always over 10 minutes in length, some reaching the 20- or even 30-minute marks, while some unreleased tracks would last up to 45 minutes when performed live. This was one of many reasons that his music never reached a substantial degree of popularity outside of Africa. His songs were mostly sung in Nigerian pidgin, although he also performed a few songs in the Yoruba language. Felas main instruments were the saxophone and the keyboards, but he also played the trumpet, guitar, and took the occasional drum solo. Fela refused to perform songs again after he had already recorded them, which also hindered his popularity outside Africa. Fela was known for his showmanship, and his concerts were often quite outlandish and wild. He referred to his stage act as the Underground Spiritual Game.
+
+His album output slowed in the 1990s, and eventually he stopped releasing albums altogether. The battle against military corruption in Nigeria was taking its toll, especially during the rise of dictator Sani Abacha. Rumors were also spreading that he was suffering from an illness for which he was refusing treatment. On 3 August 1997, Olikoye Ransome-Kuti, already a prominent AIDS activist and former Minister of Health, stunned the nation by announcing his younger brothers death a day earlier from Kaposis sarcoma brought on by AIDS. (Their younger brother Beko was in jail at this time at the hand of Abacha for political activity). More than a million people attended Felas funeral at the site of the old Shrine compound. A new Africa Shrine has opened since Felas death in a different section of Lagos under the supervision of his son Femi Kuti.</media:description>
+      <media:keywords>Fela, Kuti, water No Get Enemy, Expensive, Shit, Afrobeat, HighLife, jazz</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=YdV1V4vPPLI&amp;feature=youtube_gdata"/>
+      <media:restriction type="country" relationship="deny">DE</media:restriction>
+      <media:thumbnail url="http://i.ytimg.com/vi/YdV1V4vPPLI/default.jpg" height="90" width="120" time="00:05:29.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YdV1V4vPPLI/2.jpg" height="90" width="120" time="00:05:29.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YdV1V4vPPLI/1.jpg" height="90" width="120" time="00:02:44.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YdV1V4vPPLI/3.jpg" height="90" width="120" time="00:08:14.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/YdV1V4vPPLI/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Fela Kuti "Water No Get Enemy" (1975)</media:title>
+      <yt:duration seconds="659"/>
+      <yt:uploaded>2008-08-10T17:08:32.000Z</yt:uploaded>
+      <yt:videoid>YdV1V4vPPLI</yt:videoid>
+    </media:group>
+    <gd:rating average="4.942029" max="5" min="1" numRaters="345" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="1177" viewCount="126794"/>
+    <yt:rating numDislikes="5" numLikes="340"/>
+  </entry>
+  <entry gd:etag="W/&quot;CkYMQH47eCp7ImA9WxJUGE4.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBN81JXnHjpVI_6OiO7vilX0</id>
+    <published>2009-07-17T11:29:41.000Z</published>
+    <updated>2009-07-17T11:29:41.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="classic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mood"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="II"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Swing"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="underground"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="vocals"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="spoken"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="work"/>
+    <title>DO IT YOUR WAY (CLASSIC MIX) - MOOD II SWING</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=HlkcbZTKJMk&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/HlkcbZTKJMk/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/HlkcbZTKJMk/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/HlkcbZTKJMk?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBN81JXnHjpVI_6OiO7vilX0?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="moderated"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="denied"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="denied"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/HlkcbZTKJMk/comments?v=2" countHint="30"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/HlkcbZTKJMk?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="563" yt:format="5"/>
+      <media:credit role="uploader" scheme="urn:youtube">mike6011</media:credit>
+      <media:description type="plain">DO IT YOUR WAY (CLASSIC MIX) - MOOD II SWING</media:description>
+      <media:keywords>classic, soulful, house, music, Mood, II, Swing, urban, dance, underground, vocals, spoken, work</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=HlkcbZTKJMk&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/HlkcbZTKJMk/default.jpg" height="90" width="120" time="00:04:41.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/HlkcbZTKJMk/2.jpg" height="90" width="120" time="00:04:41.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/HlkcbZTKJMk/1.jpg" height="90" width="120" time="00:02:20.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/HlkcbZTKJMk/3.jpg" height="90" width="120" time="00:07:02.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/HlkcbZTKJMk/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">DO IT YOUR WAY (CLASSIC MIX) - MOOD II SWING</media:title>
+      <yt:duration seconds="563"/>
+      <yt:uploaded>2008-07-24T00:32:00.000Z</yt:uploaded>
+      <yt:videoid>HlkcbZTKJMk</yt:videoid>
+    </media:group>
+    <yt:statistics favoriteCount="185" viewCount="12653"/>
+  </entry>
+  <entry gd:etag="W/&quot;C0ACSH47eCp7ImA9WxJUFko.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBEr6DASks9_GXp4yqqecZ2s</id>
+    <published>2009-07-15T15:29:29.000Z</published>
+    <updated>2009-07-15T15:29:29.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Grant"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Nelson"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Track"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="101"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="1995"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="90's"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="90s"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Speed"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="House"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Garage"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="UK"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dark"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Vibe"/>
+    <title>Grant Nelson - Track 101 (1995)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=DuaDAZ4_ENc&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/DuaDAZ4_ENc/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/DuaDAZ4_ENc/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/DuaDAZ4_ENc?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBEr6DASks9_GXp4yqqecZ2s?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/DuaDAZ4_ENc/comments?v=2" countHint="9"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/DuaDAZ4_ENc?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="365" yt:format="5"/>
+      <media:content url="rtsp://v2.cache8.c.youtube.com/CioLENy73wIaIQnXED-eAYPmDhMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="365" yt:format="1"/>
+      <media:content url="rtsp://v7.cache1.c.youtube.com/CioLENy73wIaIQnXED-eAYPmDhMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="365" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">stevensnewest1119</media:credit>
+      <media:description type="plain">This track makes me want to go for a drive in Northern New Jersey and dance my ass off in the car! (If I had my license lol.)
+
+My god, lately I've been really getting into UK Garage. There's so many kick ass tracks out there. Seriously. Like this one for example. ;)</media:description>
+      <media:keywords>Grant, Nelson, Track, 101, 1995, 90's, 90s, Speed, House, Garage, UK, Dark, Vibe</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=DuaDAZ4_ENc&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/DuaDAZ4_ENc/default.jpg" height="90" width="120" time="00:03:02.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/DuaDAZ4_ENc/2.jpg" height="90" width="120" time="00:03:02.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/DuaDAZ4_ENc/1.jpg" height="90" width="120" time="00:01:31.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/DuaDAZ4_ENc/3.jpg" height="90" width="120" time="00:04:33.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/DuaDAZ4_ENc/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Grant Nelson - Track 101 (1995)</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="365"/>
+      <yt:uploaded>2008-10-26T17:03:09.000Z</yt:uploaded>
+      <yt:videoid>DuaDAZ4_ENc</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9545455" max="5" min="1" numRaters="22" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="55" viewCount="3686"/>
+    <yt:rating numDislikes="0" numLikes="22"/>
+  </entry>
+  <entry gd:etag="W/&quot;CkIAR347eCp7ImA9WxJUFko.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBEM2E-kOmAl58woZYw1Yc40</id>
+    <published>2009-07-15T15:09:06.000Z</published>
+    <updated>2009-07-15T15:09:06.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="new"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="york"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="classics"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="old"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="school"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="nervous"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="records"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="classic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="man"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="keepin'"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="on"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="electronic"/>
+    <title>Classic Man - Keepin' On - Classic Man Mixdown</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=AWjPGf5sG3E&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/AWjPGf5sG3E/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/AWjPGf5sG3E?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBEM2E-kOmAl58woZYw1Yc40?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="denied"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="denied"/>
+    <yt:accessControl action="syndicate" permission="denied"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/AWjPGf5sG3E/comments?v=2" countHint="8"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:credit role="uploader" scheme="urn:youtube">cashox3</media:credit>
+      <media:description type="plain">Track released in 1993 on Nervous Records  - NER 20070  - Producer, Mixed By, Arranged By - Wayne Gardiner</media:description>
+      <media:keywords>new, york, house, music, classics, old, school, nervous, records, classic, man, keepin', on, electronic</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=AWjPGf5sG3E&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/AWjPGf5sG3E/default.jpg" height="90" width="120" time="00:02:01"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/AWjPGf5sG3E/2.jpg" height="90" width="120" time="00:02:01"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/AWjPGf5sG3E/1.jpg" height="90" width="120" time="00:01:00.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/AWjPGf5sG3E/3.jpg" height="90" width="120" time="00:03:01.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/AWjPGf5sG3E/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Classic Man - Keepin' On - Classic Man Mixdown</media:title>
+      <yt:duration seconds="242"/>
+      <yt:uploaded>2008-04-29T00:16:48.000Z</yt:uploaded>
+      <yt:videoid>AWjPGf5sG3E</yt:videoid>
+    </media:group>
+    <yt:noembed/>
+    <gd:rating average="4.818182" max="5" min="1" numRaters="22" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="85" viewCount="8015"/>
+    <yt:rating numDislikes="1" numLikes="21"/>
+  </entry>
+  <entry gd:etag="W/&quot;CkUCQ347eCp7ImA9WxJUFko.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBPw2ebEjhxJ9okjMlxu0lR0</id>
+    <published>2009-07-15T15:04:22.000Z</published>
+    <updated>2009-07-15T15:04:22.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="logic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="blues"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="for"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="you"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hard"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="strictly"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="rhythm"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="garage"/>
+    <title>Logic - Blues For You (Hard Dub)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=r1VFhuC5S7w&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/r1VFhuC5S7w/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/r1VFhuC5S7w/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/r1VFhuC5S7w?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBPw2ebEjhxJ9okjMlxu0lR0?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="denied"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/r1VFhuC5S7w/comments?v=2" countHint="33"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/r1VFhuC5S7w?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="264" yt:format="5"/>
+      <media:credit role="uploader" scheme="urn:youtube">romfordj</media:credit>
+      <media:description type="plain">Strictly Rhythm. 1994,  House/Garage classic</media:description>
+      <media:keywords>logic, blues, for, you, hard, dub, strictly, rhythm, house, garage</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=r1VFhuC5S7w&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/r1VFhuC5S7w/default.jpg" height="90" width="120" time="00:02:12"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/r1VFhuC5S7w/2.jpg" height="90" width="120" time="00:02:12"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/r1VFhuC5S7w/1.jpg" height="90" width="120" time="00:01:06"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/r1VFhuC5S7w/3.jpg" height="90" width="120" time="00:03:18"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/r1VFhuC5S7w/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Logic - Blues For You (Hard Dub)</media:title>
+      <yt:duration seconds="264"/>
+      <yt:uploaded>2008-05-10T05:04:18.000Z</yt:uploaded>
+      <yt:videoid>r1VFhuC5S7w</yt:videoid>
+    </media:group>
+    <gd:rating average="4.847826" max="5" min="1" numRaters="46" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="236" viewCount="15755"/>
+    <yt:rating numDislikes="2" numLikes="44"/>
+  </entry>
+  <entry gd:etag="W/&quot;A08HR347eCp7ImA9WxJUFks.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBK256kiqtHHO0vQJHcZgx7Q</id>
+    <published>2009-07-15T14:57:16.000Z</published>
+    <updated>2009-07-15T14:57:16.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Classic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="House"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Old"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="School"/>
+    <title>Classic House-Colourblind (Nothing Better)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=rkMJUp9TYN0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rkMJUp9TYN0/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rkMJUp9TYN0/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=rkMJUp9TYN0"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/rkMJUp9TYN0?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBK256kiqtHHO0vQJHcZgx7Q?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="denied"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/rkMJUp9TYN0/comments?v=2" countHint="24"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="rtsp://v5.cache2.c.youtube.com/CioLENy73wIaIQndYFOfUglDrhMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" isDefault="true" expression="full" duration="401" yt:format="1"/>
+      <media:content url="rtsp://v6.cache3.c.youtube.com/CioLENy73wIaIQndYFOfUglDrhMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="401" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">harbordman</media:credit>
+      <media:description type="plain">Classic House-</media:description>
+      <media:keywords>Classic, House, Old, School</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=rkMJUp9TYN0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rkMJUp9TYN0/default.jpg" height="90" width="120" time="00:03:20.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rkMJUp9TYN0/2.jpg" height="90" width="120" time="00:03:20.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rkMJUp9TYN0/1.jpg" height="90" width="120" time="00:01:40.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rkMJUp9TYN0/3.jpg" height="90" width="120" time="00:05:00.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/rkMJUp9TYN0/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Classic House-Colourblind (Nothing Better)</media:title>
+      <yt:duration seconds="401"/>
+      <yt:uploaded>2008-02-21T20:11:48.000Z</yt:uploaded>
+      <yt:videoid>rkMJUp9TYN0</yt:videoid>
+    </media:group>
+    <yt:noembed/>
+    <gd:rating average="4.9666667" max="5" min="1" numRaters="30" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="199" viewCount="14657"/>
+    <yt:rating numDislikes="0" numLikes="30"/>
+  </entry>
+  <entry gd:etag="W/&quot;DEUHSX47eCp7ImA9WxJUFks.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBFPqCtHTRVrcdVIgak0LxRo</id>
+    <published>2009-07-15T13:57:18.000Z</published>
+    <updated>2009-07-15T13:57:18.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="george"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="morel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="yeah"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="come"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="on"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="grooves"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="part"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="two"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="old"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="school"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="strictly"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="rhythm"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="1992"/>
+    <title>George Morel - "Yeah" Come On - 1992</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=-ylsx0JoEhQ&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-ylsx0JoEhQ/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-ylsx0JoEhQ/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=-ylsx0JoEhQ"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-ylsx0JoEhQ?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBFPqCtHTRVrcdVIgak0LxRo?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/-ylsx0JoEhQ/comments?v=2" countHint="7"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/-ylsx0JoEhQ?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="297" yt:format="5"/>
+      <media:content url="rtsp://v1.cache5.c.youtube.com/CioLENy73wIaIQkUEmhCx2wp-xMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="297" yt:format="1"/>
+      <media:content url="rtsp://v6.cache2.c.youtube.com/CioLENy73wIaIQkUEmhCx2wp-xMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="297" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">ruffbizness</media:credit>
+      <media:description type="plain">This if from Morel's Grooves Part 2.  George Morel made many classic tracks/EPs for Strictly Rhythm.</media:description>
+      <media:keywords>george, morel, yeah, come, on, grooves, part, two, old, school, house, strictly, rhythm, 1992</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=-ylsx0JoEhQ&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-ylsx0JoEhQ/default.jpg" height="90" width="120" time="00:02:28.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-ylsx0JoEhQ/2.jpg" height="90" width="120" time="00:02:28.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-ylsx0JoEhQ/1.jpg" height="90" width="120" time="00:01:14.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-ylsx0JoEhQ/3.jpg" height="90" width="120" time="00:03:42.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-ylsx0JoEhQ/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">George Morel - "Yeah" Come On - 1992</media:title>
+      <yt:duration seconds="297"/>
+      <yt:uploaded>2008-09-26T15:10:40.000Z</yt:uploaded>
+      <yt:videoid>-ylsx0JoEhQ</yt:videoid>
+    </media:group>
+    <gd:rating average="4.95" max="5" min="1" numRaters="20" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="84" viewCount="11632"/>
+    <yt:rating numDislikes="0" numLikes="20"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0MBRH47eCp7ImA9WxJUFks.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBF6OUCxx1fohd61NXLdUuAY</id>
+    <published>2009-07-15T13:44:15.000Z</published>
+    <updated>2009-07-15T13:44:15.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="deep"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sensation"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="better"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="love"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="voodoo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="1995"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="90's"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="90s"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="garage"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="new"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="york"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="highway"/>
+    <title>Deep Sensation - Better Love (Voodoo Dub) (1995)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=WYWf4G_yLO0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/WYWf4G_yLO0/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/WYWf4G_yLO0/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/WYWf4G_yLO0?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBF6OUCxx1fohd61NXLdUuAY?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/WYWf4G_yLO0/comments?v=2" countHint="6"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/WYWf4G_yLO0?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="253" yt:format="5"/>
+      <media:content url="rtsp://v5.cache4.c.youtube.com/CioLENy73wIaIQntLPJv4J-FWRMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="253" yt:format="1"/>
+      <media:content url="rtsp://v4.cache7.c.youtube.com/CioLENy73wIaIQntLPJv4J-FWRMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="253" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">stevensnewest1119</media:credit>
+      <media:description type="plain">Another one that makes my night shine :)</media:description>
+      <media:keywords>deep, sensation, better, love, voodoo, dub, 1995, 90's, 90s, house, music, garage, new, york, highway</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=WYWf4G_yLO0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WYWf4G_yLO0/default.jpg" height="90" width="120" time="00:02:06.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WYWf4G_yLO0/2.jpg" height="90" width="120" time="00:02:06.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WYWf4G_yLO0/1.jpg" height="90" width="120" time="00:01:03.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WYWf4G_yLO0/3.jpg" height="90" width="120" time="00:03:09.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WYWf4G_yLO0/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Deep Sensation - Better Love (Voodoo Dub) (1995)</media:title>
+      <yt:aspectRatio>widescreen</yt:aspectRatio>
+      <yt:duration seconds="253"/>
+      <yt:uploaded>2008-10-14T02:56:11.000Z</yt:uploaded>
+      <yt:videoid>WYWf4G_yLO0</yt:videoid>
+    </media:group>
+    <gd:rating average="4.5" max="5" min="1" numRaters="8" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="30" viewCount="3405"/>
+    <yt:rating numDislikes="1" numLikes="7"/>
+  </entry>
+  <entry gd:etag="W/&quot;D0cHSH47eCp7ImA9WxJUFks.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBHH_4TadtSx9ah7DV8G1h7U</id>
+    <published>2009-07-15T13:37:19.000Z</published>
+    <updated>2009-07-15T13:37:19.000Z</updated>
+    <app:control>
+      <app:draft>yes</app:draft>
+      <yt:incomplete/>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="h2o"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="billie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="satisfied"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="take"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="me"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="higher"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="satisdub"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="garage"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="deep"/>
+    <title>H2O Feat. Billie - Satisfied (Satisdub)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=j8rosSq_TkM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/j8rosSq_TkM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/j8rosSq_TkM/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/j8rosSq_TkM?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBHH_4TadtSx9ah7DV8G1h7U?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/j8rosSq_TkM/comments?v=2" countHint="5"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/j8rosSq_TkM?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="386" yt:format="5"/>
+      <media:content url="rtsp://v3.cache8.c.youtube.com/CioLENy73wIaIQlDTr8qsejKjxMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="386" yt:format="1"/>
+      <media:content url="rtsp://v2.cache5.c.youtube.com/CioLENy73wIaIQlDTr8qsejKjxMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="386" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">sukhgill</media:credit>
+      <media:description type="plain">Classic house/garage from the mid 90s.
+
+H2O Featuring Billie - Satisifed (Satisdub) - Liquid Groove - 1995</media:description>
+      <media:keywords>h2o, billie, satisfied, take, me, higher, satisdub, soulful, house, garage, deep</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=j8rosSq_TkM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/j8rosSq_TkM/default.jpg" height="90" width="120" time="00:03:13"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/j8rosSq_TkM/2.jpg" height="90" width="120" time="00:03:13"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/j8rosSq_TkM/1.jpg" height="90" width="120" time="00:01:36.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/j8rosSq_TkM/3.jpg" height="90" width="120" time="00:04:49.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/j8rosSq_TkM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">H2O Feat. Billie - Satisfied (Satisdub)</media:title>
+      <yt:duration seconds="386"/>
+      <yt:uploaded>2008-12-29T17:58:25.000Z</yt:uploaded>
+      <yt:videoid>j8rosSq_TkM</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="12" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="37" viewCount="3168"/>
+    <yt:rating numDislikes="0" numLikes="12"/>
+  </entry>
+  <entry gd:etag="W/&quot;DkUNQX47eCp7ImA9WxJUFks.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBGm_IJinxYMmwk9sCNthjLA</id>
+    <published>2009-07-15T13:24:50.000Z</published>
+    <updated>2009-07-15T13:24:50.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Michelle"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Weeks"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Voices"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Can"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="See"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="The"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Light"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Kings"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Of"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Tomorrow"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="remix"/>
+    <title>Michelle Weeks &amp; Voices 2 - Can U See The Light ( Kings Of Tomorrow remix )</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=ib0nMBwf-vY&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ib0nMBwf-vY/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ib0nMBwf-vY/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ib0nMBwf-vY?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBGm_IJinxYMmwk9sCNthjLA?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/ib0nMBwf-vY/comments?v=2" countHint="7"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/ib0nMBwf-vY?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="503" yt:format="5"/>
+      <media:content url="rtsp://v1.cache8.c.youtube.com/CioLENy73wIaIQn2-h8cMCe9iRMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="503" yt:format="1"/>
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CioLENy73wIaIQn2-h8cMCe9iRMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="503" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">spitzbuben1978</media:credit>
+      <media:description type="plain">Not on label   Year 1997</media:description>
+      <media:keywords>Michelle, Weeks, Voices, Can, See, The, Light, Kings, Of, Tomorrow, remix</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=ib0nMBwf-vY&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ib0nMBwf-vY/default.jpg" height="90" width="120" time="00:04:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ib0nMBwf-vY/2.jpg" height="90" width="120" time="00:04:11.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ib0nMBwf-vY/1.jpg" height="90" width="120" time="00:02:05.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ib0nMBwf-vY/3.jpg" height="90" width="120" time="00:06:17.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ib0nMBwf-vY/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Michelle Weeks &amp; Voices 2 - Can U See The Light ( Kings Of Tomorrow remix )</media:title>
+      <yt:duration seconds="503"/>
+      <yt:uploaded>2009-05-01T03:01:06.000Z</yt:uploaded>
+      <yt:videoid>ib0nMBwf-vY</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="14" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="53" viewCount="3201"/>
+    <yt:rating numDislikes="0" numLikes="14"/>
+  </entry>
+  <entry gd:etag="W/&quot;C0ECQH47eCp7ImA9WxJUFks.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBNlG18yrMZI_o4dS5G62kB0</id>
+    <published>2009-07-15T12:41:01.000Z</published>
+    <updated>2009-07-15T12:41:01.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mental"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="instrum"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="after"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hours"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="EP"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="love"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="changes"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="chicago"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="people"/>
+    <title>Mental Instrum After hours EP - Love changes</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=4h678C9ZLxM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/4h678C9ZLxM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/4h678C9ZLxM/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=4h678C9ZLxM"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/4h678C9ZLxM?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBNlG18yrMZI_o4dS5G62kB0?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/4h678C9ZLxM/comments?v=2" countHint="7"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/4h678C9ZLxM?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="298" yt:format="5"/>
+      <media:content url="rtsp://v2.cache6.c.youtube.com/CioLENy73wIaIQkTL1kv8Lse4hMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="298" yt:format="1"/>
+      <media:content url="rtsp://v4.cache3.c.youtube.com/CioLENy73wIaIQkTL1kv8Lse4hMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="298" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">cyanure1982</media:credit>
+      <media:description type="plain">Mental Instrum After hours EP - Love changes feat Chicago People
+
+another great mental instrum track!</media:description>
+      <media:keywords>house, mental, instrum, after, hours, EP, love, changes, chicago, people</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=4h678C9ZLxM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4h678C9ZLxM/default.jpg" height="90" width="120" time="00:02:29"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4h678C9ZLxM/2.jpg" height="90" width="120" time="00:02:29"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4h678C9ZLxM/1.jpg" height="90" width="120" time="00:01:14.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4h678C9ZLxM/3.jpg" height="90" width="120" time="00:03:43.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4h678C9ZLxM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Mental Instrum After hours EP - Love changes</media:title>
+      <yt:duration seconds="298"/>
+      <yt:uploaded>2008-11-02T03:29:01.000Z</yt:uploaded>
+      <yt:videoid>4h678C9ZLxM</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="10" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="39" viewCount="2448"/>
+    <yt:rating numDislikes="0" numLikes="10"/>
+  </entry>
+  <entry gd:etag="W/&quot;C0QERX47eCp7ImA9WxJUFks.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBP_EA4cGsxjMe-vsYIBnxf8</id>
+    <published>2009-07-15T12:35:04.000Z</published>
+    <updated>2009-07-15T12:35:04.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Koffee"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Brown"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="After"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Party"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jay-J"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="David"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Harness"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Edit"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="deep"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="electronic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jackin"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="remix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="san"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="francisco"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <title>Koffee Brown - After Party [Jay-J &amp; David Harness Edit]</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=wFEfwmeLR7w&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wFEfwmeLR7w/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wFEfwmeLR7w/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=wFEfwmeLR7w"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wFEfwmeLR7w?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBP_EA4cGsxjMe-vsYIBnxf8?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/wFEfwmeLR7w/comments?v=2" countHint="11"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/wFEfwmeLR7w?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="373" yt:format="5"/>
+      <media:content url="rtsp://v5.cache4.c.youtube.com/CioLENy73wIaIQm8R4tnwh9RwBMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="373" yt:format="1"/>
+      <media:content url="rtsp://v2.cache6.c.youtube.com/CioLENy73wIaIQm8R4tnwh9RwBMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="373" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">mikechorizo</media:credit>
+      <media:description type="plain">Koffee Brown's classic soul track remixed by San Francisco based DJs/Producers Jay-J &amp; David Harness.  Great deep house beat with a tinge of jackin. Hard to find! Enjoy!</media:description>
+      <media:keywords>Koffee, Brown, After, Party, Jay-J, David, Harness, Edit, deep, house, music, electronic, jackin, remix, san, francisco, dance</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=wFEfwmeLR7w&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wFEfwmeLR7w/default.jpg" height="90" width="120" time="00:03:06.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wFEfwmeLR7w/2.jpg" height="90" width="120" time="00:03:06.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wFEfwmeLR7w/1.jpg" height="90" width="120" time="00:01:33.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wFEfwmeLR7w/3.jpg" height="90" width="120" time="00:04:39.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wFEfwmeLR7w/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Koffee Brown - After Party [Jay-J &amp; David Harness Edit]</media:title>
+      <yt:duration seconds="373"/>
+      <yt:uploaded>2008-10-19T21:40:12.000Z</yt:uploaded>
+      <yt:videoid>wFEfwmeLR7w</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="11" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="37" viewCount="5446"/>
+    <yt:rating numDislikes="0" numLikes="11"/>
+  </entry>
+  <entry gd:etag="W/&quot;A0QNQX47eCp7ImA9WxJVFk8.&quot;">
+    <id>tag:youtube.com,2008:favorite:vjVQa1PpcFNW79ntl6pOBLLo7Fn2Oa0FLllP1m2VG5E</id>
+    <published>2009-07-03T13:56:30.000Z</published>
+    <updated>2009-07-03T13:56:30.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#favorite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="michael"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="watford"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="so"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="into"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="you"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="remix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="old"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="school"/>
+    <title>Michael Watford - So Into You (Dub)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=JXiuxyeu8GA&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/JXiuxyeu8GA/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/JXiuxyeu8GA/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=JXiuxyeu8GA"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/JXiuxyeu8GA?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/ionysis/favorites/vjVQa1PpcFNW79ntl6pOBLLo7Fn2Oa0FLllP1m2VG5E?v=2"/>
+    <author>
+      <name>ionysis</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/ionysis</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/JXiuxyeu8GA/comments?v=2" countHint="9"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/JXiuxyeu8GA?f=user_favorites&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="326" yt:format="5"/>
+      <media:content url="rtsp://v3.cache7.c.youtube.com/CioLENy73wIaIQlg8K4nx654JRMYDSANFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="326" yt:format="1"/>
+      <media:content url="rtsp://v3.cache4.c.youtube.com/CioLENy73wIaIQlg8K4nx654JRMYESARFEgGUg51c2VyX2Zhdm9yaXRlcww=/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="326" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">ruffbizness</media:credit>
+      <media:description type="plain">Soulful stuff.</media:description>
+      <media:keywords>michael, watford, so, into, you, remix, dub, house, old, school</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=JXiuxyeu8GA&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JXiuxyeu8GA/default.jpg" height="90" width="120" time="00:02:43"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JXiuxyeu8GA/2.jpg" height="90" width="120" time="00:02:43"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JXiuxyeu8GA/1.jpg" height="90" width="120" time="00:01:21.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JXiuxyeu8GA/3.jpg" height="90" width="120" time="00:04:04.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JXiuxyeu8GA/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Michael Watford - So Into You (Dub)</media:title>
+      <yt:duration seconds="326"/>
+      <yt:uploaded>2008-05-03T05:37:04.000Z</yt:uploaded>
+      <yt:videoid>JXiuxyeu8GA</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="18" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="78" viewCount="10819"/>
+    <yt:rating numDislikes="0" numLikes="18"/>
+  </entry>
+</feed>

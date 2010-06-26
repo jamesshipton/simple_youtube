@@ -1,0 +1,752 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:yt="http://gdata.youtube.com/schemas/2007" gd:etag="W/&quot;Ak8BRn47eCp7ImA9WxFXE0s.&quot;">
+  <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C</id>
+  <updated>2010-05-20T15:20:57.000Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+  <title>shinnenkai</title>
+  <subtitle/>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com/view_play_list?p=D00BDE6AA710D50C"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C?v=2"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/batch?v=2"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C?start-index=1&amp;max-results=14&amp;v=2"/>
+  <link rel="service" type="application/atomsvc+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C?alt=atom-service&amp;v=2"/>
+  <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C?start-index=15&amp;max-results=14&amp;v=2"/>
+  <author>
+    <name>cyanure1982</name>
+    <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>79</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>14</openSearch:itemsPerPage>
+  <media:group>
+    <media:content url="http://www.youtube.com/ep.swf?id=D00BDE6AA710D50C" type="application/x-shockwave-flash" yt:format="5"/>
+    <media:description type="plain"/>
+    <media:title type="plain">shinnenkai</media:title>
+  </media:group>
+  <yt:playlistId>D00BDE6AA710D50C</yt:playlistId>
+  <entry gd:etag="W/&quot;A0IFRXc-fyp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:91D4426716F50A6B</id>
+    <updated>2010-06-16T23:05:14.957Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Glenn"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Sweety"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Toby"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="You"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="got"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="me"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="workin'"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="12''"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Club"/>
+    <title>Glenn Sweety G Toby - You got me workin' (12'' Club)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=q9_wCHekjyI&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/q9_wCHekjyI/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/q9_wCHekjyI/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=q9_wCHekjyI"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/q9_wCHekjyI?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/91D4426716F50A6B?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/q9_wCHekjyI/comments?v=2" countHint="0"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/q9_wCHekjyI?f=playlists&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="406" yt:format="5"/>
+      <media:content url="rtsp://v2.cache8.c.youtube.com/CiULENy73wIaHAkij6R3CPDfqxMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="406" yt:format="1"/>
+      <media:content url="rtsp://v3.cache2.c.youtube.com/CiULENy73wIaHAkij6R3CPDfqxMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="406" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">cyanure1982</media:credit>
+      <media:description type="plain">Glenn Sweety G Toby - You got me workin' (12'' Club)</media:description>
+      <media:keywords>Glenn, Sweety, Toby, You, got, me, workin', 12'', Club</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=q9_wCHekjyI&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/q9_wCHekjyI/default.jpg" height="90" width="120" time="00:03:23"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/q9_wCHekjyI/2.jpg" height="90" width="120" time="00:03:23"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/q9_wCHekjyI/1.jpg" height="90" width="120" time="00:01:41.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/q9_wCHekjyI/3.jpg" height="90" width="120" time="00:05:04.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/q9_wCHekjyI/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Glenn Sweety G Toby - You got me workin' (12'' Club)</media:title>
+      <yt:duration seconds="406"/>
+      <yt:uploaded>2010-01-18T17:18:35.000Z</yt:uploaded>
+      <yt:videoid>q9_wCHekjyI</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="3" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="2" viewCount="128"/>
+    <yt:rating numDislikes="0" numLikes="3"/>
+    <yt:position>1</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-fyp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:6981610E29A2A61F</id>
+    <updated>2010-06-16T23:05:14.957Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Masters"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="at"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="work"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="feat"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="India"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="love"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="the"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="nightlife"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Nuyorican"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soul"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dub"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="maw"/>
+    <title>Masters at work feat India - I love the nightlife (Nuyorican soul dub)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=vwJJ0dTAynA&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/vwJJ0dTAynA/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/vwJJ0dTAynA/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=vwJJ0dTAynA"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/vwJJ0dTAynA?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/6981610E29A2A61F?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/vwJJ0dTAynA/comments?v=2" countHint="3"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/vwJJ0dTAynA?f=playlists&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="552" yt:format="5"/>
+      <media:content url="rtsp://v2.cache4.c.youtube.com/CiULENy73wIaHAlwysDU0UkCvxMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="552" yt:format="1"/>
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CiULENy73wIaHAlwysDU0UkCvxMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="552" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">cyanure1982</media:credit>
+      <media:description type="plain">Masters at work feat India - I love the nightlife (Nuyorican soul dub)
+
+Does anyone know about a similar mix with the same intro but a slightly more pumpin beat?
+I think I heard Louie Vega play it at a party last month...If anyone knows about it please let me know!</media:description>
+      <media:keywords>Masters, at, work, feat, India, love, the, nightlife, Nuyorican, soul, dub, maw</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=vwJJ0dTAynA&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/vwJJ0dTAynA/default.jpg" height="90" width="120" time="00:04:36"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/vwJJ0dTAynA/2.jpg" height="90" width="120" time="00:04:36"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/vwJJ0dTAynA/1.jpg" height="90" width="120" time="00:02:18"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/vwJJ0dTAynA/3.jpg" height="90" width="120" time="00:06:54"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/vwJJ0dTAynA/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Masters at work feat India - I love the nightlife (Nuyorican soul dub)</media:title>
+      <yt:duration seconds="552"/>
+      <yt:uploaded>2010-01-04T14:18:29.000Z</yt:uploaded>
+      <yt:videoid>vwJJ0dTAynA</yt:videoid>
+    </media:group>
+    <gd:rating average="4.75" max="5" min="1" numRaters="4" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="14" viewCount="1875"/>
+    <yt:rating numDislikes="0" numLikes="4"/>
+    <yt:position>2</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-fyp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:DB3CA0E8F0AB41D9</id>
+    <updated>2010-06-16T23:05:14.957Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="bird"/>
+    <title>Bird - Souls (peach bossa mix)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=6kdVnqxSA_0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/6kdVnqxSA_0/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/6kdVnqxSA_0/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=6kdVnqxSA_0"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/6kdVnqxSA_0?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/DB3CA0E8F0AB41D9?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/6kdVnqxSA_0/comments?v=2" countHint="4"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/6kdVnqxSA_0?f=playlists&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="407" yt:format="5"/>
+      <media:content url="rtsp://v6.cache5.c.youtube.com/CiULENy73wIaHAn9A1KsnlVH6hMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="407" yt:format="1"/>
+      <media:content url="rtsp://v2.cache8.c.youtube.com/CiULENy73wIaHAn9A1KsnlVH6hMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="407" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">cyanure1982</media:credit>
+      <media:description type="plain">Bird - Souls (peach bossa mix)</media:description>
+      <media:keywords>bird</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=6kdVnqxSA_0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/6kdVnqxSA_0/default.jpg" height="90" width="120" time="00:03:23.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/6kdVnqxSA_0/2.jpg" height="90" width="120" time="00:03:23.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/6kdVnqxSA_0/1.jpg" height="90" width="120" time="00:01:41.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/6kdVnqxSA_0/3.jpg" height="90" width="120" time="00:05:05.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/6kdVnqxSA_0/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Bird - Souls (peach bossa mix)</media:title>
+      <yt:duration seconds="407"/>
+      <yt:uploaded>2009-11-23T16:33:09.000Z</yt:uploaded>
+      <yt:videoid>6kdVnqxSA_0</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="14" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="29" viewCount="2413"/>
+    <yt:rating numDislikes="0" numLikes="14"/>
+    <yt:position>3</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-fyp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:7ADAB5695E4B40D6</id>
+    <updated>2010-06-16T23:05:14.957Z</updated>
+    <app:control>
+      <app:draft>yes</app:draft>
+      <yt:incomplete/>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jazz"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="liberatorz"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="breathing"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="pleasure"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="chill"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="nujazz"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hip"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="hop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beat"/>
+    <title>Jazz liberatorz - Breathing pleasure</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=tY9gtzC_TAc&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/tY9gtzC_TAc/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/tY9gtzC_TAc/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=tY9gtzC_TAc"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/tY9gtzC_TAc?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/7ADAB5695E4B40D6?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/tY9gtzC_TAc/comments?v=2" countHint="34"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/tY9gtzC_TAc?f=playlists&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="248" yt:format="5"/>
+      <media:content url="rtsp://v7.cache4.c.youtube.com/CiULENy73wIaHAkHTL8wt2CPtRMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="248" yt:format="1"/>
+      <media:content url="rtsp://v3.cache7.c.youtube.com/CiULENy73wIaHAkHTL8wt2CPtRMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="248" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">elun123</media:credit>
+      <media:description type="plain">http://www.myspace.com/jazzlib</media:description>
+      <media:keywords>jazz, liberatorz, breathing, pleasure, chill, nujazz, hip, hop, beat</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=tY9gtzC_TAc&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tY9gtzC_TAc/default.jpg" height="90" width="120" time="00:02:04"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tY9gtzC_TAc/2.jpg" height="90" width="120" time="00:02:04"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tY9gtzC_TAc/1.jpg" height="90" width="120" time="00:01:02"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tY9gtzC_TAc/3.jpg" height="90" width="120" time="00:03:06"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/tY9gtzC_TAc/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Jazz liberatorz - Breathing pleasure</media:title>
+      <yt:duration seconds="248"/>
+      <yt:uploaded>2009-01-04T16:06:35.000Z</yt:uploaded>
+      <yt:videoid>tY9gtzC_TAc</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9512196" max="5" min="1" numRaters="82" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="374" viewCount="27313"/>
+    <yt:rating numDislikes="1" numLikes="81"/>
+    <yt:position>4</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-fyp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:8917820C302285EA</id>
+    <updated>2010-06-16T23:05:14.957Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="フォーライフレコード"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="小林信吾"/>
+    <title>灼けたセミヌード　野崎沙穂</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=d05HEifVffc&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/d05HEifVffc/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/d05HEifVffc/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=d05HEifVffc"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/d05HEifVffc?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/8917820C302285EA?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/d05HEifVffc/comments?v=2" countHint="0"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/d05HEifVffc?f=playlists&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="300" yt:format="5"/>
+      <media:content url="rtsp://v5.cache4.c.youtube.com/CiULENy73wIaHAn3fdUnEkdOdxMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="300" yt:format="1"/>
+      <media:content url="rtsp://v2.cache1.c.youtube.com/CiULENy73wIaHAn3fdUnEkdOdxMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="300" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">lchken</media:credit>
+      <media:description type="plain">SYMPATHY(1988)から</media:description>
+      <media:keywords>フォーライフレコード, 小林信吾</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=d05HEifVffc&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/d05HEifVffc/default.jpg" height="90" width="120" time="00:02:30"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/d05HEifVffc/2.jpg" height="90" width="120" time="00:02:30"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/d05HEifVffc/1.jpg" height="90" width="120" time="00:01:15"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/d05HEifVffc/3.jpg" height="90" width="120" time="00:03:45"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/d05HEifVffc/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">灼けたセミヌード　野崎沙穂</media:title>
+      <yt:duration seconds="300"/>
+      <yt:uploaded>2010-01-11T12:23:35.000Z</yt:uploaded>
+      <yt:videoid>d05HEifVffc</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="3" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="2" viewCount="597"/>
+    <yt:rating numDislikes="0" numLikes="3"/>
+    <yt:position>5</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-fyp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:E678767AC97F10FC</id>
+    <updated>2010-06-16T23:05:14.957Z</updated>
+    <app:control>
+      <app:draft>yes</app:draft>
+      <yt:state helpUrl="http://www.youtube.com/t/community_guidelines" name="rejected" reasonCode="suspended">Account suspended</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <title>Jersey St. - Love Will Be Our Guide (Liquid People Disco Not Disco Club Mix)</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Reku9FJV-vM?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/E678767AC97F10FC?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:credit role="uploader" scheme="urn:youtube">Tmontyb10009</media:credit>
+      <media:title type="plain">Jersey St. - Love Will Be Our Guide (Liquid People Disco Not Disco Club Mix)</media:title>
+      <yt:videoid>Reku9FJV-vM</yt:videoid>
+    </media:group>
+    <yt:position>6</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-fyp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:37AA3205F0157589</id>
+    <updated>2010-06-16T23:05:14.957Z</updated>
+    <app:control>
+      <app:draft>yes</app:draft>
+      <yt:state helpUrl="http://www.youtube.com/t/community_guidelines" name="rejected" reasonCode="termsOfUse">Terms of use violation</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <title>Amber - Sexual (li da di ) (Tiko Mood &amp; Funk Vocal)</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/tFVku8Q_1WU?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/37AA3205F0157589?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:credit role="uploader" scheme="urn:youtube">Tmontyb10009</media:credit>
+      <media:title type="plain">Amber - Sexual (li da di ) (Tiko Mood &amp; Funk Vocal)</media:title>
+      <yt:videoid>tFVku8Q_1WU</yt:videoid>
+    </media:group>
+    <yt:position>7</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-fyp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:01571ACDF8C1B0A6</id>
+    <updated>2010-06-16T23:05:14.957Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="nu"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jazz"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="club"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jazztronik"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Yukihiro"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Fukutomi"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mondo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Grosso"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Daishi"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="FreeTEMPO"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="FPM"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="KJM"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Kentaro"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Takizawa"/>
+    <title>Towa Tei - Luv Connection feat. Joi Cardwell [MTV version]</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=0zQgLb4x3Os&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/0zQgLb4x3Os/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/0zQgLb4x3Os/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/0zQgLb4x3Os?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/01571ACDF8C1B0A6?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="denied"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/0zQgLb4x3Os/comments?v=2" countHint="35"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/0zQgLb4x3Os?f=playlists&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="436" yt:format="5"/>
+      <media:credit role="uploader" scheme="urn:youtube">djkam2004</media:credit>
+      <media:description type="plain">Towa Tei - Luv Connection
+Vocal : Joi Cardwell
+enjoy :P</media:description>
+      <media:keywords>nu, jazz, club, house, Jazztronik, dj, Yukihiro, Fukutomi, Mondo, Grosso, Daishi, Dance, FreeTEMPO, FPM, KJM, Kentaro, Takizawa</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=0zQgLb4x3Os&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0zQgLb4x3Os/default.jpg" height="90" width="120" time="00:03:38"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0zQgLb4x3Os/2.jpg" height="90" width="120" time="00:03:38"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0zQgLb4x3Os/1.jpg" height="90" width="120" time="00:01:49"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0zQgLb4x3Os/3.jpg" height="90" width="120" time="00:05:27"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0zQgLb4x3Os/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Towa Tei - Luv Connection feat. Joi Cardwell [MTV version]</media:title>
+      <yt:duration seconds="436"/>
+      <yt:uploaded>2008-02-27T10:01:27.000Z</yt:uploaded>
+      <yt:videoid>0zQgLb4x3Os</yt:videoid>
+    </media:group>
+    <gd:rating average="4.9069767" max="5" min="1" numRaters="86" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="543" viewCount="54356"/>
+    <yt:rating numDislikes="2" numLikes="84"/>
+    <yt:position>8</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-fyp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:4E48E05E8F9B49F0</id>
+    <updated>2010-06-16T23:05:14.957Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Miki"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Imai"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mayumi"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="堀川まゆみ"/>
+    <title>Anytime Manytimes　今井美樹</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=6s-FClGYRjw&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/6s-FClGYRjw/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/6s-FClGYRjw/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=6s-FClGYRjw"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/6s-FClGYRjw?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/4E48E05E8F9B49F0?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/6s-FClGYRjw/comments?v=2" countHint="0"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/6s-FClGYRjw?f=playlists&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="258" yt:format="5"/>
+      <media:content url="rtsp://v2.cache6.c.youtube.com/CiULENy73wIaHAk8RphRCoXP6hMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="258" yt:format="1"/>
+      <media:content url="rtsp://v6.cache1.c.youtube.com/CiULENy73wIaHAk8RphRCoXP6hMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="258" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">lchken</media:credit>
+      <media:description type="plain">MOCHA（1989）から
+作曲：Mayumi</media:description>
+      <media:keywords>Miki, Imai, Mayumi, 堀川まゆみ</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=6s-FClGYRjw&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/6s-FClGYRjw/default.jpg" height="90" width="120" time="00:02:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/6s-FClGYRjw/2.jpg" height="90" width="120" time="00:02:09"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/6s-FClGYRjw/1.jpg" height="90" width="120" time="00:01:04.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/6s-FClGYRjw/3.jpg" height="90" width="120" time="00:03:13.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/6s-FClGYRjw/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Anytime Manytimes　今井美樹</media:title>
+      <yt:duration seconds="258"/>
+      <yt:uploaded>2009-08-30T12:19:30.000Z</yt:uploaded>
+      <yt:videoid>6s-FClGYRjw</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="4" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="7" viewCount="1997"/>
+    <yt:rating numDislikes="0" numLikes="4"/>
+    <yt:position>9</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-cCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:5FBF09C768BF9F20</id>
+    <updated>2010-06-16T23:05:14.958Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Drums:Omar"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Hakim"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bass:Will"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Lee"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Piano:Bob"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="James"/>
+    <title>できるだけ 古内東子</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=t2s0VQErpBw&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/t2s0VQErpBw/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/t2s0VQErpBw/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=t2s0VQErpBw"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/t2s0VQErpBw?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/5FBF09C768BF9F20?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/t2s0VQErpBw/comments?v=2" countHint="0"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/t2s0VQErpBw?f=playlists&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="299" yt:format="5"/>
+      <media:content url="rtsp://v2.cache6.c.youtube.com/CiULENy73wIaHAkcpCsBVTRrtxMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="299" yt:format="1"/>
+      <media:content url="rtsp://v4.cache1.c.youtube.com/CiULENy73wIaHAkcpCsBVTRrtxMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="299" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">lchken</media:credit>
+      <media:description type="plain">Strength（1995）から</media:description>
+      <media:keywords>Drums:Omar, Hakim, Bass:Will, Lee, Piano:Bob, James</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=t2s0VQErpBw&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/t2s0VQErpBw/default.jpg" height="90" width="120" time="00:02:29.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/t2s0VQErpBw/2.jpg" height="90" width="120" time="00:02:29.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/t2s0VQErpBw/1.jpg" height="90" width="120" time="00:01:14.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/t2s0VQErpBw/3.jpg" height="90" width="120" time="00:03:44.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/t2s0VQErpBw/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">できるだけ 古内東子</media:title>
+      <yt:duration seconds="299"/>
+      <yt:uploaded>2009-08-30T12:12:11.000Z</yt:uploaded>
+      <yt:videoid>t2s0VQErpBw</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="9" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="14" viewCount="5266"/>
+    <yt:rating numDislikes="0" numLikes="9"/>
+    <yt:position>10</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-cCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:D210E7245B360D8A</id>
+    <updated>2010-06-16T23:05:14.958Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="バード"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bird"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ミュージックビデオ"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jpop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="japanese"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="pop"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soul"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="r&amp;b"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jazz"/>
+    <title>Bird (バード) - Mind Travel</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=0WSQg8dnyEs&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/0WSQg8dnyEs/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/0WSQg8dnyEs/related?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=0WSQg8dnyEs"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/0WSQg8dnyEs?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/D210E7245B360D8A?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="allowed"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/0WSQg8dnyEs/comments?v=2" countHint="31"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/0WSQg8dnyEs?f=playlists&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="323" yt:format="5"/>
+      <media:content url="rtsp://v2.cache3.c.youtube.com/CiULENy73wIaHAlLyGfHg5Bk0RMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="323" yt:format="1"/>
+      <media:content url="rtsp://v3.cache7.c.youtube.com/CiULENy73wIaHAlLyGfHg5Bk0RMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="323" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">iluvjpop2</media:credit>
+      <media:description type="plain">バード 心旅行ミュージックビデオ
+music video Mind Travel by  バード Bird.</media:description>
+      <media:keywords>バード, Bird, ミュージックビデオ, jpop, music, video, japanese, pop, soul, r&amp;b, jazz</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=0WSQg8dnyEs&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0WSQg8dnyEs/default.jpg" height="90" width="120" time="00:02:41.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0WSQg8dnyEs/2.jpg" height="90" width="120" time="00:02:41.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0WSQg8dnyEs/1.jpg" height="90" width="120" time="00:01:20.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0WSQg8dnyEs/3.jpg" height="90" width="120" time="00:04:02.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/0WSQg8dnyEs/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Bird (バード) - Mind Travel</media:title>
+      <yt:duration seconds="323"/>
+      <yt:uploaded>2008-02-25T20:55:39.000Z</yt:uploaded>
+      <yt:videoid>0WSQg8dnyEs</yt:videoid>
+    </media:group>
+    <gd:rating average="4.8426967" max="5" min="1" numRaters="89" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="597" viewCount="111421"/>
+    <yt:rating numDislikes="3" numLikes="86"/>
+    <yt:position>11</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-cCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:E6ED359E42D269E0</id>
+    <updated>2010-06-16T23:05:14.958Z</updated>
+    <app:control>
+      <app:draft>yes</app:draft>
+      <yt:state helpUrl="http://www.youtube.com/t/community_guidelines" name="rejected" reasonCode="suspended">Account suspended</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <title>Curtis &amp; Moore featuring Dawn Dawkins - Never Stop (Alternate Vocal Mix)</title>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/w5c6TXHEC8M?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/E6ED359E42D269E0?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:credit role="uploader" scheme="urn:youtube">Tmontyb10009</media:credit>
+      <media:title type="plain">Curtis &amp; Moore featuring Dawn Dawkins - Never Stop (Alternate Vocal Mix)</media:title>
+      <yt:videoid>w5c6TXHEC8M</yt:videoid>
+    </media:group>
+    <yt:position>12</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-cCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:42C875F5F7B24D49</id>
+    <updated>2010-06-16T23:05:14.958Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Detroit"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="House"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mad"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mike"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="members"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="of"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="the"/>
+    <title>KIMMIE HORNE - Missin You (Club mix)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=sNkYGTYFeIM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/sNkYGTYFeIM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/sNkYGTYFeIM/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/sNkYGTYFeIM?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/42C875F5F7B24D49?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/sNkYGTYFeIM/comments?v=2" countHint="1"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/sNkYGTYFeIM?f=playlists&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="467" yt:format="5"/>
+      <media:content url="rtsp://v7.cache2.c.youtube.com/CiULENy73wIaHAmDeAU2GRjZsBMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="467" yt:format="1"/>
+      <media:content url="rtsp://v7.cache2.c.youtube.com/CiULENy73wIaHAmDeAU2GRjZsBMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="467" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">martini038</media:credit>
+      <media:description type="plain">Happy Soul HS6022 (1994)</media:description>
+      <media:keywords>Detroit, House, mad, mike, members, of, the</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=sNkYGTYFeIM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sNkYGTYFeIM/default.jpg" height="90" width="120" time="00:03:53.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sNkYGTYFeIM/2.jpg" height="90" width="120" time="00:03:53.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sNkYGTYFeIM/1.jpg" height="90" width="120" time="00:01:56.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sNkYGTYFeIM/3.jpg" height="90" width="120" time="00:05:50.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/sNkYGTYFeIM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">KIMMIE HORNE - Missin You (Club mix)</media:title>
+      <yt:duration seconds="467"/>
+      <yt:uploaded>2009-04-16T12:00:34.000Z</yt:uploaded>
+      <yt:videoid>sNkYGTYFeIM</yt:videoid>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="5" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="10" viewCount="429"/>
+    <yt:rating numDislikes="0" numLikes="5"/>
+    <yt:position>13</yt:position>
+  </entry>
+  <entry gd:etag="W/&quot;A0IFRXc-cCp7ImA9WxFVF08.&quot;">
+    <id>tag:youtube.com,2008:playlist:D00BDE6AA710D50C:2B6EFD2712C5B2BA</id>
+    <updated>2010-06-16T23:05:14.958Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#playlist"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="smokescreen"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="time"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="catch"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="banana"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="republic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="face"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="uk"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="garage"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="classic"/>
+    <title>Smokescreen - Time (Vocal Mix)</title>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=USj5jKN4AaM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/USj5jKN4AaM/responses?v=2"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/USj5jKN4AaM/related?v=2"/>
+    <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/USj5jKN4AaM?v=2"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C/2B6EFD2712C5B2BA?v=2"/>
+    <author>
+      <name>cyanure1982</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/cyanure1982</uri>
+    </author>
+    <yt:accessControl action="comment" permission="allowed"/>
+    <yt:accessControl action="commentVote" permission="allowed"/>
+    <yt:accessControl action="videoRespond" permission="moderated"/>
+    <yt:accessControl action="rate" permission="allowed"/>
+    <yt:accessControl action="embed" permission="allowed"/>
+    <yt:accessControl action="syndicate" permission="allowed"/>
+    <yt:accessControl action="list" permission="allowed"/>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/USj5jKN4AaM/comments?v=2" countHint="5"/>
+    </gd:comments>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/USj5jKN4AaM?f=playlists&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="435" yt:format="5"/>
+      <media:content url="rtsp://v5.cache1.c.youtube.com/CiULENy73wIaHAmjAXijjPkoURMYDSANFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="435" yt:format="1"/>
+      <media:content url="rtsp://v7.cache8.c.youtube.com/CiULENy73wIaHAmjAXijjPkoURMYESARFEgGUglwbGF5bGlzdHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="435" yt:format="6"/>
+      <media:credit role="uploader" scheme="urn:youtube">MrWO0d</media:credit>
+      <media:description type="plain">Time (Vocal Mix)
+
+Released 1997, White Label
+
+Check my other uploads for more classic tracks.....</media:description>
+      <media:keywords>smokescreen, time, catch, banana, republic, dj, face, uk, house, garage, classic</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=USj5jKN4AaM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/USj5jKN4AaM/default.jpg" height="90" width="120" time="00:03:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/USj5jKN4AaM/2.jpg" height="90" width="120" time="00:03:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/USj5jKN4AaM/1.jpg" height="90" width="120" time="00:01:48.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/USj5jKN4AaM/3.jpg" height="90" width="120" time="00:05:26.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/USj5jKN4AaM/hqdefault.jpg" height="360" width="480"/>
+      <media:title type="plain">Smokescreen - Time (Vocal Mix)</media:title>
+      <yt:duration seconds="435"/>
+      <yt:uploaded>2009-03-10T22:16:42.000Z</yt:uploaded>
+      <yt:videoid>USj5jKN4AaM</yt:videoid>
+    </media:group>
+    <gd:rating average="4.857143" max="5" min="1" numRaters="7" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="19" viewCount="1237"/>
+    <yt:rating numDislikes="0" numLikes="7"/>
+    <yt:position>14</yt:position>
+  </entry>
+</feed>
