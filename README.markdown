@@ -6,11 +6,11 @@ It works with the Youtube v2 API and provides an interface to Read Youtube data(
 
 Please look through test/youtube_test.rb for examples of how to use(i have tried to cover most examples from the Youtube API reference)
 
-[http://code.google.com/apis/youtube/2.0/reference.html]
+[(http://code.google.com/apis/youtube/2.0/reference.html)]
 
 Big Thanks to the Quark crew for the inspiration!!!
 
-http://www.quarkruby.com/2008/2/12/active-youtube
+(http://www.quarkruby.com/2008/2/12/active-youtube)
 
 
 
