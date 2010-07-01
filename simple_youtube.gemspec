@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.description = 'ActiveResource extension to Youtube API gdata, Read only, no Create, Update, Delete access and no API Key required.'
      
   spec.add_dependency 'active_resource', '>=2.3.5'
-  spec.add_development_dependency 'fakeweb'
-  spec.add_development_dependency 'test/unit'
+  spec.add_development_dependency 'fakeweb', '>=1.2.8'
+  spec.add_development_dependency 'test-unit', '>=1.2.3'
  
   spec.files        = Dir.glob('lib/**/*')
   spec.test_files   = Dir.glob('test/**/*')
