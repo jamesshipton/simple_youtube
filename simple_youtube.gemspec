@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name        = 'simple_youtube'
-  spec.version     = '1.0.1'
+  spec.version     = '1.0.2'
   spec.authors     = ['James Shipton']
   spec.email       = ['ionysis@gmail.com']
   spec.homepage    = 'http://github.com/ionysis/simple_youtube'
