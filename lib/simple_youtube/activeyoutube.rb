@@ -1,3 +1,4 @@
+require 'rubygems'
 require 'active_resource'
 
 class ActiveYoutube < ActiveResource::Base
