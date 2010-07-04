@@ -77,8 +77,8 @@ class YoutubeTest < Test::Unit::TestCase
     ## search for ionysis favourite videos
     stub_get('http://gdata.youtube.com/feeds/api/users/ionysis/favorites?v=2', 'user_ionysis_favourites.xml')
     user_ionysis_favourites = Youtube::User.find(:scope => 'ionysis', :type => 'favorites', :params => {:v => '2'})
-    #assert_equal("9586", user_ionysis_favourites.entry[7].statistics.favoriteCount)
-    #assert_equal("2568", user_ionysis_favourites.entry[7].rating[1].numLikes)
+    assert_equal("9586", user_ionysis_favourites.entry[7].statistics.favoriteCount)
+    assert_equal("2568", user_ionysis_favourites.entry[7].rating[1].numLikes)
   
     ## search for cyanure1982 playlists
     stub_get('http://gdata.youtube.com/feeds/api/users/cyanure1982/playlists?v=2', 'user_cyanure1982_playlists.xml')
