@@ -6,11 +6,9 @@ It works with the YouTube v2 API and provides an interface to Read YouTube data(
 
 I have tried to cover most of the examples from the [YouTube API reference](http://code.google.com/apis/youtube/2.0/reference.html)
 
-## Examples
+## Video Search
 
-### Video Search
-
-search for top 5 'ruby on rails' videos
+####search for top 5 'ruby on rails' videos
 
 [http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&max-results=5&v=2](http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&max-results=5&v=2)
 
