@@ -10,6 +10,7 @@ class YoutubeTest < Test::Unit::TestCase
     ## search for top 5 'ruby on rails' videos
     stub_get('http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&max-results=5&v=2', 'video_search.xml')
     video_search = Youtube::Video.find(:params => {:q => 'ruby on rails', :"max-results" => '5', :v => '2'})
+    debugger
     assert_equal(5, video_search.entry.size)
     assert_equal("YouTube Videos matching query: ruby on rails", video_search.title)
     assert_equal("http://gdata.youtube.com/feeds/api/videos/UCB57Npj9U0/responses?v=2", video_search.entry[3].link[1].href)
