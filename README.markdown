@@ -2,7 +2,7 @@ This is an updated version of the active_youtube gem from the [Quark ruby blog](
 
 It works with the YouTube v2 API and provides an interface to Read YouTube data(no CUD access), with no API Key required.
 
-`sudo gem install simple_youtube`
+`gem install simple_youtube`
 
 I have tried to cover most of the examples from the [YouTube API reference](http://code.google.com/apis/youtube/2.0/reference.html)
 
