@@ -8,6 +8,8 @@ I have tried to cover most of the examples from the [YouTube API reference](http
 
 ## Video Search
 
+###search for top 5 'ruby on rails' videos
+
 ####search for top 5 'ruby on rails' videos
 
 [http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&max-results=5&v=2](http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&max-results=5&v=2)
