@@ -10,8 +10,6 @@ I have tried to cover most of the examples from the [YouTube API reference](http
 
 ###search for top 5 'ruby on rails' videos
 
-####search for top 5 'ruby on rails' videos
-
 [http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&max-results=5&v=2](http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&max-results=5&v=2)
 
     video_search = Youtube::Video.find(:params => {:q => 'ruby on rails', :"max-results" => '5', :v => '2'})
@@ -20,7 +18,7 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     video_search.entry[3].link[1].href  # => http://gdata.youtube.com/feeds/api/videos/UCB57Npj9U0/responses?v=2
     
    
-search for related videos
+###search for related videos
 
 [http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related?v=2](http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related?v=2)
 
@@ -29,7 +27,7 @@ search for related videos
     video_related.entry[24].author.uri  # => http://gdata.youtube.com/feeds/api/users/neodracco
     
 
-search for video responses
+###search for video responses
 
 [http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/responses?v=2](http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/responses?v=2)
 
@@ -37,7 +35,7 @@ search for video responses
     video_responses.entry[1].group.category  # => Music
     
 
-search for video comments
+###search for video comments
 
 [http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments?v=2](http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments?v=2)
 
@@ -45,7 +43,7 @@ search for video comments
     video_comments.entry[0].content         # => Come up to my first ever e on this about 14-15 years ago, ahh too long...
     
 
-search for top 11 videos in Comedy category/tag
+###search for top 11 videos in Comedy category/tag
 
 [http://gdata.youtube.com/feeds/api/videos?category=Comedy&max-results=11&v=2](http://gdata.youtube.com/feeds/api/videos?category=Comedy&max-results=11&v=2)
 
@@ -55,7 +53,7 @@ search for top 11 videos in Comedy category/tag
     video_category.entry[0].category[1].term  # => Comedy
     
 
-search for top 5 videos in Comedy category/tag, excluding Film category/tag
+###search for top 5 videos in Comedy category/tag, excluding Film category/tag
 
 [http://gdata.youtube.com/feeds/api/videos?category=Comedy%2C-Film&max-results=5&v=2](http://gdata.youtube.com/feeds/api/videos?category=Comedy%2C-Film&max-results=5&v=2)
 
@@ -64,7 +62,7 @@ search for top 5 videos in Comedy category/tag, excluding Film category/tag
     video_category_comedy_exclude_film.entry[1].category.each { |category| puts 'film' if category.term.eql?('Film') }  #=> nil
     
 
-search for videos in david, beckham,(News or Sports) category/tags
+###search for videos in david, beckham,(News or Sports) category/tags
 
 [http://gdata.youtube.com/feeds/api/videos?category=david%2Cbeckham%2CNews%7CSports&v=2](http://gdata.youtube.com/feeds/api/videos?category=david%2Cbeckham%2CNews%7CSports&v=2)
 
