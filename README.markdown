@@ -125,7 +125,7 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     user_vinyljunkie07_contacts.entry[18].id) "tag:youtube.com,2008:user:vinyljunkie07:contact:CrackerSchool"
     
 
-## User Search 
+## Playlist Search 
    
 ### search for the cyanure1982 playlist - shinnenkai(D00BDE6AA710D50C)
 
