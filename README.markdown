@@ -69,6 +69,29 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     video_category_david_beckham_news_or_sports = Youtube::Video.find(:params => {:category => 'david,beckham,News|Sports', :v => '2'})
     video_category_david_beckham_news_or_sports.entry[7].category[1].label  # => Sports
     video_category_david_beckham_news_or_sports.entry[7].category[2].term   # => david
+    
+    
+## StandardFeed Search
+    
+### search for top rated videos from today
+
+[http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?time=today&v=2](http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?time=today&v=2)
+    standardfeed_topratedtoday = Youtube::Standardfeed.find(:type => 'top_rated', :params => {:time => 'today', :v => '2'})
+    standardfeed_topratedtoday.entry[16].author.name = "ZOMGitsCriss"
+  
+### search for top rated videos from jp
+
+[http://gdata.youtube.com/feeds/api/standardfeeds/JP/top_rated?v=2](http://gdata.youtube.com/feeds/api/standardfeeds/JP/top_rated?v=2)
+    standardfeed_toprated_jp = Youtube::Standardfeed.find(:scope => 'JP', :type => 'top_rated', :params => {:v => '2'})
+    standardfeed_toprated_jp.id = "tag:youtube.com,2008:standardfeed:jp:top_rated"
+    standardfeed_toprated_jp.entry[1].link[4].href = "http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/BQ9YtJC-Kd8?v=2"
+  
+  
+### search for top rated comedy videos from jp
+    
+[http://gdata.youtube.com/feeds/api/standardfeeds/JP/top_rated?category=Comedy&max-results=11&v=2]("http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/7hYGkqc1gqE?v=2")
+    standardfeed_toprated_jp_comedy = Youtube::Standardfeed.find(:scope => 'JP', :type => 'top_rated', :params => {:category => 'Comedy', :"max-results" => '11', :v => '2'})
+    standardfeed_toprated_jp_comedy.entry[1].link[4].href = "http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/7hYGkqc1gqE?v=2"
 
 
 Big Thanks to the Quark crew for the inspiration!!!
