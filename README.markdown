@@ -71,7 +71,7 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     video_category_david_beckham_news_or_sports.entry[7].category[2].term   # => david
     
     
-## StandardFeed Search
+## Standardfeed Search
     
 ### search for top rated videos from today
 
@@ -94,6 +94,47 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     standardfeed_toprated_jp_comedy.entry[1].link[4].href = "http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/7hYGkqc1gqE?v=2"
 
 
+## User Search
+
+### search for ionysis favourite videos
+    
+[http://gdata.youtube.com/feeds/api/users/ionysis/favorites?v=2](http://gdata.youtube.com/feeds/api/users/ionysis/favorites?v=2)
+    user_ionysis_favourites = Youtube::User.find(:scope => 'ionysis', :type => 'favorites', :params => {:v => '2'})
+    user_ionysis_favourites.entry[7].statistics.favoriteCount) = "9586"
+    user_ionysis_favourites.entry[7].rating[1].numLikes) = "2568"
+  
+### search for cyanure1982 playlists
+
+[http://gdata.youtube.com/feeds/api/users/cyanure1982/playlists?v=2](http://gdata.youtube.com/feeds/api/users/cyanure1982/playlists?v=2)
+
+    user_cyanure1982_playlists = Youtube::User.find(:scope => 'cyanure1982', :type => 'playlists', :params => {:v => '2'})
+    user_cyanure1982_playlists.entry[2].title) = "shinnenkai"
+  
+### search for ionysis subscriptions
+
+[http://gdata.youtube.com/feeds/api/users/ionysis/subscriptions?v=2](http://gdata.youtube.com/feeds/api/users/ionysis/subscriptions?v=2)
+
+    user_ionysis_subscriptions = Youtube::User.find(:scope => 'ionysis', :type => 'subscriptions', :params => {:v => '2'})
+    user_ionysis_subscriptions.entry[0].title) = "Videos published by : vinyljunkie07"
+  
+### search for vinyljunkie07 contacts
+
+[http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts?v=2](http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts?v=2)
+
+    user_vinyljunkie07_contacts = Youtube::User.find(:scope => 'vinyljunkie07', :type => 'contacts', :params => {:v => '2'})
+    user_vinyljunkie07_contacts.entry[18].id) "tag:youtube.com,2008:user:vinyljunkie07:contact:CrackerSchool"
+    
+
+## User Search 
+   
+### search for the cyanure1982 playlist - shinnenkai(D00BDE6AA710D50C)
+
+[http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C?max-results=14&v=2](http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C?max-results=14&v=2)
+    playlist_cyanure1982 = Youtube::Playlist.find(:scope => 'D00BDE6AA710D50C', :params => {:"max-results" => '14', :v => '2'})
+    playlist_cyanure1982.entry.size = 14
+    playlist_cyanure1982.entry[7].group.keywords = "nu, jazz, club, house, Jazztronik, dj, Yukihiro, Fukutomi, Mondo, Grosso, Daishi, Dance, FreeTEMPO, FPM, KJM, Kentaro, Takizawa"
+    
+    
 Big Thanks to the Quark crew for the inspiration!!!
 
 
