@@ -93,7 +93,14 @@ class YoutubeTest < Test::Unit::TestCase
     ## search for vinyljunkie07 contacts
     stub_get('http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts?v=2', 'user_vinyljunkie07_contacts.xml')
     user_vinyljunkie07_contacts = Youtube::User.find(:scope => 'vinyljunkie07', :type => 'contacts', :params => {:v => '2'})
-    assert_equal("tag:youtube.com,2008:user:vinyljunkie07:contact:CrackerSchool", user_vinyljunkie07_contacts.entry[18].id)        
+    assert_equal("tag:youtube.com,2008:user:vinyljunkie07:contact:CrackerSchool", user_vinyljunkie07_contacts.entry[18].id)
+    
+    ## search for videos uploaded by mike6011
+    stub_get('http://gdata.youtube.com/feeds/api/users/mike6011/uploads?v=2', 'user_mike6011_uploads.xml')
+    user_mike6011_uploads = Youtube::User.find(:scope => 'mike6011', :type => 'uploads', :params => {:v => '2'})
+    user_mike6011_uploads.entry.each { |entry|
+      assert_equal("mike6011", entry.author.name) 
+    }
   end
   
   def test_playlist

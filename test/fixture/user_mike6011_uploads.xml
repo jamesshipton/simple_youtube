@@ -1,0 +1,1343 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://purl.org/atom/app#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:yt="http://gdata.youtube.com/schemas/2007">
+  <id>http://gdata.youtube.com/feeds/api/users/mike6011/uploads</id>
+  <updated>2010-08-11T07:27:31.494Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+  <title type="text">Uploads by mike6011</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011"/>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com/profile_videos?user=mike6011"/>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads"/>
+  <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/batch"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads?start-index=1&amp;max-results=25"/>
+  <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads?start-index=26&amp;max-results=25"/>
+  <author>
+    <name>mike6011</name>
+    <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube data API</generator>
+  <openSearch:totalResults>166</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/ikon0jU2Ixo</id>
+    <published>2010-08-07T02:19:24.000Z</published>
+    <updated>2010-08-10T20:05:22.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jon"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Cutler"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Distant"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Alex"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Finkin"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Reverend"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Joceyln"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mathieu"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="underground"/>
+    <title type="text">LION IN A CAGE (JON CUTLER DISTANT MUSIC MIX) - ALEX FINKIN &amp; REVEREND P feat. JOCELYN MATHIEU</title>
+    <content type="text">LION IN A CAGE (JON CUTLER DISTANT MUSIC MIX) - ALEX FINKIN &amp; REVEREND P feat. JOCELYN MATHIEU</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=ikon0jU2Ixo&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ikon0jU2Ixo/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/ikon0jU2Ixo/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=ikon0jU2Ixo"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/ikon0jU2Ixo"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/ikon0jU2Ixo/comments" countHint="1"/>
+    </gd:comments>
+    <yt:location>San Francisco</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/ikon0jU2Ixo?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="575" yt:format="5"/>
+      <media:content url="rtsp://v5.cache8.c.youtube.com/CigLENy73wIaHwkaIzY10idKihMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="575" yt:format="1"/>
+      <media:content url="rtsp://v7.cache3.c.youtube.com/CigLENy73wIaHwkaIzY10idKihMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="575" yt:format="6"/>
+      <media:description type="plain">LION IN A CAGE (JON CUTLER DISTANT MUSIC MIX) - ALEX FINKIN &amp; REVEREND P feat. JOCELYN MATHIEU</media:description>
+      <media:keywords>Jon, Cutler, Distant, Music, Mix, Alex, Finkin, Reverend, Joceyln, Mathieu, soulful, house, dance, underground</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=ikon0jU2Ixo&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ikon0jU2Ixo/2.jpg" height="90" width="120" time="00:04:47.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ikon0jU2Ixo/1.jpg" height="90" width="120" time="00:02:23.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ikon0jU2Ixo/3.jpg" height="90" width="120" time="00:07:11.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/ikon0jU2Ixo/0.jpg" height="240" width="320" time="00:04:47.500"/>
+      <media:title type="plain">LION IN A CAGE (JON CUTLER DISTANT MUSIC MIX) - ALEX FINKIN &amp; REVEREND P feat. JOCELYN MATHIEU</media:title>
+      <yt:duration seconds="575"/>
+    </media:group>
+    <yt:statistics favoriteCount="6" viewCount="110"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/oH0vJ2obzdw</id>
+    <published>2010-06-06T01:41:46.000Z</published>
+    <updated>2010-08-10T20:24:50.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jellybean"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Soul"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Guy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Robin"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="club"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="remix"/>
+    <title type="text">SHADY CLOUDS (GUY ROBIN CLUB MIX) - JELLYBEAN feat. PEPPER</title>
+    <content type="text">SHADY CLOUDS (GUY ROBIN CLUB MIX) - JELLYBEAN feat. PEPPER</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=oH0vJ2obzdw&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/oH0vJ2obzdw/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/oH0vJ2obzdw/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=oH0vJ2obzdw"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/oH0vJ2obzdw"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/oH0vJ2obzdw/comments" countHint="3"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/oH0vJ2obzdw?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="460" yt:format="5"/>
+      <media:content url="rtsp://v8.cache8.c.youtube.com/CigLENy73wIaHwnczRtqJy99oBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="460" yt:format="1"/>
+      <media:content url="rtsp://v3.cache5.c.youtube.com/CigLENy73wIaHwnczRtqJy99oBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="460" yt:format="6"/>
+      <media:description type="plain">SHADY CLOUDS (GUY ROBIN CLUB MIX) - JELLYBEAN feat. PEPPER</media:description>
+      <media:keywords>Jellybean, Soul, soulful, house, music, urban, dance, Guy, Robin, club, mix, remix</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=oH0vJ2obzdw&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/oH0vJ2obzdw/2.jpg" height="90" width="120" time="00:03:50"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/oH0vJ2obzdw/1.jpg" height="90" width="120" time="00:01:55"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/oH0vJ2obzdw/3.jpg" height="90" width="120" time="00:05:45"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/oH0vJ2obzdw/0.jpg" height="240" width="320" time="00:03:50"/>
+      <media:title type="plain">SHADY CLOUDS (GUY ROBIN CLUB MIX) - JELLYBEAN feat. PEPPER</media:title>
+      <yt:duration seconds="460"/>
+    </media:group>
+    <yt:statistics favoriteCount="10" viewCount="450"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/Xae4QVVMFXw</id>
+    <published>2010-03-30T01:29:56.000Z</published>
+    <updated>2010-08-11T06:54:47.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Reelsoul"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mr"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Alix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Alvarez"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Sole"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Channel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dragonfly"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="club"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dancefloor"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beats"/>
+    <title type="text">ALL THE WAY (SOLE CHANNEL MAIN MIX) - DRAGONFLY</title>
+    <content type="text">ALL THE WAY (SOLE CHANNEL MAIN MIX) - DRAGONFLY</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Xae4QVVMFXw&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Xae4QVVMFXw/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/Xae4QVVMFXw/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=Xae4QVVMFXw"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/Xae4QVVMFXw"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Xae4QVVMFXw/comments" countHint="5"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/Xae4QVVMFXw?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="431" yt:format="5"/>
+      <media:content url="rtsp://v7.cache8.c.youtube.com/CigLENy73wIaHwl8FUxVQbinXRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="431" yt:format="1"/>
+      <media:content url="rtsp://v4.cache7.c.youtube.com/CigLENy73wIaHwl8FUxVQbinXRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="431" yt:format="6"/>
+      <media:description type="plain">ALL THE WAY (SOLE CHANNEL MAIN MIX) - DRAGONFLY</media:description>
+      <media:keywords>Reelsoul, Mr, Alix, Alvarez, Sole, Channel, soulful, house, music, Dragonfly, club, dancefloor, beats</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Xae4QVVMFXw&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Xae4QVVMFXw/2.jpg" height="90" width="120" time="00:03:35.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Xae4QVVMFXw/1.jpg" height="90" width="120" time="00:01:47.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Xae4QVVMFXw/3.jpg" height="90" width="120" time="00:05:23.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/Xae4QVVMFXw/0.jpg" height="240" width="320" time="00:03:35.500"/>
+      <media:title type="plain">ALL THE WAY (SOLE CHANNEL MAIN MIX) - DRAGONFLY</media:title>
+      <yt:duration seconds="431"/>
+    </media:group>
+    <yt:statistics favoriteCount="26" viewCount="1014"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/M2fKiIAceCU</id>
+    <published>2010-03-25T02:32:15.000Z</published>
+    <updated>2010-08-11T05:54:52.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Body"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="and"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Soul"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="NYC"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Francois"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Joe"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Claussel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Julius"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Papp"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="vocal"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beats"/>
+    <title type="text">MY FUNNY VALENTINE (BODY &amp; SOUL MIX - NYC)  BIG MUFF</title>
+    <content type="text">MY FUNNY VALENTINE (BODY &amp; SOUL MIX - NYC)  BIG MUFF</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=M2fKiIAceCU&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/M2fKiIAceCU/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/M2fKiIAceCU/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=M2fKiIAceCU"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/M2fKiIAceCU"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/M2fKiIAceCU/comments" countHint="3"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/M2fKiIAceCU?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="580" yt:format="5"/>
+      <media:content url="rtsp://v7.cache7.c.youtube.com/CigLENy73wIaHwkleByAiMpnMxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="580" yt:format="1"/>
+      <media:content url="rtsp://v3.cache3.c.youtube.com/CigLENy73wIaHwkleByAiMpnMxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="580" yt:format="6"/>
+      <media:description type="plain">MY FUNNY VALENTINE (BODY &amp; SOUL MIX - NYC)  BIG MUFF</media:description>
+      <media:keywords>soulful, house, music, Body, and, Soul, NYC, mix, urban, dance, Francois, Joe, Claussel, Julius, Papp, vocal, beats</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=M2fKiIAceCU&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/M2fKiIAceCU/2.jpg" height="90" width="120" time="00:04:50"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/M2fKiIAceCU/1.jpg" height="90" width="120" time="00:02:25"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/M2fKiIAceCU/3.jpg" height="90" width="120" time="00:07:15"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/M2fKiIAceCU/0.jpg" height="240" width="320" time="00:04:50"/>
+      <media:title type="plain">MY FUNNY VALENTINE (BODY &amp; SOUL MIX - NYC)  BIG MUFF</media:title>
+      <yt:duration seconds="580"/>
+    </media:group>
+    <yt:statistics favoriteCount="21" viewCount="1217"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/kJYO6-OYz4s</id>
+    <published>2010-03-23T03:03:55.000Z</published>
+    <updated>2010-08-11T03:34:57.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="MAW"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Masters"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="At"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Work"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="La"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="India"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="classic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="cutting"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="records"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="defected"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="ministry"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="of"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sound"/>
+    <title type="text">WHEN YOU TOUCH ME (CLASSIC MIX) - MASTERS AT WORK feat. INDIA</title>
+    <content type="text">WHEN YOU TOUCH ME (CLASSIC MIX) - MASTERS AT WORK feat. INDIA</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=kJYO6-OYz4s&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/kJYO6-OYz4s/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/kJYO6-OYz4s/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=kJYO6-OYz4s"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/kJYO6-OYz4s"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/kJYO6-OYz4s/comments" countHint="1"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/kJYO6-OYz4s?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="257" yt:format="5"/>
+      <media:content url="rtsp://v2.cache6.c.youtube.com/CigLENy73wIaHwmLz5jj6w6WkBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="257" yt:format="1"/>
+      <media:content url="rtsp://v6.cache7.c.youtube.com/CigLENy73wIaHwmLz5jj6w6WkBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="257" yt:format="6"/>
+      <media:description type="plain">WHEN YOU TOUCH ME (CLASSIC MIX) - MASTERS AT WORK feat. INDIA</media:description>
+      <media:keywords>MAW, Masters, At, Work, La, India, classic, house, music, soulful, urban, dance, cutting, records, defected, ministry, of, sound</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=kJYO6-OYz4s&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kJYO6-OYz4s/2.jpg" height="90" width="120" time="00:02:08.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kJYO6-OYz4s/1.jpg" height="90" width="120" time="00:01:04.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kJYO6-OYz4s/3.jpg" height="90" width="120" time="00:03:12.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kJYO6-OYz4s/0.jpg" height="240" width="320" time="00:02:08.500"/>
+      <media:title type="plain">WHEN YOU TOUCH ME (CLASSIC MIX) - MASTERS AT WORK feat. INDIA</media:title>
+      <yt:duration seconds="257"/>
+    </media:group>
+    <yt:statistics favoriteCount="8" viewCount="927"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/lSs5SPj0DVI</id>
+    <published>2010-03-23T02:44:05.000Z</published>
+    <updated>2010-08-11T05:35:34.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="La"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="India"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Salsa"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mega"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Puerto"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Rico"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Louie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Vega"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Tito"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Puente"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Princesa"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Celica"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Cruz"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="New"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="York"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="City"/>
+    <title type="text">LA INDIA - SALSA MEGA MIX</title>
+    <content type="text">LA INDIA - SALSA MEGA MIX</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=lSs5SPj0DVI&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/lSs5SPj0DVI/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/lSs5SPj0DVI/related"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/lSs5SPj0DVI"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/lSs5SPj0DVI/comments" countHint="2"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:description type="plain">LA INDIA - SALSA MEGA MIX</media:description>
+      <media:keywords>La, India, Salsa, mega, mix, Puerto, Rico, Louie, Vega, Tito, Puente, Princesa, Celica, Cruz, New, York, City</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=lSs5SPj0DVI&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/lSs5SPj0DVI/2.jpg" height="90" width="120" time="00:02:51"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/lSs5SPj0DVI/1.jpg" height="90" width="120" time="00:01:25.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/lSs5SPj0DVI/3.jpg" height="90" width="120" time="00:04:16.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/lSs5SPj0DVI/0.jpg" height="240" width="320" time="00:02:51"/>
+      <media:title type="plain">LA INDIA - SALSA MEGA MIX</media:title>
+      <yt:duration seconds="342"/>
+    </media:group>
+    <yt:noembed/>
+    <yt:statistics favoriteCount="8" viewCount="2672"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/4NvfQ1HoWgg</id>
+    <published>2010-03-22T01:14:08.000Z</published>
+    <updated>2010-08-11T05:45:17.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Tamara"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Wellons"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Life"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Is"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ocha"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="records"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Carlos"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mena"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="undergound"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beat"/>
+    <title type="text">LIKE RAIN (MOVEMENT SOUL MIX) - TAMARA WELLONS</title>
+    <content type="text">LIKE RAIN (MOVEMENT SOUL MIX) - TAMARA WELLONS</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=4NvfQ1HoWgg&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/4NvfQ1HoWgg/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/4NvfQ1HoWgg/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=4NvfQ1HoWgg"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/4NvfQ1HoWgg"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/4NvfQ1HoWgg/comments" countHint="4"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/4NvfQ1HoWgg?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="317" yt:format="5"/>
+      <media:content url="rtsp://v2.cache6.c.youtube.com/CigLENy73wIaHwkIWuhRQ9_b4BMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="317" yt:format="1"/>
+      <media:content url="rtsp://v2.cache4.c.youtube.com/CigLENy73wIaHwkIWuhRQ9_b4BMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="317" yt:format="6"/>
+      <media:description type="plain">LIKE RAIN (MOVEMENT SOUL MIX) - TAMARA WELLONS</media:description>
+      <media:keywords>Tamara, Wellons, Life, Is, soulful, house, music, Ocha, records, Carlos, Mena, undergound, urban, dance, beat</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=4NvfQ1HoWgg&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4NvfQ1HoWgg/2.jpg" height="90" width="120" time="00:02:38.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4NvfQ1HoWgg/1.jpg" height="90" width="120" time="00:01:19.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4NvfQ1HoWgg/3.jpg" height="90" width="120" time="00:03:57.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/4NvfQ1HoWgg/0.jpg" height="240" width="320" time="00:02:38.500"/>
+      <media:title type="plain">LIKE RAIN (MOVEMENT SOUL MIX) - TAMARA WELLONS</media:title>
+      <yt:duration seconds="317"/>
+    </media:group>
+    <yt:statistics favoriteCount="14" viewCount="677"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/kdOID7lo68w</id>
+    <published>2010-03-19T22:38:17.000Z</published>
+    <updated>2010-08-11T07:24:14.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="classic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sandy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="deep"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dish"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="club"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beat"/>
+    <title type="text">MAKE MY WORLD GO ROUND (DEEP DISH VOCAL MIX) - SANDY B</title>
+    <content type="text">MAKE MY WORLD GO ROUND (DEEP DISH VOCAL MIX) - SANDY B</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=kdOID7lo68w&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/kdOID7lo68w/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/kdOID7lo68w/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=kdOID7lo68w"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/kdOID7lo68w"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/kdOID7lo68w/comments" countHint="2"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/kdOID7lo68w?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="598" yt:format="5"/>
+      <media:content url="rtsp://v1.cache8.c.youtube.com/CigLENy73wIaHwnM62i5D4jTkRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="598" yt:format="1"/>
+      <media:content url="rtsp://v6.cache5.c.youtube.com/CigLENy73wIaHwnM62i5D4jTkRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="598" yt:format="6"/>
+      <media:description type="plain">MAKE MY WORLD GO ROUND (DEEP DISH VOCAL MIX) - SANDY B</media:description>
+      <media:keywords>classic, soulful, house, music, sandy, deep, dish, urban, dance, club, beat</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=kdOID7lo68w&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kdOID7lo68w/2.jpg" height="90" width="120" time="00:04:59"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kdOID7lo68w/1.jpg" height="90" width="120" time="00:02:29.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kdOID7lo68w/3.jpg" height="90" width="120" time="00:07:28.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/kdOID7lo68w/0.jpg" height="240" width="320" time="00:04:59"/>
+      <media:title type="plain">MAKE MY WORLD GO ROUND (DEEP DISH VOCAL MIX) - SANDY B</media:title>
+      <yt:duration seconds="598"/>
+    </media:group>
+    <yt:statistics favoriteCount="27" viewCount="3917"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/JWIHKul9ef4</id>
+    <published>2010-03-18T03:12:54.000Z</published>
+    <updated>2010-08-10T18:39:46.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Frankie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Feliciano"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Markus"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Enochson"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ingela"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Olson"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ricanstruction"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="NYC"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="vocal"/>
+    <title type="text">LISTEN FOR IT (VOCAL MIX) - MARKUS ENOCHSON feat. INGELA OLSON</title>
+    <content type="text">LISTEN FOR IT (VOCAL MIX) - MARKUS ENOCHSON feat. INGELA OLSON</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=JWIHKul9ef4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/JWIHKul9ef4/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/JWIHKul9ef4/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=JWIHKul9ef4"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/JWIHKul9ef4"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/JWIHKul9ef4/comments" countHint="2"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/JWIHKul9ef4?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="380" yt:format="5"/>
+      <media:content url="rtsp://v6.cache7.c.youtube.com/CigLENy73wIaHwn-eX3pKgdiJRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="380" yt:format="1"/>
+      <media:content url="rtsp://v1.cache2.c.youtube.com/CigLENy73wIaHwn-eX3pKgdiJRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="380" yt:format="6"/>
+      <media:description type="plain">LISTEN FOR IT (VOCAL MIX) - MARKUS ENOCHSON feat. INGELA OLSON</media:description>
+      <media:keywords>Frankie, Feliciano, Markus, Enochson, Ingela, Olson, soulful, house, urban, dance, music, Ricanstruction, NYC, vocal</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=JWIHKul9ef4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JWIHKul9ef4/2.jpg" height="90" width="120" time="00:03:10"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JWIHKul9ef4/1.jpg" height="90" width="120" time="00:01:35"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JWIHKul9ef4/3.jpg" height="90" width="120" time="00:04:45"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/JWIHKul9ef4/0.jpg" height="240" width="320" time="00:03:10"/>
+      <media:title type="plain">LISTEN FOR IT (VOCAL MIX) - MARKUS ENOCHSON feat. INGELA OLSON</media:title>
+      <yt:duration seconds="380"/>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="6" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="13" viewCount="548"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/8lf3hQhCzd0</id>
+    <published>2010-03-17T02:05:24.000Z</published>
+    <updated>2010-08-10T13:34:10.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="latin"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Lego"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="vocal"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="latina"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="musica"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="de"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="la"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="casa"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="salsa"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beats"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <title type="text">EL CORILLO (LEGO'S VOCAL MIX) - RAFAEL "LEGO" RODRIGUEZ feat. LA TIRA</title>
+    <content type="text">EL CORILLO (LEGO'S VOCAL MIX) - RAFAEL "LEGO" RODRIGUEZ feat. LA TIRA</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=8lf3hQhCzd0&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/8lf3hQhCzd0/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/8lf3hQhCzd0/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=8lf3hQhCzd0"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/8lf3hQhCzd0"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/8lf3hQhCzd0/comments" countHint="1"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/8lf3hQhCzd0?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="352" yt:format="5"/>
+      <media:content url="rtsp://v1.cache8.c.youtube.com/CigLENy73wIaHwndzUIIhfdX8hMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="352" yt:format="1"/>
+      <media:content url="rtsp://v8.cache6.c.youtube.com/CigLENy73wIaHwndzUIIhfdX8hMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="352" yt:format="6"/>
+      <media:description type="plain">EL CORILLO (LEGO'S VOCAL MIX) - RAFAEL "LEGO" RODRIGUEZ feat. LA TIRA</media:description>
+      <media:keywords>soulful, latin, house, music, Lego, vocal, mix, latina, musica, de, la, casa, salsa, beats, urban, dance</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=8lf3hQhCzd0&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8lf3hQhCzd0/2.jpg" height="90" width="120" time="00:02:56"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8lf3hQhCzd0/1.jpg" height="90" width="120" time="00:01:28"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8lf3hQhCzd0/3.jpg" height="90" width="120" time="00:04:24"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/8lf3hQhCzd0/0.jpg" height="240" width="320" time="00:02:56"/>
+      <media:title type="plain">EL CORILLO (LEGO'S VOCAL MIX) - RAFAEL "LEGO" RODRIGUEZ feat. LA TIRA</media:title>
+      <yt:duration seconds="352"/>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="1" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="6" viewCount="508"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/unt0gDJFnNY</id>
+    <published>2010-03-13T04:10:18.000Z</published>
+    <updated>2010-08-09T05:20:19.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="nite"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="grooves"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="records"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="king"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="street"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jazzy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funky"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soul"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="deep"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="underground"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sounds"/>
+    <title type="text">EZ 1 (REMIX #1) - BLISS</title>
+    <content type="text">EZ 1 (REMIX #1) - BLISS</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=unt0gDJFnNY&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/unt0gDJFnNY/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/unt0gDJFnNY/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=unt0gDJFnNY"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/unt0gDJFnNY"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/unt0gDJFnNY/comments" countHint="2"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/unt0gDJFnNY?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="505" yt:format="5"/>
+      <media:content url="rtsp://v6.cache2.c.youtube.com/CigLENy73wIaHwnWnEUygHR7uhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="505" yt:format="1"/>
+      <media:content url="rtsp://v3.cache1.c.youtube.com/CigLENy73wIaHwnWnEUygHR7uhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="505" yt:format="6"/>
+      <media:description type="plain">EZ 1 (REMIX #1) - BLISS</media:description>
+      <media:keywords>soulful, house, dance, music, dj, nite, grooves, records, king, street, jazzy, funky, soul, deep, underground, sounds</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=unt0gDJFnNY&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/unt0gDJFnNY/2.jpg" height="90" width="120" time="00:04:12.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/unt0gDJFnNY/1.jpg" height="90" width="120" time="00:02:06.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/unt0gDJFnNY/3.jpg" height="90" width="120" time="00:06:18.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/unt0gDJFnNY/0.jpg" height="240" width="320" time="00:04:12.500"/>
+      <media:title type="plain">EZ 1 (REMIX #1) - BLISS</media:title>
+      <yt:duration seconds="505"/>
+    </media:group>
+    <yt:statistics favoriteCount="1" viewCount="222"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/oaA88PZSUYg</id>
+    <published>2009-09-19T22:42:09.000Z</published>
+    <updated>2010-08-11T06:17:33.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dennis"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ferrer"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="classic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="underground"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="afro"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="sounds"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="remixed"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="vocals"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funky"/>
+    <title type="text">SEEDS OF LIFE (DENNIS FERRER PROCREATED MIX) - KNU JE</title>
+    <content type="text">SEEDS OF LIFE (DENNIS FERRER PROCREATED MIX) - KNU JE</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=oaA88PZSUYg&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/oaA88PZSUYg/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/oaA88PZSUYg/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=oaA88PZSUYg"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/oaA88PZSUYg"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/oaA88PZSUYg/comments" countHint="5"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/oaA88PZSUYg?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="515" yt:format="5"/>
+      <media:content url="rtsp://v8.cache6.c.youtube.com/CigLENy73wIaHwmIUVL28DygoRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="515" yt:format="1"/>
+      <media:content url="rtsp://v4.cache1.c.youtube.com/CigLENy73wIaHwmIUVL28DygoRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="515" yt:format="6"/>
+      <media:description type="plain">SEEDS OF LIFE (DENNIS FERRER PROCREATED MIX) - KNU JE</media:description>
+      <media:keywords>Dennis, Ferrer, soulful, classic, house, urban, dance, music, underground, afro, sounds, remixed, vocals, funky</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=oaA88PZSUYg&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/oaA88PZSUYg/2.jpg" height="90" width="120" time="00:04:17.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/oaA88PZSUYg/1.jpg" height="90" width="120" time="00:02:08.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/oaA88PZSUYg/3.jpg" height="90" width="120" time="00:06:26.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/oaA88PZSUYg/0.jpg" height="240" width="320" time="00:04:17.500"/>
+      <media:title type="plain">SEEDS OF LIFE (DENNIS FERRER PROCREATED MIX) - KNU JE</media:title>
+      <yt:duration seconds="515"/>
+    </media:group>
+    <yt:statistics favoriteCount="39" viewCount="2927"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/FFfwIyoe9bo</id>
+    <published>2009-09-19T18:42:50.000Z</published>
+    <updated>2010-08-11T00:45:53.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Masters"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="at"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Work"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Louie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Vega"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Kenny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dope"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="La"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="India"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="MK"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="mix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="classic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="underground"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beats"/>
+    <title type="text">I CAN'T GET NO SLEEP (MK MIX) - MASTERS AT WORK feat. INDIA</title>
+    <content type="text">I CAN'T GET NO SLEEP (MK MIX) - MASTERS AT WORK feat. INDIA</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=FFfwIyoe9bo&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FFfwIyoe9bo/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/FFfwIyoe9bo/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=FFfwIyoe9bo"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/FFfwIyoe9bo"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/FFfwIyoe9bo/comments" countHint="5"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/FFfwIyoe9bo?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="472" yt:format="5"/>
+      <media:content url="rtsp://v1.cache2.c.youtube.com/CigLENy73wIaHwm69R4qI_BXFBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="472" yt:format="1"/>
+      <media:content url="rtsp://v7.cache4.c.youtube.com/CigLENy73wIaHwm69R4qI_BXFBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="472" yt:format="6"/>
+      <media:description type="plain">I CAN'T GET NO SLEEP (MK MIX) - MASTERS AT WORK feat. INDIA</media:description>
+      <media:keywords>Masters, at, Work, Louie, Vega, Kenny, Dope, La, India, MK, mix, classic, soulful, house, music, urban, dance, underground, beats</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=FFfwIyoe9bo&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FFfwIyoe9bo/2.jpg" height="90" width="120" time="00:03:56"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FFfwIyoe9bo/1.jpg" height="90" width="120" time="00:01:58"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FFfwIyoe9bo/3.jpg" height="90" width="120" time="00:05:54"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/FFfwIyoe9bo/0.jpg" height="240" width="320" time="00:03:56"/>
+      <media:title type="plain">I CAN'T GET NO SLEEP (MK MIX) - MASTERS AT WORK feat. INDIA</media:title>
+      <yt:duration seconds="472"/>
+    </media:group>
+    <yt:statistics favoriteCount="12" viewCount="2304"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/P-JizHfXJEM</id>
+    <published>2009-09-12T01:48:16.000Z</published>
+    <updated>2010-08-11T05:27:58.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Yass"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jay"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Tahira"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Grei"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Matter"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="records"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="club"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beats"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funky"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="smooth"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="vocals"/>
+    <title type="text">ALL I'M ASKING FOR (MAIN MIX) YASS presents JAY &amp; TAHIRA</title>
+    <content type="text">ALL I'M ASKING FOR (MAIN MIX) YASS presents JAY &amp; TAHIRA</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=P-JizHfXJEM&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/P-JizHfXJEM/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/P-JizHfXJEM/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=P-JizHfXJEM"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/P-JizHfXJEM"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/P-JizHfXJEM/comments" countHint="6"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/P-JizHfXJEM?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="506" yt:format="5"/>
+      <media:content url="rtsp://v8.cache1.c.youtube.com/CigLENy73wIaHwlDJNd3zGLiPxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="506" yt:format="1"/>
+      <media:content url="rtsp://v1.cache6.c.youtube.com/CigLENy73wIaHwlDJNd3zGLiPxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="506" yt:format="6"/>
+      <media:description type="plain">ALL I'M ASKING FOR (MAIN MIX) YASS presents JAY &amp; TAHIRA</media:description>
+      <media:keywords>Yass, Jay, Tahira, Grei, Matter, records, soulful, house, music, urban, dance, club, beats, funky, smooth, vocals</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=P-JizHfXJEM&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/P-JizHfXJEM/2.jpg" height="90" width="120" time="00:04:13"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/P-JizHfXJEM/1.jpg" height="90" width="120" time="00:02:06.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/P-JizHfXJEM/3.jpg" height="90" width="120" time="00:06:19.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/P-JizHfXJEM/0.jpg" height="240" width="320" time="00:04:13"/>
+      <media:title type="plain">ALL I'M ASKING FOR (MAIN MIX) YASS presents JAY &amp; TAHIRA</media:title>
+      <yt:duration seconds="506"/>
+    </media:group>
+    <yt:statistics favoriteCount="48" viewCount="3872"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/i6og36b24eE</id>
+    <published>2009-09-11T02:44:10.000Z</published>
+    <updated>2010-08-11T05:37:32.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Louie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Vega"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="La"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="India"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Masters"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="At"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Work"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Backfired"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="records"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Kenny"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dope"/>
+    <title type="text">BACKFIRED - MASTERS AT WORK feat. INDIA</title>
+    <content type="text">BACKFIRED - MASTERS AT WORK feat. INDIA</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=i6og36b24eE&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/i6og36b24eE/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/i6og36b24eE/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=i6og36b24eE"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/i6og36b24eE"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/i6og36b24eE/comments" countHint="10"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/i6og36b24eE?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="451" yt:format="5"/>
+      <media:content url="rtsp://v1.cache2.c.youtube.com/CigLENy73wIaHwnh4fam3yCqixMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="451" yt:format="1"/>
+      <media:content url="rtsp://v7.cache3.c.youtube.com/CigLENy73wIaHwnh4fam3yCqixMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="451" yt:format="6"/>
+      <media:description type="plain">BACKFIRED - MASTERS AT WORK feat. INDIA</media:description>
+      <media:keywords>Louie, Vega, La, India, Masters, At, Work, Backfired, urban, soulful, house, music, records, Kenny, Dope</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=i6og36b24eE&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/i6og36b24eE/2.jpg" height="90" width="120" time="00:03:45.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/i6og36b24eE/1.jpg" height="90" width="120" time="00:01:52.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/i6og36b24eE/3.jpg" height="90" width="120" time="00:05:38.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/i6og36b24eE/0.jpg" height="240" width="320" time="00:03:45.500"/>
+      <media:title type="plain">BACKFIRED - MASTERS AT WORK feat. INDIA</media:title>
+      <yt:duration seconds="451"/>
+    </media:group>
+    <yt:statistics favoriteCount="97" viewCount="12304"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/m72AVUKiLwk</id>
+    <published>2009-09-11T02:07:13.000Z</published>
+    <updated>2010-08-11T04:48:51.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Willie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Colon"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Louie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Vega"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Fania"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Records"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Bugz"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="In"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="The"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Attic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Remix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Salsa"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="classic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <title type="text">PLASTICO (BUGZ IN THE ATTIC REMIX) - WILLIE COLON</title>
+    <content type="text">PLASTICO (BUGZ IN THE ATTIC REMIX) - WILLIE COLON</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=m72AVUKiLwk&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/m72AVUKiLwk/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/m72AVUKiLwk/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=m72AVUKiLwk"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/m72AVUKiLwk"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/m72AVUKiLwk/comments" countHint="2"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/m72AVUKiLwk?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="371" yt:format="5"/>
+      <media:content url="rtsp://v8.cache1.c.youtube.com/CigLENy73wIaHwkJL6JCVYC9mxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="371" yt:format="1"/>
+      <media:content url="rtsp://v1.cache3.c.youtube.com/CigLENy73wIaHwkJL6JCVYC9mxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="371" yt:format="6"/>
+      <media:description type="plain">PLASTICO (BUGZ IN THE ATTIC REMIX) - WILLIE COLON</media:description>
+      <media:keywords>Willie, Colon, Louie, Vega, Fania, Records, Bugz, In, The, Attic, Remix, Salsa, classic, soulful, house, urban, dance, music</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=m72AVUKiLwk&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/m72AVUKiLwk/2.jpg" height="90" width="120" time="00:03:05.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/m72AVUKiLwk/1.jpg" height="90" width="120" time="00:01:32.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/m72AVUKiLwk/3.jpg" height="90" width="120" time="00:04:38.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/m72AVUKiLwk/0.jpg" height="240" width="320" time="00:03:05.500"/>
+      <media:title type="plain">PLASTICO (BUGZ IN THE ATTIC REMIX) - WILLIE COLON</media:title>
+      <yt:duration seconds="371"/>
+    </media:group>
+    <yt:statistics favoriteCount="19" viewCount="2545"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/UX5RC6dgl7U</id>
+    <published>2009-09-02T02:00:53.000Z</published>
+    <updated>2010-08-11T06:56:45.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jon"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Cutler"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Deep"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Remix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Passionardor"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="remixed"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="classic"/>
+    <title type="text">EVERLASTING LOVE (JON CUTLER DEEP REMIX) - PASSIONARDOR</title>
+    <content type="text">EVERLASTING LOVE (JON CUTLER DEEP REMIX) - PASSIONARDOR</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=UX5RC6dgl7U&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/UX5RC6dgl7U/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/UX5RC6dgl7U/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=UX5RC6dgl7U"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/UX5RC6dgl7U"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/UX5RC6dgl7U/comments" countHint="2"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/UX5RC6dgl7U?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="495" yt:format="5"/>
+      <media:content url="rtsp://v4.cache1.c.youtube.com/CigLENy73wIaHwm1l2CnC1F-URMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="495" yt:format="1"/>
+      <media:content url="rtsp://v4.cache2.c.youtube.com/CigLENy73wIaHwm1l2CnC1F-URMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="495" yt:format="6"/>
+      <media:description type="plain">EVERLASTING LOVE (JON CUTLER DEEP REMIX) - PASSIONARDOR</media:description>
+      <media:keywords>Jon, Cutler, Deep, Remix, Passionardor, soulful, house, music, urban, dance, remixed, classic</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=UX5RC6dgl7U&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UX5RC6dgl7U/2.jpg" height="90" width="120" time="00:04:07.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UX5RC6dgl7U/1.jpg" height="90" width="120" time="00:02:03.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UX5RC6dgl7U/3.jpg" height="90" width="120" time="00:06:11.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UX5RC6dgl7U/0.jpg" height="240" width="320" time="00:04:07.500"/>
+      <media:title type="plain">EVERLASTING LOVE (JON CUTLER DEEP REMIX) - PASSIONARDOR</media:title>
+      <yt:duration seconds="495"/>
+    </media:group>
+    <yt:statistics favoriteCount="20" viewCount="1809"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/xiUs5FRuAB8</id>
+    <published>2009-09-01T03:34:22.000Z</published>
+    <updated>2010-08-11T01:35:11.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Lee"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Wilson"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Reel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Soul"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Sole"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Channel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mr"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Alix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Alvarez"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="deep"/>
+    <title type="text">LIFE (REEL SOUL VOCAL MIX) - LEE WILSON</title>
+    <content type="text">LIFE (REEL SOUL VOCAL MIX) - LEE WILSON</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=xiUs5FRuAB8&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/xiUs5FRuAB8/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/xiUs5FRuAB8/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=xiUs5FRuAB8"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/xiUs5FRuAB8"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/xiUs5FRuAB8/comments" countHint="5"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/xiUs5FRuAB8?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="366" yt:format="5"/>
+      <media:content url="rtsp://v5.cache5.c.youtube.com/CigLENy73wIaHwkfAG5U5CwlxhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="366" yt:format="1"/>
+      <media:content url="rtsp://v2.cache1.c.youtube.com/CigLENy73wIaHwkfAG5U5CwlxhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="366" yt:format="6"/>
+      <media:description type="plain">LIFE (REEL SOUL VOCAL MIX) - LEE WILSON</media:description>
+      <media:keywords>Lee, Wilson, Reel, Soul, Sole, Channel, Mr, Alix, Alvarez, soulful, house, urban, dance, music, deep</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=xiUs5FRuAB8&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/xiUs5FRuAB8/2.jpg" height="90" width="120" time="00:03:03"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/xiUs5FRuAB8/1.jpg" height="90" width="120" time="00:01:31.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/xiUs5FRuAB8/3.jpg" height="90" width="120" time="00:04:34.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/xiUs5FRuAB8/0.jpg" height="240" width="320" time="00:03:03"/>
+      <media:title type="plain">LIFE (REEL SOUL VOCAL MIX) - LEE WILSON</media:title>
+      <yt:duration seconds="366"/>
+    </media:group>
+    <yt:statistics favoriteCount="36" viewCount="1581"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/WC3VbECaapg</id>
+    <published>2009-08-21T21:26:01.000Z</published>
+    <updated>2010-08-10T21:40:18.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Soul"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Cola"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Richard"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Earnshaw"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="remix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="jazzy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="funky"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beats"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="groove"/>
+    <title type="text">HIT THE MORNING BEAT (RICHARD EARNSHAW REMIX) - SOUL COLA</title>
+    <content type="text">HIT THE MORNING BEAT (RICHARD EARNSHAW REMIX) - SOUL COLA</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=WC3VbECaapg&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/WC3VbECaapg/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/WC3VbECaapg/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=WC3VbECaapg"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/WC3VbECaapg"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/WC3VbECaapg/comments" countHint="1"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/WC3VbECaapg?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="401" yt:format="5"/>
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CigLENy73wIaHwmYappAbNUtWBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="401" yt:format="1"/>
+      <media:content url="rtsp://v4.cache6.c.youtube.com/CigLENy73wIaHwmYappAbNUtWBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="401" yt:format="6"/>
+      <media:description type="plain">HIT THE MORNING BEAT (RICHARD EARNSHAW REMIX) - SOUL COLA</media:description>
+      <media:keywords>Soul, Cola, Richard, Earnshaw, remix, soulful, jazzy, house, music, urban, dance, funky, beats, groove</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=WC3VbECaapg&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WC3VbECaapg/2.jpg" height="90" width="120" time="00:03:20.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WC3VbECaapg/1.jpg" height="90" width="120" time="00:01:40.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WC3VbECaapg/3.jpg" height="90" width="120" time="00:05:00.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WC3VbECaapg/0.jpg" height="240" width="320" time="00:03:20.500"/>
+      <media:title type="plain">HIT THE MORNING BEAT (RICHARD EARNSHAW REMIX) - SOUL COLA</media:title>
+      <yt:duration seconds="401"/>
+    </media:group>
+    <yt:statistics favoriteCount="19" viewCount="948"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/wM3wGye_th4</id>
+    <published>2009-08-20T02:26:31.000Z</published>
+    <updated>2010-08-10T20:27:47.000Z</updated>
+    <app:control>
+      <yt:state name="restricted" reasonCode="limitedSyndication">Syndication of this video was restricted by its owner.</yt:state>
+    </app:control>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mr"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="V."/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Sole"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Channel"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Alix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Alvarez"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Louie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Vega"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Records"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Somethin"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Wit"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Jazz"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="lounge"/>
+    <title type="text">SOMETHIN' WIT JAZZ - MR. V</title>
+    <content type="text">SOMETHIN' WIT JAZZ - MR. V</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=wM3wGye_th4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wM3wGye_th4/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wM3wGye_th4/related"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/wM3wGye_th4"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/wM3wGye_th4/comments" countHint="5"/>
+    </gd:comments>
+    <yt:location>San Francisco</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/wM3wGye_th4?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="424" yt:format="5"/>
+      <media:description type="plain">SOMETHIN' WIT JAZZ - MR. V</media:description>
+      <media:keywords>Mr, V., Sole, Channel, Alix, Alvarez, Louie, Vega, Records, Somethin, Wit, Jazz, urban, soulful, house, lounge</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=wM3wGye_th4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wM3wGye_th4/2.jpg" height="90" width="120" time="00:03:32"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wM3wGye_th4/1.jpg" height="90" width="120" time="00:01:46"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wM3wGye_th4/3.jpg" height="90" width="120" time="00:05:18"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/wM3wGye_th4/0.jpg" height="240" width="320" time="00:03:32"/>
+      <media:title type="plain">SOMETHIN' WIT JAZZ - MR. V</media:title>
+      <yt:duration seconds="424"/>
+    </media:group>
+    <yt:statistics favoriteCount="38" viewCount="2451"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/3E3-LAgpntE</id>
+    <published>2009-08-14T20:55:53.000Z</published>
+    <updated>2010-08-11T06:28:27.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="underground"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Tribe"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="records"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Nathan"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Adams"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Zepherin"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Saint"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="beats"/>
+    <title type="text">CIRCLES (VOCAL MIX) - NATHAN ADAMS &amp; ZEPHERIN SAINT</title>
+    <content type="text">CIRCLES (VOCAL MIX) - NATHAN ADAMS &amp; ZEPHERIN SAINT</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=3E3-LAgpntE&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/3E3-LAgpntE/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/3E3-LAgpntE/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=3E3-LAgpntE"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/3E3-LAgpntE"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/3E3-LAgpntE/comments" countHint="7"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/3E3-LAgpntE?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="522" yt:format="5"/>
+      <media:content url="rtsp://v5.cache1.c.youtube.com/CigLENy73wIaHwnRnikILP5N3BMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="522" yt:format="1"/>
+      <media:content url="rtsp://v7.cache1.c.youtube.com/CigLENy73wIaHwnRnikILP5N3BMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="522" yt:format="6"/>
+      <media:description type="plain">CIRCLES (VOCAL MIX) - NATHAN ADAMS &amp; ZEPHERIN SAINT</media:description>
+      <media:keywords>Soulful, house, music, dance, underground, Tribe, records, Nathan, Adams, Zepherin, Saint, urban, beats</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=3E3-LAgpntE&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3E3-LAgpntE/2.jpg" height="90" width="120" time="00:04:21"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3E3-LAgpntE/1.jpg" height="90" width="120" time="00:02:10.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3E3-LAgpntE/3.jpg" height="90" width="120" time="00:06:31.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/3E3-LAgpntE/0.jpg" height="240" width="320" time="00:04:21"/>
+      <media:title type="plain">CIRCLES (VOCAL MIX) - NATHAN ADAMS &amp; ZEPHERIN SAINT</media:title>
+      <yt:duration seconds="522"/>
+    </media:group>
+    <yt:statistics favoriteCount="40" viewCount="2488"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/WjC23j-QI24</id>
+    <published>2009-08-06T23:07:41.000Z</published>
+    <updated>2010-08-11T00:26:56.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Franck"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Roger"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ursula"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Rucker"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Louie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Vega"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Records"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="deep"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="poetry"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <title type="text">UNTITLED FLOW (FRANCK ROGER DUB'THRUMENTAL VOX MIX) - URSULA RUCKER</title>
+    <content type="text">UNTITLED FLOW (FRANCK ROGER DUB'THRUMENTAL VOX MIX) - URSULA RUCKER</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=WjC23j-QI24&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/WjC23j-QI24/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/WjC23j-QI24/related"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=WjC23j-QI24"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/WjC23j-QI24"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/WjC23j-QI24/comments" countHint="1"/>
+    </gd:comments>
+    <yt:location>SAN FRANCISCO</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/WjC23j-QI24?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="402" yt:format="5"/>
+      <media:content url="rtsp://v4.cache5.c.youtube.com/CigLENy73wIaHwluI5A_3rYwWhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="402" yt:format="1"/>
+      <media:content url="rtsp://v6.cache4.c.youtube.com/CigLENy73wIaHwluI5A_3rYwWhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="402" yt:format="6"/>
+      <media:description type="plain">UNTITLED FLOW (FRANCK ROGER DUB'THRUMENTAL VOX MIX) - URSULA RUCKER</media:description>
+      <media:keywords>Franck, Roger, Ursula, Rucker, Louie, Vega, Records, deep, soulful, house, music, poetry, dance</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=WjC23j-QI24&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WjC23j-QI24/2.jpg" height="90" width="120" time="00:03:21"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WjC23j-QI24/1.jpg" height="90" width="120" time="00:01:40.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WjC23j-QI24/3.jpg" height="90" width="120" time="00:05:01.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/WjC23j-QI24/0.jpg" height="240" width="320" time="00:03:21"/>
+      <media:title type="plain">UNTITLED FLOW (FRANCK ROGER DUB'THRUMENTAL VOX MIX) - URSULA RUCKER</media:title>
+      <yt:duration seconds="402"/>
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="1" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="13" viewCount="1237"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/UxyPedLaR8s</id>
+    <published>2009-08-01T22:47:37.000Z</published>
+    <updated>2010-08-11T04:15:00.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Frankie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Feliciano"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="remix"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Sole"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="classics"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="vocal"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="remastered"/>
+    <title type="text">WHAT A SURPRISE (FRANKIE FELICIANO REMIX REMASTERED) - COOLY'S HOT BOX</title>
+    <content type="text">WHAT A SURPRISE (FRANKIE FELICIANO REMIX REMASTERED) - COOLY'S HOT BOX</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=UxyPedLaR8s&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/UxyPedLaR8s/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/UxyPedLaR8s/related"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/UxyPedLaR8s"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/UxyPedLaR8s/comments" countHint="5"/>
+    </gd:comments>
+    <yt:location>San Francisco</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/UxyPedLaR8s?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="490" yt:format="5"/>
+      <media:content url="rtsp://v4.cache2.c.youtube.com/CigLENy73wIaHwnLR9rSeY8cUxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="490" yt:format="1"/>
+      <media:content url="rtsp://v5.cache5.c.youtube.com/CigLENy73wIaHwnLR9rSeY8cUxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="490" yt:format="6"/>
+      <media:description type="plain">WHAT A SURPRISE (FRANKIE FELICIANO REMIX REMASTERED) - COOLY'S HOT BOX</media:description>
+      <media:keywords>Frankie, Feliciano, remix, Sole, classics, soulful, house, music, vocal, urban, remastered</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=UxyPedLaR8s&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UxyPedLaR8s/2.jpg" height="90" width="120" time="00:04:05"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UxyPedLaR8s/1.jpg" height="90" width="120" time="00:02:02.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UxyPedLaR8s/3.jpg" height="90" width="120" time="00:06:07.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/UxyPedLaR8s/0.jpg" height="240" width="320" time="00:04:05"/>
+      <media:title type="plain">WHAT A SURPRISE (FRANKIE FELICIANO REMIX REMASTERED) - COOLY'S HOT BOX</media:title>
+      <yt:duration seconds="490"/>
+    </media:group>
+    <gd:rating average="1.0" max="5" min="1" numRaters="1" rel="http://schemas.google.com/g/2005#overall"/>
+    <yt:statistics favoriteCount="55" viewCount="4872"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/-B5J_F5R-M4</id>
+    <published>2009-06-11T02:35:44.000Z</published>
+    <updated>2010-08-10T06:15:41.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Louie"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Vega"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ministry"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="of"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Sound"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Balo"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Classic"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="NYC"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="New"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="York"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="City"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="San"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Francisco"/>
+    <title type="text">DON'T SHUT ME OUT - LOUIE BALO / LOUIE VEGA MINISTRY OF SOUND NEW YORK CITY</title>
+    <content type="text">DON'T SHUT ME OUT - LOUIE BALO / LOUIE VEGA MINISTRY OF SOUND NEW YORK CITY</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=-B5J_F5R-M4&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-B5J_F5R-M4/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/-B5J_F5R-M4/related"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/-B5J_F5R-M4"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/-B5J_F5R-M4/comments" countHint="1"/>
+    </gd:comments>
+    <yt:location>San francisco</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/-B5J_F5R-M4?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="164" yt:format="5"/>
+      <media:content url="rtsp://v2.cache5.c.youtube.com/CigLENy73wIaHwnO-FFe_Eke-BMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="164" yt:format="1"/>
+      <media:content url="rtsp://v1.cache8.c.youtube.com/CigLENy73wIaHwnO-FFe_Eke-BMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="164" yt:format="6"/>
+      <media:description type="plain">DON'T SHUT ME OUT - LOUIE BALO / LOUIE VEGA MINISTRY OF SOUND NEW YORK CITY</media:description>
+      <media:keywords>Louie, Vega, Ministry, of, Sound, Balo, Classic, house, music, soulful, dance, NYC, New, York, City, San, Francisco</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=-B5J_F5R-M4&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-B5J_F5R-M4/2.jpg" height="90" width="120" time="00:01:22"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-B5J_F5R-M4/1.jpg" height="90" width="120" time="00:00:41"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-B5J_F5R-M4/3.jpg" height="90" width="120" time="00:02:03"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/-B5J_F5R-M4/0.jpg" height="240" width="320" time="00:01:22"/>
+      <media:title type="plain">DON'T SHUT ME OUT - LOUIE BALO / LOUIE VEGA MINISTRY OF SOUND NEW YORK CITY</media:title>
+      <yt:duration seconds="164"/>
+    </media:group>
+    <yt:statistics favoriteCount="7" viewCount="1380"/>
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/79qNtB20IKU</id>
+    <published>2009-06-11T02:03:08.000Z</published>
+    <updated>2010-08-10T01:42:26.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soulful"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="house"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="music"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dance"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Ty"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Black"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Stacy"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dj"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="urban"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="soul"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="dancefloor"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="club"/>
+    <title type="text">CAN YOU FEEL IT (STACY'S MAIN MIX) - TY BLACK</title>
+    <content type="text">CAN YOU FEEL IT (STACY'S MAIN MIX) - TY BLACK</content>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=79qNtB20IKU&amp;feature=youtube_gdata"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/79qNtB20IKU/responses"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/79qNtB20IKU/related"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/mike6011/uploads/79qNtB20IKU"/>
+    <author>
+      <name>mike6011</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/mike6011</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/79qNtB20IKU/comments" countHint="2"/>
+    </gd:comments>
+    <yt:location>San Francisco</yt:location>
+    <media:group>
+      <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+      <media:content url="http://www.youtube.com/v/79qNtB20IKU?f=user_uploads&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="555" yt:format="5"/>
+      <media:content url="rtsp://v5.cache1.c.youtube.com/CigLENy73wIaHwmlILQdtI3a7xMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="555" yt:format="1"/>
+      <media:content url="rtsp://v2.cache2.c.youtube.com/CigLENy73wIaHwmlILQdtI3a7xMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="555" yt:format="6"/>
+      <media:description type="plain">CAN YOU FEEL IT (STACY'S MAIN MIX) - TY BLACK</media:description>
+      <media:keywords>soulful, house, music, dance, Ty, Black, Stacy, dj, urban, soul, dancefloor, club</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=79qNtB20IKU&amp;feature=youtube_gdata"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/79qNtB20IKU/2.jpg" height="90" width="120" time="00:04:37.500"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/79qNtB20IKU/1.jpg" height="90" width="120" time="00:02:18.750"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/79qNtB20IKU/3.jpg" height="90" width="120" time="00:06:56.250"/>
+      <media:thumbnail url="http://i.ytimg.com/vi/79qNtB20IKU/0.jpg" height="240" width="320" time="00:04:37.500"/>
+      <media:title type="plain">CAN YOU FEEL IT (STACY'S MAIN MIX) - TY BLACK</media:title>
+      <yt:duration seconds="555"/>
+    </media:group>
+    <yt:statistics favoriteCount="15" viewCount="1063"/>
+  </entry>
+</feed>
