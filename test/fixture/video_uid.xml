@@ -1,0 +1,58 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:yt="http://gdata.youtube.com/schemas/2007">
+  <id>http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8</id>
+  <published>2010-08-01T20:44:18.000Z</published>
+  <updated>2011-04-03T21:22:14.000Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat" term="Music" label="Music"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Michael"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Watford"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="So"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Into"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="You"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Atlantic"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="DMD"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="2069"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Inner"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="City"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Club"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Mix"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Dub"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Classic"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Radio"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Electronic"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="House"/>
+  <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat" term="Deep"/>
+  <title type="text">Michael Watford - So Into You (Dub Mix)</title>
+  <content type="text">♣ Artist: Michael Watford</content>
+  <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=wOzOc0xxJu8&amp;feature=youtube_gdata"/>
+  <link rel="http://gdata.youtube.com/schemas/2007#video.responses" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8/responses"/>
+  <link rel="http://gdata.youtube.com/schemas/2007#video.related" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8/related"/>
+  <link rel="http://gdata.youtube.com/schemas/2007#mobile" type="text/html" href="http://m.youtube.com/details?v=wOzOc0xxJu8"/>
+  <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8"/>
+  <author>
+    <name>vinylpusherman</name>
+    <uri>http://gdata.youtube.com/feeds/api/users/vinylpusherman</uri>
+  </author>
+  <gd:comments>
+    <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8/comments" countHint="0"/>
+  </gd:comments>
+  <media:group>
+    <media:category label="Music" scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+    <media:content url="http://www.youtube.com/v/wOzOc0xxJu8?f=videos&amp;app=youtube_gdata" type="application/x-shockwave-flash" medium="video" isDefault="true" expression="full" duration="324" yt:format="5"/>
+    <media:content url="rtsp://v7.cache2.c.youtube.com/CiILENy73wIaGQnvJnFMc87swBMYDSANFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="324" yt:format="1"/>
+    <media:content url="rtsp://v4.cache5.c.youtube.com/CiILENy73wIaGQnvJnFMc87swBMYESARFEgGUgZ2aWRlb3MM/0/0/0/video.3gp" type="video/3gpp" medium="video" expression="full" duration="324" yt:format="6"/>
+    <media:description type="plain">♣ Artist: Michael Watford</media:description>
+    <media:keywords>Michael, Watford, So, Into, You, Atlantic, DMD, 2069, Inner, City, Club, Mix, Dub, Classic, Radio, Electronic, House, Deep</media:keywords>
+    <media:player url="http://www.youtube.com/watch?v=wOzOc0xxJu8&amp;feature=youtube_gdata_player"/>
+    <media:thumbnail url="http://i.ytimg.com/vi/wOzOc0xxJu8/0.jpg" height="240" width="320" time="00:02:42"/>
+    <media:thumbnail url="http://i.ytimg.com/vi/wOzOc0xxJu8/1.jpg" height="90" width="120" time="00:01:21"/>
+    <media:thumbnail url="http://i.ytimg.com/vi/wOzOc0xxJu8/2.jpg" height="90" width="120" time="00:02:42"/>
+    <media:thumbnail url="http://i.ytimg.com/vi/wOzOc0xxJu8/3.jpg" height="90" width="120" time="00:04:03"/>
+    <media:title type="plain">Michael Watford - So Into You (Dub Mix)</media:title>
+    <yt:duration seconds="324"/>
+  </media:group>
+  <yt:statistics favoriteCount="0" viewCount="74"/>
+</entry>
