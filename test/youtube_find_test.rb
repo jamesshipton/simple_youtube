@@ -16,6 +16,7 @@ class YoutubeTest < Test::Unit::TestCase
     stub_get('http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8?v=2', 'video_uid.xml')
     video_uid = Youtube::Video.find(:scope => 'wOzOc0xxJu8', :params => {:v => '2'})
     assert_equal(1, video_uid.entry.size)
+    assert_equal("Michael Watford - So Into You (Dub Mix)", video_uid.entry[0].title)
   end
 
   def test_video_search_for_top_5_ruby_on_rails_videos

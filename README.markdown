@@ -8,6 +8,14 @@ I have tried to cover most of the examples from the [YouTube API reference](http
 
 ## Video Search
 
+###search for single uid
+
+[http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8?v=2](http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8?v=2)
+
+    video_uid = Youtube::Video.find(:scope => 'wOzOc0xxJu8', :params => {:v => '2'})
+    video_uid.entry.size # => 1
+    video_uid.entry[0].title # => "Michael Watford - So Into You (Dub Mix)"
+
 ###search for top 5 'ruby on rails' videos
 
 [http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&max-results=5&v=2](http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&max-results=5&v=2)
@@ -94,7 +102,14 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     standardfeed_toprated_jp_comedy.entry[1].link[4].href = "http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/7hYGkqc1gqE?v=2"
 
 
-## User Search
+## User Search    
+
+### user search for single user
+
+    [http://gdata.youtube.com/feeds/api/users/neodracco](http://gdata.youtube.com/feeds/api/users/neodracco)
+    
+    user_search = Youtube::User.find(:scope => 'neodracco')
+    user_search.entry.size => 1
 
 ### search for ionysis favourite videos
     
