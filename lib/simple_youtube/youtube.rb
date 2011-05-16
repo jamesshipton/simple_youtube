@@ -17,6 +17,13 @@ module Youtube
   end
 
   class User < ActiveYoutube
+    def entry
+      if attributes.has_key?('entry')
+        return attributes['entry']
+      else
+        [self]
+      end
+    end
   end
 
   class Standardfeed < ActiveYoutube
