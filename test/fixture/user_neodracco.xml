@@ -1,0 +1,43 @@
+HTTP/1.1 200 OK
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:gd="http://schemas.google.com/g/2005" xmlns:yt="http://gdata.youtube.com/schemas/2007">
+    <id>http://gdata.youtube.com/feeds/api/users/NeoDracco</id>
+    <published>2007-07-01T01:40:23.000-07:00</published>
+    <updated>2011-05-16T04:56:29.000-07:00</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#userProfile"/>
+    <category scheme="http://gdata.youtube.com/schemas/2007/channeltypes.cat" term="Guru"/>
+    <title type="text">NeoDracco Channel</title>
+    <link rel="http://gdata.youtube.com/schemas/2007#user.vlog" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/playlists/3E7AE4AE52B6A5F6"/>
+    <link rel="http://gdata.youtube.com/schemas/2007#featured-video" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/videos/DOw62EREnCg"/>
+    <link rel="related" type="text/html" href="http://utopianreality.spaces.live.com/"/>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/profile?user=NeoDracco"/>
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/api/users/NeoDracco"/>
+    <author>
+        <name>NeoDracco</name>
+        <uri>http://gdata.youtube.com/feeds/api/users/neodracco</uri>
+    </author>
+    <yt:age>38</yt:age>
+    <yt:books>El libro gordo de Petete :D</yt:books>
+    <yt:company>Robotecnia evolucionada</yt:company>
+    <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#user.favorites" href="http://gdata.youtube.com/feeds/api/users/neodracco/favorites" countHint="66"/>
+    <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#user.contacts" href="http://gdata.youtube.com/feeds/api/users/neodracco/contacts" countHint="167"/>
+    <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#user.inbox" href="http://gdata.youtube.com/feeds/api/users/neodracco/inbox"/>
+    <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#user.playlists" href="http://gdata.youtube.com/feeds/api/users/neodracco/playlists"/>
+    <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#user.subscriptions" href="http://gdata.youtube.com/feeds/api/users/neodracco/subscriptions" countHint="54"/>
+    <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#user.uploads" href="http://gdata.youtube.com/feeds/api/users/neodracco/uploads" countHint="51"/>
+    <gd:feedLink rel="http://gdata.youtube.com/schemas/2007#user.newsubscriptionvideos" href="http://gdata.youtube.com/feeds/api/users/neodracco/newsubscriptionvideos"/>
+    <yt:firstName>Carlo</yt:firstName>
+    <yt:gender>m</yt:gender>
+    <yt:hobbies>Musica,Rol,Animacion Japonesa,Dibujante aficionado,Games,hacer reir a mi gente,y despues pienso mas... ^^</yt:hobbies>
+    <yt:hometown>Natal City</yt:hometown>
+    <yt:lastName>Rossi</yt:lastName>
+    <yt:location>Retro City, AR</yt:location>
+    <yt:movies>Despues la pongo</yt:movies>
+    <yt:music>Downtempo, electronica, alternativa ,Ambient , Trip Hop , Trance, etc.</yt:music>
+    <yt:occupation>Tecnico de Pc</yt:occupation>
+    <yt:school>SDF-1</yt:school>
+    <yt:statistics lastWebAccess="2011-01-04T14:38:13.000-08:00" subscriberCount="207" videoWatchCount="0" viewCount="9378" totalUploadViews="1271699"/>
+    <media:thumbnail url="http://i4.ytimg.com/i/OAUvSmXa17rURtWkY-ZYiQ/1.jpg"/>
+    <yt:username>NeoDracco</yt:username>
+</entry>
