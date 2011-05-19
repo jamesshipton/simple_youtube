@@ -13,6 +13,6 @@ module FakewebHelper
   # Convenience methods for stubbing URLs to fixtures  
   def stub_get(url, filename)  
     FakeWeb.register_uri(:get, url, :response => fixture_file(filename))  
-  end
-  
+  end  
+
 end

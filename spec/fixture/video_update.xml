@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:yt="http://gdata.youtube.com/schemas/2007">
+  <media:group>
+    <media:title type="plain">Michael Watford - So Into You (Dub Mix)</media:title>
+    <media:description type="plain">&#9827; Artist: Michael Watford 
+</media:description>
+    <media:category scheme="http://gdata.youtube.com/schemas/2007/categories.cat">Music</media:category>
+    <media:keywords>Michael,Watford,So,Into,You,Atlantic,DMD,2069,Inner,City,Club,Mix,Dub,Classic,Radio,Electronic,House,Deep</media:keywords>
+  </media:group>
+  <yt:accessControl action="comment" permission="allowed"/>
+  <yt:accessControl action="commentVote" permission="allowed"/>
+  <yt:accessControl action="videoRespond" permission="moderated"/>
+  <yt:accessControl action="rate" permission="allowed"/>
+  <yt:accessControl action="list" permission="allowed"/>
+  <yt:accessControl action="embed" permission="allowed"/>
+  <yt:accessControl action="syndicate" permission="allowed"/>
+</entry>

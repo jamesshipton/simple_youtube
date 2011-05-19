@@ -1,11 +1,9 @@
 # A sample Gemfile
 source "http://rubygems.org"
 
-# gem "rails"
-
-gem 'activeresource', ">=2.3.5"
+gem 'activeresource', '3.0.5'
 
 group :development, :test do
-  gem 'fakeweb', '>=1.2.8'
-  gem 'test-unit', '>=1.2.3'
+  gem 'fakeweb', '1.2.8'
+  gem 'rspec', '2.5'
 end
