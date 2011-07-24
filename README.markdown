@@ -8,8 +8,8 @@ simple_youtube works with the YouTube v2 API to...
 
 I have tried to cover most of the examples from the [YouTube API reference](http://code.google.com/apis/youtube/2.0/reference.html)
 
-## &nbsp;
 `gem install simple_youtube`
+
 ## Video
 
 ### :get a single video uid
