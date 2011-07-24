@@ -1,6 +1,4 @@
-This is an updated version of the active_youtube gem from the [Quark ruby blog](http://www.quarkruby.com/2008/2/12/active-youtube), I couldn't find the original to fork on github.
-
-It works with the YouTube v2 API to...
+simple_youtube works with the YouTube v2 API to...
 
 1) Read(:get) YouTube data with no API Key
 
@@ -8,9 +6,11 @@ It works with the YouTube v2 API to...
 
 3) Currently no Create or Delete functionality.
 
-`gem install simple_youtube`
-
 I have tried to cover most of the examples from the [YouTube API reference](http://code.google.com/apis/youtube/2.0/reference.html)
+
+## &nbsp;
+
+`gem install simple_youtube`
 
 ## Video
 
@@ -173,6 +173,7 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     playlist_cyanure1982.entry.size = 14
     playlist_cyanure1982.entry[7].group.keywords = "nu, jazz, club, house, Jazztronik, dj, Yukihiro, Fukutomi, Mondo, Grosso, Daishi, Dance, FreeTEMPO, FPM, KJM, Kentaro, Takizawa"
     
+simple_youtube is derived from the active_youtube gem from the [Quark ruby blog](http://www.quarkruby.com/2008/2/12/active-youtube)
     
 Big Thanks to the Quark crew for the inspiration!!!
 
