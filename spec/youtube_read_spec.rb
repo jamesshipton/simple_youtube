@@ -5,13 +5,7 @@ describe 'YoutubeFindSpec' do
 
   include FakewebHelper
 
-  it "finds user feed for single user" do
-    stub_get("http://gdata.youtube.com/feeds/api/users/neodracco", 'user_neodracco.xml')
-    user_search = Youtube::User.find(:scope => 'neodracco')
-    user_search.entry.size.should == 1
-  end
-
-  it "finds  video search for uid" do
+  it "finds video search for uid" do
     stub_get('http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8?v=2', 'video_uid.xml')
     video_uid = Youtube::Video.find(:scope => 'wOzOc0xxJu8', :params => {:v => '2'})
     video_uid.entry.size.should == 1
@@ -89,6 +83,12 @@ describe 'YoutubeFindSpec' do
     stub_get('http://gdata.youtube.com/feeds/api/standardfeeds/JP/top_rated?category=Comedy&max-results=11&v=2', 'standardfeed_toprated_jp_comedy.xml')
     standardfeed_toprated_jp_comedy = Youtube::Standardfeed.find(:scope => 'JP', :type => 'top_rated', :params => {:category => 'Comedy', :"max-results" => '11', :v => '2'})
     standardfeed_toprated_jp_comedy.entry[1].link[4].href.should == "http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/7hYGkqc1gqE?v=2"
+  end
+
+  it "finds user feed for single user" do
+    stub_get("http://gdata.youtube.com/feeds/api/users/neodracco", 'user_neodracco.xml')
+    user_search = Youtube::User.find(:scope => 'neodracco')
+    user_search.entry.size.should == 1
   end
 
   it "finds user search for ionysis favourite videos" do

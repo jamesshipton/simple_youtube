@@ -1,14 +1,20 @@
 This is an updated version of the active_youtube gem from the [Quark ruby blog](http://www.quarkruby.com/2008/2/12/active-youtube), I couldn't find the original to fork on github.
 
-It works with the YouTube v2 API and provides an interface to Read YouTube data(no CUD access), with no API Key required.
+It works with the YouTube v2 API to...
+
+1) Read(:get) YouTube data with no API Key
+
+2) Update(:put) YouTube video data using your Gdata API Key and OAuth. Pass in your OAuth token/secret. Watch Ryan B's great [Simple OmniAuth screencast](http://railscasts.com/episodes/241-simple-omniauth) for OAuth set up in Rails. Beforehand you'll also need to [authenticate and authorize your host to use the Google APIs](http://code.google.com/apis/accounts/docs/RegistrationForWebAppsAuto.html) to get a developer(x_gdata_key) key and host(host_secret) key
+
+3) Currently no Create or Delete functionality.
 
 `gem install simple_youtube`
 
 I have tried to cover most of the examples from the [YouTube API reference](http://code.google.com/apis/youtube/2.0/reference.html)
 
-## Video Search
+## Video
 
-###search for single uid
+### :get a single video uid
 
 [http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8?v=2](http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8?v=2)
 
@@ -16,7 +22,7 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     video_uid.entry.size # => 1
     video_uid.entry[0].title # => "Michael Watford - So Into You (Dub Mix)"
 
-###search for top 5 'ruby on rails' videos
+### :get top 5 'ruby on rails' videos
 
 [http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&max-results=5&v=2](http://gdata.youtube.com/feeds/api/videos?q=ruby+on+rails&max-results=5&v=2)
 
@@ -26,7 +32,7 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     video_search.entry[3].link[1].href  # => http://gdata.youtube.com/feeds/api/videos/UCB57Npj9U0/responses?v=2
     
    
-###search for related videos
+### :get related videos
 
 [http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related?v=2](http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/related?v=2)
 
@@ -35,7 +41,7 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     video_related.entry[24].author.uri  # => http://gdata.youtube.com/feeds/api/users/neodracco
     
 
-###search for video responses
+### :get video responses
 
 [http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/responses?v=2](http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/responses?v=2)
 
@@ -43,7 +49,7 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     video_responses.entry[1].group.category  # => Music
     
 
-###search for video comments
+### :get video comments
 
 [http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments?v=2](http://gdata.youtube.com/feeds/api/videos/rFVHjZYoq4Q/comments?v=2)
 
@@ -51,7 +57,7 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     video_comments.entry[0].content         # => Come up to my first ever e on this about 14-15 years ago, ahh too long...
     
 
-###search for top 11 videos in Comedy category/tag
+### :get top 11 videos in Comedy category/tag
 
 [http://gdata.youtube.com/feeds/api/videos?category=Comedy&max-results=11&v=2](http://gdata.youtube.com/feeds/api/videos?category=Comedy&max-results=11&v=2)
 
@@ -61,7 +67,7 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     video_category.entry[0].category[1].term  # => Comedy
     
 
-###search for top 5 videos in Comedy category/tag, excluding Film category/tag
+### :get top 5 videos in Comedy category/tag, excluding Film category/tag
 
 [http://gdata.youtube.com/feeds/api/videos?category=Comedy%2C-Film&max-results=5&v=2](http://gdata.youtube.com/feeds/api/videos?category=Comedy%2C-Film&max-results=5&v=2)
 
@@ -70,7 +76,7 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     video_category_comedy_exclude_film.entry[1].category.each { |category| puts 'film' if category.term.eql?('Film') }  #=> nil
     
 
-###search for videos in david, beckham,(News or Sports) category/tags
+### :get videos in david, beckham,(News or Sports) category/tags
 
 [http://gdata.youtube.com/feeds/api/videos?category=david%2Cbeckham%2CNews%7CSports&v=2](http://gdata.youtube.com/feeds/api/videos?category=david%2Cbeckham%2CNews%7CSports&v=2)
 
@@ -78,17 +84,30 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     video_category_david_beckham_news_or_sports.entry[7].category[1].label  # => Sports
     video_category_david_beckham_news_or_sports.entry[7].category[2].term   # => david
     
+### :put an updated video
+
+    video_uid = "video_uid"
+    user_name = "user_name"
+    update_xml = IO.read('fixture/video_update.xml')
+    oauth_token = "oauth_token"
+    oauth_token_secret = "oauth_token_secret"
+    x_gdata_key = "x_gdata_key"
+    host = "www.host.com"
+    host_secret = "host_secret"
     
-## Standardfeed Search
+    response = Youtube::Video.update(video_uid, user_name, update_xml, oauth_token, oauth_token_secret, x_gdata_key, host, host_secret)
+    response.code # => 200    
     
-### search for top rated videos from today
+## Standardfeed
+    
+### :get top rated videos from today
 
 [http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?time=today&v=2](http://gdata.youtube.com/feeds/api/standardfeeds/top_rated?time=today&v=2)
 
     standardfeed_topratedtoday = Youtube::Standardfeed.find(:type => 'top_rated', :params => {:time => 'today', :v => '2'})
     standardfeed_topratedtoday.entry[16].author.name = "ZOMGitsCriss"
   
-### search for top rated videos from jp
+### :get top rated videos from jp
 
 [http://gdata.youtube.com/feeds/api/standardfeeds/JP/top_rated?v=2](http://gdata.youtube.com/feeds/api/standardfeeds/JP/top_rated?v=2)
 
@@ -97,7 +116,7 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     standardfeed_toprated_jp.entry[1].link[4].href = "http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/BQ9YtJC-Kd8?v=2"
   
   
-### search for top rated comedy videos from jp
+### :get top rated comedy videos from jp
     
 [http://gdata.youtube.com/feeds/api/standardfeeds/JP/top_rated?category=Comedy&max-results=11&v=2]("http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/7hYGkqc1gqE?v=2")
 
@@ -105,16 +124,16 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     standardfeed_toprated_jp_comedy.entry[1].link[4].href = "http://gdata.youtube.com/feeds/api/standardfeeds/jp/top_rated/v/7hYGkqc1gqE?v=2"
 
 
-## User Search    
+## User 
 
-### user search for single user
+### :get a single user
 
 [http://gdata.youtube.com/feeds/api/users/neodracco](http://gdata.youtube.com/feeds/api/users/neodracco)
     
     user_search = Youtube::User.find(:scope => 'neodracco')
     user_search.entry.size => 1
 
-### search for ionysis favourite videos
+### :get ionysis favourite videos
     
 [http://gdata.youtube.com/feeds/api/users/ionysis/favorites?v=2](http://gdata.youtube.com/feeds/api/users/ionysis/favorites?v=2)
 
@@ -122,21 +141,21 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     user_ionysis_favourites.entry[7].statistics.favoriteCount) = "9586"
     user_ionysis_favourites.entry[7].rating[1].numLikes) = "2568"
   
-### search for cyanure1982 playlists
+### :get cyanure1982 playlists
 
 [http://gdata.youtube.com/feeds/api/users/cyanure1982/playlists?v=2](http://gdata.youtube.com/feeds/api/users/cyanure1982/playlists?v=2)
 
     user_cyanure1982_playlists = Youtube::User.find(:scope => 'cyanure1982', :type => 'playlists', :params => {:v => '2'})
     user_cyanure1982_playlists.entry[2].title) = "shinnenkai"
   
-### search for ionysis subscriptions
+### :get ionysis subscriptions
 
 [http://gdata.youtube.com/feeds/api/users/ionysis/subscriptions?v=2](http://gdata.youtube.com/feeds/api/users/ionysis/subscriptions?v=2)
 
     user_ionysis_subscriptions = Youtube::User.find(:scope => 'ionysis', :type => 'subscriptions', :params => {:v => '2'})
     user_ionysis_subscriptions.entry[0].title) = "Videos published by : vinyljunkie07"
   
-### search for vinyljunkie07 contacts
+### :get vinyljunkie07 contacts
 
 [http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts?v=2](http://gdata.youtube.com/feeds/api/users/vinyljunkie07/contacts?v=2)
 
@@ -144,9 +163,9 @@ I have tried to cover most of the examples from the [YouTube API reference](http
     user_vinyljunkie07_contacts.entry[18].id) "tag:youtube.com,2008:user:vinyljunkie07:contact:CrackerSchool"
     
 
-## Playlist Search 
+## Playlist 
    
-### search for the cyanure1982 playlist - shinnenkai(D00BDE6AA710D50C)
+### :get the cyanure1982 playlist - shinnenkai(D00BDE6AA710D50C)
 
 [http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C?max-results=14&v=2](http://gdata.youtube.com/feeds/api/playlists/D00BDE6AA710D50C?max-results=14&v=2)
 

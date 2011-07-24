@@ -1,17 +1,18 @@
 Gem::Specification.new do |spec|
   spec.name        = 'simple_youtube'
-  spec.version     = '1.0.3'
+  spec.version     = '2.0.0'
   spec.authors     = ['James Shipton']
   spec.email       = ['ionysis@gmail.com']
   spec.homepage    = 'http://github.com/ionysis/simple_youtube'
   spec.summary     = 'ActiveResource extension to Youtube API gdata.'
-  spec.description = 'ActiveResource extension to Youtube API gdata, Read only, no Create, Update, Delete access and no API Key required.'
+  spec.description = 'ActiveResource extension to Youtube API gdata, anonymous Reads, Updates using your API key and OAuth, no Create or Delete access.'
      
-  spec.add_dependency 'activeresource', '>=2.3.5'
-  spec.add_development_dependency 'fakeweb', '>=1.2.8'
-  spec.add_development_dependency 'test-unit', '>=1.2.3'
+  spec.add_dependency 'activeresource', '3.0.5'
+  spec.add_dependency 'oauth', '0.4.4'
+  spec.add_development_dependency 'fakeweb', '1.2.8'  
+  spec.add_development_dependency 'rspec', '2.5'
  
   spec.files        = Dir.glob('lib/**/*')
-  spec.test_files   = Dir.glob('test/**/*')
+  spec.test_files   = Dir.glob('spec/**/*')
   spec.require_path = 'lib'
 end
