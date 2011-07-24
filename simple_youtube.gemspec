@@ -4,8 +4,8 @@ Gem::Specification.new do |spec|
   spec.authors     = ['James Shipton']
   spec.email       = ['ionysis@gmail.com']
   spec.homepage    = 'http://github.com/ionysis/simple_youtube'
-  spec.summary     = 'ActiveResource extension to Youtube API gdata.'
-  spec.description = 'ActiveResource extension to Youtube API gdata, anonymous Reads, Updates using your API key and OAuth, no Create or Delete access.'
+  spec.summary     = 'ActiveResource extension to Gdata Youtube API.'
+  spec.description = 'ActiveResource extension to Gdata Youtube API, anonymous Reads, Updates using your API key and OAuth, no Create or Delete access.'
      
   spec.add_dependency 'activeresource', '3.0.5'
   spec.add_dependency 'oauth', '0.4.4'
