@@ -1,15 +1,19 @@
-require File.dirname(__FILE__) + "/../lib/" + "simple_youtube"
-require File.dirname(__FILE__) + "/fakeweb_helper"
+require 'spec_helper'
 
 describe 'YoutubeFindSpec' do
 
   include FakewebHelper
 
-  it "finds video search for uid" do
+  it "finds video search for uid", :wip do
     stub_get('http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8?v=2', 'video_uid.xml')
     video_uid = Youtube::Video.find(:scope => 'wOzOc0xxJu8', :params => {:v => '2'})
     video_uid.entry.size.should == 1
     video_uid.entry[0].title.should == "Michael Watford - So Into You (Dub Mix)"
+  end
+  
+  it "fails to connect to Youtube", :fail do    
+    stub_http_error(:get, 'http://gdata.youtube.com/feeds/api/videos/wOzOc0xxJu8?v=2', '500', 'Server Error')
+    lambda {Youtube::Video.find(:scope => 'wOzOc0xxJu8', :params => {:v => '2'})}.should raise_error(ActiveResource::ServerError, "Failed.  Response code = 500.  Response message = Server Error.")
   end
 
   it "finds video search for top 5 ruby on rails videos" do
