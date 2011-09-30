@@ -1,4 +1,4 @@
-require File.dirname(__FILE__) + "/../lib/" + "simple_youtube"
+require 'spec_helper'
 
 describe 'YoutubeUpdateSpec' do
 
