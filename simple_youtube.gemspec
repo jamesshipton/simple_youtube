@@ -11,6 +11,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'oauth', '~> 0.4'
   spec.add_development_dependency 'fakeweb', '~> 1.3'
   spec.add_development_dependency 'rspec', '~> 2.6'
+  spec.add_development_dependency 'debugger'
 
   spec.files        = Dir.glob('lib/**/*')
   spec.test_files   = Dir.glob('spec/**/*')
