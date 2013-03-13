@@ -11,7 +11,7 @@ describe 'YoutubeUpdateSpec' do
     x_gdata_key = 'x_gdata_key'
     video_uid = 'video_uid'
     user_name = 'user_name'
-    update_xml = IO.read('fixture/video_update.xml')
+    update_xml = IO.read(SimpleYoutube::ROOT + '/spec/fixture/video_update.xml')
 
     OAuth::Consumer.should_receive(:new).
       with(
@@ -42,7 +42,8 @@ describe 'YoutubeUpdateSpec' do
       update_xml,
       oauth_token,
       oauth_token_secret,
-      x_gdata_key, host,
+      x_gdata_key,
+      host,
       host_secret)
 
     response.code.should == 200

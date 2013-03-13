@@ -1,2 +1,5 @@
-require File.dirname(__FILE__) + "/simple_youtube/activeyoutube"
-require File.dirname(__FILE__) + "/simple_youtube/youtube"
+module SimpleYoutube
+  ROOT = File.dirname(__FILE__) + '/..'
+end
+
+Dir[SimpleYoutube::ROOT + '/lib/simple_youtube/**/*.rb'].each { |file| require file }
