@@ -33,7 +33,7 @@ describe 'YoutubeUpdateSpec' do
         update_xml,
         { 'Accept' => 'application/atom+xml',
           'Content-Type' => 'application/atom+xml',
-          'X-GData-Key' => x_gdata_key}).
+          'X-GData-Key' => "key=#{x_gdata_key}" }).
       and_return(Net::HTTPResponse.new(1.0, 200, 'OK'))
 
     response = Youtube::Video.update(
