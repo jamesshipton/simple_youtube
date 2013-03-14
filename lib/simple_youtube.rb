@@ -1,3 +1,5 @@
+require 'rest-client'
+
 module SimpleYoutube
   ROOT = File.dirname(__FILE__) + '/..'
 end
