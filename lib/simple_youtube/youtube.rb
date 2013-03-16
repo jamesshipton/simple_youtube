@@ -1,5 +1,3 @@
-require 'oauth'
-
 #### Create classes for YouTube resources.
 module Youtube
   class Video < ActiveYoutube
