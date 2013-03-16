@@ -23,6 +23,5 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'fakeweb', '~> 1.3'
   s.add_development_dependency 'rspec', '~> 2.6'
-  s.add_development_dependency 'debugger'
   s.add_development_dependency 'rake'
 end
