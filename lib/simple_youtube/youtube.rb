@@ -1,3 +1,4 @@
+require 'simple_youtube/active_youtube'
 #### Create classes for YouTube resources.
 module Youtube
   class Video < ActiveYoutube
