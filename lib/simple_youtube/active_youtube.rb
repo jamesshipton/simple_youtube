@@ -1,8 +1,6 @@
 require 'rubygems'
 require 'active_resource'
 
-require SimpleYoutube::ROOT + "/lib/simple_youtube/entry_interface_shim"
-
 class ActiveYoutube < ActiveResource::Base
 
   include EntryInterfaceShim

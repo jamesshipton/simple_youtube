@@ -4,4 +4,7 @@ module SimpleYoutube
   ROOT = File.dirname(__FILE__) + '/..'
 end
 
-Dir[SimpleYoutube::ROOT + '/lib/simple_youtube/**/*.rb'].each { |file| require file }
+require 'simple_youtube/version'
+require 'simple_youtube/entry_interface_shim.rb'
+require 'simple_youtube/active_youtube'
+require 'simple_youtube/youtube'
