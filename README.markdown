@@ -1,3 +1,7 @@
+#### SIMPLE_YOUTUBE IS NO LONGER MAINTAINED
+
+
+
 simple_youtube works with the YouTube v2 API to...
 
 1) Read(:get) YouTube data with no API Key
